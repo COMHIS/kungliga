@@ -32,6 +32,17 @@ polish_title <- function (x) {
   x <- gsub("\\. A  ", ", a ", x)
   x <- gsub(" TEST TEST TEST ", " ", x)
 
+  # Additions for Kungliga
+   x <- gsub("([^/]+)([/]+)$", "\\1", x) 
+	# Remove slashes from the end
+	# unless slashes are used as a container
+#  x <- gsub("[/ ]+$", "", x)
+#  x <- gsub("\\. =.*=", "", x)
+#  x <- gsub("\\. \\/[^ ].*\\/".*, "", x)
+  x <- gsub("\\.$", "", x)
+  x = gsub("[ ]+$", "", x)
+  # Additions end here
+
   x <- gsub("\\]$", "", x)
   x <- gsub("^\\[", "", x)
   x <- gsub("\\)$", "", x)

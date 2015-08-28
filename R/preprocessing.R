@@ -3,69 +3,92 @@ df <- data.frame(list(row.index = 1:nrow(df.orig)))
 
 print("Language")
 df$language <- df.orig$language 
+res <- cbind(language = df$language)
+filename <- paste(output.folder, "Language.csv", sep = "")
+a = write_xtable(res, file=filename)
+#a = write.table(res, file=filename, fileEncoding="UTF-8")
+
 
 print("Publication title")
 # was publication.title
 df$title <- polish_title(df.orig$title)
+res <- cbind(title = df$title)
+filename <- paste(output.folder, "Title.csv", sep = "")
+a = write_xtable(res, file=filename)[1]a = write.table(res, file=filename, fileEncoding="UTF-8")
+
 
 print("Subject topic")
-# was subject.topic
+# was subjecttopic
 df$topic <- polish.topic(df.orig$subject_topic)
+res <- cbind(topic = df$topic)
+filename <- paste(output.folder, "Topic.csv", sep = "")
+a = write_xtable(res, file=filename)[1]a = write.table(res, file=filename, fileEncoding="UTF-8")
+
 
 print("Volume number") # which issue this is from a multi-volume series
 # was document.volnumber
 df$volnumber <- unname(polish_volumenumber(df.orig$physical_extent))
+res <- cbind(volume_number = df$volnumber)
+filename <- paste(output.folder, "Volume_number.csv", sep = "")
+a = write_xtable(res, file=filename)[1]
+#a = write.table(res, file=filename, fileEncoding="UTF-8")
+
 
 print("Volume count")
 # was document.volcount
 df$volcount <- unname(polish_volumecount(df.orig$physical_extent))
+res <- cbind(volume_count = as.character(df$volcount))
+filename <- paste(output.folder, "Volume_count.csv", sep = "")
+a = write_xtable(res, file=filename)
+#a = write.table(res, file=filename, fileEncoding="UTF-8")
+
 
 print("Number of pages")
 # ESTC-specific handling
-x <- harmonize_pages_specialcases(df.orig$physical_extent)
+#x <- harmonize_pages_specialcases(df.orig$physical_extent)
 # Generic handling
-x <- polish_pages(x, verbose = FALSE)$total.pages
+#x <- polish_pages(x, verbose = FALSE)$total.pages
 # was document.pages.total
-df$pagecount <- x
+#df$pagecount <- x
 
 print("Author info")
-source("author.names.R")
+#source("author.names.R")
 
 print("Publication place")
 # was: publication.place
-df$publication_place <- polish_place(df.orig$publication_place,
-					remove.unknown = TRUE)
+#df$publication_place <- polish_place(df.orig$publication_place,
+#					remove.unknown = TRUE)
 
 print("Augment missing document dimensions") 
 # Fill in missing entries where estimates can be obtained:
 # area, width, height, gatherins (also keep pure originals before fill in)
-df <- cbind(df, polish_dimensions(df.orig$physical_dimension, fill = TRUE)) 
+#df <- cbind(df, polish_dimensions(df.orig$physical_dimension, fill = TRUE)) 
 
 print("Estimate number of separate parts in a document")
 # parts, pages_per_part
-df <- cbind(df, estimate_document_parts(df.orig))
+#df <- cbind(df, estimate_document_parts(df.orig))
 
 print("Publisher")
-res <- polish_publisher(df.orig$publisher)
-df$publisher <- res$printedby
-df$publisher.printedfor <- res$printedfor
+#res <- polish_publisher(df.orig$publisher)
+#df$publisher <- res$printedby
+#df$publisher.printedfor <- res$printedfor
 
 print("Write table")
-filename <- paste(output.folder, "Publisher.csv", sep = "")
-names(res) <- c("PrintedFor", "PrintedBy", "Ignored", "Original")
-write_xtable(as.data.frame(res), file = filename)
+#filename <- paste(output.folder, "Publisher.csv", sep = "")
+#names(res) <- c("PrintedFor", "PrintedBy", "Ignored", "Original")
+#write_xtable(as.data.frame(res), file = filename)
 
 # ---------------------------------------
 
 # USE same function (by NVI) both of these cases:
 
-source("author.life.R")
+#source("author.life.R")
 
 # TODO move the functions from fennica to bibliographica
-print("Publication year")
-library(fennica)
+#print("Publication year")
+#library(fennica)
 dftmp <- df.orig
-dftmp$publication_time <- as.character(dftmp$publication_time)
+#dftmp$publication_time <- as.character(dftmp$publication_time)
 dftmp2 <- df
 dftmp2 <- fix_pubtill(dftmp, dftmp2)
 dftmp2 <- fix_pubfrom(dftmp, dftmp2)

@@ -24,32 +24,24 @@ res <- cbind(topic = df$topic)
 filename <- paste(output.folder, "Topic.csv", sep = "")
 a = write_xtable(res, file=filename)[1]a = write.table(res, file=filename, fileEncoding="UTF-8")
 
+#-------------------------------------------------------------
 
-print("Volume number") # which issue this is from a multi-volume series
-# was document.volnumber
-df$volnumber <- unname(polish_volumenumber(df.orig$physical_extent))
-res <- cbind(volume_number = df$volnumber)
+# Polish physical extent field
+# Page count, volume count, volume number
+df.tmp <- polish_physical_extent(df.orig$physical_extent)
+
 filename <- paste(output.folder, "Volume_number.csv", sep = "")
-a = write_xtable(res, file=filename)[1]
-#a = write.table(res, file=filename, fileEncoding="UTF-8")
+a = write_xtable(df.tmp$volnumber, file=filename)[1]
 
-
-print("Volume count")
-# was document.volcount
-df$volcount <- unname(polish_volumecount(df.orig$physical_extent))
-res <- cbind(volume_count = as.character(df$volcount))
 filename <- paste(output.folder, "Volume_count.csv", sep = "")
-a = write_xtable(res, file=filename)
+a = write_xtable(df.tmp$volcount, file=filename)[1]
+
+filename <- paste(output.folder, "Page_count.csv", sep = "")
+a = write_xtable(df.tmp$pagecount, file=filename)[1]
+
 #a = write.table(res, file=filename, fileEncoding="UTF-8")
 
-
-print("Number of pages")
-# ESTC-specific handling
-#x <- harmonize_pages_specialcases(df.orig$physical_extent)
-# Generic handling
-#x <- polish_pages(x, verbose = FALSE)$total.pages
-# was document.pages.total
-#df$pagecount <- x
+#-------------------------------------------------------------
 
 print("Author info")
 #source("author.names.R")

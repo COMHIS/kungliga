@@ -1,4 +1,5 @@
 library(devtools)
+#load_all("~/proj/2014-Aatelouhinta/bibliographica")
 # install_github("ropengov/bibliographica")
 
 library(bibliographica)
@@ -15,8 +16,8 @@ output.folder <- "output.tables/"
 # —--------------------------------------------
 
 # Initialize and read raw data
-reload.data <- TRUE
-mc.cores <- 8
+# Only needs to be once unless reading functions are updated
+reload.data <- FALSE
 source(system.file("extdata/init.R", package = "bibliographica"))
 print(paste("Total documents:", nrow(df.orig)))
 

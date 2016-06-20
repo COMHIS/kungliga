@@ -1,14 +1,14 @@
 original	gatherings.original	width.original	height.original	obl.original	gatherings	width	height	obl	area	Count
-NA	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	299402
-8:o.	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	 17329
-4:o	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	 16895
-4:o.	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	 14677
+NA	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	299373
+8:o.	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	 17327
+4:o	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	 16894
+4:o.	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	 14675
 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	  5263
 8:o(4).	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	  1920
 12:o.	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	  1827
-2:o.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	  1310
+2:o.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	  1309
 16:o.	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	  1139
-1:o	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	   896
+1:o	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	   870
 20 cm	NA	NA	 20.0	FALSE	NA	 13.0	 20.0	NA	  260.00	   672
 23 cm	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	   540
 22 cm	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	   518
@@ -23,7 +23,7 @@ NA	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	299402
 25 cm	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	   341
 30 cm	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	   331
 16:o	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	   300
-1:o.	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	   241
+1:o.	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	   240
 4:o(2).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	   208
 29 cm	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	   185
 17 cm	NA	NA	 17.0	FALSE	NA	 12.0	 17.0	NA	  204.00	   162
@@ -39,12 +39,12 @@ NA	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	299402
 15 cm	NA	NA	 15.0	FALSE	NA	 12.0	 15.0	NA	  180.00	    86
 Hög 12:o.	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    84
 lit. 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    82
+1:o	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	    73
 1:o(tv.).	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	    64
 24:o.	24mo	NA	NA	FALSE	24mo	  8.5	 12.5	 0	  106.25	    56
 34 cm	NA	NA	 34.0	FALSE	NA	 22.0	 34.0	NA	  748.00	    51
 18:o(12/6).	18mo	NA	NA	FALSE	18mo	 10.0	 16.0	 0	  160.00	    48
 24:o(12).	24mo	NA	NA	FALSE	24mo	  8.5	 12.5	 0	  106.25	    48
-1:o	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	    47
 35 cm	NA	NA	 35.0	FALSE	NA	 23.0	 35.0	NA	  805.00	    44
 2:o(tv.).	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	    43
 8:o(8 o.4).	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    41
@@ -73,10 +73,10 @@ lit. 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    82
 23 cm.	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	    17
 12:o(avl.)	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    16
 21 cm.	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	    14
-45 cm	NA	NA	 45.0	FALSE	NA	 29.0	 45.0	NA	 1305.00	    13
 42 cm	NA	NA	 42.0	FALSE	NA	 27.0	 42.0	NA	 1134.00	    12
 8:o +	8long	NA	NA	FALSE	8long	 13.0	 22.0	 0	  286.00	    12
 60 cm	NA	NA	 60.0	FALSE	NA	 36.0	 60.0	NA	 2160.00	    12
+45 cm	NA	NA	 45.0	FALSE	NA	 29.0	 45.0	NA	 1305.00	    12
 41 cm	NA	NA	 41.0	FALSE	NA	 27.0	 41.0	NA	 1107.00	    12
 Hög 12:o	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    11
 12:o(8/4).	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    11
@@ -88,6 +88,7 @@ Hög 12:o	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    11
 48 cm	NA	NA	 48.0	FALSE	NA	 31.0	 48.0	NA	 1488.00	     9
 fol	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     9
 1:o(tv.).	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	     9
+1:o.	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	     9
 4:o(2)	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     9
 Fol.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     9
 ill.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     9
@@ -95,7 +96,6 @@ ill.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     9
 4:o(8).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     8
 12:o(8/4)	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	     8
 4:o(4 o.2).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     8
-1:o.	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	     8
 43 cm	NA	NA	 43.0	FALSE	NA	 28.0	 43.0	NA	 1204.00	     8
 20x14 cm	NA	 14.0	 20.0	FALSE	NA	 14.0	 20.0	NA	  280.00	     8
 18x13 cm	NA	 13.0	 18.0	FALSE	NA	 13.0	 18.0	NA	  234.00	     8

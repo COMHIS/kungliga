@@ -1,12 +1,12 @@
 original	polished	Count
-Total count: 	85877	
-Göteborg	Gothenburg	12540
+Total count: 	85867	
+Göteborg	Gothenburg	12539
 Helsingfors	Helsinki	 8409
 [Stockholm]	Stockholm	 6893
 Upsala	Uppsala	 3013
 Jönköping	Jönnköping	 2944
 Hfors	Helsinki	 2813
-København	Copenhagen	 1839
+København	Copenhagen	 1838
 Åbo	Turku	 1693
 Östersund	Oslo	  893
 New York	New York NY	  759
@@ -39,7 +39,7 @@ Holmiæ	Stockholm	  215
 Moskva	Moscow	  214
 [Helsingfors]	Helsinki	  214
 Tryckt uti Kongl. tryckeriet.	Kongl tryckeriet	  208
-Aboæ	Turku	  205
+Aboæ	Turku	  204
 Uppsala ;;Stockholm	Uppsala stockholm	  203
 Stockholm, Tryckt uti Kongl. Tryckeriet, Hos Directeuren Pet. Momma.	Stockholm	  195
 [Upsala]	Uppsala	  192
@@ -284,7 +284,6 @@ Tryckt uti Kongl. tryckeriet	Kongl tryckeriet	   21
 København ...	Copenhagen	   21
 Trondhjem	Trondheim	   21
 Frankfurt a.M.	Frankfurt	   21
-[Sverige]	Sverige	   21
 Stockholm, Kongl. tryckeriet, 1830.	Stockholm	   20
 Stockholm, Kongl. tryckeriet, 1829.	Stockholm	   20
 Stockholm, tryckt i Kongl. Tryckeriet, 1815.	Stockholm	   20
@@ -293,6 +292,7 @@ Upsaliæ, litteris viduæ direct. Joh. Edman.	Uppsala	   20
 S-Peterburg	St Petersburg	   20
 Stockholm, tryckt hos Elmén och Granberg, J.P. Lindhs enka, F.B. Nestius, Z. Hæggström, A.E. Ortman, samt å Ecksteinska och Marquardska boktryckerierne, 1823 och 1824.	Stockholm	   20
 Carlscrona	Karlskrona	   20
+[Sverige]	Sverige	   20
 [Lidingö]	Lidingö	   20
 Stockholm, Tryckt i Kongl. Tryckeriet, 1818.	Stockholm	   19
 Rīgā	Rīga	   19
@@ -618,7 +618,6 @@ Upsaliæ, [s.n.]	Uppsala	    7
 [San Francisco]	San francisco	    7
 Upsaliæ, litteris Joh. Fredr. Edman, reg. acad. typogr.	Uppsala	    7
 Gryphiæ	Greifswald	    7
-Lpz & Wien	Vienna	    7
 Khvn & Kra	Khvn kra	    7
 Bremen-Horn	Bremen	    7
 [Peking]	Peking	    7
@@ -702,6 +701,7 @@ Upsaliæ, litteris viduæ direct. Johan. Edman.	Uppsala	    6
 [Riga]	Riga	    6
 Uppsala..	Uppsala	    6
 Neumünster	Neumuenster	    6
+Lpz & Wien	Vienna	    6
 Basle	Basel	    6
 Hernoesandiæ	Hernoesandiae	    6
 Aboæ, impressit Joh. Christoph. Frenckell.	Turku	    6
@@ -754,7 +754,6 @@ Alsbäck, Borlänge	Alsbäck borlänge	    6
 [Tranås]	Tranås	    6
 [Eksjö]	Eksjö	    6
 [Roma]	Rome	    6
-[Arlöv]	Arlöv	    6
 [Kiruna]	Kiruna	    6
 Stuttgart ;;Berlin	Stuttgart berlin	    6
 [Skövde]	Skövde	    6
@@ -890,6 +889,7 @@ Stockholm;Stockholm	Stockholm	    5
 [Köping]	Köping	    5
 Uddevalla ;;Stockholm	Stockholm	    5
 [Bromma]	Bromma	    5
+[Arlöv]	Arlöv	    5
 [Höganäs]	Höganäs	    5
 [Ulricehamn]	Ulricehamn	    5
 [Sundbyberg]	Sundbyberg	    5
@@ -1625,7 +1625,6 @@ Stockholm, 1856. P. A. Norstedt & Söner, kongl. boktryckare.	Stockholm	    2
 Stockholm. Tryckte hos Johan Hörberg, 1831.	Stockholm	    2
 Götheborg, tryckt hos Sam. Norberg, 1832.	Gothenburg	    2
 Götheborg, tryckt hos Sam. Norberg, 1831.	Gothenburg	    2
-4/5 1919	/	    2
 Nieuwe-Diep	Nieuwe diep	    2
 Uddevalla, tryckt hos And. Johnson, 1830.	Uddevalla johnson	    2
 Norrköping, 1830. Ad Fr. Raams Enka.	Norrköping	    2
@@ -1997,7 +1996,6 @@ Närpes	Närpiö	    2
 Upsaliæ, litteris Johann. Fredr. Edman, reg. acad. typogr.	Uppsala	    2
 [Güstrow]	Guestrow	    2
 Jacobstad	Pietarsaari	    2
-Neapel	Naples	    2
 Win ...	Win	    2
 [Wästerås]	Västerås	    2
 Lubeck	Lybeck	    2
@@ -3094,6 +3092,7 @@ Cincinatti ;;Chicago ;;St. Louis	Chicago IL	    1
 Tryckt i Stockholm, hoos Ignatium Meurer, åhr 1649.	Stockholm	    1
 [Strassburg :;[Basel	Strassburg basel	    1
 Luleå :;[Stockholm	Luleå stockholm	    1
+Neapel	Naples	    1
 Stockholm:;Flodin	Stockholm	    1
 Stockholm. Philipp. J. Meijer.	Stockholm	    1
 Örebro & Stockholm	örebro stockholm	    1
@@ -10544,7 +10543,6 @@ Tryckt i Lund	Lund	    1
 Upsala, tryckt hos direct. Edmans enka.	Uppsala	    1
 Upsala, hos Magnus Swederus.	Uppsala	    1
 Skara, tryckd hos hos F.J. Leverentz.	Skara	    1
-Tryckt hos Sam. Norberg, kongl. gymn. boktr.	Sam norberg kongl gymn boktr	    1
 Stockholm, tryckt hos A. J. Nordström, 1796 i februarii månad.	Stockholm	    1
 Stockholm, tryckt hos A. J. Nordström, 1794 i october månad.	Stockholm	    1
 Stockholm, tryckt hos Anders J. Nordström.	Stockholm	    1

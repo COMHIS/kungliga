@@ -1,9 +1,9 @@
 original	polished	Count
-Total count: 	330013	
-Stockholm	Sweden	180339
-Uppsala	Sweden	 14067
-Göteborg	Sweden	 12540
-Lund	Sweden	 11982
+Total count: 	329987	
+Stockholm	Sweden	180325
+Uppsala	Sweden	 14066
+Göteborg	Sweden	 12539
+Lund	Sweden	 11980
 Helsingfors	Finland	  8409
 [Stockholm]	Sweden	  6893
 Malmö	Sweden	  5336
@@ -15,15 +15,15 @@ Norrköping	Sweden	  2883
 Hfors	Finland	  2813
 Helsinki	Finland	  2355
 Falun	Sweden	  2076
-Paris	France	  2021
-København	Denmark	  1839
+Paris	France	  2020
+København	Denmark	  1838
 London	England	  1796
 Åbo	Finland	  1693
 Berlin	Germany	  1615
 Västerås	Sweden	  1528
 Karlskrona	Sweden	  1317
 Karlstad	Sweden	  1289
-Leipzig	Germany	  1288
+Leipzig	Germany	  1287
 Oslo	Norway	  1091
 Skara	Sweden	  1004
 Gefle	Sweden	   963
@@ -52,7 +52,7 @@ Chicago, Ill.	USA	   369
 Rock Island, Ill.	USA	   368
 Kristinehamn	Finland	   363
 Köping	Sweden	   361
-Amsterdam	Netherlands	   359
+Amsterdam	Netherlands	   358
 Helsingissä	Finland	   347
 Vasa	Finland	   307
 Strengnäs	Sweden	   286
@@ -69,7 +69,7 @@ Turku	Finland	   217
 Holmiæ	Sweden	   215
 Moskva	Russia	   214
 [Helsingfors]	Finland	   214
-Aboæ	Finland	   205
+Aboæ	Finland	   204
 Stockholm, Tryckt uti Kongl. Tryckeriet, Hos Directeuren Pet. Momma.	Sweden	   195
 [Upsala]	Sweden	   192
 Greifswald	Germany	   174
@@ -382,7 +382,6 @@ Stockholm, Tryckt i Kongl. Tryckeriet 1813.	Sweden	    17
 Stockholm, Tryckt i Kongl. Tryckeriet, 1819.	Sweden	    17
 Stockholm, trykt i Kongl. tryckeriet.	Sweden	    17
 Stockholm, 1774. Tryckt hos Henr. Fougt, Kongl. Boktryckare.	Sweden	    17
-Mainz	Germany	    17
 Typis Ludovici Decreaux, directoris officinæ typographicæ Londini Gothorum.	England	    17
 [Upsala ]	Sweden	    17
 Wästeråhs	Sweden	    17
@@ -395,6 +394,7 @@ Lipsiæ	Germany	    17
 Stockholm, tryckt i kongl. tryckeriet.	Sweden	    16
 Amersfoort	Netherlands	    16
 [Stuttgart]	Germany	    16
+Mainz	Germany	    16
 [Washington]	USA	    16
 [Upsaliæ]	Sweden	    16
 Petrograd	Russia	    16
@@ -653,7 +653,6 @@ Upsaliæ, [s.n.]	Sweden	     7
 Upsaliæ, litteris Joh. Fredr. Edman, reg. acad. typogr.	Sweden	     7
 Heilbronn	Germany	     7
 Gryphiæ	Germany	     7
-Lpz & Wien	Austria	     7
 Bremen-Horn	Germany	     7
 Macon	France	     7
 Braunschweig & Hamburg	Germany	     7
@@ -718,6 +717,7 @@ Upsaliæ, litteris direct. Johann. Edman.	Sweden	     6
 Upsaliæ, litteris viduæ direct. Johan. Edman.	Sweden	     6
 [Riga]	Latvia	     6
 Uppsala..	Sweden	     6
+Lpz & Wien	Austria	     6
 Basle	Switzerland	     6
 Aboæ, impressit Joh. Christoph. Frenckell.	Finland	     6
 Londini Gothorum, literis Berlingianis.	England	     6
@@ -1760,7 +1760,6 @@ Närpes	Finland	     2
 Frankfurt	Germany	     2
 Upsaliæ, litteris Johann. Fredr. Edman, reg. acad. typogr.	Sweden	     2
 Jacobstad	Finland	     2
-Neapel	Italy	     2
 [Wästerås]	Sweden	     2
 Lubeck	Germany	     2
 Upsala, tryckt hos Johan Fr. Edman, kongl. acad. boktr.	Sweden	     2
@@ -2516,6 +2515,7 @@ Götheborg, trykt hos Eric Stakberg, 1770	Sweden	     1
 Glarus ;;Leipzig	Germany	     1
 Cincinatti ;;Chicago ;;St. Louis	USA	     1
 Tryckt i Stockholm, hoos Ignatium Meurer, åhr 1649.	Sweden	     1
+Neapel	Italy	     1
 Stockholm:;Flodin	Sweden	     1
 Stockholm. Philipp. J. Meijer.	Sweden	     1
 Med kongl. maj:tz allern. privilegio. Stockholm, tryckt af Joh. L. Horrn, Kongl. Ant. Arch. boktr. åhr 1718.	Sweden	     1

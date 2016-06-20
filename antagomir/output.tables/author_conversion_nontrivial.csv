@@ -1,5 +1,5 @@
 original_name	original_date	final_author_id	final_author_birth	final_author_death	Count
-Total count: 	168594				
+Total count: 	168581				
 Lagerlöf, Selma	1858-1940	Lagerlöf, Selma (1858-1940)	1858	1940	1089
 Strindberg, August	1849-1912	Strindberg, August (1849-1912)	1849	1912	 931
 Flygare-Carlén, Emilie	1807-1892	Flygare-carlén, Emilie (1807-1892)	1807	1892	 675
@@ -7,12 +7,12 @@ Runeberg, Johan Ludvig	1804-1877	Runeberg, Johan Ludvig (1804-1877)	1804	1877	 3
 Swedenborg, Emanuel	1688-1772	Swedenborg, Emanuel (1688-1772)	1688	1772	 333
 Åberg, Jon Olof	1843-1898	åberg, Jon Olof (1843-1898)	1843	1898	 332
 Hedin, Sven	1865-1952	Hedin, Sven (1865-1952)	1865	1952	 308
-Schwartz, Marie Sophie	1819-1894	Schwartz, Marie Sophie (1819-1894)	1819	1894	 275
+Schwartz, Marie Sophie	1819-1894	Schwartz, Marie Sophie (1819-1894)	1819	1894	 274
 Bremer, Fredrika	1801-1865	Bremer, Fredrika (1801-1865)	1801	1865	 273
 Luther, Martin	1483-1546	Luther, Martin (1483-1546)	1483	1546	 273
 Topelius, Zacharias	1818-1898	Topelius, Zacharias (1818-1898)	1818	1898	 252
 Heidenstam, Verner von	1859-1940	Heidenstam, Verner Von (1859-1940)	1859	1940	 250
-Rydberg, Viktor	1828-1895	Rydberg, Viktor (1828-1895)	1828	1895	 244
+Rydberg, Viktor	1828-1895	Rydberg, Viktor (1828-1895)	1828	1895	 243
 Moberg, Vilhelm	1898-1973	Moberg, Vilhelm (1898-1973)	1898	1973	 220
 Almqvist, Carl Jonas Love	1793-1866	Almqvist, Carl Jonas Love (1793-1866)	1793	1866	 219
 Engström, Albert	1869-1940	Engström, Albert (1869-1940)	1869	1940	 215
@@ -22,8 +22,8 @@ Fant, Eric Michael	1754-1817	Fant, Eric Michael (1754-1817)	1754	1817	 204
 London, Jack	1876-1916	London, Jack (1876-1916)	1876	1916	 200
 Stark, Sigge	1896-1964	Stark, Sigge (1896-1964)	1896	1964	 200
 Geijerstam, Gustaf af	1858-1909	Geijerstam, Gustaf Af (1858-1909)	1858	1909	 199
-Strömberg, Leonard	1871-1941	Strömberg, Leonard (1871-1941)	1871	1941	 192
 Beskow, Elisabeth	1870-1928	Beskow, Elisabeth (1870-1928)	1870	1928	 191
+Strömberg, Leonard	1871-1941	Strömberg, Leonard (1871-1941)	1871	1941	 191
 Stiernstedt, Marika	1875-1954	Stiernstedt, Marika (1875-1954)	1875	1954	 183
 Heller, Frank	1886-1947	Heller, Frank (1886-1947)	1886	1947	 182
 Lagerkvist, Pär	1891-1974	Lagerkvist, Pär (1891-1974)	1891	1974	 180
@@ -174,10 +174,10 @@ Widegren, Gunnar	1886-1959	Widegren, Gunnar (1886-1959)	1886	1959	  74
 Petrén, Karl	1868-1927	Petrén, Karl (1868-1927)	1868	1927	  74
 Cooper, James Fenimore	1789-1851	Cooper, James Fenimore (1789-1851)	1789	1851	  74
 Ström, Fredrik	1880-1948	Ström, Fredrik (1880-1948)	1880	1948	  74
-Arrhenius, Svante	1859-1927.	Arrhenius, Svante (1859-1927)	1859	1927	  73
 Viksten, Albert	1889-1969	Viksten, Albert (1889-1969)	1889	1969	  73
 Tessin, Carl Gustaf	1695-1770	Tessin, Carl Gustaf (1695-1770)	1695	1770	  73
 Munthe, Axel	1857-1949	Munthe, Axel (1857-1949)	1857	1949	  73
+Arrhenius, Svante	1859-1927.	Arrhenius, Svante (1859-1927)	1859	1927	  72
 Leffler, Anne Charlotte	1849-1892	Leffler, Anne Charlotte (1849-1892)	1849	1892	  72
 Johns, William Earl	1893-1968	Johns, William Earl (1893-1968)	1893	1968	  72
 Taube, Evert	1890-1976	Taube, Evert (1890-1976)	1890	1976	  72
@@ -1875,7 +1875,6 @@ Aischylos	ca 525-456 f. Kr.	Aischylos, 	NA	NA	  18
 Wahlstedt, Viola	1901-1992	Wahlstedt, Viola (1901-1992)	1901	1992	  18
 Påhlman, John M	1860-1945.	Påhlman, John M (1860-1945)	1860	1945	  18
 Stjernberg, Nils	1873-1943	Stjernberg, Nils (1873-1943)	1873	1943	  18
-Forssell, Carl	1881-1973	Forssell, Carl (1881-1973)	1881	1973	  18
 Racine, Jean	1639-1699	Racine, Jean (1639-1699)	1639	1699	  18
 Sandberg, Torsten	1900-1946	Sandberg, Torsten (1900-1946)	1900	1946	  18
 Rosenborg, Einar	1882-	Rosenborg, Einar (1882-NA)	1882	NA	  18
@@ -1891,7 +1890,6 @@ Mauriac, François	1885-1970	Mauriac, François (1885-1970)	1885	1970	  18
 Ljungquist, Walter	1900-1974	Ljungquist, Walter (1900-1974)	1900	1974	  18
 Kivi, Aleksis	1834-1872	Kivi, Aleksis (1834-1872)	1834	1872	  18
 Wohlin, Margit	1897-1994.	Wohlin, Margit (1897-1994)	1897	1994	  18
-Tegnér, Alice	1864-1943	Tegnér, Alice (1864-1943)	1864	1943	  18
 Rydqvist, Oscar	1893-1965	Rydqvist, Oscar (1893-1965)	1893	1965	  18
 Rydh, Hanna	1891-1964	Rydh, Hanna (1891-1964)	1891	1964	  18
 Rundgren, Viktor	1869-1936	Rundgren, Viktor (1869-1936)	1869	1936	  18
@@ -2021,6 +2019,7 @@ Lagerstedt, Nils Gerhard Wilhelm	1847-1925	Lagerstedt, Nils Gerhard Wilhelm (184
 Palme, Olof	1884-1918	Palme, Olof (1884-1918)	1884	1918	  17
 Myhrman, David W	1866-1940	Myhrman, David W (1866-1940)	1866	1940	  17
 Högelin, Gösta	1890-1976.	Högelin, Gösta (1890-1976)	1890	1976	  17
+Forssell, Carl	1881-1973	Forssell, Carl (1881-1973)	1881	1973	  17
 Wifstrand, Albert	1901-1964	Wifstrand, Albert (1901-1964)	1901	1964	  17
 Romell, Lars-Gunnar	1891-1981	Romell, Lars-gunnar (1891-1981)	1891	1981	  17
 Schnitzler, Arthur	1862-1931	Schnitzler, Arthur (1862-1931)	1862	1931	  17
@@ -2036,6 +2035,7 @@ Cronin, A. J	1896-1981	Cronin, A J (1896-1981)	1896	1981	  17
 Bergstedt, Hugo	1855-1926	Bergstedt, Hugo (1855-1926)	1855	1926	  17
 Belfrage, Sixten	1883-1976	Belfrage, Sixten (1883-1976)	1883	1976	  17
 Tenow, Elna	1862-1944	Tenow, Elna (1862-1944)	1862	1944	  17
+Tegnér, Alice	1864-1943	Tegnér, Alice (1864-1943)	1864	1943	  17
 Silfverstolpe, Gunnar Mascoll	1893-1942	Silfverstolpe, Gunnar Mascoll (1893-1942)	1893	1942	  17
 Schürer von Waldheim, Max	1872-1948	Schürer Von Waldheim, Max (1872-1948)	1872	1948	  17
 Schiller, Harald	1898-1982	Schiller, Harald (1898-1982)	1898	1982	  17
@@ -2079,7 +2079,6 @@ Fredenholm, Axel	1881-1962	Fredenholm, Axel (1881-1962)	1881	1962	  17
 Gustafsson, Johan	1889-1967	Gustafsson, Johan (1889-1967)	1889	1967	  17
 Walder, Signe	1875-1963	Walder, Signe (1875-1963)	1875	1963	  17
 Hoving, Johannes	1868-1954	Hoving, Johannes (1868-1954)	1868	1954	  17
-Flodmark, Johan	1837-1927	Flodmark, Johan (1837-1927)	1837	1927	  17
 Plutarchos	ca 46-ca 120	Plutarchos, 	NA	NA	  17
 Thörnberg, E. H	1873-1961	Thörnberg, E H (1873-1961)	1873	1961	  17
 Nelson, Axel	1880-1962	Nelson, Axel (1880-1962)	1880	1962	  17
@@ -2258,6 +2257,7 @@ Paulsson, Gregor	1889-1977	Paulsson, Gregor (1889-1977)	1889	1977	  16
 Kilström, Bengt Ingmar	1922-2006	Kilström, Bengt Ingmar (1922-2006)	1922	2006	  16
 Blomberg, Gustav	1889-1949	Blomberg, Gustav (1889-1949)	1889	1949	  16
 Sundbeck, Carl	1865-1927	Sundbeck, Carl (1865-1927)	1865	1927	  16
+Flodmark, Johan	1837-1927	Flodmark, Johan (1837-1927)	1837	1927	  16
 Palme, Sven Ulric	1912-1977	Palme, Sven Ulric (1912-1977)	1912	1977	  16
 Boëthius, Bertil	1885-1974	Boëthius, Bertil (1885-1974)	1885	1974	  16
 Montgomery, Arthur	1889-1976	Montgomery, Arthur (1889-1976)	1889	1976	  16
@@ -2477,7 +2477,6 @@ Jungberg, Carl Gustaf	1807-1883	Jungberg, Carl Gustaf (1807-1883)	1807	1883	  14
 Hartelius, Truls Johan	1818-1896	Hartelius, Truls Johan (1818-1896)	1818	1896	  14
 Fagerlund, Edvard	1823-1894	Fagerlund, Edvard (1823-1894)	1823	1894	  14
 Stoor, Yngve	1912-1985	Stoor, Yngve (1912-1985)	1912	1985	  14
-Mörner, Hjalmar	1794-1837	Mörner, Hjalmar (1794-1837)	1794	1837	  14
 Frese, Jacob	ca 1690-1729	Frese, Jacob (1690-1729)	1690	1729	  14
 Achrenius, Abraham	1706-1769	Achrenius, Abraham (1706-1769)	1706	1769	  14
 Fant, Michael M	1718-54	Fant, Michael M (1718-1754)	1718	1754	  14
@@ -2712,6 +2711,7 @@ Bergstedt, Carl Fredrik	1817-1903	Bergstedt, Carl Fredrik (1817-1903)	1817	1903	
 Aurén, Johan August	1843-1911	Aurén, Johan August (1843-1911)	1843	1911	  13
 Adlersparre, Sophie	1823-1895	Adlersparre, Sophie (1823-1895)	1823	1895	  13
 Carpelan, Wilhelm Maximilian	1787-1830	Carpelan, Wilhelm Maximilian (1787-1830)	1787	1830	  13
+Mörner, Hjalmar	1794-1837	Mörner, Hjalmar (1794-1837)	1794	1837	  13
 Lindeblad, Assar	1800-1848	Lindeblad, Assar (1800-1848)	1800	1848	  13
 Enroth, Haquin	1722-1774	Enroth, Haquin (1722-1774)	1722	1774	  13
 Bure, Johan Gustaf	1766-1819	Bure, Johan Gustaf (1766-1819)	1766	1819	  13
@@ -2979,7 +2979,6 @@ Aken, Frantz Joachim von	1738-1798	Aken, Frantz Joachim Von (1738-1798)	1738	179
 Nordforss, Eric Ulric	1771-1806	Nordforss, Eric Ulric (1771-1806)	1771	1806	  12
 Kihlström, Eric	1762-1823	Kihlström, Eric (1762-1823)	1762	1823	  12
 Holm, Carl Johan	1781-1867	Holm, Carl Johan (1781-1867)	1781	1867	  12
-Kullman, Eric	1758-1804	Kullman, Eric (1758-1804)	1758	1804	  12
 Ehrenstråle, David	1695-1769	Ehrenstråle, David (1695-1769)	1695	1769	  12
 Wrangel, Carl Magnus	1727-1786	Wrangel, Carl Magnus (1727-1786)	1727	1786	  12
 Sjöbeck, Johan Carl	?-1800	Sjöbeck, Johan Carl (NA-1800)	NA	1800	  12
@@ -3311,6 +3310,7 @@ Goldsmith, Oliver	1728-1774	Goldsmith, Oliver (1728-1774)	1728	1774	  11
 Grubbe, Samuel	1786-1853	Grubbe, Samuel (1786-1853)	1786	1853	  11
 Young, Edward	1683-1765	Young, Edward (1683-1765)	1683	1765	  11
 Plenning, Johan	1717-1750	Plenning, Johan (1717-1750)	1717	1750	  11
+Kullman, Eric	1758-1804	Kullman, Eric (1758-1804)	1758	1804	  11
 Wingård, Johan Didrik af	1778-1854	Wingård, Johan Didrik Af (1778-1854)	1778	1854	  11
 Serlachius, Carl	1693?-1754	Serlachius, Carl (1693-1754)	1693	1754	  11
 Lithou, Gustaf	1692-1753	Lithou, Gustaf (1692-1753)	1692	1753	  11
@@ -4931,7 +4931,6 @@ Loos, Viggo	1895-1974.	Loos, Viggo (1895-1974)	1895	1974	   8
 Ljunggren, Anders	1872-1961	Ljunggren, Anders (1872-1961)	1872	1961	   8
 Linnarsson, Linnar	1884-1962.	Linnarsson, Linnar (1884-1962)	1884	1962	   8
 Lindhagen, Anna	1870-1941	Lindhagen, Anna (1870-1941)	1870	1941	   8
-Liljefors, Bruno	1860-1939	Liljefors, Bruno (1860-1939)	1860	1939	   8
 Lenning, Einar	1899-	Lenning, Einar (1899-NA)	1899	NA	   8
 Larson, Robert Gabriel	1897-	Larson, Robert Gabriel (1897-NA)	1897	NA	   8
 Källström, Olle	1900-1983	Källström, Olle (1900-1983)	1900	1983	   8
@@ -5676,6 +5675,7 @@ Sörenson, Berndt	1886-	Sörenson, Berndt (1886-NA)	1886	NA	   7
 Lindqvist, Märta	1888-1939	Lindqvist, Märta (1888-1939)	1888	1939	   7
 Lindegren, Erik	1910-1968	Lindegren, Erik (1910-1968)	1910	1968	   7
 Lind, Albin	1901--1964	Lind, Albin (1901-1964)	1901	1964	   7
+Liljefors, Bruno	1860-1939	Liljefors, Bruno (1860-1939)	1860	1939	   7
 Lewis, H. Spencer	1883-1939	Lewis, H Spencer (1883-1939)	1883	1939	   7
 Lange, Torsten	1902-1936	Lange, Torsten (1902-1936)	1902	1936	   7
 Kleen, Willy	1884-1966	Kleen, Willy (1884-1966)	1884	1966	   7
@@ -8212,7 +8212,6 @@ Danielsson, Gerda Maria	1899.	Danielsson, Gerda Maria (1899-NA)	1899	NA	   4
 Cygnæus, Uno	1810-1888	Cygnæus, Uno (1810-1888)	1810	1888	   4
 Cuyler, Theodore Ledyard	1822-1909	Cuyler, Theodore Ledyard (1822-1909)	1822	1909	   4
 Curman, Carl	1833-1913	Curman, Carl (1833-1913)	1833	1913	   4
-Baedeker, Karl	1801-1859.	Baedeker, Karl (1801-1859)	1801	1859	   4
 Burén, Carl Pontus af	1861-1937	Burén, Carl Pontus Af (1861-1937)	1861	1937	   4
 Bougeant, Guillaume-Hyacinthe	1690-1743	Bougeant, Guillaume-hyacinthe (1690-1743)	1690	1743	   4
 Bothén, Carl Otto	verksam ca 1900	Bothén, Carl Otto (1900-NA)	1900	NA	   4
@@ -10135,6 +10134,7 @@ Cervin-Steenhoff, Nicolaus Johan	1805-1879	Cervin-steenhoff, Nicolaus Johan (180
 Carlander, Sophie	1913-1994.	Carlander, Sophie (1913-1994)	1913	1994	   3
 Camões, Luís de	1524?-1580	Camões, Luís De (1524-1580)	1524	1580	   3
 Kallimachos	ca 305-ca 240 f.kr.	Kallimachos, 	NA	NA	   3
+Baedeker, Karl	1801-1859.	Baedeker, Karl (1801-1859)	1801	1859	   3
 Andersson, Olof Herman	1859-1907	Andersson, Olof Herman (1859-1907)	1859	1907	   3
 Brunius, August	1879-1926.	Brunius, August (1879-1926)	1879	1926	   3
 Brausewetter, Ernst	1863-1904	Brausewetter, Ernst (1863-1904)	1863	1904	   3
@@ -10223,7 +10223,6 @@ Fabricius, Jacobus	1593-1654	Fabricius, Jacobus (1593-1654)	1593	1654	   3
 Petrus Eschilli	d. 1651	Eschilli, Petrus (1651-NA)	1651	NA	   3
 Ehrenstrahl, David Klöcker	1628-1698	Ehrenstrahl, David Klöcker (1628-1698)	1628	1698	   3
 Mornay, Philippe de	1549-1623	Mornay, Philippe De (1549-1623)	1549	1623	   3
-Dalius, Sveno	1604-1693	Dalius, Sveno (1604-1693)	1604	1693	   3
 Cyprianus	ca 200-258.	Cyprianus, 	NA	NA	   3
 Coyet, Wilhelm Julius	1647-1709	Coyet, Wilhelm Julius (1647-1709)	1647	1709	   3
 Chærberus, Josephus Svenonis	d. 1651	Chærberus, Josephus Svenonis (1651-NA)	1651	NA	   3
@@ -13653,6 +13652,7 @@ Elingius, Laurentius Ingevaldi	1640-1687	Elingius, Laurentius Ingevaldi (1640-16
 Dress, Otto	1626-1697	Dress, Otto (1626-1697)	1626	1697	   2
 Dilherr, Johann Michael	1604-1669	Dilherr, Johann Michael (1604-1669)	1604	1669	   2
 Decenius, Matthias	1599-1663	Decenius, Matthias (1599-1663)	1599	1663	   2
+Dalius, Sveno	1604-1693	Dalius, Sveno (1604-1693)	1604	1693	   2
 Dalinus, Samuel Danielis	d. 1674	Dalinus, Samuel Danielis (1674-NA)	1674	NA	   2
 Crucelius, Nicolaus	d. 1717	Crucelius, Nicolaus (1717-NA)	1717	NA	   2
 Cordinsulanus, Henricus Olai	1600-t.	Cordinsulanus, Henricus Olai (1600-NA)	1600	NA	   2
@@ -15941,7 +15941,6 @@ Spence, Hartzell	1908-2001	Spence, Hartzell (1908-2001)	1908	2001	   2
 Spekke, Arnolds	1887-1972	Spekke, Arnolds (1887-1972)	1887	1972	   2
 Sparre, Karin	1882-	Sparre, Karin (1882-NA)	1882	NA	   2
 Soya, Carl Erik	1896-1983	Soya, Carl Erik (1896-1983)	1896	1983	   2
-Acander, Petrus Nicolai	1600-t.	Acander, Petrus Nicolai (1600-NA)	1600	NA	   2
 Gizæus, Petrus Petri	1600-t.	Gizæus, Petrus Petri (1600-NA)	1600	NA	   2
 Smuts, Jan Christiaan	1870-1950	Smuts, Jan Christiaan (1870-1950)	1870	1950	   2
 Smith, Thorne	1892-1934.	Smith, Thorne (1892-1934)	1892	1934	   2
@@ -29314,6 +29313,7 @@ Stark, Albert	1878-	Stark, Albert (1878-NA)	1878	NA	   1
 Redin, Jan	1907-1998	Redin, Jan (1907-1998)	1907	1998	   1
 Soors, Folke	1915-1942	Soors, Folke (1915-1942)	1915	1942	   1
 Snygg, Bror Oskar	1919-	Snygg, Bror Oskar (1919-NA)	1919	NA	   1
+Acander, Petrus Nicolai	1600-t.	Acander, Petrus Nicolai (1600-NA)	1600	NA	   1
 Krok, Abraham	1708-1762	Krok, Abraham (1708-1762)	1708	1762	   1
 Mjönes, Nils	1913-1975	Mjönes, Nils (1913-1975)	1913	1975	   1
 Smith, Lillian	1897-1966	Smith, Lillian (1897-1966)	1897	1966	   1

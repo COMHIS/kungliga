@@ -146,9 +146,9 @@ Thorborg	6
 Toini	6
 Walborg	6
 Airi	5
+Ann-marie	5
 Anna-maria	5
 Anna-stina	5
-Ann-marie	5
 Bengta	5
 Charlotte Von	5
 Dorette	5
@@ -190,17 +190,17 @@ Harriet Lummis	4
 Helene Von	4
 Kirsti	4
 Lovisa Charlotta	4
+M Aximilian V Ictor	4
 Maija	4
 Maj-lis	4
 Margarethe	4
-M Aximilian V Ictor	4
 Pernilla	4
 Rumer	4
 Signild	4
 Torborg	4
 Ulrica Carolina	4
-Veronika	4
 V Ictor	4
+Veronika	4
 Wivi	4
 Aasta	3
 Adelheid	3
@@ -220,10 +220,10 @@ Helja	3
 Hilkka	3
 Hillewi	3
 Huldi	3
-Ingalill	3
 I Ngeborg	3
-Ingeborg Waern	3
 Ing-marie	3
+Ingalill	3
+Ingeborg Waern	3
 Ingunn	3
 Jadwiga	3
 Jeja	3
@@ -231,10 +231,10 @@ Johanna Charlotta	3
 Kyllikki	3
 Lavinia R	3
 Lisbet	3
+M:me	3
 Madame	3
 Marga	3
 Mary Louisa	3
-M:me	3
 Nanni	3
 Onoto	3
 Ortrud	3
@@ -252,16 +252,16 @@ Thalia Mathilda	3
 Thyris Måns	3
 Vanja	3
 Zofia	3
-Adja	2
-Ad L	2
 A Gnes	2
+A Ugusta	2
+Ad L	2
+Adja	2
 Alette	2
 Anja	2
-Annikki	2
-Anni Ruth F Rebenswurzel	2
 Ann-sofi	2
+Anni Ruth F Rebenswurzel	2
+Annikki	2
 Annuli	2
-A Ugusta	2
 Axelina	2
 Beata Ulrika	2
 Belloc	2
@@ -272,12 +272,12 @@ Cecily	2
 Charlotte Perkins	2
 Cilette	2
 Coralie	2
+E Mma	2
 Edyth	2
 Eiluned	2
 Eleanor Hoyt	2
 Eleonor	2
 Elisabetta Rangoni	2
-E Mma	2
 Engard	2
 Esther Sofia Katarina	2
 Ethel Cook	2
@@ -308,15 +308,15 @@ I Gnaz B Ernhardt	2
 Inayat	2
 Ingegärd Eleonora	2
 Iso	2
-Jehanne D'	2
 J Ohanna	2
+Jehanne D'	2
 Johanna Leontina	2
 Josef Ad Am Joach Im	2
 Josefine	2
 Jutta	2
+K Arl Ad Olf	2
 Kaethe	2
 Kaisa	2
-K Arl Ad Olf	2
 Kristiane	2
 Krystyna	2
 Lady	2
@@ -365,22 +365,25 @@ Sophie Charlotte Von	2
 Susanna	2
 Torun	2
 Una	2
+V Ictor L Aurentius	2
 Vala	2
 Vicko	2
-V Ictor L Aurentius	2
 Vigdis	2
 Vissa	2
 W Illia M	2
 Zaida	2
+A Lexandere R Izo	1
+A Lfred V Ictor	1
+A Paget	1
 Ad D'	1
-Adèle Eufrosyne	1
 Ad G:son	1
 Ad M	1
-Ad Olf Abraham	1
 Ad Olf A Larik	1
+Ad Olf Abraham	1
 Ad Olf F Redrik	1
 Ad Olf Rob	1
 Ad Olf Rob Ert	1
+Adèle Eufrosyne	1
 Agatha Eleonora	1
 Agatha Lovise	1
 Agnes Jacquette Wilhelmina	1
@@ -391,16 +394,15 @@ Agra	1
 Aleksandra Dmitrievna	1
 Aleksandra Ivanovna	1
 Aletta H	1
-A Lexandere R Izo	1
-A Lfred V Ictor	1
 Alida Charlotte Augusta	1
 Allfrida	1
 Amalia E	1
 Andréa Elisabet	1
 Andrietta	1
-Anna-brita F Pålsson	1
+Ann-louise	1
 Anna Charlotte	1
 Anna Charlotte Mathilda	1
+Anna-brita F Pålsson	1
 Anna-leena	1
 Anna-lisa F Schenström	1
 Anna-mia	1
@@ -408,9 +410,7 @@ Annelise	1
 Anni Dagmar	1
 Anni O	1
 Anni Ruth	1
-Ann-louise	1
 Annmarie	1
-A Paget	1
 Arabella	1
 Arij	1
 Astrid H	1
@@ -432,6 +432,7 @@ Birgitta Catharina	1
 Brigid	1
 Britt-marie	1
 C Ad	1
+C Ulr	1
 Carl Ad	1
 Catharina Charlotta	1
 Catharina Fredrika	1
@@ -448,13 +449,13 @@ Colette	1
 Coralie Lydia F pålman	1
 Cotty	1
 Crona	1
-C Ulr	1
 Dalida	1
 Dels Nya Statsanslag	1
 Diddie	1
 Dikta A	1
 Diza Ėduardovna	1
 Dormer	1
+E Nok H Ansen	1
 Edelgard	1
 Edit Alfhild Ingeborg	1
 Edith Florence Boyle	1
@@ -465,12 +466,12 @@ Effe	1
 Efr N	1
 Eingeborg F Hässler	1
 Ekaterina	1
-Eleanore	1
-Eleanore S	1
 Eleanor G	1
 Eleanor Hallowell	1
 Eleanor Holgate	1
 Eleanor M	1
+Eleanore	1
+Eleanore S	1
 Elenor	1
 Eleonora Charlotta	1
 Eleonora Charlotta Filippina Fredrika Lovisa	1
@@ -484,7 +485,6 @@ Else Merete	1
 Elspeth J	1
 Emilienne	1
 Enni Alfhild Ingeborg	1
-E Nok H Ansen	1
 Ernst Ad Olf	1
 Esprit	1
 Essi	1
@@ -497,6 +497,7 @@ Ethel Lina	1
 Ethel Watts	1
 Ethlyn T	1
 Etsu Inagaki	1
+Ev Fredrika	1
 Eva Andr:a	1
 Eva Augusta	1
 Eva Augusta F Cronstedt	1
@@ -506,12 +507,12 @@ Eva Christina	1
 Eva E	1
 Eva Gudrun	1
 Eva Knox	1
-Eva-lisa	1
 Eva Monika Von	1
 Eva T	1
+Eva-lisa	1
 Eveline	1
 Evelyne	1
-Ev Fredrika	1
+F Rances E Lizabeth	1
 Fanchette	1
 Fanny E	1
 Fanny M:me	1
@@ -524,7 +525,6 @@ Florence Katherine	1
 Florence Page	1
 Florence Partello	1
 Foda	1
-F Rances E Lizabeth	1
 Franciska	1
 Fredericus	1
 Fredrika Lovisa	1
@@ -534,6 +534,7 @@ Fridborg	1
 Friderike M	1
 Friedrich Ad Olph Ludvig Ewald	1
 G Ad	1
+G Unne	1
 Gemma	1
 Georgiana M	1
 Gerda Amalia	1
@@ -547,18 +548,18 @@ Gullan	1
 Gungerd	1
 Gunhild Friesia	1
 Gunhild Linnea	1
-G Unne	1
 Gunnevi	1
 Guri	1
 Gurli Ingergerd	1
+Gust Af Ad Olf	1
 Gustaf Ad	1
 Gustaf Ad Olf	1
-Gust Af Ad Olf	1
 Gustafva F	1
 Gustafva Fredrica F Ekenmark	1
 Gustava Hendriette F prahn	1
 Gwendoline	1
 Gwynneth	1
+H Enriette S Ophie	1
 Hanna Ingalill F rydh	1
 Hannen	1
 Haquinus Benedicti	1
@@ -576,7 +577,6 @@ Helesine	1
 Hellas	1
 Helmina	1
 Helmy	1
-H Enriette S Ophie	1
 Hermanna	1
 Hervor	1
 Hilb	1
@@ -589,8 +589,8 @@ I Isakki E Emeli	1
 Ildegert	1
 Inetz W	1
 Ing Ad	1
-Ingalisa	1
 Inga-lisa	1
+Ingalisa	1
 Ingeborg Elfriede	1
 Ingeborg Fredrika	1
 Ingegerd Eleonora	1
@@ -600,9 +600,9 @@ Iride	1
 Irja Ilona	1
 Irmelin	1
 J Akob V Ictor	1
+J Fraiser	1
 Jeanetta Charlotta	1
 Jekaterina Romanova	1
-J Fraiser	1
 Joh Ad	1
 Johanna Gustafva	1
 Johanna Sofia Charlotte Von	1
@@ -613,6 +613,7 @@ Julchen	1
 Juliet	1
 Juliette	1
 Julij Isaevič	1
+K Arl Y Ngve	1
 Kaarina	1
 Kaija	1
 Kaino	1
@@ -620,7 +621,6 @@ Kaisu	1
 Kalila	1
 Kamma	1
 Karl Konr Ad	1
-K Arl Y Ngve	1
 Karolina Sidonia	1
 Karoline	1
 Katharina	1
@@ -629,6 +629,7 @@ Kerstin Margareta	1
 Kerstin Sofia	1
 Kesar Filipovič	1
 Kreszentia	1
+L Iisi Vilhelmiina	1
 Lahja	1
 Laimi	1
 Lajla	1
@@ -644,7 +645,6 @@ Lida E	1
 Lidija	1
 Lidija Alekseevna	1
 Lidija Nikolaevna	1
-L Iisi Vilhelmiina	1
 Lili Amelie Margarete	1
 Liliane	1
 Lillan	1
@@ -661,11 +661,13 @@ Lucie E	1
 Luksa	1
 Luzie	1
 Lyyli	1
+M m Tabula	1
+M:me Ferdinand	1
 Madelaine	1
 Magdalene	1
 Maiken	1
-Maja-lisa	1
 Maj Gunnel Viktoria	1
+Maja-lisa	1
 Marcus Georgii	1
 Maret	1
 Margareta Susanna	1
@@ -690,8 +692,8 @@ Märta Eleonora	1
 Märta F Aulin	1
 Märta Helena	1
 Martta	1
-Marya	1
 Mary Eleanor Wilkins	1
+Marya	1
 Marynia F	1
 Mathilda Katarina Johanna	1
 Mathilde V	1
@@ -701,11 +703,9 @@ Mette	1
 Michael Paget	1
 Miff	1
 Milly F Hermansen	1
-M:me Ferdinand	1
-M m Tabula	1
 N Ad	1
-Natalija Aleksandrovna	1
 Natalʹja Aleksandrovna	1
+Natalija Aleksandrovna	1
 Nelle E	1
 Nicolete	1
 Nicoletta	1
@@ -722,8 +722,8 @@ Onerva	1
 Oscar Appi	1
 Oscaria	1
 Outi	1
-Pandita	1
 P Eter Conr Ad	1
+Pandita	1
 Philippa	1
 Philippine	1
 Phillis Eleanor	1
@@ -734,8 +734,9 @@ Reinholdine Frederikke Vilhelmine	1
 Ringa	1
 Romilly	1
 Rut Vivika	1
-Saini Signe	1
 S Akki J Edidja	1
+S Ulo N Estori	1
+Saini Signe	1
 Samuel Benedicti	1
 Samuel Georgii	1
 Sanni	1
@@ -760,11 +761,11 @@ Solange	1
 Solweig	1
 Som Icke Ovilkorligen Skola Ske I Kyrka	1
 Sulamith	1
-S Ulo N Estori	1
 Svea Helene Swensson	1
 Svenborg	1
 Swea	1
 Syster	1
+T Or V Ictor Valfrid	1
 Taeke Binnert	1
 Taimi	1
 Taina	1
@@ -778,27 +779,26 @@ Thilda	1
 Thomasine	1
 Thorborg Tryggvesdotter	1
 Tiiu	1
-T Or V Ictor Valfrid	1
 Tuomi	1
 Tuovi	1
 Tyyne Göta Zuleima	1
-Ulla-brita	1
-Ulla-britta	1
+U Unio	1
 Ulla Ulrika Charlotta	1
 Ulla Ulrika Ottiliana F Lewenhaupt	1
+Ulla-brita	1
+Ulla-britta	1
 Ulrica Helena	1
 Ulrika Charlotta	1
 Ulrika Jakobina	1
 Ursula Moray	1
-U Unio	1
-Vahlborg	1
 V Alev	1
-Vardis	1
-Varpu	1
-Varvara Ivanovna	1
 V Ictor A Lexius	1
 V Ictor Emanuel	1
 V Ictor M Agnus	1
+Vahlborg	1
+Vardis	1
+Varpu	1
+Varvara Ivanovna	1
 Viia	1
 Vilma	1
 Vuokko	1

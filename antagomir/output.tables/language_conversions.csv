@@ -1,20 +1,20 @@
 original	polished	Count
-Total count: 	371321	
-swe	Swedish	203959
-0 s	NA	104291
-ger	German	 12130
+Total count: 	371285	
+swe	Swedish	203937
+0 s	NA	104290
+ger	German	 12129
 eng	English	  7389
-lat	Latin	  7101
-und	NA	  5388
-fre	French	  5181
+lat	Latin	  7099
+und	NA	  5385
+fre	French	  5180
 fin	Finnish	  4390
-dan	Danish	  4219
+dan	Danish	  4217
 0 e	NA	  3266
 nor	Norwegian	  2048
 0 g	NA	  1734
-dut	Dutch	  1117
+dut	Dutch	  1116
 zxx	No linguistic content	   890
-ita	Italian	   774
+ita	Italian	   773
 rus	Russian	   695
 0 f	NA	   647
 spa	Spanish	   383
@@ -33,7 +33,7 @@ hun	Hungarian	   188
 p s	NA	   169
 0s	NA	   168
 grc	Greek, Ancient (to 1453)	   144
-s	NA	   140
+s	NA	   139
 non	Old Norse	   137
 lav	Latvian	   129
 por	Portuguese	   112
@@ -126,7 +126,6 @@ enm	English, Middle (1100-1500)	     2
 arc	Aramaic	     2
 ssa	Nilo-Saharan (Other)	     2
 uig	Uighur	     2
-hin	Hindi	     2
 smj	Lule Sami	     2
 9fd	NA	     2
 geo	Georgian	     2
@@ -170,6 +169,7 @@ kin	Kinyarwanda	     1
 gmh	German, Middle High (ca. 1050-1500)	     1
 kor	Korean	     1
 ori	Oriya	     1
+hin	Hindi	     1
 kal	Kalâtdlisut	     1
 wen	Sorbian (Other)	     1
 pro	Provençal (to 1500)	     1

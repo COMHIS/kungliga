@@ -12,13 +12,13 @@ output: markdown_document
 
 [Publication year discarded](output.tables/publication_year_discarded.csv)
 
-Publication year is available for 371321 documents (100%). The publication years span 1-2012.
+Publication year is available for 371285 documents (100%). The publication years span 1474-2012.
 
 ![plot of chunk summarypublicationyear](figure/summarypublicationyear-1.png)
 
 ### Publication frequency
 
-Publication frequency is available for 1861 documents (1%). 
+Publication frequency is available for 1860 documents (1%). 
 
 [Publication frequency accepted](output.tables/publication_frequency_discarded.csv)
 
@@ -29,7 +29,7 @@ Publication frequency is available for 1861 documents (1%).
 
 ### Publication interval
 
-Publication interval is available for 3643 documents (1%). 
+Publication interval is available for 3642 documents (1%). 
 
 [Publication interval accepted](output.tables/publication_interval_discarded.csv)
 
@@ -49,7 +49,7 @@ information is readily available in MARC.
 
 In this data we have 2
 unique documents with an identical title and author. Out of these,
-15488
+15485
 have multiple occurrences, sometimes with different publication years.
 Where multiple publication years are seen, the earliest occurrence is
 suggested as the first edition.

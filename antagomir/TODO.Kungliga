@@ -2,6 +2,8 @@
 
 ### Technical
 
+gatherings missing for most documents. why ?
+
 Check that preprocessing is ok for all fields. Continue polishing
 where not. See [preprocessing
 overview](https://github.com/rOpenGov/kungliga/blob/master/antagomir/overview.md)

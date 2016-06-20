@@ -26,12 +26,18 @@ Top-20 publication places are shown together with the number of documents.
 ### Top publication countries
 
 
-|Country |Documents (n) | Fraction (%)|NA |         NA|
-|:-------|:-------------|------------:|:--|----------:|
-|Sweden  |A             |       281050|A  | 75.6965673|
-|Finland |B             |        20921|B  |  5.6347550|
-|Germany |C             |         7161|C  |  1.9287071|
-|Denmark |D             |         4509|D  |  1.2144310|
-|USA     |E             |         3255|E  |  0.8766850|
-|Norway  |F             |         2950|F  |  0.7945379|
+```
+## Error in Math.factor(structure(c(33L, 32L, 31L, 30L, 29L, 28L, 27L, 26L, : 'round' not meaningful for factors
+```
+
+
+
+|Country |Documents (n) |Fraction (%)      |
+|:-------|:-------------|:-----------------|
+|Sweden  |281050        |75.696567326986   |
+|Finland |20921         |5.63475497259518  |
+|Germany |7161          |1.92870705792047  |
+|Denmark |4509          |1.21443096273752  |
+|USA     |3255          |0.876685026327484 |
+|Norway  |2950          |0.794537888683895 |
 

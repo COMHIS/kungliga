@@ -1,18 +1,29 @@
 ## TODO
 
-### Krakow
-
-   Subject topics: tässä on tosi mielenkiintoista kuinka erilaiselta tämä näyttää Fennican suhteen. Voisi kokeilla miten yliopistokaupungeissa yliopistojulkaisuissa toimii sekä kungligassa että fennicassa nuo asiasanat. Tuleeko top-listaan eri paikkakunnilla ja eri aikoina samat asiasanat vai onko tässä suurtakin heittoa?
-
 ### Technical
 
-Check that preprocessing is ok for all fields. Continue polishing where not. See [preprocessing overview](https://github.com/rOpenGov/kungliga/blob/master/antagomir/overview.md)  
+Check that preprocessing is ok for all fields. Continue polishing
+where not. See [preprocessing
+overview](https://github.com/rOpenGov/kungliga/blob/master/antagomir/overview.md)
 
+
+### Analyses for Krakow
+
+- Standard overviews (LL)
+
+- Subject topics: mielenkiintoista kuinka erilaiselta tämä näyttää
+  Fennican suhteen. Voisi kokeilla miten yliopistokaupungeissa
+  yliopistojulkaisuissa toimii sekä kungligassa että fennicassa nuo
+  asiasanat. Tuleeko top-listaan eri paikkakunnilla ja eri aikoina
+  samat asiasanat vai onko tässä suurtakin heittoa?
+
+
+### HR tasks
 
 Merge the work from HR (publisher field etc) into the main pipeline.
 
 
-### Fields to be added (?)
+### Fields to be added (?), less urgent
 
 Some of these are available in the data but may not have preprocessing
 functions yet (check):

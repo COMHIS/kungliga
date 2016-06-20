@@ -356,9 +356,9 @@ Uusikaarlepyy	20
 Shanghai	20
 Lund stockholm	20
 Kramfors	20
+H fors	20
 Hessleholm	20
 Hamina	20
-H fors	20
 Gränna	20
 Edsbyn	20
 åhr	20
@@ -698,8 +698,8 @@ St louis	6
 Sollentuna	6
 Sofia	6
 Skälderviken	6
-Santiago de chile	6
 S grevenhage	6
+Santiago de chile	6
 Rockford ill	6
 Rinteln	6
 Posen	6
@@ -826,12 +826,12 @@ Liverpool	5
 Lindesbärg	5
 Lincoln	5
 Lilleskog	5
-Leipzig zuerich	5
 Le mans	5
+Leipzig zuerich	5
 Kvarnby	5
+Kr stad	5
 Kristiania kobenhavn	5
 Kristiania kjobenhavn	5
-Kr stad	5
 Kopparberg	5
 Kinnared	5
 Kiev	5
@@ -931,9 +931,9 @@ Söderfors	4
 Skånes fagerhult	4
 Sjögestad	4
 Sibbhult	4
+S gravenh	4
 Santiago	4
 Salt lake city utah	4
-S gravenh	4
 Rydboholm	4
 Rudolstadt	4
 Roslags näsby	4
@@ -959,8 +959,8 @@ Naumburg s	4
 Muehlhausen	4
 Moline	4
 Modena	4
-Malmoe	4
 Malmö lund	4
+Malmoe	4
 Lwow poznań	4
 Los angeles	4
 Lorch	4
@@ -1030,8 +1030,8 @@ Brno	4
 Borgå hfors	4
 Borensberg	4
 Bohus	4
-Berlin/dresden	4
 Berlin stettin	4
+Berlin/dresden	4
 Berkeley calif	4
 Bayreuth	4
 Barmen	4
@@ -1113,8 +1113,9 @@ Syninge	3
 Sundswall l blomdahls boktryckeri	3
 Stregnesii	3
 Strassburg leipzig	3
-Stokkholman	3
+St paul	3
 Stokkholm peter hesselberg	3
+Stokkholman	3
 Stokgolʹm pečatan v korolevskoj tipografii	3
 Stockholm york	3
 Stockholm skara	3
@@ -1127,12 +1128,12 @@ Stockholm falun	3
 Stockholm danzig	3
 Sthm	3
 Stanford	3
-St paul	3
 Slagelse	3
 Skultuna	3
 Skive	3
 Skinnskatteberg	3
 Sioux city iowa	3
+S graveland	3
 Sevilla	3
 Seffle	3
 Schleswig	3
@@ -1143,7 +1144,6 @@ Saltsjö storängen	3
 Saltsjö järla	3
 Saltsjö duvnäs	3
 Saarmund	3
-S graveland	3
 Ryssby	3
 Rudkoping	3
 Rudkjobing	3
@@ -1235,9 +1235,9 @@ Kållerstad	3
 Käkisalmi	3
 Jyväskylä helsinki	3
 Jönkjöping	3
+Joh h werner kongl boktr	3
 Johannishus	3
 Johannisberg	3
-Joh h werner kongl boktr	3
 Järfva	3
 Jakobsberg	3
 Jahr christi	3
@@ -1291,8 +1291,8 @@ Djurröd	3
 Directeuren carl gustav berling	3
 Deux	3
 Delsbo	3
-Debrecen	3
 De l imprimerie royale	3
+Debrecen	3
 Dantzig	3
 Coventry	3
 Cöthen	3
@@ -1365,6 +1365,7 @@ Wadstena o u regnstrand ci	2
 Vretstorp	2
 Vratislaviae	2
 Vpsalae	2
+V prace	2
 Voorhout	2
 Vittsjö	2
 Villefranche	2
@@ -1383,7 +1384,6 @@ Värmdö	2
 Vårgårda	2
 Valparaiso	2
 Vadensjö	2
-V prace	2
 Uttran	2
 Utrecht antwerpen	2
 Utgivningsort okänd	2
@@ -1397,8 +1397,8 @@ Ulriksdal	2
 Ueberlingen am bodensee	2
 Uddewalla johnsons enka	2
 Uddevalla johnson	2
-Ubsala	2
 U ddevall a	2
+Ubsala	2
 Tystberga	2
 Turusa åbo	2
 Turnov	2
@@ -1426,8 +1426,8 @@ Sverige anno	2
 Sverige åhr	2
 Svenstavik	2
 Svenshögen	2
-Sundsvalliae	2
 Sundsvall l blomdahls boktryckeri	2
+Sundsvalliae	2
 Sundsv	2
 Stuttgart wien	2
 Stuttgart stockholm	2
@@ -1440,32 +1440,32 @@ Stralsund leipzig	2
 Stokholma	2
 Stokgolʹm	2
 Stoclholm	2
-Stockholmn	2
-Stockholmm	2
-Stockholmb	2
-Stockholmae	2
-Stockholm/uddevalla	2
 Stockholm västerås	2
 Stockholm upsala westerås örebro	2
+Stockholm/uddevalla	2
+Stockholmn	2
 Stockholm malmö göteborg	2
+Stockholmm	2
 Stockholm london paris	2
 Stockholm kjöbenhavn	2
 Stockholm jönköping	2
 Stockholm hamburg	2
 Stockholm berlin	2
+Stockholmb	2
+Stockholmae	2
 Stockholm abo	2
 Stockhholm	2
 Stochholm	2
 Stirling	2
 Sthlm tr l salvius	2
 Sthlm gbg	2
+St Helier	2
 Stendal	2
 Stenberga	2
+St chrischona	2
 Stamford	2
 Ståkkholm	2
 Stade bey caspar holwein	2
-St Helier	2
-St chrischona	2
 Spöland	2
 Speyer	2
 Sparrsätra	2
@@ -1481,6 +1481,7 @@ Skokloster	2
 Skavböke	2
 Skälderhus	2
 Silkeborg	2
+S hertogenbosch	2
 Seglora	2
 Sedini	2
 Schwabach	2
@@ -1493,7 +1494,6 @@ Salzburg	2
 Salamanca	2
 Saint paul	2
 Saint louis	2
-S hertogenbosch	2
 Runemo	2
 Rueschlikon zch	2
 Roskilde	2
@@ -1586,6 +1586,7 @@ Molde	2
 Mjällby	2
 Minden	2
 Mietau bey jacob friedrich hinz	2
+M gladbach	2
 Merseburg	2
 Meppel	2
 Menasha wisc	2
@@ -1597,24 +1598,24 @@ Mdccxvi	2
 Matfors	2
 Mariestad f d lewerentzs̓ka boktryckeriet	2
 Mariaestad	2
-Marburgi	2
 Marburg/lahn	2
+Marburgi	2
 Månsåsen	2
 Mamers	2
 Malmön	2
-Malmogiae	2
 Malmö köpenhamn	2
 Malmö göteborg	2
+Malmogiae	2
 Målilla	2
 Maastricht	2
-M gladbach	2
 Lyon paris	2
 Lyckeby	2
+L viv	2
 Lvgd batav officina elzeviriana	2
-Lunda	2
 Lund uppsala	2
 Lund kobenhavn	2
 Lund copenhagen	2
+Lunda	2
 Luleå stockholm	2
 Luelå	2
 Lucksta	2
@@ -1647,7 +1648,6 @@ Långshyttan	2
 Långebro	2
 Landsbro	2
 Lancaster Pa	2
-L viv	2
 Kvistbro	2
 Kvevlax	2
 Kupiossa	2
@@ -1895,8 +1895,8 @@ Bottnaryd	2
 Börrum	2
 Borlänge sköllersta	2
 Bordighera	2
-Bonnier	2
 Bonn lpz	2
+Bonnier	2
 Bondstorp	2
 Bollstanäs	2
 Bollnås	2
@@ -1947,8 +1947,8 @@ Ahmedabad	2
 åbo ekenäs	2
 Abbeville	2
 /	2
-þryckter hoolum i hialltadal halldore eriks syne anno mdcclvi	1
 þryckt hoolum i hialltadal halldore eriks syne anno m dcc lvi	1
+þryckter hoolum i hialltadal halldore eriks syne anno mdcclvi	1
 Zwittau	1
 Zweybruecken druckts georg nicolai königl gouvernem buchdr anno mdccviii	1
 Zweibrücken	1
@@ -1980,11 +1980,15 @@ York Pa	1
 York londres	1
 York chicago	1
 Yonkers ny	1
+W zamosciu	1
 Wÿsingzborg	1
+W wilnie	1
+W warszawie	1
 Wuppertal vohwinkel	1
 Wuerzburb	1
 Wuerttemberg	1
 Wretstorp	1
+W poznaniu	1
 Woxna	1
 Workum	1
 Worcester	1
@@ -2004,8 +2008,8 @@ Wiszmar	1
 Wissmar und straalsund im verlag samuel gottlieb lochmanns buchhändlers bey johann zander	1
 Wissmar bey jochim georg rheten im jahr	1
 Wisingsborgh hans höggrefl nådhes rickz drotzens booktryckiare thersammestädes johann kankel anno	1
-Wisbyae	1
 Wisby jonas nyberg	1
+Wisbyae	1
 Winslöf	1
 Willie rydsgård	1
 Wilhelmsro	1
@@ -2029,10 +2033,10 @@ Wexiö til förmån för fattig skolan där hon ock endast hålles til köps år
 Wexiö kongl privil gymn boktryck wrigseen thetzell	1
 Wexiö kongl priv gymn boktr wrigseen thetzell	1
 Wexiö kongl priv gymn boktr anders wrigsen	1
+Wexiö kongl gymn bokt c merckell	1
 Wexiö kongl gymnasii boktryckaren johan christopher merckell	1
 Wexiö kongl gymnasii boktryckaren c merckell	1
 Wexiö kongl gymnasii bokt c merckell	1
-Wexiö kongl gymn bokt c merckell	1
 Wexiö carl fr berg	1
 Wexi	1
 Wetteren	1
@@ -2053,6 +2057,7 @@ Wennberg nordström	1
 Wenersborg siguard swanholm kongl privil boktr	1
 Wenersborg qvist	1
 Wendelsberg	1
+We lwowie	1
 Wellington nz	1
 Weixö	1
 Weissenburg	1
@@ -2063,7 +2068,6 @@ Weibullsholm	1
 Weehauken nj	1
 Wedel holstein	1
 Wedel	1
-We lwowie	1
 Wäxiö	1
 Waxholm	1
 Waverly iowa	1
@@ -2077,11 +2081,9 @@ Wåmhus	1
 Wakefield neb	1
 Wahoo neb	1
 Wahlström widstrand	1
-W zamosciu	1
-W wilnie	1
-W warszawie	1
-W poznaniu	1
 Vthgången publicerat translatoris eghen typographia an m dc xxxviii	1
+V sanktpeterburgě pri morskom slachetnom kadetskom korpusě goda	1
+V sanktpeterburgě pečatano v tipografii f drechslera goda	1
 Vrsovice	1
 Vrigstad	1
 Vråka	1
@@ -2089,11 +2091,15 @@ Vrå	1
 Vpsalis literis wernerianis	1
 Vpsalis	1
 Vpsaliae hamburg	1
-Vpsala stockholm	1
 Vpsal bey eschil matzson anno	1
+Vpsala stockholm	1
 Voxna	1
 Voronež	1
 Vollsjö	1
+V moskvě v tipogr pri teatrě u ch klaudija goda	1
+V ljubljani	1
+V laxsjön	1
+V karleby	1
 Vivstavarv	1
 Vittinge	1
 Vitsand	1
@@ -2120,8 +2126,8 @@ Vexionae	1
 Vevey	1
 Vetanda	1
 Vestrås	1
-Vesterosa	1
 Vester vexiö	1
+Vesterosa	1
 Vessigebro	1
 Vesoul	1
 Verviers	1
@@ -2140,10 +2146,11 @@ Veda	1
 Vbsala hoos eskild matzson	1
 Vbsala eskil matzson åhr	1
 Vbsala eskel matzon	1
+V brně	1
 Växterås	1
-Växlande orter	1
 Växl ort	1
 Växl o	1
+Växlande orter	1
 Växjö växjö	1
 Växjö hov	1
 Växjo	1
@@ -2154,6 +2161,8 @@ Västerhaninge	1
 Västerås wästerås	1
 Västerås stockholm	1
 Västerås falun	1
+Vä sterås	1
+V äster ås	1
 Västeras	1
 Vassor	1
 Väsby	1
@@ -2164,6 +2173,7 @@ Väröbacka	1
 Värmskog	1
 Vargön	1
 Värends nöbbele	1
+V ar b er g	1
 Vankiva	1
 Vängdala	1
 Vänga	1
@@ -2184,17 +2194,9 @@ Valbo	1
 Vågbro	1
 Vadstena orto	1
 Väckelsång	1
-Vä sterås	1
-V sanktpeterburgě pri morskom slachetnom kadetskom korpusě goda	1
-V sanktpeterburgě pečatano v tipografii f drechslera goda	1
-V moskvě v tipogr pri teatrě u ch klaudija goda	1
-V ljubljani	1
-V laxsjön	1
-V karleby	1
-V brně	1
-V äster ås	1
-V ar b er g	1
+U zagrebu	1
 Uvira congo belge	1
+U tr å	1
 Utgivningsort okänd #b utgivare okänd	1
 Utg av sveriges arbetares centralorganisation	1
 Ustad	1
@@ -2210,10 +2212,9 @@ Upsala christianstad	1
 Ups	1
 Uppssala	1
 Uppsaliae wahlström låstbom	1
+Uppsaliae l m höjer reg acad typogr	1
 Uppsaliae litteris joh edman	1
 Uppsaliae leffler	1
-Uppsaliae l m höjer reg acad typogr	1
-Uppsalab lundequistska bokhandeln	1
 Uppsala upsala	1
 Uppsala stuttgart	1
 Uppsala rostock	1
@@ -2223,8 +2224,13 @@ Uppsala köpenhamn	1
 Uppsala helsingfors	1
 Uppsala haag	1
 Uppsala göteborg	1
+Uppsalab lundequistska bokhandeln	1
 Uppala	1
 Uppåkra	1
+U o tr krakau	1
+U o tr å stockho m	1
+U o o tr	1
+U o å	1
 Undersåker	1
 Umeå nya boktryckeri bolaget	1
 Umeå e lindroth	1
@@ -2239,6 +2245,7 @@ Ulricehamns tidn	1
 Ulricehamn carl fred deirich	1
 Ulmae	1
 Ullerud	1
+U kyïvi	1
 újpest	1
 Ueppsala	1
 Udine	1
@@ -2251,13 +2258,6 @@ Uddevalla schwartzman nordström	1
 Uddevalla c malmgren	1
 Ubsaliae upsal	1
 Ubmekesne umeå	1
-U zagrebu	1
-U tr å	1
-U o tr krakau	1
-U o tr å stockho m	1
-U o o tr	1
-U o å	1
-U kyïvi	1
 Typographeo caroli hoepfneri reg acad typogr	1
 Typ acad p wald	1
 Tvedestrand	1
@@ -2278,12 +2278,19 @@ Tucson	1
 Tubingae	1
 Ttockholm hoos niclas wankijff kongl bookt	1
 Tryet udi malmo vitus haberegger gouvernaments bogtrycker	1
+Tr växl tryckerier	1
+Tr utomlands	1
+Tr tyskland	1
 Troy NY	1
 Troppau	1
 Trondhjelm	1
 Trolleholm	1
 Trivandrum	1
+Tr i utl	1
 Tripoli	1
+Tr i kbhn	1
+Tr i göteb	1
+Tr i gefle	1
 Trieste	1
 Triest	1
 Trier	1
@@ -2291,18 +2298,11 @@ Tribsees	1
 Treviso	1
 Trelleb	1
 Treignac	1
+Tr bishop hill	1
 Träslöv	1
 Transvaal	1
 Tranås posten	1
 Trade lake wis	1
-Tr växl tryckerier	1
-Tr utomlands	1
-Tr tyskland	1
-Tr i utl	1
-Tr i kbhn	1
-Tr i göteb	1
-Tr i gefle	1
-Tr bishop hill	1
 Tournay	1
 Tourcoing	1
 Tostarp	1
@@ -2376,6 +2376,7 @@ Syon abbey	1
 Swedona ill	1
 Swedesburg	1
 Swedeburg neb	1
+Sv missionsförb	1
 Svichtov	1
 Svenska trafsällskapets förlag	1
 Svenska bokförl /bonnier	1
@@ -2386,7 +2387,6 @@ Svappavaara	1
 Svanskog	1
 Svanö frånö	1
 Svängsta	1
-Sv missionsförb	1
 Surte	1
 Superior Wi	1
 Sunhultsbrunn	1
@@ -2415,8 +2415,8 @@ Strengnesi	1
 Strengnäs stockholm	1
 Strengnääs	1
 Strehlen	1
-Stregnesii zacharias asp anno	1
 Stregn zacharia brockenio	1
+Stregnesii zacharias asp anno	1
 Stratford-upon-Avon	1
 Straszburg verlegung caspar dietzels buchhändlers m dc xliv	1
 Strassfurt	1
@@ -2424,14 +2424,15 @@ Strassburg basel	1
 Strassborg	1
 Strasbourg paris	1
 Strångsjö	1
+St rängnäs	1
 Strängnas	1
 Strand	1
 Stralsundt von augustino ferbern vnd verlegt im jahr christi	1
 Stralsundt	1
-Stralsundiae anno m dc lxxvii	1
-Stralsundi literis joachimi reumanni anno m dc lxiii	1
 Stralsund rostock leipzig	1
 Stralsund örebro	1
+Stralsundi literis joachimi reumanni anno m dc lxiii	1
+Stralsundiae anno m dc lxxvii	1
 Stralsund greifswald	1
 Strahlsundt jm monat junii	1
 Strahlsundt	1
@@ -2440,12 +2441,16 @@ Strahlsund	1
 Strägnäs	1
 Straatsburg	1
 Stpetersburg	1
+St petersbourg de l imprimerie de l academie imperiale des sciences	1
+St petersb	1
+St peter minn	1
+St paul minnesota	1
 Stovkholm	1
 Storuman	1
 Storfors	1
-Storängen	1
 Stora torps gård	1
 Stora skedvi	1
+Storängen	1
 Stora mellösa	1
 Stokkholm trykkte lars salvius år	1
 Stokholme	1
@@ -2460,21 +2465,9 @@ Stocôlma	1
 Stockkolm	1
 Stockhoplm then augusti anno c	1
 Stockhoml	1
+Stockho m	1
 Stockholom	1
 Stockholn	1
-Stockholmt	1
-Stockholmiae upsal	1
-Stockholmesn trykketum lars salviusen ludne	1
-Stockholmbfröleen	1
-Stockholmb sns	1
-Stockholmb norstedt	1
-Stockholmb bonnier	1
-Stockholmåb geber	1
-Stockholmā	1
-Stockholma	1
-Stockholm/london	1
-Stockholm/ niclas wankijff/ kongl booktryckiare	1
-Stockholm/ hoos henr c merckell	1
 Stockholm wien	1
 Stockholm wiborg åbo	1
 Stockholm westerås	1
@@ -2482,6 +2475,7 @@ Stockholm utrecht	1
 Stockholm upsala westerås	1
 Stockholm uppsala greifswald	1
 Stockholm uppsala åbo	1
+Stockholmt	1
 Stockholm strasbourg	1
 Stockholm stralsund	1
 Stockholm stocholm	1
@@ -2491,9 +2485,11 @@ Stockholm pernau	1
 Stockholm östersund	1
 Stockholm oslo	1
 Stockholm nuernberg	1
+Stockholm/ niclas wankijff/ kongl booktryckiare	1
 Stockholm milan	1
 Stockholm lyon	1
 Stockholm lund köpenhamn	1
+Stockholm/london	1
 Stockholm lipsiae	1
 Stockholm linköping lund	1
 Stockholm köpenhamn oslo	1
@@ -2501,38 +2497,49 @@ Stockholm kjöpenhamn	1
 Stockholm kjöbenhavn christiania	1
 Stockholm karlskrona regensburg	1
 Stockholm karlskrona	1
+Stockholmiae upsal	1
+Stockholm/ hoos henr c merckell	1
 Stockholm helsigfors	1
 Stockholm halle	1
 Stockholm göttingen	1
 Stockholm göteborg malmö	1
 Stockholm filadelfia	1
+Stockholmesn trykketum lars salviusen ludne	1
 Stockholm erfurt	1
 Stockholm dresden	1
 Stockholm continental	1
 Stockholm christianstad	1
 Stockholm chicago	1
+Stockholmb sns	1
+Stockholmb norstedt	1
+Stockholmbfröleen	1
 Stockholm berlin paris	1
+Stockholmb bonnier	1
+Stockholmåb geber	1
+Stockholmā	1
+Stockholma	1
 Stockhollm	1
 Stockhol	1
-Stockho m	1
 Stockhlom	1
 Stockhhlm	1
 Stockel	1
 Stöckeby	1
+Stocholm westerås	1
 Stocholmo	1
 Stocholme chez henry kayser mdcli	1
-Stocholm westerås	1
 Stocholm åbo	1
 Stochholm joh christ holmberg	1
 Stochgol m	1
 Stoby	1
+St louis mo	1
 Stjärnsund	1
 Stjärnhov	1
 Stiens	1
+Sth paul	1
 Sthockholm	1
+Sthlm vendelsö	1
 Sthlm/uppsala	1
 Sthlm/uddevalla	1
-Sthlm vendelsö	1
 Sthlm tr kongl	1
 Sthlm tr i sala	1
 Sthlm tr i norrtälje	1
@@ -2545,7 +2552,6 @@ Sthlm o	1
 Sthlm m fl	1
 Sthlm lpz	1
 Sthlm landskrona	1
-Sth paul	1
 Sth	1
 Stettini	1
 Stetin	1
@@ -2570,21 +2576,17 @@ Stade bey elias holwein sel nachgel wittibe	1
 Stadae henricum brummerum bibliopol holweinianis anno m dcc vii	1
 Ståckhålm kongl bookt sal wankijfs änckia åhr	1
 Ståckhålm	1
-St rängnäs	1
-St petersbourg de l imprimerie de l academie imperiale des sciences	1
-St petersb	1
-St peter minn	1
-St paul minnesota	1
-St louis mo	1
-Springfield ohio	1
 Spring lake	1
+Springfield ohio	1
 Sprängsviken	1
 Spoleto	1
 Spokane wash	1
 Spjutstorp	1
+S petersbourg	1
 Speterburg	1
 Speier	1
 Spb	1
+S paulo	1
 Spa	1
 Sövesborg	1
 South bend ind	1
@@ -2594,8 +2596,8 @@ Sortawalassa	1
 Soroe jonas lindgren det ridderlige akademies bogtrykker	1
 Sorö	1
 Sordawala	1
-Sorau druckts johann gottlieb rothe	1
 Sorau druckts joh gottlieb rothe	1
+Sorau druckts johann gottlieb rothe	1
 Sorau	1
 Sontra	1
 Sonstorp tranås	1
@@ -2611,8 +2613,8 @@ Soerabaia	1
 Södra ving	1
 Södra valbo	1
 Södra sunderbyn	1
-Södertäljet	1
 Södertälje tryckcentral	1
+Södertäljet	1
 Södertäje	1
 Söderström k	1
 Söderköping n f tengzelius	1
@@ -2624,15 +2626,15 @@ Söderby	1
 Söderbärke	1
 Söderåkra	1
 Södderköping	1
-Sockholmm	1
 Sockholm peter van selow	1
+Sockholmm	1
 Snogeröd	1
 Snits	1
 Smolensk	1
 Smögen	1
 Smedby högalid	1
-Smålands taberg	1
 Smål burseryd	1
+Smålands taberg	1
 Slite	1
 Slaka	1
 Skuttunge	1
@@ -2675,6 +2677,10 @@ Siljansnäs	1
 Siena	1
 Siegen	1
 Sidcup	1
+Sʹgravenhage	1
+Ṡ gravenhage	1
+S gravenhaege	1
+S graavenhaage	1
 Seskarö	1
 Serdicae	1
 Senlis	1
@@ -2702,8 +2708,8 @@ Sarpsborg	1
 Särkisalmi	1
 Särestad	1
 Sarajevo	1
-Sāo paulo	1
 Saõ paulo	1
+Sāo paulo	1
 Santpoort	1
 Santpoor mees	1
 Santos	1
@@ -2712,17 +2718,17 @@ Sanseverino	1
 Sanktpiterburg	1
 Sanktpiterburch	1
 Sanktpeterburge	1
-Sandträsk	1
-Sandhammaren	1
-Sandbäck nossebro	1
 San juan de puerto rico	1
 San francisco cal	1
 San fernando	1
+Sandträsk	1
 San diego calif	1
+Sandhammaren	1
+Sandbäck nossebro	1
 Samuel norberg kongl gymn boktr	1
 Samuel norberg	1
-Samedan	1
 Sam norberg kongl gymn boktr	1
+Samedan	1
 Salzkotten	1
 Salstad	1
 Salssjö järla	1
@@ -2739,12 +2745,6 @@ Säbrå	1
 Saarlouis	1
 Saarbruecken	1
 Saalfeld	1
-Sʹgravenhage	1
-S petersbourg	1
-S paulo	1
-Ṡ gravenhage	1
-S gravenhaege	1
-S graavenhaage	1
 Ryrane renland	1
 Ryfors bruk nedre	1
 Rydaholm	1
@@ -2759,15 +2759,15 @@ Rovigo	1
 Rovaniemi	1
 Rousselare	1
 Rotterdam amsterdam	1
-Rothenburg ob tauber	1
 Rothenburg o/tbr	1
+Rothenburg ob tauber	1
 Roszlau kongl fält tryckeriet directeuren p sohm	1
 Rostokii	1
 Rostock wismar	1
 Rostock leipzig	1
+Rostochi lipsiae	1
 Rostochii rostock	1
 Rostochii lipsiae	1
-Rostochi lipsiae	1
 Röstånga	1
 Rosersberg	1
 Rosehill partilled n	1
@@ -2878,8 +2878,8 @@ Präntaijäin directörin h wernerin tyfönä	1
 Praha karlína	1
 Praha karlín	1
 Prague uppsala	1
-Prage	1
 Prag smíchov	1
+Prage	1
 Prag bey wolfgang gerle	1
 Praelo reusneriano	1
 Prace	1
@@ -2894,17 +2894,18 @@ Porvoosoa	1
 Porvoosa	1
 Porvoo helsingfors	1
 Porvo	1
+Port shepstone	1
 Pôrto alegre	1
 Pôrto	1
 Portland worcester mass	1
 Portland brookfield	1
-Port shepstone	1
 Porovoossa	1
 Pontarlier	1
 Pommern	1
 Polen	1
 Point loma california	1
 Point loma cal	1
+P norstedt söner	1
 Plymouth	1
 Plueggenthin	1
 Plön holstein	1
@@ -2925,6 +2926,7 @@ Pinerolo	1
 Pillau	1
 Piitimessä i piteå	1
 Pielsijärvi	1
+P horrebow	1
 Philippopel	1
 Philadelphia york london	1
 Philadelphia york	1
@@ -2936,8 +2938,8 @@ Petrus hansonius acad typogr	1
 Petroskoi	1
 Peter hesselberg år	1
 Peter hesselberg	1
-Pesth	1
 Pest wien leipzig	1
+Pesth	1
 Pescara	1
 Perth edinburgh london	1
 Pernau lund	1
@@ -2970,8 +2972,6 @@ Paisley	1
 Pairs	1
 Padua	1
 Pacov	1
-P norstedt söner	1
-P horrebow	1
 Oxnäs	1
 Oxie	1
 öxabäck	1
@@ -3034,6 +3034,7 @@ Ofvansjö	1
 Officina werneriana	1
 Offenbach/main	1
 Oerebro	1
+O eklund	1
 Oderljunga	1
 Odensvi	1
 Odense christian iversen	1
@@ -3041,20 +3042,19 @@ Odense christian iversen	1
 Ocke	1
 öbbestorp	1
 Oakland calif	1
-O eklund	1
 Nytorp kongl fält tryckeriet directeuren p sohm	1
 Nysund	1
 Nyskoga	1
 Nynäs	1
 Nymburce	1
 Nykyrka	1
-Nyköping petter winge	1
 Nyköping p winge	1
 Nyköping p hammarin å nyo	1
+Nyköping petter winge	1
 Nyköping joh p hammarin efter original	1
 Nyköping hoos amund nilszon grefwe hans typographia åhr	1
-Nyköping carl haszelrot	1
 Nyköping c h des reaux s officin	1
+Nyköping carl haszelrot	1
 Nyköping begäran efter origin uplagdt	1
 Nyköping amund n grefwe åhr	1
 Nyköping åhr amnund n grefwe	1
@@ -3097,11 +3097,11 @@ Norrköping hamburg stockholm	1
 Norrköping götheborg	1
 Norrkǒping	1
 Norrkjöping joh benj blume	1
+Norr jersjö	1
 Norrfjärden	1
+Norr edsbyn	1
 Norrcopiae	1
 Norrala delsbo	1
-Norr jersjö	1
-Norr edsbyn	1
 Norman okl	1
 Noribergae upsaliae	1
 Norembergae	1
@@ -3118,6 +3118,7 @@ Nol	1
 Nogent le rotron	1
 Nödinge	1
 Njutånger	1
+N ju jork	1
 Nivelles	1
 Nitta	1
 Nissafors	1
@@ -3129,17 +3130,18 @@ Niclas wankijff kongl booktryck åhr	1
 Niclas wankijff kongl booktr åhr	1
 Nicea	1
 Newry	1
-Newark NJ	1
-Newark	1
 New delhi	1
 New castle on tyne	1
 New Brunswick NJ	1
 New britain	1
+Newark NJ	1
+Newark	1
 Nevers	1
 Neuwied am rhein	1
 Neuwied	1
 Neutra	1
 Neutitschein	1
+Neu strelitz	1
 Neustadt do	1
 Neustadt an orla	1
 Neustadt an haardt	1
@@ -3148,7 +3150,6 @@ Neumann	1
 Neukölln	1
 Neufchatel	1
 Neues	1
-Neu strelitz	1
 Nestved	1
 Neisz	1
 Nederkalix	1
@@ -3158,6 +3159,7 @@ Naugatuck conn	1
 Nässundet	1
 Näsbypark	1
 Näs	1
+N ås	1
 Nårunga	1
 Närtuna	1
 Naperville ill	1
@@ -3172,8 +3174,6 @@ Nagoya	1
 Näfveqvarn	1
 Naestved	1
 Nääs floda gävle	1
-N ju jork	1
-N ås	1
 Mustio	1
 Murtern	1
 Murnau muenchen	1
@@ -3199,9 +3199,9 @@ Mosoen	1
 Moskwa	1
 Mörrum	1
 Morpeth	1
+Mor ostrava	1
 Morgårdshammar	1
 Mörarp	1
-Mor ostrava	1
 Montrose	1
 Montpelier vt	1
 Montevrain	1
@@ -3219,8 +3219,8 @@ Monachii	1
 Mölnbo	1
 Mölltorp	1
 Möljeryd	1
-Moline illinois	1
 Molin ill	1
+Moline illinois	1
 Moholm	1
 Modona	1
 Mjörnsjö	1
@@ -3253,6 +3253,7 @@ Meiningen	1
 Mehede	1
 Medellín	1
 Meaux	1
+M dc xcv	1
 Mdccxxi	1
 Mdccxcix	1
 Mcpherson kan	1
@@ -3280,10 +3281,10 @@ Mantorp	1
 Mannheim käfertal	1
 Mångbyån	1
 Manchester stockholm	1
-Malmogiae viti haberegger gn gv typogr	1
 Malmö uppsala stockholm	1
 Malmö stockholm göteborg	1
 Malmö kiöbenhavn	1
+Malmogiae viti haberegger gn gv typogr	1
 Malmo	1
 Mallmö anno	1
 Malfors ljungsbro	1
@@ -3296,37 +3297,39 @@ Madouma brazzaville	1
 Madison wisconsin	1
 Madison wis	1
 Macao	1
-M dc xcv	1
-Lʾviv	1
 Lysekilsposten	1
 Lyron	1
 Lybec	1
 łwow	1
+L vôv	1
+L vov	1
 Lvndini scanorum literis viti haberegger gouvern acad carol typographi	1
 Lvndae berlingianis	1
+Lʾviv	1
 Lvgdvni lugduni	1
+Lvgd bat officina guilielmi christiani m d cl	1
 Lvgd batavorvm officina adriani wijngaerdem	1
 Lvgd batavorvm elzevirios anno	1
-Lvgd bat officina guilielmi christiani m d cl	1
 Luuleo	1
 Luton	1
 Lusaka	1
 Lunnevad	1
 Lungsund	1
+Lund upsala stockholm	1
 Lundsberg	1
 Lunds	1
-Lundensibus	1
-Lundb	1
-Lundae lund	1
-Lund upsala stockholm	1
 Lund malmö	1
 Lund lipsiae	1
 Lund köpenhamn christiania	1
 Lund hamburg	1
 Lund frankfurt	1
+Lundensibus	1
 Lund bromley	1
 Lund bologna stockholm uppsala	1
 Lund berlin	1
+Lundb	1
+Lundae lund	1
+L und	1
 Lulejon	1
 Lugnås	1
 Lugd bat	1
@@ -3348,14 +3351,14 @@ Lorient	1
 Lorens ludvig grefing	1
 Lons le saunier	1
 Loning	1
-Londresparis	1
 Londres paris providence	1
-Londoni lund	1
+Londresparis	1
 London stockholm copenhagen berlin york	1
 London paris york	1
 London newcastle	1
 London lyon	1
 London köbenhavn	1
+Londoni lund	1
 London holborn	1
 London glasgow bombay	1
 London exeter york	1
@@ -3382,8 +3385,8 @@ Litteris berlingianis	1
 Literis höjerianis	1
 Litchfield Ct	1
 Lisse	1
-Lissabon tenhult	1
 Lissa ip	1
+Lissabon tenhult	1
 Lisbonne	1
 Liptovsky	1
 Lipsiae rostochii	1
@@ -3427,6 +3430,7 @@ Leverkusen	1
 Levallois perret	1
 Letchworth england	1
 Lervik	1
+Le puy velay	1
 Leopoli	1
 Leopol	1
 Leobe	1
@@ -3456,13 +3460,16 @@ Leepaja	1
 Lecuwarden	1
 Lebanon pa	1
 Leamington spa	1
-Le puy velay	1
 Lbingen wendel bodenhausen anno m dc xxix	1
 Laxsjö	1
 Lawrence kan etc	1
 Larvik	1
 Lapua	1
 Lappträsk	1
+La porte ind	1
+La porte	1
+La plata	1
+La paz bolivia	1
 Lannaskede	1
 Lännäs	1
 Lannabruk	1
@@ -3481,24 +3488,17 @@ Landön	1
 Lamoni iowa	1
 Lammhult	1
 Lämbacken	1
+La laguna	1
 Lahr schwarzwald	1
 Lahore	1
 Laholms	1
 Laholm laholm halmstad	1
-Lagan	1
-Labiau	1
-Laage	1
-La porte ind	1
-La porte	1
-La plata	1
-La paz bolivia	1
-La laguna	1
 La haie ches adrien moetjens m dcc xli	1
+Lagan	1
 La crosse wisconsin	1
 La chaux de fonds	1
-L vôv	1
-L vov	1
-L und	1
+Labiau	1
+Laage	1
 Kyrkhult	1
 Kyiv	1
 Kvitsleby	1
@@ -3517,16 +3517,16 @@ Krotoschin	1
 Krotona	1
 Kropp mörarp	1
 Krokek	1
+Krist stad	1
 Kristineham	1
 Kristiansund	1
 Kristianstads läns tidn	1
-Kristiania/oslo	1
 Kristiania stockholm	1
+Kristiania/oslo	1
 Kristiania oslo	1
 Kristiania köpenhamn	1
 Kristiana	1
 Kristala	1
-Krist stad	1
 Krisianstad	1
 Kreuznach	1
 Kresona st chrischona	1
@@ -3582,8 +3582,8 @@ Köbh	1
 Kobenhvn	1
 Kobenhvan	1
 Kobenhavn london	1
-Kobbenhavn	1
 Ko/benhavn	1
+Kobbenhavn	1
 Knivsta	1
 Knivshult karlstorp	1
 Knäred	1
@@ -3617,8 +3617,8 @@ Kiobenh	1
 Kings Lynn	1
 Kingchow	1
 Kimito	1
-Kilonii	1
 Kiloni joachimi reumanni acad typogr anno	1
+Kilonii	1
 Kilmarnock	1
 Kiiv	1
 Kibunzi	1
@@ -3651,8 +3651,8 @@ Karlsborgsverken	1
 Karlsberg	1
 Karlsbad	1
 Karlkskrona	1
-Karlholmsbruk	1
 Karlholms bruk	1
+Karlholmsbruk	1
 Karlanda	1
 Karjaa	1
 Kårgärde	1
@@ -3680,8 +3680,8 @@ Kaiserswerth	1
 Kaiserslautern	1
 Kaapstad pretoria	1
 Kaapstad	1
-Jyväskylääsä	1
 Jyväskylä helsingfors	1
+Jyväskylääsä	1
 Jyväskyla	1
 Jyvaskyla	1
 Jysväskylä	1
@@ -3706,14 +3706,14 @@ Jönkjöping åhr	1
 Jönekjöpjng petter hultman åhr	1
 Jokkmokk	1
 Jokioinen	1
+Joh h werner kongl boktryckiare	1
+Joh fredr edman mariefred	1
 Johansfors	1
 Johanneshov	1
 Johannesburg	1
 Johannes brendeken reg acad typographus	1
 Johannes billingsley	1
 Johan carlbohm	1
-Joh h werner kongl boktryckiare	1
-Joh fredr edman mariefred	1
 Jm jahr	1
 Jihlava	1
 Jfors	1
@@ -3728,15 +3728,16 @@ Jarkend	1
 Janakkala	1
 Jämtlands sikås	1
 Jakala	1
-Jahre	1
 Jahr m dc xxxvii	1
 Jahr m dc xxxi	1
 Jahr m dc xxx	1
 Jahr m dc xliv	1
+Jahre	1
 Jafo	1
 Jaer m d c lxxv	1
 Jadotville	1
 Jäder	1
+I vbsala eskil matzson åhr	1
 Ithaca ny	1
 Istockholm chr reusner anno	1
 Issoudun	1
@@ -3756,12 +3757,11 @@ Ingarö	1
 Indal	1
 Immeln	1
 Ilahabad	1
+I kiobenhaffn georg lamprecht anno paa joachim moltkens boghandlers bekostning	1
 Ignatio meurer	1
 Iglau	1
-Iasi	1
-I vbsala eskil matzson åhr	1
-I kiobenhaffn georg lamprecht anno paa joachim moltkens boghandlers bekostning	1
 I gefle	1
+Iasi	1
 Hyssna	1
 Hyllstofta	1
 Hyllinge gruva	1
@@ -3850,10 +3850,10 @@ Hfoelsingfors	1
 Heylbrunn	1
 Heylbronn bey christoff krausen mense april	1
 Hewlsingfors	1
+Hess oldendorf	1
 Hessleh	1
 Hessleby	1
 Hesse cassel m dcc xviii	1
-Hess oldendorf	1
 Hertford	1
 Hersfeld	1
 Hernösand berlin	1
@@ -3864,8 +3864,8 @@ Hermanstadt	1
 Henriksdal	1
 Henricus curio s r m acad upsaliensis bibliopola m dc lxxiii	1
 Helsinko	1
-Helsinkil	1
 Helsinki turku	1
+Helsinkil	1
 Helsinki hfors	1
 Helsinki helsingissä	1
 Helsingsissä	1
@@ -3875,11 +3875,11 @@ Helsingissä porvoo	1
 Helsingisså	1
 Helsingi	1
 Helsinggissä	1
-Helsingforsb söderström	1
-Helsingforsb fundament	1
 Helsingfors wasa	1
 Helsingfors uppsala	1
 Helsingfors otava	1
+Helsingforsb söderström	1
+Helsingforsb fundament	1
 Helsingforg	1
 Helsingfor	1
 Helsingborg hyllinge gruva	1
@@ -3902,9 +3902,10 @@ Heibronn	1
 Hedesunda	1
 Hederslev	1
 Hedås	1
+H borg	1
 Havniae typographeo regiae majest universit anno mdccvii	1
-Havniae sumtibus legati arnaemagnaeani librariae gyldendalianae jani hostrup schultz aulae universitatis typographi	1
 Havniae sumtibus legati arna magnaeani librariae gyldendalianae hartvigi friderici popp	1
+Havniae sumtibus legati arnaemagnaeani librariae gyldendalianae jani hostrup schultz aulae universitatis typographi	1
 Havniae mdccxcix literis directoris joh frid schultzii aulae universitatis typographi	1
 Havniae calcographeo b joachimi schmidtgen ao	1
 Havniae augusti friderici steinii m dcc lxxvii	1
@@ -3943,24 +3944,25 @@ Hammerdal	1
 Hammarkind	1
 Hamm	1
 Hameln	1
-Hamburgi holmiae	1
 Hamburg york	1
 Hamburg kiel	1
+Hamburgi holmiae	1
 Hamburg franckfurt leipzig	1
 Hambourg stockholm	1
 Hamb	1
 Hälsningborg	1
 Hälsingborg hässleholm	1
+H älsing b or g	1
 Halmstadiae	1
 Halmstad gernandtska boktryckeriet	1
 Halmstad c heuman comp	1
 Hallsbo	1
 Hällnäs	1
+Halle wittenberg	1
 Hälleviksstrand	1
 Hällesjö	1
 Hälleforsnäs	1
 Hälleberga	1
-Halle wittenberg	1
 Hålland	1
 Hallagården	1
 Halla ds	1
@@ -3980,8 +3982,6 @@ Hadersleben	1
 Haapsalu	1
 Haaparanualla	1
 Haag stockholm	1
-H borg	1
-H älsing b or g	1
 Gyttorp	1
 Guxhaven	1
 Gustavsberg nr kimstad	1
@@ -3993,9 +3993,9 @@ Gullestorp	1
 Gullaskruv	1
 Guldsmedshyttan	1
 Guatemala	1
+Gryphisw caroli höpfneri reg acad typogr	1
 Gryphiswaliae caroli höpfneri	1
 Gryphiswaldij ferberi	1
-Gryphisw caroli höpfneri reg acad typogr	1
 Gryphisvvaldiae litteris danielis benjaminis starckii reg acad tybogr	1
 Gryphisvaldiae sumtu ernesti mauritii mdcccxxxvi	1
 Gryphisbaldia	1
@@ -4014,6 +4014,7 @@ Groninga	1
 Gröndahl	1
 Groitzsch	1
 Groeningen	1
+Gr lichterfelde	1
 Gripsholm	1
 Grimslöv	1
 Grimslöf	1
@@ -4038,22 +4039,21 @@ Granstorp fryele	1
 Granada	1
 Grällsta	1
 Graecii haeredum widmanstadii	1
-Gr lichterfelde	1
 Gottingae lipsiae	1
 Göttingae impensis vandenhöck ruprecht	1
 Göttingae	1
 Gothstad	1
 Gothoburgensis	1
-Gothenburgh	1
 Gothenburg luebeck	1
+Gothenburgh	1
 Gothenborg wahlström	1
 Gothenborg sam wahlström	1
 Gothenborg	1
 Göthen ahn	1
 Gothemburg	1
 Göthembourg	1
-Götheborgh translat amund nilsson grefwe åhr	1
 Götheborg upsala	1
+Götheborgh translat amund nilsson grefwe åhr	1
 Gotheborg	1
 Göterborg	1
 Gotenburg	1
@@ -4107,6 +4107,7 @@ Geneve lyon paris	1
 Genevad	1
 Geneso ill	1
 Gemla gransholm	1
+Geʹlsingfors	1
 Gellivare	1
 Geldeston	1
 Gefle tryckeri bolagets officin	1
@@ -4121,15 +4122,14 @@ Gefle ernst pet sundqwist	1
 Gefle eric gustaf löfs enka	1
 Gefle e p sundqvist	1
 Gedani	1
-Geʹlsingfors	1
 Gåxsjö	1
 Gävle i år	1
 Garoli gustavi berling	1
+Gärds köpinge	1
 Gårdsjönäs slussfors	1
 Gardsjönäs slussfors	1
 Gardsjönäs	1
 Gärdsjö	1
-Gärds köpinge	1
 Gammelkroppa	1
 Gammalstorp	1
 Gamlakarlesby	1
@@ -4163,11 +4163,11 @@ Freybergk bey vnd verlegung georg beuthers	1
 Freyberg bey craz und gerlach	1
 Freudenstatt im jubeljahr	1
 Freillasing/oberbayern	1
-Freiburg/br	1
 Freiburg schweiz	1
 Freiburg sachsen	1
 Freiburg im bresgau	1
 Freiburg i br	1
+Freiburg/br	1
 Freiburg br	1
 Freiberg	1
 Freib	1
@@ -4307,8 +4307,8 @@ Edsele	1
 Edirne	1
 Edesjö	1
 Eda	1
-Easton Pa	1
 East union minn	1
+Easton Pa	1
 East lansing	1
 Eagle lake minn	1
 Duved	1
@@ -4349,12 +4349,12 @@ Denison ia	1
 Den	1
 Demmin	1
 Delmenhorst	1
-Dejefors	1
-Dehli	1
-Degeberga	1
 De l imprimerie royale mdcclxii	1
 De l imprimerie de charles rue de thionville n⁰	1
 De kalb ill	1
+Dejefors	1
+Dehli	1
+Degeberga	1
 Davenport iowa	1
 Daselbst durch chr reusner den eltern anno m dc xxxi	1
 Daselbst durch chr reusner	1
@@ -4381,8 +4381,8 @@ Dädesjö	1
 Czestochowa	1
 Curityba	1
 Curacao	1
-Cum gratia privilegio christoff reusner	1
 Cum gratia privil sacr regiae majest sveciae rjga verlegung georg matth möller	1
+Cum gratia privilegio christoff reusner	1
 Culm	1
 Cuguev	1
 Crookston minn	1
@@ -4410,16 +4410,16 @@ Copenhagen helsinki	1
 Cooperstown NY	1
 Contich	1
 Constantz	1
+Con licencia casa de domingo de lago	1
 Conimbricae	1
 Conde sur noireau	1
-Con licencia casa de domingo de lago	1
 Combra	1
 Columbia SC	1
 Colombia sc	1
 Cölln verlag vnd truckerey wilhelm friessems buchhändlers im ertz engel gabriel tranckgassen anno m dc lxiv	1
 Cölln bey peter marteau	1
-Collegeview nebr	1
 College view nebraska	1
+Collegeview nebr	1
 College view nebr	1
 College view neb menominee mich	1
 Coimbra	1
@@ -4441,8 +4441,8 @@ Chicago york london	1
 Chic	1
 Chiavari	1
 Chhindwara	1
-Cherbourg	1
 Cher kov	1
+Cherbourg	1
 Chemnitz bei karl gottlieb hofmann	1
 Chartres	1
 Charleston SC	1
@@ -4474,35 +4474,34 @@ Carlshamn söderströms boktryckeri förlag torpare i asarums socken	1
 Carlshamn m stenbecks boktryckeri	1
 Carlshamn m floren comp ånyo upplagd torparen i mörrums socken	1
 Carlshamn kristianstad	1
-Carlshamn johan magnus stenbeck	1
 Carlshamn joh magn stenbeck	1
+Carlshamn johan magnus stenbeck	1
 Carlshamn e johansson c r hööks förlag	1
-Carlscrona karlskrona	1
-Carlsbad	1
 Carls crona kongl amiralitets boktryckeriet	1
 Carls crona kongl amiralitets boktryckaren sal joan winqwists änckia	1
 Carls crona kongl amiralitets boktryckaren joan winqwist	1
+Carlscrona karlskrona	1
 Carls crona georg törn	1
+Carlsbad	1
 Caribou	1
-Cambridge massachusetts	1
 Cambridge mass london	1
+Cambridge massachusetts	1
 Cambirdge	1
+Calmar stifts boktryckeriet	1
+Calmar magnus petersson år	1
+Calmar magnus petersson	1
+Calmar l lindeblad år kongl priviligierad boktryckare	1
+Calmar lars lindeblad bekostnad	1
+Calmar lars lindeblad år	1
+Calmar kongl gymn boktryckeriet	1
 Calmariae exscripsit christopherus gunther anno m dc xxvii	1
 Calmariae exscripsit christopherus gunther anno m dc xxvi	1
 Calmariae christophorus guentherus d aug	1
 Calmariae christophori gûntheri d julij	1
 Calmariae christophori gûntheri anno d julij	1
 Calmariae christoph guentheri anno m dc xxvii	1
-Calmara christoffer guenter anno m dc xxxii	1
-Calmar stifts boktryckeriet	1
-Calmar magnus petersson år	1
-Calmar magnus petersson	1
-Calmar lars lindeblad bekostnad	1
-Calmar lars lindeblad år	1
-Calmar l lindeblad år kongl priviligierad boktryckare	1
-Calmar kongl gymn boktryckeriet	1
-Calmar hoos christopher guenther anno m dc xxvii	1
 Calmar hoos christoph guenther anno	1
+Calmar hoos christopher guenther anno m dc xxvii	1
 Calmar efter original magnus petersson	1
 Calmar christophero guenther	1
 Calmar christopher guenther anno m dc xxxii	1
@@ -4511,11 +4510,12 @@ Calmar christopher guenther anno	1
 Calmar christopher guenther	1
 Calmar christopher guenter anno m dc xxxv	1
 Calmar christoff guenther	1
-Calmar carl fredr bergs boktryckeri	1
 Calmar c f bergs boktryckeri	1
 Calmar c f berg år	1
 Calmar c f berg	1
+Calmar carl fredr bergs boktryckeri	1
 Calmar år lorentz lindeblads änka	1
+Calmara christoffer guenter anno m dc xxxii	1
 Caldwell idaho	1
 Caldwell id	1
 Calais	1
@@ -4552,9 +4552,9 @@ Brömsebro	1
 Bromölla	1
 Bromberg	1
 Brodalen	1
+Bro borlänge	1
 Broakulla	1
 Broadway ny	1
-Bro borlänge	1
 Brixen	1
 Bristol london	1
 Bringåsen kyrkås	1
@@ -4644,10 +4644,8 @@ Bey ignatius meurer	1
 Bettna	1
 Berolini ge reimerum mdcccxxv	1
 Bernshammar	1
-Berndorf	1
 Bern leipzig	1
-Berlingska boktryckeriet	1
-Berling	1
+Berndorf	1
 Berlin zuerich	1
 Berlin york	1
 Berlin upsala	1
@@ -4659,8 +4657,10 @@ Berlin paris	1
 Berlin luebeck leipzig	1
 Berlin köln leipzig	1
 Berlin hamburg leipzig	1
+Berlingska boktryckeriet	1
 Berlin greifswald	1
 Berlin göttingen heidelberg	1
+Berling	1
 Berlin duesseldorf	1
 Berlin danzig	1
 Berlin breslau	1
@@ -4696,10 +4696,10 @@ Basel york	1
 Basel wien	1
 Barth	1
 Barsele	1
+Bar le duc	1
 Barkåkra	1
 Barhöft	1
 Bårgå	1
-Bar le duc	1
 Bankeryd	1
 Bangor	1
 Bangalore	1
@@ -4724,20 +4724,20 @@ Aux depens de l auteur sa	1
 Austin	1
 Aurich	1
 Aureliae allobrogum	1
+Au mans	1
 Augusta Me	1
 Augusburg	1
-Auff wiesingsburg von johann kankel anno m dc lxxviiii	1
 Auf verlangen des herrn obrist göertz gedruckkt anno	1
 Auf kosten des auctoris zu finden bey jacob lœfflern königl universitaet buchhändler bey hieronymus johann struck univers buchdr	1
+Auff wiesingsburg von johann kankel anno m dc lxxviiii	1
 Auburn ri	1
-Au mans	1
 åtwidaberg	1
 Attica ind	1
 Atrebati	1
 Athens	1
 Athenis	1
-Athēnai	1
 Athẽnai	1
+Athēnai	1
 Athéna	1
 Asuncion	1
 åsträsk	1
@@ -4761,10 +4761,11 @@ Asarum	1
 åryd	1
 Arup löberöd	1
 Artern	1
-Arosiae arosiensis	1
 Arosia västerås	1
+Arosiae arosiensis	1
 Arosia arosiensis	1
 Aros	1
+år nyköping e hasselrot	1
 Arlöf	1
 ärla	1
 Arksjö	1
@@ -4776,18 +4777,22 @@ Ardre	1
 Arcis sur aube	1
 Archangel sk	1
 Arad	1
-år nyköping e hasselrot	1
 äppelbo	1
 Aplared	1
+å nyo uplagt i kongl tryckeriet	1
+å nyo uplagt gefle ernst peter sundqvist	1
+å nyo thet kongl tryckeriet	1
+å nyo k b sal niclas wankijffs tryckerij åhr	1
 ånyo gefle	1
+å nyo åhr	1
 Anundsjö	1
 Antroposofiska förl	1
-Anno mdccii	1
-Anno m dcc xxxiv	1
+Anno m d l iii	1
 Anno m dc xxxi stettini rhetianis	1
 Anno m dc lv	1
-Anno m d l iii	1
+Anno m dcc xxxiv	1
 Anno m d ccvii	1
+Anno mdccii	1
 Anno den september	1
 Anno christi m dc xvi	1
 Annerstad	1
@@ -4818,8 +4823,8 @@ Amorbach	1
 Ames iowa	1
 Amberg durch michaëln forstern cvm privilegio anno m d xcv	1
 Amberg	1
-Amaliae åmål	1
 åmål p petersons boktryckeri	1
+Amaliae åmål	1
 åmål gunnarsnäs mellerud	1
 åmal	1
 älvkarleöbruk	1
@@ -4837,6 +4842,7 @@ Altadena calif	1
 Alstad	1
 Alsike	1
 Alsen	1
+Al qahira	1
 älmhult hässleholm	1
 älmeboda	1
 Almby	1
@@ -4857,12 +4863,11 @@ Albona	1
 Albenga	1
 Alafors	1
 Ala	1
-Al qahira	1
 Akranesi	1
 Akranes	1
 åkeshov	1
-åkersberga	1
 åkers styckebruk	1
+åkersberga	1
 Akad	1
 Ajmer	1
 Ahus	1
@@ -4871,18 +4876,19 @@ Ahus	1
 Agunnaryd	1
 Agra	1
 Agnetteberg	1
-Aeschillus matthiae acad typog	1
 Aes gravenhage	1
+Aeschillus matthiae acad typog	1
 Adolfsfors	1
 Adelsö	1
 Adelöv	1
 Abr habereger gub acad car bokt	1
 Abr habereegr gub car bokt	1
+Ab olao olaj anno	1
+åbo helsingfors	1
 Aboae åbo	1
 Aboae abo	1
-åbo helsingfors	1
+å bo	1
 Abingdon on thames	1
-Ab olao olaj anno	1
 åb	1
 Aarhuus	1
 Aarhus kobenhavn oslo	1
@@ -4894,9 +4900,3 @@ Aachen liege	1
 Aachen leipzig	1
 Aàbo chez jean chret frenckell	1
 Aabenraa	1
-å nyo uplagt i kongl tryckeriet	1
-å nyo uplagt gefle ernst peter sundqvist	1
-å nyo thet kongl tryckeriet	1
-å nyo k b sal niclas wankijffs tryckerij åhr	1
-å nyo åhr	1
-å bo	1

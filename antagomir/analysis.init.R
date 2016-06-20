@@ -13,8 +13,8 @@ library(knitr)
 # ---------------------------------
 
 # Set global parameters
-#timespan <- c(1460, 1830)
-timespan <- c(-Inf, Inf)
+timespan <- c(1470, Inf)
+#timespan <- c(-Inf, Inf)
 datafile <- "df.Rds"
 ntop <- 20
 author <- "Lahti, Roivainen, Tolonen"

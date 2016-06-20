@@ -1,5 +1,9 @@
 ## TODO
 
+### Krakow
+
+   Subject topics: tässä on tosi mielenkiintoista kuinka erilaiselta tämä näyttää Fennican suhteen. Voisi kokeilla miten yliopistokaupungeissa yliopistojulkaisuissa toimii sekä kungligassa että fennicassa nuo asiasanat. Tuleeko top-listaan eri paikkakunnilla ja eri aikoina samat asiasanat vai onko tässä suurtakin heittoa?
+
 ### Technical
 
 Check that preprocessing is ok for all fields. Continue polishing where not. See [preprocessing overview](https://github.com/rOpenGov/kungliga/blob/master/antagomir/overview.md)  

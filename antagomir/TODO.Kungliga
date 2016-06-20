@@ -1,33 +1,28 @@
-ESTCn kentät:
+## TODO
 
-* language
-* physical_extent: volume count
-* title
+### Technical
 
-----------------------------
+Check that preprocessing is ok for all fields. Continue polishing where not. See [preprocessing overview](https://github.com/rOpenGov/kungliga/blob/master/antagomir/overview.md)  
+
+
+Merge the work from HR (publisher field etc) into the main pipeline.
+
+
+### Fields to be added (?)
+
+Some of these are available in the data but may not have preprocessing
+functions yet (check):
 
 740a (Uncontrolled related/analytical title)
 
-physical_dimension
+852z [TÄSSÄ MERKITTY KIRJAKOKO! ELI SIIS 4:o, 8:o jne. Tärkeää, pitää
+miettiä miten yhdistää sinne kirjakoko kenttään]
 
-852z [TÄSSÄ MERKITTY KIRJAKOKO! ELI SIIS 4:o, 8:o jne. Tärkeää, pitää miettiä miten yhdistää sinne kirjakoko kenttään]
-
-publication_place
-
-publisher (voi olla ettei estc-skriptejä kande käyttää tän kentän putsauksessa)
-
-110a (Corporate name or jurisdiction name as entry element) [Tämä on
-     tärkeä kenttä, nyt siis osittain ainakin eroteltuna “Yhteisö”
-     kirjan kirjoittajana. 
+110a (Corporate name or jurisdiction name as entry element) [tärkeä
+     kenttä, nyt siis osittain ainakin eroteltuna “Yhteisö” kirjan
+     kirjoittajana.
      
-publication_time
-
-author_name
-author.birth 
-author.death 
 700a 
+
 700d 
-
-
-
 

@@ -49,7 +49,7 @@ Document dimension histogram (surface area). Few document sizes dominate publish
 ![plot of chunk summary-surfacearea](figure/summary-surfacearea-1.png)
 
 
-Compare gatherings and page counts. Page count information is originally missing but subsequently estimated for 14124 documents and updated (changed) for 0 documents. 
+Compare gatherings and page counts. Page count information is originally missing but subsequently estimated for 56 documents and updated (changed) for 0 documents. 
 
 
 ![plot of chunk summarypagecomp](figure/summarypagecomp-1.png)
@@ -62,18 +62,29 @@ Compare original gatherings and original heights where both are available. The p
 
 ![plot of chunk papercompbyformat](figure/papercompbyformat-1.png)
 
-## Average page counts 
+<!--
+
+## Average page counts (only works in CERL now)
 
 Multi-volume documents average page counts are given per volume.
 
 
-|doc.dimension | mean.pages.singlevol| median.pages.singlevol| n.singlevol|mean.pages.multivol |median.pages.multivol | n.multivol|mean.pages.issue |median.pages.issue | n.issue|
-|:-------------|--------------------:|----------------------:|-----------:|:-------------------|:---------------------|----------:|:----------------|:------------------|-------:|
-|4to           |                   NA|                     NA|          11|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|6to           |                   NA|                     NA|           1|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|8vo           |                   NA|                     NA|          24|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|12mo          |                   NA|                     NA|           4|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|NA            |                    2|                      2|          37|NA                  |NA                    |         NA|NA               |NA                 |      NA|
+|doc.dimension |mean.pages.singlevol |median.pages.singlevol | n.singlevol| mean.pages.multivol| median.pages.multivol| n.multivol| mean.pages.issue| median.pages.issue| n.issue|
+|:-------------|:--------------------|:----------------------|-----------:|-------------------:|---------------------:|----------:|----------------:|------------------:|-------:|
+|2fo           |NA                   |NA                     |        1791|                  NA|                    NA|         NA|               NA|                 NA|      72|
+|4to           |NA                   |NA                     |       30561|                  NA|                    NA|         NA|               NA|                 NA|   30572|
+|6to           |NA                   |NA                     |          18|                  NA|                    NA|         NA|               NA|                 NA|       1|
+|8long         |NA                   |NA                     |           1|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|8vo           |NA                   |NA                     |       21436|                   1|                     1|         23|                1|                  1|       9|
+|12mo          |NA                   |NA                     |        2991|                 NaN|                    NA|          4|              NaN|                 NA|       1|
+|16mo          |NA                   |NA                     |        1296|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|18mo          |NA                   |NA                     |          86|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|24mo          |NA                   |NA                     |         163|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|32mo          |NA                   |NA                     |          30|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|48mo          |NA                   |NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|64mo          |NA                   |NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|NA            |NA                   |NA                     |       13482|                   1|                     1|         33|                1|                  1|      18|
+|1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1134|
 
 
 ![plot of chunk summarypagecountsmulti2](figure/summarypagecountsmulti2-1.png)
@@ -96,3 +107,4 @@ Only the most frequently occurring gatherings are listed here:
 |4to                 |NA         |NA           |          20|            20|  2|
 |8vo                 |NA         |NA           |          16|            16|  3|
 
+-->

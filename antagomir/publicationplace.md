@@ -23,21 +23,21 @@ Top-20 publication places are shown together with the number of documents.
 <img src="figure/summaryplace-1.png" title="plot of chunk summaryplace" alt="plot of chunk summaryplace" width="430px" /><img src="figure/summaryplace-2.png" title="plot of chunk summaryplace" alt="plot of chunk summaryplace" width="430px" />
 
 
-### Top publication countries
+### Top publication countries	
 
 
 ```
-## Error in Math.factor(structure(c(22L, 21L, 20L, 19L, 18L, 17L, 16L, 15L, : 'round' not meaningful for factors
+## Error in .check_names_df(x, j): undefined columns: country
 ```
 
 
 
-|Country |Documents (n) |Fraction (%)      |
-|:-------|:-------------|:-----------------|
-|Sweden  |62843         |85.8792500273314  |
-|Finland |1701          |2.32453263365038  |
-|Germany |1172          |1.60161801683612  |
-|England |488           |0.666885317590467 |
-|Denmark |355           |0.48513173718159  |
-|France  |239           |0.326609817426479 |
+|Country      | Documents (n)| Fraction (%)| NA| NA|
+|:------------|-------------:|------------:|--:|--:|
+|volnumber    |     0.0000000|    100.00000|  0|  1|
+|parts        |     0.0000000|    100.00000|  0|  1|
+|uncontrolled |     0.0000000|    100.00000|  0|  1|
+|note_granter |     0.0013666|     99.99863|  1|  2|
+|note_year    |     0.0013666|     99.99863|  1|  2|
+|holder       |     0.0013666|     99.99863|  1|  2|
 

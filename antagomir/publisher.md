@@ -33,8 +33,8 @@ Title count versus paper consumption (top publishers):
 
 |publisher        | titles|     paper|
 |:----------------|------:|---------:|
-|edman            |     22| 0.0304532|
-|ekmanson         |     10| 0.0135337|
-|kongl tryckeriet |   4943| 0.5099355|
+|edman            |     22| 0.0304778|
+|ekmanson         |     10| 0.0137237|
+|kongl tryckeriet |   4943| 0.5100340|
 |kungl tryckeriet |    168| 0.0697390|
 |lindh            |     10| 0.0046674|

@@ -89,14 +89,14 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |author                                       |        47.5|          52.5|         38396|      10123|
 |260f                                         |        40.5|          59.5|         43529|       2246|
 |852j                                         |        34.9|          65.1|         47664|      17021|
-|pagecount.orig                               |        28.1|          71.9|         52599|        864|
-|paper.consumption.km2                        |        27.2|          72.8|         53236|       1716|
+|paper.consumption.km2                        |        30.9|          69.1|         50574|       1725|
+|pagecount.orig                               |        28.0|          72.0|         52714|        870|
+|pagecount                                    |        27.9|          72.1|         52770|        870|
 |width                                        |        18.5|          81.5|         59652|         27|
 |height                                       |        18.5|          81.5|         59652|         29|
 |area                                         |        18.5|          81.5|         59652|         32|
 |obl                                          |        18.5|          81.5|         59658|          3|
 |note_general                                 |        13.6|          86.4|         63227|      33433|
-|pagecount                                    |         8.8|          91.2|         66723|        864|
 |country                                      |         7.6|          92.4|         67623|         23|
 |language                                     |         6.0|          94.0|         68770|         32|
 |dissertation                                 |         2.5|          97.5|         71347|          3|
@@ -209,6 +209,9 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |publication_year                             |         0.0|         100.0|         73176|        321|
 |publication_decade                           |         0.0|         100.0|         73176|         36|
 |gatherings                                   |         0.0|         100.0|         73176|         14|
+|singlevol                                    |         0.0|         100.0|         73176|          2|
+|multivol                                     |         0.0|         100.0|         73176|          2|
+|issue                                        |         0.0|         100.0|         73176|          2|
 
 
 

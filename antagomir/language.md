@@ -9,8 +9,8 @@ output: markdown_document
 
  * 97 unique languages
  * The languages may come in [combinations](output.tables/language_conversions.csv)
- * 259 docs (0.07%) with multiple languages
- * 118255 docs (31.85%) with no recognized language 
+ * 14 docs (0.02%) with multiple languages
+ * 4406 docs (6.02%) with no recognized language 
  * [Discarded languages](output.tables/language_discarded.csv)
 
 Language codes are from [MARC](http://www.loc.gov/marc/languages/language_code.html); new custom abbreviations can be added in [this table](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/language_abbreviations.csv).

@@ -1,6 +1,6 @@
 ---
 title: "Document dimension preprocessing summary"
-author: "Lahti, Roivainen, Tolonen"
+author: "Lahti, Marjanen, Roivainen, Tolonen"
 date: "2016-06-21"
 output: markdown_document
 ---
@@ -35,7 +35,7 @@ These include estimates that are based on auxiliary information sheets:
   
 <!--[Discarded dimension info](output.tables/dimensions_discarded.csv)-->
 
-Document size (area) info in area is available for 71677 documents (19%). Estimates of document size (area) info in gatherings system are available for 371285 documents (100%). 
+Document size (area) info in area is available for 59652 documents (82%). Estimates of document size (area) info in gatherings system are available for 73176 documents (100%). 
 
 ![plot of chunk summarysize](figure/summarysize-1.png)
 
@@ -49,7 +49,7 @@ Document dimension histogram (surface area). Few document sizes dominate publish
 ![plot of chunk summary-surfacearea](figure/summary-surfacearea-1.png)
 
 
-Compare gatherings and page counts. Page count information is originally missing but subsequently estimated for 127620 documents and updated (changed) for 0 documents. 
+Compare gatherings and page counts. Page count information is originally missing but subsequently estimated for 14124 documents and updated (changed) for 0 documents. 
 
 
 ![plot of chunk summarypagecomp](figure/summarypagecomp-1.png)
@@ -69,12 +69,11 @@ Multi-volume documents average page counts are given per volume.
 
 |doc.dimension | mean.pages.singlevol| median.pages.singlevol| n.singlevol|mean.pages.multivol |median.pages.multivol | n.multivol|mean.pages.issue |median.pages.issue | n.issue|
 |:-------------|--------------------:|----------------------:|-----------:|:-------------------|:---------------------|----------:|:----------------|:------------------|-------:|
-|4to           |                   NA|                     NA|          13|NA                  |NA                    |         NA|NA               |NA                 |      NA|
+|4to           |                   NA|                     NA|          11|NA                  |NA                    |         NA|NA               |NA                 |      NA|
 |6to           |                   NA|                     NA|           1|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|8vo           |                   NA|                     NA|         100|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|12mo          |                   NA|                     NA|          20|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|16mo          |                   NA|                     NA|           6|NA                  |NA                    |         NA|NA               |NA                 |      NA|
-|NA            |                    2|                      2|        2079|NA                  |NA                    |         NA|NA               |NA                 |      NA|
+|8vo           |                   NA|                     NA|          24|NA                  |NA                    |         NA|NA               |NA                 |      NA|
+|12mo          |                   NA|                     NA|           4|NA                  |NA                    |         NA|NA               |NA                 |      NA|
+|NA            |                    2|                      2|          37|NA                  |NA                    |         NA|NA               |NA                 |      NA|
 
 
 ![plot of chunk summarypagecountsmulti2](figure/summarypagecountsmulti2-1.png)
@@ -94,6 +93,6 @@ Only the most frequently occurring gatherings are listed here:
 
 |gatherings.original |mean.width |median.width | mean.height| median.height|  n|
 |:-------------------|:----------|:------------|-----------:|-------------:|--:|
-|4to                 |NA         |NA           |       23.57|         23.57|  7|
-|8vo                 |NA         |NA           |       20.65|         20.65| 31|
+|4to                 |NA         |NA           |          20|            20|  2|
+|8vo                 |NA         |NA           |          16|            16|  3|
 

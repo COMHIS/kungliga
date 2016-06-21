@@ -13,11 +13,12 @@ library(knitr)
 # ---------------------------------
 
 # Set global parameters
-timespan <- c(1470, Inf)
+timespan <- c(1470, 1828)
+#timespan <- c(1470, Inf)
 #timespan <- c(-Inf, Inf)
 datafile <- "df.Rds"
 ntop <- 20
-author <- "Lahti, Roivainen, Tolonen"
+author <- "Lahti, Marjanen, Roivainen, Tolonen"
 output.folder <- "output.tables/"
 
 print("Prepare the final data set")

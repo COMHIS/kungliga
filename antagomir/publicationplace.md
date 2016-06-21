@@ -1,17 +1,17 @@
 ---
 title: "Publication place preprocessing summary"
-author: "Lahti, Roivainen, Tolonen"
+author: "Lahti, Marjanen, Roivainen, Tolonen"
 date: "2016-06-21"
 output: markdown_document
 ---
 
 ### Publication places
 
- * 4916 [publication places](output.tables/publication_place_accepted.csv)
- * 37 [publication countries](output.tables/country_accepted.csv) 
- * Publication place is identified for 368800 documents (99%). 
- * Publication country is identified for 329987 documents (89%).
- * 1.5% of the documents could be matched to geographic coordinates (based on the [Geonames](http://download.geonames.org/export/dump/) database). See the [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv). Altogether ``98.49``% of the documents have missing geocoordinates.
+ * 1104 [publication places](output.tables/publication_place_accepted.csv)
+ * 23 [publication countries](output.tables/country_accepted.csv) 
+ * Publication place is identified for 71947 documents (98%). 
+ * Publication country is identified for 67623 documents (92%).
+ * 1.1% of the documents could be matched to geographic coordinates (based on the [Geonames](http://download.geonames.org/export/dump/) database). See the [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv). Altogether ``98.88``% of the documents have missing geocoordinates.
  * [Places with unknown publication country](output.tables/publication_place_missingcountry.csv) (can be added to [country mappings](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/reg2country.csv))
  * [Ambiguous publication places](output.tables/publication_place_ambiguous.csv)
  * [Potentially ambiguous region-country mappings](output.tables/publication_country_ambiguous.csv) (these may occur in the data in various synonymes and the country is not always clear when multiple countries have a similar place name; the default country is listed first)
@@ -27,17 +27,17 @@ Top-20 publication places are shown together with the number of documents.
 
 
 ```
-## Error in Math.factor(structure(c(33L, 32L, 31L, 30L, 29L, 28L, 27L, 26L, : 'round' not meaningful for factors
+## Error in Math.factor(structure(c(22L, 21L, 20L, 19L, 18L, 17L, 16L, 15L, : 'round' not meaningful for factors
 ```
 
 
 
 |Country |Documents (n) |Fraction (%)      |
 |:-------|:-------------|:-----------------|
-|Sweden  |281050        |75.696567326986   |
-|Finland |20921         |5.63475497259518  |
-|Germany |7161          |1.92870705792047  |
-|Denmark |4509          |1.21443096273752  |
-|USA     |3255          |0.876685026327484 |
-|Norway  |2950          |0.794537888683895 |
+|Sweden  |62843         |85.8792500273314  |
+|Finland |1701          |2.32453263365038  |
+|Germany |1172          |1.60161801683612  |
+|England |488           |0.666885317590467 |
+|Denmark |355           |0.48513173718159  |
+|France  |239           |0.326609817426479 |
 

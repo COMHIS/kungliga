@@ -97,11 +97,11 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |area                                         |        18.5|          81.5|         59652|         32|
 |obl                                          |        18.5|          81.5|         59658|          3|
 |note_general                                 |        13.6|          86.4|         63227|      33433|
-|country                                      |         7.6|          92.4|         67623|         23|
+|country                                      |         7.7|          92.3|         67578|         23|
 |language                                     |         6.0|          94.0|         68770|         32|
 |dissertation                                 |         2.5|          97.5|         71347|          3|
 |synodal                                      |         2.5|          97.5|         71347|          2|
-|publication_place                            |         1.7|          98.3|         71922|       1101|
+|publication_place                            |         1.7|          98.3|         71921|       1099|
 |publication_year_from                        |         0.0|         100.0|         73173|        322|
 |language.Swedish                             |         0.0|         100.0|         73176|          2|
 |language.English                             |         0.0|         100.0|         73176|          2|

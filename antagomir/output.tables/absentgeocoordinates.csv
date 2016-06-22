@@ -1,32 +1,32 @@
 name	count
-Stockholm	44750
-Uppsala	4899
+Stockholm	44743
+Uppsala	4898
 Gothenburg	2381
 Lund	2176
 Turku	1581
 Linköping	1252
 Västerås	1099
 Örebro	1066
-Strängnäs	982
-Norrköping	881
+Strängnäs	980
+Norrköping	861
 Jönnköping	823
 Kongl tryckeriet	640
 Karlskrona	598
 Skara	552
 Falun	438
-Gävle	420
+Gävle	421
 Copenhagen	348
 Nyköping	327
 Kalmar	326
 Karlstad	305
 Kristianstad	237
 Greifswald	226
-Växjö	209
+Växjö	210
 U o tr	172
 Leipzig	172
 Tartu	146
 Härnösand	143
-Mariefred	112
+Mariefred	115
 Stralsund	109
 Rostock	108
 Malmö	94
@@ -58,27 +58,26 @@ Rome	26
 Mariestad	26
 Göttingen	26
 The Hague	24
+Halmstad	24
 Wittenberg	23
-Halmstad	23
+Helsingborg	23
 Oslo	22
 Kiel	22
 Gefle	22
-Helsingborg	21
+Mariefred norrköping	20
 Fredrikshald	20
 Strasbourg	19
 Stockholm norrköping	19
-Halle	19
 Carlstad	19
 Wexiö	18
+Halle	18
 Cologne	18
+Borås	17
 Leiden	16
 Jena	16
 Havniae	16
 Carlstad wallencrona	16
-Borås	16
-Visingsborg	15
 Strängnäs stockholm	15
-Stockholm linköping	13
 Kopenhagen	13
 Basel	13
 Zerbst	12
@@ -87,10 +86,11 @@ Vienna	12
 Madrid	12
 Breslau	12
 Lyon	11
-Koningsberg	11
 Jahr	11
 Vyborg	10
+Visingsborg	10
 Vilnius	10
+Königsberg	10
 Sthlm	9
 Stade	9
 Hoos henrich keyser	9
@@ -105,20 +105,22 @@ Cracoviae	8
 Warsaw	7
 Vesterås	7
 Stregnäs	7
+Stockholm linköping	7
 Ratzeburg	7
 Norrköping stockholm	7
 Lisbon	7
 Khvn	7
 Hoos niclas wankijff kongl booktr	7
 Göteborg stockholm	7
+Cassel	7
 Weimar	6
+Växjö stockholm linköping	6
 Upsalae upsal	6
 Uppsaliae	6
 Uddevalla	6
 Tyskland	6
 Stockholm köln	6
 Naples	6
-Milan	6
 Lueneburg	6
 Londini lund	6
 Linköping stockholm	6
@@ -127,12 +129,14 @@ Leeuwarden	6
 Jueterbog	6
 Henrich keyser	6
 Haunia	6
+Fredrikstad	6
 Förr detta grefingska tryckeriet	6
 Firenze	6
 Antwerp	6
 Zürich	5
 Västerås strängnäs	5
 Ulm	5
+Stockholm gusum	5
 Spandau	5
 Skara stockholm	5
 Rinteln	5
@@ -146,10 +150,9 @@ Liège	5
 Helmstedt	5
 Gusum	5
 Gefle ernst pet sundqvist	5
-Fredrikstad	5
+Franckfurt leipzig	5
 Förr thetta grefingska tryckeriet	5
 Erlangen	5
-Cassel	5
 Bremen	5
 Boizenburg	5
 Berolini	5
@@ -164,6 +167,7 @@ Turusa pietari	4
 Sverige	4
 Stockholm vpsala	4
 Stockholm greifswald	4
+Pisa	4
 Pärnu	4
 Orebroae	4
 Nyköping e hasselrot	4
@@ -177,7 +181,6 @@ Genova	4
 Gefle ernst peter sundqvist	4
 Gefle e p sundqwist	4
 Francofurti lipsiae	4
-Franckfurt leipzig	4
 Erfurt	4
 Dresden	4
 Dessau	4
@@ -201,26 +204,27 @@ Thet kongl tryckeriet	3
 Stuttgart	3
 Strömstad	3
 Stregnesii	3
-Strängnäs norrköping	3
+Strängnäs mariefred norrköping	3
 Stokkholm peter hesselberg	3
 Stokgolʹm pečatan v korolevskoj tipografii	3
 Stockholm skara	3
 Stockholm örebro	3
 Stockholm kobenhavn	3
+Stockholm karlstad	3
 Stockholm härnösand	3
 Stockholm göteborg	3
 Stockholm frankfurt	3
-Stockholm danzig	3
 Saarmund	3
 Rotterdam	3
 Prag	3
-Pisa	3
 Padova	3
 örebro jönköping	3
+Odense	3
 Nyköping p e winge	3
 Nyköping joh p hammarin	3
 Muenchen	3
 Moscow	3
+Milano	3
 Mediolani	3
 Marburg	3
 Malmoe	3
@@ -237,7 +241,6 @@ Heidelberg	3
 Hamburg leipzig	3
 Haarlem	3
 Giessen	3
-Gdansk	3
 Freystadt	3
 Freyberg	3
 Franzburg	3
@@ -245,8 +248,10 @@ Franckfurth leipzig	3
 Elbingen	3
 Deux	3
 De l imprimerie royale	3
+Danzig	3
 Carl gustav berling	3
 Calmariae	3
+Braunschweig	3
 Bonn	3
 Berlin stettin	3
 Barcelona	3
@@ -255,6 +260,7 @@ Altenstein	3
 Wisby	2
 Wiesingsburg	2
 Vpsalae	2
+Villefranche	2
 Viennae austriae	2
 Versailles	2
 Vasasa	2
@@ -289,13 +295,14 @@ Schwabach	2
 Rouen	2
 Rödigke	2
 Revall	2
+Reg typogr	2
 Regensburg	2
-Odense	2
 Nyköping johan peter hammarin	2
 Nyköping e haszelrot	2
 Norrköping uppsala örebro	2
 New York NY	2
 Muehlhausen	2
+Milan	2
 Mietau bey jacob friedrich hinz	2
 Mdccxvi	2
 Lvgd batav officina elzeviriana	2
@@ -317,6 +324,7 @@ Kongl tryckeriet å nyo	2
 Kongl boktryckerj hoos sal wankifs enkia joh hen werner	2
 Köln stockholm	2
 Kiöbenhaffn	2
+Karlstad strängnäs	2
 Karlsruhe	2
 Jönköping norrköping	2
 Ignatio meurer åhr	2
@@ -324,11 +332,9 @@ Hoos henrich keyser kongl booktryckiare	2
 Holmiae hamburgi	2
 Hernoesandiae	2
 Henrich käyser	2
-Helsingborg torell	2
 Helmestadii	2
 Heiligenstadt	2
 Havniae augusti friderici steinii	2
-Hantschenii reg typogr	2
 Hamburg holmiae	2
 Gryphisw	2
 Gryhiswaldiae	2
@@ -337,7 +343,7 @@ Georg hantsch åhr	2
 Genoa	2
 Genes	2
 Gefle eric gustaf löf	2
-Frenckellska boktryckeriet	2
+Gävle stockholm	2
 Florentiae	2
 Flensburg leipzig	2
 Euchario lauringer åhr	2
@@ -355,8 +361,8 @@ Buetzow	2
 Brunswick Ma	2
 Brunsbergae	2
 Brunsberg	2
-Braunschweig	2
 Bordeaux	2
+Boktryckeriet	2
 Bergen	2
 Belitz	2
 Amsterdam paris	2
@@ -385,6 +391,11 @@ Winterthur	1
 Wilmington De	1
 Wijsinzgborg hans höggrefl nåd booktr johann kankel åhr m dc l xxiv	1
 Wijsingzöö johann kankel anno m dc lxxxv	1
+Wijsingzborg hans hög grefl nådes hr rikz drotzetens booktryckiare thersammastädes johan kankel anno m dc lxxiv	1
+Wijsingzborg hans hög grefl nådes hr rijkzdråtzetens boocktryckare johann kankel åhr	1
+Wijsingzborg hans höggrefl nåd booktr johann kankel åhr	1
+Wijsingzborg hans höggreffl nådes rijks drotzens booketryckiare johann kankel m dc lxxii	1
+Wijsingzborg hans hög greffl nådes herr rijkz drotzetens booketryckare johann kankel anno m dc lxxv	1
 Wijsindzborg hans höggrefl nåd riijkz drotzens booktryckare johann kankel anno m dc lxxiv	1
 Wexiö wrigseen thetzell	1
 Wexiö til förmån för fattig skolan där hon ock endast hålles til köps år directeuren sv rask	1
@@ -421,14 +432,11 @@ Vpsal bey eschil matzson anno	1
 Vpsala stockholm	1
 V moskvě v tipogr pri teatrě u ch klaudija goda	1
 Vinegia appresso francesco bindoni m d lxi	1
-Villefranche chez hardi filocrate imprimeur m dcc lx	1
-Villefranche	1
 Veronae germanorum	1
 Vbsala hoos eskild matzson	1
 Vbsala eskil matzson åhr	1
 Vbsala eskel matzon	1
 Växlande orter	1
-Växjö hov	1
 Västerås wästerås	1
 U tr å	1
 Utgivningsort okänd #b utgivare okänd	1
@@ -551,7 +559,7 @@ Smolensk	1
 Siena	1
 S gravenhage	1
 S graavenhaage	1
-Schnepfenthal im verlage buchhandlung erziehungstalt	1
+Schnepfenthal	1
 Schleswig	1
 Scara	1
 San sebastian	1
@@ -586,8 +594,6 @@ Regimonti	1
 Regia holmia heinricus käyser maij	1
 Regià holmia anno	1
 Regia holmia	1
-Refwell adolph simon gymn bookd anno	1
-Refwell	1
 Recvsa mdccxxxv	1
 Que ningun impressor la pueda imrpimir sino es con permission de pedro coello mercader de libros	1
 Quedlinburg	1
@@ -610,7 +616,6 @@ Pommern	1
 Polen	1
 Plymouth	1
 Plueggenthin	1
-Pisa presso molini landi e comp coʼ caratteri di didot mdcccxi	1
 Pirna	1
 Pillau	1
 P horrebow	1
@@ -631,7 +636,6 @@ Orleans	1
 Onoldi	1
 Oliva	1
 Officina werneriana	1
-Odense christian iversen	1
 Nytorp kongl fält tryckeriet directeuren p sohm	1
 Nyköping p winge	1
 Nyköping p hammarin å nyo	1
@@ -666,6 +670,7 @@ Montpellier	1
 Monat januario	1
 Monachii sumptibus joannis wagneri joannis hermanni gelder bibliopolarum monacensium sebastian rauch anno m dc lxxx	1
 Monachii	1
+Milano mdcclxxx nell imperial monistero di s ambrogio maggiore con approvazione	1
 Mietau bey jacob friederich hinz	1
 Meyntz durch hermann meres im jahr christi	1
 Metz	1
@@ -675,8 +680,7 @@ Mdccxxi	1
 Mdccxcix	1
 Mäyntz	1
 Marpurgi hassorum	1
-Mariefred joh fr edman	1
-Mariefred collin comp	1
+Mariefred uppsala	1
 Mariaestad	1
 Marburgi cattorum	1
 Marburgi	1
@@ -709,6 +713,7 @@ London lyon	1
 Londoni lund	1
 London holborn	1
 London exeter york	1
+London dublin edinburgh	1
 Lmens gransbergs tryckeri	1
 Litteris berlingianis	1
 Literis höjerianis	1
@@ -727,7 +732,6 @@ Limoges	1
 Likiöping hoos sahl ephraim kämpes änckia	1
 Lijnköping hoos christopher guenter anno m dc xlvi	1
 Lijnköping christopher guenter anno	1
-Lichfield london dublin edinburgh	1
 Leopoli	1
 Leipzig weimar	1
 Leipzig strengnäs	1
@@ -746,6 +750,7 @@ Kopenhagen gyldendalschen buchhandlung	1
 Kopenhagen dero königl majest und universit privilegirten buchdruckeren	1
 Kopenhagen bey peter morsing	1
 Kopenhagen bey christ gottlob prost universitäts buchhändlern	1
+Koningsberg	1
 Königl buckdruckerey	1
 Kongl tryckeriet jun	1
 Kongl tryckeriet år	1
@@ -773,7 +778,6 @@ Jönkjöping petter hultman åhr	1
 Jönkjöping åhr	1
 Jönekjöpjng petter hultman åhr	1
 Joh h werner kongl boktryckiare	1
-Joh fredr edman mariefred	1
 Joh conrad peetz	1
 Johannes brendeken reg acad typographus	1
 Johannes billingsley	1
@@ -811,10 +815,9 @@ Holmiae bruxellis	1
 Holmia	1
 Historiographi regni tryckerij hartwig gercken	1
 Hindrich käyser åhr	1
-Hildburghausen bei johann gottfried hanisch	1
+Hildburghausen	1
 Heylbrunn	1
-Heylbronn bey christoff krausen mense april	1
-Hesse cassel m dcc xviii	1
+Heylbronn	1
 Henricus curio s r m acad upsaliensis bibliopola m dc lxxiii	1
 Helsingor	1
 Helmstädt zu finden bey salomon schnorzn anno	1
@@ -841,7 +844,7 @@ Hamburg kiel	1
 Hamburgi holmiae	1
 Hamburg franckfurt leipzig	1
 Hambourg stockholm	1
-Halmstad c heuman comp	1
+Halle zerbst	1
 Halae svevor	1
 Halae magdebvrgicae io gottl bierwirth m d ccxxxxvii	1
 Halae magdeburgicae	1
@@ -860,7 +863,7 @@ Groningae officina johannis velsen	1
 Groeningen	1
 Greyffswaldt	1
 Greyffswald	1
-Greiz mit sieghartischen schriften	1
+Greiz	1
 Greifswald lund	1
 Greiffswald stralsund	1
 Grätz	1
@@ -894,14 +897,12 @@ Gefle eric gustaf löfs enka	1
 Gefle e p sundqvist	1
 Gefle carl gustaf sundqwist	1
 Gedani	1
-Gävle i år	1
 Garoli gustavi berling	1
 Friederichsstadt	1
 Friburgi brisgoiae	1
 Freybergk bey vnd verlegung georg beuthers	1
 Freyberg bey craz und gerlach	1
 Freudenstatt im jubeljahr	1
-Fredrikstad fredrikshall	1
 Fredrikshall	1
 Frederikshald	1
 Frankenthal	1
@@ -914,7 +915,6 @@ Francofvrti lipsiae	1
 Francof	1
 Franckofurti	1
 Franckfurt leipzig riga	1
-Franckfurt leipzig königsberg	1
 Franckfourt chez frideric knoch m dc lxxxix	1
 Fracofurti moenum sumptibus friderici knochii anno mdccvi	1
 Forssa	1
@@ -928,6 +928,7 @@ Falunae	1
 Eschillus matthiae	1
 Erfordiae heringii acad typogr	1
 Erffurdt bey georg hertzen im m dc xxxii jahr	1
+Enka år säljes exemplaret för dal kopp mt	1
 Eleuteropoli eg freistadt	1
 Durch georg hantsch königl buchdr	1
 Durch georg hantsch	1
@@ -966,11 +967,10 @@ Coblentz se trouvent dans toutes les capitales de l europe m dcc xcii	1
 Cksteinska tryckeriet	1
 Christianiae	1
 Chra	1
-Chemnitz bei karl gottlieb hofmann	1
+Chemnitz	1
 Celle	1
 Cederholm elmens granbergs tryckeri	1
 Catania	1
-Cassel chez jerfmie estienne mdccliv	1
 Carolsadii caroli diderici schmidt	1
 Caroli	1
 Carlstad l horrn	1
@@ -1015,16 +1015,13 @@ Brussel	1
 Brunae	1
 Bruessel	1
 Brest	1
-Braunschweig schulbuchhandlung	1
 Braniewo	1
 Brandenburg bey lebrecht fromm jm jahr	1
-Borås n e lundström	1
 Bologne	1
 Bologna	1
 Boetio hagen cons gymn booktr	1
 Boëtio hagen anno	1
 Boëthio hagen cons typ anno m dc lxxii	1
-Biörckegrens enka år säljes exemplaret för dal kopp mt	1
 Bielefeld	1
 Berolini ge reimerum mdcccxxv	1
 Bern	1
@@ -1034,7 +1031,7 @@ Berlingska boktryckeriet	1
 Berlin greifswald	1
 Bekostat claes depken borghare wästeråhrs wästeråhrs oluff oluffszon anno	1
 Bataviae	1
-Basilea spese di giov rod turneisen mdccxlvii	1
+Basilea spese di giov rod mdccxlvii	1
 Barhöft	1
 Avignon	1
 Aux depens de l auteur sa	1
@@ -1069,7 +1066,7 @@ Amsterdam upsala	1
 Amsterdam rotterdam	1
 Amsterdam haye stockholm	1
 Amsteld	1
-Amberg durch michaëln forstern cvm privilegio anno m d xcv	1
+Amberg	1
 Altona bey jobst heinrich baack wohnet bey lutherischen kirchen	1
 Altonà	1
 Altenburg	1
@@ -1078,6 +1075,7 @@ Altdorf	1
 Alla franechera appresso giouanni d arcerio	1
 Albona	1
 Aes gravenhage	1
+Adolph simon gymn bookd anno	1
 Acad typog	1
 Abr habereger gub acad car bokt	1
 Abr habereegr gub car bokt	1

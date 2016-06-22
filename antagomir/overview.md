@@ -89,9 +89,9 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |author                                       |        47.5|          52.5|         38396|      10123|
 |260f                                         |        40.5|          59.5|         43529|       2246|
 |852j                                         |        34.9|          65.1|         47664|      17021|
-|paper.consumption.km2                        |        30.9|          69.1|         50574|       1725|
-|pagecount.orig                               |        28.0|          72.0|         52714|        870|
-|pagecount                                    |        27.9|          72.1|         52770|        870|
+|paper.consumption.km2                        |        30.9|          69.1|         50568|       1729|
+|pagecount.orig                               |        28.0|          72.0|         52708|        871|
+|pagecount                                    |        27.9|          72.1|         52764|        871|
 |width                                        |        18.5|          81.5|         59652|         27|
 |height                                       |        18.5|          81.5|         59652|         29|
 |area                                         |        18.5|          81.5|         59652|         32|

@@ -388,7 +388,7 @@ A8-G8. Träsn.	NA	NA	NA	    8
 [16] bl. A8.	  32	NA	NA	    7
 [8], 32 s.	  40	NA	NA	    7
 (16) + (4) bl.	NA	NA	NA	    7
-(2) s. A4-B4.	NA	NA	NA	    7
+(2) s. A4-B4.	   2	NA	NA	    7
 A12-D12.	NA	NA	NA	    7
 (4) s. A4-B4C2.	NA	NA	NA	    7
 [2], 40 s.	  42	NA	NA	    7
@@ -520,7 +520,7 @@ A8-V8.	NA	NA	NA	    5
 (16) bl. + ):(4.	  32	NA	NA	    5
 [32] s. (A4-D4)	  32	NA	NA	    5
 A8-I8.	NA	NA	NA	    5
-(4) s. A4-B4.	NA	NA	NA	    5
+(4) s. A4-B4.	   4	NA	NA	    5
 A8	NA	NA	NA	    5
 [4], 30 s.	  34	NA	NA	    5
 [6], 48, [2] s.	  56	NA	NA	    5
@@ -640,7 +640,7 @@ A8-H8I4.	NA	NA	NA	    4
 (2) bl. A2-E2.	   4	NA	NA	    4
 (2) bl. A4-B4.	   4	NA	NA	    4
 (12) s.	  12	NA	NA	    4
-[20] s. (A4-B4C2)	  20	NA	NA	    4
+[20] s. (A4-B4C2)	NA	NA	NA	    4
 A4-B4	NA	NA	NA	    4
 A8-M8.	NA	NA	NA	    4
 A4B4C2.	NA	NA	NA	    4
@@ -828,12 +828,12 @@ A4B5.	NA	NA	NA	    3
 [2], 42 s.	  44	NA	NA	    3
 (16) bl. + b8.	  32	NA	NA	    3
 (16) bl. + a8.	  32	NA	NA	    3
-A4-B4C.	NA	NA	NA	    3
+A4-B4C.	 100	NA	NA	    3
 (2) 1-34 s.	  34	NA	NA	    3
-A4-B4[C]2.	   2	NA	NA	    3
+A4-B4[C]2.	NA	NA	NA	    3
 [8], 104 s.	 112	NA	NA	    3
 63 [1] s.	NA	NA	NA	    3
-(4) s. A4-C4.	NA	NA	NA	    3
+(4) s. A4-C4.	   4	NA	NA	    3
 [16] s. (A4-B4)	  16	NA	NA	    3
 A2.	NA	NA	NA	    3
 ):(4.	NA	NA	NA	    3
@@ -850,7 +850,7 @@ A12-C12.	NA	NA	NA	    3
 (2) bl. A4-B4C2.	   4	NA	NA	    3
 A4B6.	NA	NA	NA	    3
 A5.	NA	NA	NA	    3
-[36] s. (A4-D4E2)	  36	NA	NA	    3
+[36] s. (A4-D4E2)	NA	NA	NA	    3
 [2], 36 s.	  38	NA	NA	    3
 17 s.	  17	NA	NA	    3
 23 [1] s.	NA	NA	NA	    3
@@ -1299,11 +1299,11 @@ A4-L4.	NA	NA	NA	    2
 (3) 4-62 (2) s.	NA	NA	NA	    2
 (15) 2-223 (1) s.	NA	NA	NA	    2
 (16) 1-312 s.	 312	NA	NA	    2
-(4) s. A2-F2.	NA	NA	NA	    2
+(4) s. A2-F2.	   4	NA	NA	    2
 [128] s. (A8-H8)	 128	NA	NA	    2
 (33) 2-624 (34) s.	NA	NA	NA	    2
 (8) s. A8-N8O4.	NA	NA	NA	    2
-(2) s. A4-C4.	NA	NA	NA	    2
+(2) s. A4-C4.	   2	NA	NA	    2
 (2) s. A4B3.	NA	NA	NA	    2
 (15) + (5) bl.	NA	NA	NA	    2
 [8], 184 s.	 192	NA	NA	    2
@@ -1331,7 +1331,7 @@ S. 49-104	  56	NA	NA	    2
 (2) 3-200 s.	 200	NA	NA	    2
 A4 B6.	NA	NA	NA	    2
 [8] s. (A4)	NA	NA	NA	    2
-[104] s. (A8-F8G4)	 104	NA	NA	    2
+[104] s. (A8-F8G4)	NA	NA	NA	    2
 A4-C4D5.	NA	NA	NA	    2
 (3) 4-35 (1) s.	NA	NA	NA	    2
 (2) s.	   2	NA	NA	    2
@@ -1345,9 +1345,9 @@ A8-H8I2.	NA	NA	NA	    2
 [48] s. (A4-F4)	  48	NA	NA	    2
 [160] s. (A8-K8)	 160	NA	NA	    2
 A2B.	NA	NA	NA	    2
-(2) s. A2-E2.	NA	NA	NA	    2
+(2) s. A2-E2.	   2	NA	NA	    2
 [4], 112, [10] s.	 126	NA	NA	    2
-A4-C4 (2) bl.	NA	NA	NA	    2
+A4-C4 (2) bl.	   4	NA	NA	    2
 A12-B6.d12:o.	NA	NA	NA	    2
 (3) 4-39 (1) s.	NA	NA	NA	    2
 A8-L8.	NA	NA	NA	    2
@@ -2601,7 +2601,7 @@ cxviii, 408, [2] s., iv utv.-pl.	 528	NA	NA	    1
 lxvi, 550 s., 30 pl.	 676	NA	NA	    1
 xcviii, 200 s., 3 pl.	 304	NA	NA	    1
 [2], 24 s. ; 8:o	  26	NA	NA	    1
-[4], IV, 94, [1], 3 bl. s.	 109	NA	NA	    1
+[4], IV, 94, [1], 3 bl. s.	 103	NA	NA	    1
 [6], 47, [20] s., s. 50-96, [2] s.	 124	NA	NA	    1
 [8], [1]2-42, [4] s.	  54	NA	NA	    1
 [10], 33, [5] s.	  48	NA	NA	    1
@@ -2795,7 +2795,7 @@ xliv, 268 s., [1] vikt pl.-bl. (kopparstick)	 312	NA	NA	    1
 [12], 92, [2] s.	 106	NA	NA	    1
 [6], [1] 2-56, [2] s., [1] vikt pl.-bl.	  65	NA	NA	    1
 xxiv, 311 s.	 335	NA	NA	    1
-89, 1 bl. s.	  91	NA	NA	    1
+89, 1 bl. s.	  89	NA	NA	    1
 [7] s., s. 2-5, [8] s., s. 2-144, [2] s.	 161	NA	NA	    1
 ca [375] s.	 375	NA	NA	    1
 [8] s., s. 2-56	  64	NA	NA	    1
@@ -3348,7 +3348,7 @@ viii, 27 s.	  35	NA	NA	    1
 [8], [1] 2-31 [1] s.	  40	NA	NA	    1
 [8], 56, [1] s.	  65	NA	NA	    1
 [10] s., s. 2-71, [1] s., 4 pl.-bl.	  82	NA	NA	    1
-XVI, 254, 2 bl. s.	 274	NA	NA	    1
+XVI, 254, 2 bl. s.	 270	NA	NA	    1
 19, [01] s.	  20	NA	NA	    1
 xxii, [2], 205, [1] s.	 230	NA	NA	    1
 [24], 187 [5] s.	  24	NA	NA	    1
@@ -3483,7 +3483,7 @@ S. 74-88	  15	NA	NA	    1
 [2], 108, [88] s.	 198	NA	NA	    1
 195 s.	 195	NA	NA	    1
 [62], 1040 s.(s.1025-1040 opag.)	1102	NA	NA	    1
-[8], 343, 1 bl. s.	 353	NA	NA	    1
+[8], 343, 1 bl. s.	 351	NA	NA	    1
 [8], 344 s. (s. 344 blank)	   8	NA	NA	    1
 [4], 60 s., 1 vikt pl.-bl.	  64	NA	NA	    1
 [8], 67, [1] s.	  76	NA	NA	    1
@@ -3720,7 +3720,7 @@ A12-K12L2.	NA	NA	NA	    1
 (8:o)	NA	NA	NA	    1
 [8] s. ; 15 cm ((8:o)	  23	NA	NA	    1
 (1) bl. A4B4C.	   2	NA	NA	    1
-[2], 70, 1bl. s.	  74	NA	NA	    1
+[2], 70, 1bl. s.	  72	NA	NA	    1
 (4) 1-1150, 1-91 (5) s.; (3) 2-1570, 1-108 s.	2720	NA	NA	    1
 (4) bl. A4-E4.	   8	NA	NA	    1
 (9) 2-208; (1) 2-96 s.	 304	NA	NA	    1
@@ -3734,7 +3734,7 @@ A12-K12L2.	NA	NA	NA	    1
 (1) bl. A4B2.	   2	NA	NA	    1
 (17) 2-156 (8) s.	NA	NA	NA	    1
 (16) bl. + 4 (bl.).	  40	NA	NA	    1
-(1) bl. A4-C4D.	   2	NA	NA	    1
+(1) bl. A4-C4D.	 502	NA	NA	    1
 [40], 228 s.	 268	NA	NA	    1
 1 bl. A2-M2N.	   2	NA	NA	    1
 [8], 420, [4] s.	 432	NA	NA	    1
@@ -3771,16 +3771,16 @@ A2-H3.	NA	NA	NA	    1
 (4) A4B2A4-K4.	NA	NA	NA	    1
 [32], 293, 278, [2] s.	 327	NA	NA	    1
 a4-b4A4-T4.	NA	NA	NA	    1
-(8) s. A8-B8.	NA	NA	NA	    1
+(8) s. A8-B8.	   8	NA	NA	    1
 (13) 2-370 s.	 370	NA	NA	    1
 (2) 3-176 s.	 176	NA	NA	    1
 (8) 1-176 s.	 176	NA	NA	    1
 ):(2 -2 2	NA	NA	NA	    1
 [2], ii48, iii[14] s.	   2	NA	NA	    1
-[5], 6-63, 1bl. s.	  65	NA	NA	    1
+[5], 6-63, 1bl. s.	  63	NA	NA	    1
 102, (6) s.	 102	NA	NA	    1
 (2) 1-30, 1 pl.	  32	NA	NA	    1
-(2) 3-108 (2) s. ; (2) s. H8-I8.	NA	NA	NA	    1
+(2) 3-108 (2) s. ; (2) s. H8-I8.	   2	NA	NA	    1
 (2) 3-121 (3) s. ; H(7-8)I8-K8L4.	NA	NA	NA	    1
 (1) ii-lxxi (1) bl.	NA	NA	NA	    1
 [4], 122, [2] s.	 128	NA	NA	    1
@@ -3810,7 +3810,7 @@ A4-[E]4.	   4	NA	NA	    1
 A8. ; [13], [1]	  14	NA	NA	    1
 a8A8-D8.	NA	NA	NA	    1
 1 kopparst., (49) 2-703 (1) s., 3 tab. ; 1-152 s.	 158	NA	NA	    1
-(8) s. A4-B4.	NA	NA	NA	    1
+(8) s. A4-B4.	   8	NA	NA	    1
 A4-B4C3	NA	NA	NA	    1
 A4-B4. ; [16] s.	  16	NA	NA	    1
 [32], 369, [2] s.	 403	NA	NA	    1
@@ -3833,7 +3833,7 @@ A12-N12	NA	NA	NA	    1
 (24) 1-144 s.	 144	NA	NA	    1
 [8], 659, [1] s.	 668	NA	NA	    1
 [8], 806 s.	 814	NA	NA	    1
-[40] s. (A8-B8C4.)	  40	NA	NA	    1
+[40] s. (A8-B8C4.)	NA	NA	NA	    1
 A8 -B8C4.	NA	NA	NA	    1
 (24) 1-854 (8) s.	NA	NA	NA	    1
 (8) 1-352 (5) s.	NA	NA	NA	    1
@@ -3843,7 +3843,7 @@ A8-B8C4-D4E2.	NA	NA	NA	    1
 1-95 (1) s.	  95	NA	NA	    1
 [24] 1-140, [20], 1-130 [2] s.	 186	NA	NA	    1
 A8-G8H2.	NA	NA	NA	    1
-A8-N804.	NA	NA	NA	    1
+A8-N804.	   4	NA	NA	    1
 (16) 1-87 (1); 1-148 s.	 148	NA	NA	    1
 [8], 54 [2] s.	   8	NA	NA	    1
 [4] 236, [4] s.	 244	NA	NA	    1
@@ -3883,7 +3883,7 @@ A4-B4C6. ; [26] s.	  26	NA	NA	    1
 (3) 2-72 s.	  72	NA	NA	    1
 ):(6 A4-G4.	NA	NA	NA	    1
 ):(6 A4 -F4G2.	NA	NA	NA	    1
-[32] s. ; [A2B4-C4D2]	-Inf	NA	NA	    1
+[32] s. ; [A2B4-C4D2]	  32	NA	NA	    1
 (a)10A8-M8 N6.	NA	NA	NA	    1
 [6], 306 s.	 312	NA	NA	    1
 [8], 320 s. (s. 320 blank)	   8	NA	NA	    1
@@ -3899,12 +3899,12 @@ A2B4C3.	NA	NA	NA	    1
 A4-F4G6.	NA	NA	NA	    1
 [4], 76, [2] s.	  82	NA	NA	    1
 A2-M2.	NA	NA	NA	    1
-(1) bl. A4-B4 (1) bl.	   2	NA	NA	    1
+(1) bl. A4-B4 (1) bl.	   4	NA	NA	    1
 (64) s.	  64	NA	NA	    1
 4 s. (s. 2-3 tryckta).	NA	NA	NA	    1
 ):(4 A4-D4.	NA	NA	NA	    1
 [21], 433, [2] s.	 456	NA	NA	    1
-A4-B4C2 [20] s.	  20	NA	NA	    1
+A4-B4C2 [20] s.	NA	NA	NA	    1
 (2) bl. + 1 patenttr.	   4	NA	NA	    1
 A4 + 1 patenttr.	NA	NA	NA	    1
 (2) s. A4-D4E3, A4-H4.	NA	NA	NA	    1
@@ -3921,11 +3921,11 @@ A2-D2E3.	NA	NA	NA	    1
 (10) 1-360 (10) s., [103] pl.-bl.	NA	NA	NA	    1
 [18], 235, [5] s.	 258	NA	NA	    1
 [12], 350, [10] s.	 372	NA	NA	    1
-)(8A8-H8.	NA	NA	NA	    1
+)(8A8-H8.	   8	NA	NA	    1
 1 bl. pat. fol.	   2	NA	NA	    1
-[A]2B4-C4.	-Inf	NA	NA	    1
+[A]2B4-C4.	NA	NA	NA	    1
 (1) bl A4-B4 (1) bl.	NA	NA	NA	    1
-[16] s. (A4-B4.) (s. 16 blank)	  16	NA	NA	    1
+[16] s. (A4-B4.) (s. 16 blank)	NA	NA	NA	    1
 (9) 2-109; (1) 2-218 (4) s.	 109	NA	NA	    1
 [5], 2-109 s.	 113	NA	NA	    1
 (3) 2-258 (202-201 överhoppade i pagineringen) s.	NA	NA	NA	    1
@@ -3958,12 +3958,12 @@ a4b2, 1-906, [12] s.	 918	NA	NA	    1
 (24) 1-367 (1) s.	NA	NA	NA	    1
 (6) 7-210 (2) s.	NA	NA	NA	    1
 [A]4-D4E3.	   4	NA	NA	    1
-[54] s. (A8-C8D3.)	  54	NA	NA	    1
+[54] s. (A8-C8D3.)	NA	NA	NA	    1
 (2) 3-91 (5) s.	NA	NA	NA	    1
 (4) 1-70 s.	  70	NA	NA	    1
 [16], 84, [4] s.	 104	NA	NA	    1
 (8) 1-55 (5) s.	NA	NA	NA	    1
-(8) s. A8-D8.	NA	NA	NA	    1
+(8) s. A8-D8.	   8	NA	NA	    1
 [3], 2-32 s.	  34	NA	NA	    1
 [8], 255, [41] s.	 304	NA	NA	    1
 (4) 1-172 s.	 172	NA	NA	    1
@@ -3975,7 +3975,7 @@ a4b2, 1-906, [12] s.	 918	NA	NA	    1
 A8H8.	NA	NA	NA	    1
 (12) s. B4-T4U2.	NA	NA	NA	    1
 [2], 90 s.	  92	NA	NA	    1
-A4-I4K2 [76] s.	  76	NA	NA	    1
+A4-I4K2 [76] s.	NA	NA	NA	    1
 [2], 98; 266; [2] 484 s.	 852	NA	NA	    1
 A16 [30] s.	NA	NA	NA	    1
 (2) bl. A4-F4 G2.	   4	NA	NA	    1
@@ -4025,11 +4025,11 @@ i[8], ii152, iii[16], iv159, v[1] s.	NA	NA	NA	    1
 [8], 132, [4] s., [1] vikt pl.-bl.	 144	NA	NA	    1
 [16], 180, [12] s.	 208	NA	NA	    1
 [6], 348, [2] s.	 356	NA	NA	    1
-[3], 4-71, 1 bl. s.	  73	NA	NA	    1
+[3], 4-71, 1 bl. s.	  71	NA	NA	    1
 [8], 325 [3] s., [14] pl.-bl. (delvis vikta)	   8	NA	NA	    1
 (2) 3-78 s.	  78	NA	NA	    1
 (25) 2-374 s.	 374	NA	NA	    1
-[A4-E4] ; [40] s.	-Inf	NA	NA	    1
+[A4-E4] ; [40] s.	  40	NA	NA	    1
 (1) bl. A4-B4C2.	   2	NA	NA	    1
 [32], 258 s.	 290	NA	NA	    1
 [4], 5-479, [1] s.	 480	NA	NA	    1
@@ -4038,7 +4038,7 @@ a8b4A8-P8Q4.	NA	NA	NA	    1
 384 s. (s. 1 opag.)	NA	NA	NA	    1
 A4-B4B2.	NA	NA	NA	    1
 (4) 1-397 (eg: 297) (13) s.	NA	NA	NA	    1
-C2A4-B4C3 4.	NA	NA	NA	    1
+C2A4-B4C3 4.	   4	NA	NA	    1
 A12-L12M8.	NA	NA	NA	    1
 a6 A12-L12.	NA	NA	NA	    1
 (2) 3-223 (1) s.	NA	NA	NA	    1
@@ -4066,17 +4066,17 @@ A12-O12P8	NA	NA	NA	    1
 [17], 2-330, [38]; [5], 6-93, [11] s.	 488	NA	NA	    1
 [36], [1] 2-374, [40] s.	 450	NA	NA	    1
 A8G8.	NA	NA	NA	    1
-[4], [36], [4] s. (4A4-E4.)	  44	NA	NA	    1
+[4], [36], [4] s. (4A4-E4.)	  40	NA	NA	    1
 [2], [22], [20] s. ; A4-E4F2.	  44	NA	NA	    1
 1-24 s.	  24	NA	NA	    1
 A8A8-C8A8-B8A8-B8C2.	NA	NA	NA	    1
 1-54 s.	  54	NA	NA	    1
 A9.	NA	NA	NA	    1
 [4], [40] s.	  44	NA	NA	    1
-[2], [76] [2] s. [A8-D8E6]	  80	NA	NA	    1
-[4], [40] s. [(2) bl. A4-E4.]	-Inf	NA	NA	    1
+[2], [76] [2] s. [A8-D8E6]	  78	NA	NA	    1
+[4], [40] s. [(2) bl. A4-E4.]	   4	NA	NA	    1
 [2], [26] s.	  28	NA	NA	    1
-[2], [16], [2] s. [A4-B4G2.]	  20	NA	NA	    1
+[2], [16], [2] s. [A4-B4G2.]	  18	NA	NA	    1
 (4) s. A8-B8C4D2.	NA	NA	NA	    1
 (1) bl. L4 L9-(12)L9-(12)L9-(10).	  14	NA	NA	    1
 [16], 496 [4] s.	  16	NA	NA	    1
@@ -4121,8 +4121,8 @@ A4C4D2.	NA	NA	NA	    1
 (4) s. A8-F8G2.	NA	NA	NA	    1
 (2) 3-52 s.	  52	NA	NA	    1
 (4) 1-72 s.	  72	NA	NA	    1
-(1) bl. A2-K2L.	   2	NA	NA	    1
-[32] s. (A4-D4.)	  32	NA	NA	    1
+(1) bl. A2-K2L.	  52	NA	NA	    1
+[32] s. (A4-D4.)	NA	NA	NA	    1
 [12], 106, [2] s.	 120	NA	NA	    1
 (13) 1-179 s.	 179	NA	NA	    1
 [10], 129, [3] s.	 142	NA	NA	    1
@@ -4136,11 +4136,11 @@ a4-b4c2, s. 1-594 Hhhh4-Nnnn4.	NA	NA	NA	    1
 [16], 332, [4] s.	 352	NA	NA	    1
 [8], 1-280 [24] s.	 288	NA	NA	    1
 [4], 79 [1] s.	   4	NA	NA	    1
-(8) s. A4-G4.	NA	NA	NA	    1
+(8) s. A4-G4.	   8	NA	NA	    1
 A4B2-D2.	NA	NA	NA	    1
 (2) A4-C4 1-294 s.	 294	NA	NA	    1
 [32], 99, [5] s.	 136	NA	NA	    1
-)(4 A4-D4.	NA	NA	NA	    1
+)(4 A4-D4.	   4	NA	NA	    1
 (18) 1-598 (8) s.	NA	NA	NA	    1
 (26) 1-581 (7) s.	NA	NA	NA	    1
 (30) 2-569 (9) s.	NA	NA	NA	    1
@@ -4148,10 +4148,10 @@ A4B2-D2.	NA	NA	NA	    1
 A4-B4C8-D8.	NA	NA	NA	    1
 A8-M8N2.	NA	NA	NA	    1
 (1) 2-280 s.	 280	NA	NA	    1
-[64] s. (a4A8-D8)	  64	NA	NA	    1
+[64] s. (a4A8-D8)	NA	NA	NA	    1
 [2], 3-94, [2] s.	  96	NA	NA	    1
 )(3A8-B8C4.	NA	NA	NA	    1
-(A4-B4.) [16] s.	  16	NA	NA	    1
+(A4-B4.) [16] s.	NA	NA	NA	    1
 A8B2.	NA	NA	NA	    1
 [8], 1-152, [4] s.	 164	NA	NA	    1
 [8], 153, [3] s.	 164	NA	NA	    1
@@ -4228,7 +4228,7 @@ A4[B]2.	NA	NA	NA	    1
 (4) s. A4-C4D.	NA	NA	NA	    1
 (5) 2-40 s.	  40	NA	NA	    1
 A2B4-H4Aiij-A4.	NA	NA	NA	    1
-[72] s. (A4-I4.)	  72	NA	NA	    1
+[72] s. (A4-I4.)	NA	NA	NA	    1
 A8-?	NA	NA	NA	    1
 [8], 166, [6] s.	 180	NA	NA	    1
 (2) s. A8-B8C6.	NA	NA	NA	    1
@@ -4248,7 +4248,7 @@ a8-b8 A8-Z8Aa8-Ll8.	NA	NA	NA	    1
 A4B8-G8H3.	NA	NA	NA	    1
 (8) 1-96, (1) 2-109 (eg: 108) (4) s.	  96	NA	NA	    1
 [20], 184 s.	 204	NA	NA	    1
-(A4-B4) [16] pl.-s.	  16	NA	NA	    1
+(A4-B4) [16] pl.-s.	NA	NA	NA	    1
 [2], 35 [35] s.	   2	NA	NA	    1
 (2) 3-140 (eg: 180) (4) s.	NA	NA	NA	    1
 (3) 4-303 (1) s.	NA	NA	NA	    1
@@ -4260,13 +4260,13 @@ A4B8-G8H3.	NA	NA	NA	    1
 (24) 1-237 (73) s.	NA	NA	NA	    1
 (12) 1-42 (2) ; 1-110 (8) s.	 110	NA	NA	    1
 (11) 1-401 bl.	NA	NA	NA	    1
-)(4A4-D4E2.	NA	NA	NA	    1
+)(4A4-D4E2.	 400	NA	NA	    1
 [4], 183, [1] s.	 188	NA	NA	    1
 A8-B8C6.	NA	NA	NA	    1
 54, ii[2] s. (s. ii2 blank)	  54	NA	NA	    1
 (3) 4-54 (2) s.	NA	NA	NA	    1
 A8-E8F6.	NA	NA	NA	    1
-(A4-E4.) [40] s.	  40	NA	NA	    1
+(A4-E4.) [40] s.	NA	NA	NA	    1
 A4-O4.	NA	NA	NA	    1
 (2) 3-103 (25) s.	NA	NA	NA	    1
 [2], [18] s.	  20	NA	NA	    1
@@ -4284,7 +4284,7 @@ A4 fol. 1-143 (arabisk o. romersk foliering) (5) bl.	NA	NA	NA	    1
 [24], 695 s. (m. fel i paginer.).	  24	NA	NA	    1
 [13], 2-111, [1] ; [3], 2-274 ; [2], 1-36 ; [2], 1-15, [1] ; [2], 1-33, [1] ; [2], 1-50 s.	 544	NA	NA	    1
 A4 B2.	NA	NA	NA	    1
-A8-C8. [48] s.	  48	NA	NA	    1
+A8-C8. [48] s.	NA	NA	NA	    1
 (12) 1-78 (6) s.	NA	NA	NA	    1
 A4, 1 tab., Aa-E8.	   2	NA	NA	    1
 (4) 1-57 (1) s.	NA	NA	NA	    1
@@ -4311,13 +4311,13 @@ aa4-bb4A4-V4X2.	NA	NA	NA	    1
 [62], 563, [5] s.	 630	NA	NA	    1
 [24], 603, [11] s.	 638	NA	NA	    1
 (16) 1-47 (1) s.	NA	NA	NA	    1
-A4-F4. [48] s.	  48	NA	NA	    1
+A4-F4. [48] s.	NA	NA	NA	    1
 [26], 3-156, [2] s.	 182	NA	NA	    1
-A4-B4. [16] s.	  16	NA	NA	    1
+A4-B4. [16] s.	NA	NA	NA	    1
 [40], 158, [10] s.	 208	NA	NA	    1
 (12) 1-233 (1) s.	NA	NA	NA	    1
 A2-T2	NA	NA	NA	    1
-(1) bl. ()2A2-Y2.	   2	NA	NA	    1
+(1) bl. ()2A2-Y2.	   4	NA	NA	    1
 (3) 2-78; (1) 2-40 s.	 118	NA	NA	    1
 (6) 1-155 (6) s.	NA	NA	NA	    1
 (8) 1-203 (5) s.	NA	NA	NA	    1
@@ -4336,12 +4336,12 @@ A6-H6.	NA	NA	NA	    1
 (2) bl. A2-H2.	   4	NA	NA	    1
 (16) 1-411 (1) s.	NA	NA	NA	    1
 )(6 1-242 (eg: 244) bl.	NA	NA	NA	    1
-[A8]-B8	-Inf	NA	NA	    1
+[A8]-B8	NA	NA	NA	    1
 [20] s., [8] s., [32] s., [48] s. 26 x [16] s.	  60	NA	NA	    1
 ):(8.	NA	NA	NA	    1
 i[4], ii116, iii[20] s. (sista bladet rättelser)	NA	NA	NA	    1
-(1) bl. B2-G2 (1) bl.	   2	NA	NA	    1
-A4B2-D2. [20] s.	  20	NA	NA	    1
+(1) bl. B2-G2 (1) bl.	   4	NA	NA	    1
+A4B2-D2. [20] s.	NA	NA	NA	    1
 (3) 4-18 s.	  18	NA	NA	    1
 (9) 1-128; 1-830 (10) s.	 958	NA	NA	    1
 (2) 1-859 (23); (2) 1-802 (20); (2) 1-384; (2) 1-372 (10) s.	 384	NA	NA	    1
@@ -4355,7 +4355,7 @@ A2A2-D2 E.	NA	NA	NA	    1
 (4) 1-318; (1) 2-144 (4) s.	 318	NA	NA	    1
 (4) 1-324 s.	 324	NA	NA	    1
 (8) 1-324 s.	 324	NA	NA	    1
-A4-G4. [56] s.	  56	NA	NA	    1
+A4-G4. [56] s.	NA	NA	NA	    1
 (8) 1-285 (29) 1-116 s.	 285	NA	NA	    1
 [6], [2], [1] 2-173, [21] s.	 202	NA	NA	    1
 A6; [12] s.	  12	NA	NA	    1
@@ -4386,7 +4386,7 @@ A8-B8C3-?	NA	NA	NA	    1
 (16) 1-267 (1) s.	NA	NA	NA	    1
 (2) s. A4-B4C2	NA	NA	NA	    1
 A4B6-G8.	NA	NA	NA	    1
-[20] s. (A4-B4C2.)	  20	NA	NA	    1
+[20] s. (A4-B4C2.)	NA	NA	NA	    1
 (4) 5-94 (2) s.	NA	NA	NA	    1
 [6], ii7-168; iii[2] iv3-454 s.	 628	NA	NA	    1
 A12-C12D6; D7-12E12F1; F2-12G2; G3-12H12-I12; (4) 5-94 (2) s., sign. K12-N12.	NA	NA	NA	    1
@@ -4428,7 +4428,7 @@ A8-Q8.	NA	NA	NA	    1
 (2) 3-375 bl.	NA	NA	NA	    1
 (8) 1-296 bl.	NA	NA	NA	    1
 [4], 176 s.	 180	NA	NA	    1
-(8) s. A4-D4.	NA	NA	NA	    1
+(8) s. A4-D4.	   8	NA	NA	    1
 (16) 1 tab. (1) 2-254 (2) s.	NA	NA	NA	    1
 (16) 1-526 (52) s. + rättelselapp.	NA	NA	NA	    1
 (4) s. A4D4.	NA	NA	NA	    1
@@ -4455,7 +4455,7 @@ A4-E4F.	NA	NA	NA	    1
 (4) 1-38 (4) s.	NA	NA	NA	    1
 (8) 3-71 (3) s.	NA	NA	NA	    1
 [6], 64 s.	  70	NA	NA	    1
-32 s. A4-D4.	NA	NA	NA	    1
+32 s. A4-D4.	  32	NA	NA	    1
 24 s. A4C4.	NA	NA	NA	    1
 [8], 152, [2] s.	 162	NA	NA	    1
 [9], 2-88 s.	  96	NA	NA	    1
@@ -4487,7 +4487,7 @@ a4-b4.	NA	NA	NA	    1
 (8) 1-104 s.	 104	NA	NA	    1
 (20) 1-124 s.	 124	NA	NA	    1
 [2], [28], [28] s.	  58	NA	NA	    1
-[76] s. (A4(?)6B4-H4.)	  76	NA	NA	    1
+[76] s. (A4(?)6B4-H4.)	NA	NA	NA	    1
 [66]96[28] s. + [1] pl.-bl.	 191	NA	NA	    1
 A-B4	NA	NA	NA	    1
 [120] s. (A12-E12)	 120	NA	NA	    1
@@ -4579,7 +4579,7 @@ A-B4	NA	NA	NA	    1
 [16], 589[67] s.	  16	NA	NA	    1
 [8], i-xvi, 1-663, [27] s.	 714	NA	NA	    1
 [32], 908, [98] s.	1038	NA	NA	    1
-A4-C4D.	NA	NA	NA	    1
+A4-C4D.	 500	NA	NA	    1
 [24], 324 (eg: 333), [1] s.	  25	NA	NA	    1
 [16, 274, 64] s.	 354	NA	NA	    1
 [30, 250] s.	 280	NA	NA	    1
@@ -4587,14 +4587,14 @@ A4-P4 (2) bl.	NA	NA	NA	    1
 A8-D8C4.	NA	NA	NA	    1
 )(4 A8-D8E4.	NA	NA	NA	    1
 (19) 2-177 (3) s.	NA	NA	NA	    1
-[A4]B8-K8.	-Inf	NA	NA	    1
+[A4]B8-K8.	NA	NA	NA	    1
 (2) 1-58 s.	  58	NA	NA	    1
 (9) 2-180 (18) s., 1 pl.	   2	NA	NA	    1
 (11) 2-528; (1) 2-477 (17) s.	 528	NA	NA	    1
 [16], ii839, iii[33] s.	  16	NA	NA	    1
 [12], ii1-858, iii[18] s.	 870	NA	NA	    1
 [24], ii1-923, iii[21] s.	 947	NA	NA	    1
-[40] s. (A8-B8C4)	  40	NA	NA	    1
+[40] s. (A8-B8C4)	NA	NA	NA	    1
 )(2A4-E4F2 + 1 stickbl.	NA	NA	NA	    1
 A4 A4-B4.	NA	NA	NA	    1
 [7], 2-274, [2] s.	 282	NA	NA	    1
@@ -4672,11 +4672,11 @@ A6B4C3.	NA	NA	NA	    1
 [2], 34, [2] s.	  38	NA	NA	    1
 [4], 102 s., frontespis	 106	NA	NA	    1
 82 [4] s.	NA	NA	NA	    1
-[88] s. (A8-E8 F4)	  88	NA	NA	    1
+[88] s. (A8-E8 F4)	NA	NA	NA	    1
 ):(2A2-E2.	NA	NA	NA	    1
 [8], [54] s.	  62	NA	NA	    1
 [480] s.	 480	NA	NA	    1
-(A4-L4M2) [92] s.	  92	NA	NA	    1
+(A4-L4M2) [92] s.	NA	NA	NA	    1
 [80 s.] (s. 79-80 blanka) (A4-C4C4-I4)	  80	NA	NA	    1
 Sign. )(1-2.	   2	NA	NA	    1
 a2A4-G4.	NA	NA	NA	    1
@@ -4691,10 +4691,10 @@ a2A4-G4.	NA	NA	NA	    1
 A4-D4., [32] s.	  32	NA	NA	    1
 [8], [96]; 48 s. ; 48 s. ; [4], 144 ; [32] ; [4], [80] ; [64] ; [4], [176]; [1] 2-144 s.	 852	NA	NA	    1
 [1]2-144 s.	 144	NA	NA	    1
-[180] s. (4A8-L8)	 180	NA	NA	    1
-[188] s. (A8-L8M4)	 188	NA	NA	    1
+[180] s. (4A8-L8)	NA	NA	NA	    1
+[188] s. (A8-L8M4)	NA	NA	NA	    1
 (2) bl. A8-E8.	   4	NA	NA	    1
-(4) s. A8-F8.	NA	NA	NA	    1
+(4) s. A8-F8.	   4	NA	NA	    1
 [2], 118 s.	 120	NA	NA	    1
 [8], [1]-128 s.	 136	NA	NA	    1
 [8], 96 s.	 104	NA	NA	    1
@@ -4705,7 +4705,7 @@ A12-I12.	NA	NA	NA	    1
 135 [1] s.	NA	NA	NA	    1
 [96] s. (A8-F8)	  96	NA	NA	    1
 (1) 2-96 s.	  96	NA	NA	    1
-(2) A8-E8.	NA	NA	NA	    1
+(2) A8-E8.	   2	NA	NA	    1
 [16], 120 s.	 136	NA	NA	    1
 (5) 2-160 (4) s.	NA	NA	NA	    1
 (4) 33-231 (1) s.	NA	NA	NA	    1
@@ -4773,7 +4773,7 @@ G4-K4L2.	NA	NA	NA	    1
 (2) 1-85 (1) s.	NA	NA	NA	    1
 (8) 1-102 (2) s.	NA	NA	NA	    1
 (17) 2-416 s.	 416	NA	NA	    1
-A4-K4L.	NA	NA	NA	    1
+A4-K4L.	  50	NA	NA	    1
 A8B3.	NA	NA	NA	    1
 (2) 3-164 (40) s.	NA	NA	NA	    1
 12 bl.	  24	NA	NA	    1
@@ -4794,23 +4794,23 @@ A12-B12C10.	NA	NA	NA	    1
 65[3] s.	NA	NA	NA	    1
 77 [1] s.	NA	NA	NA	    1
 [14], [1] 2-234 [2] s.	 250	NA	NA	    1
-[12], 87 [1], [40] s. (A6B4-R4)	  52	NA	NA	    1
+[12], 87 [1], [40] s. (A6B4-R4)	  12	NA	NA	    1
 1 bl. 2 sp.	   4	NA	NA	    1
 A8; A8; A8-B8.	NA	NA	NA	    1
-[72] s. (A8-D8E4)	  72	NA	NA	    1
+[72] s. (A8-D8E4)	NA	NA	NA	    1
 A8-H8	NA	NA	NA	    1
-[132] s. (A4a2B4-Q4)	 132	NA	NA	    1
+[132] s. (A4a2B4-Q4)	NA	NA	NA	    1
 [8], 162 [2] s.	   8	NA	NA	    1
 2 vol. i 1 ([18], [1] 2-364, [5] s.)	 389	NA	NA	    1
 [24], 203 [1] s.	  24	NA	NA	    1
 [20], 404, [6], 72, [2] s.	 432	NA	NA	    1
-2A2-D2E.	NA	NA	NA	    1
+2A2-D2E.	   2	NA	NA	    1
 [8], 752 [1] s. (s. 81-89 överhoppade)	 760	NA	NA	    1
 [4], xii, 527 [9] s.	  16	NA	NA	    1
 (5) 2-128; 1-332; 1-258 (10) s.	 718	NA	NA	    1
 [4], 176, 178-304, [1] s.	 309	NA	NA	    1
 [4], 257 s.	 261	NA	NA	    1
-[50] s. ([2] s. A8-C8)	  50	NA	NA	    1
+[50] s. ([2] s. A8-C8)	NA	NA	NA	    1
 1 bl. m. kopparst. ram.	   2	NA	NA	    1
 (4) 1-192 s.	 192	NA	NA	    1
 1 bl. reg., 1-192 s.	 194	NA	NA	    1
@@ -4818,8 +4818,8 @@ A8-H8	NA	NA	NA	    1
 (4) 1-179; (1) 2-23 (1) s.	 179	NA	NA	    1
 (6) 1-192 s.	 192	NA	NA	    1
 A4-B4G2.	NA	NA	NA	    1
-[a]2b4-c4d2 ; [24] s.	-Inf	NA	NA	    1
-[20], [144] s. ([a]2b6A4-Q4R2), [3] pl.-bl. (varav 2 vikta)	 164	NA	NA	    1
+[a]2b4-c4d2 ; [24] s.	  24	NA	NA	    1
+[20], [144] s. ([a]2b6A4-Q4R2), [3] pl.-bl. (varav 2 vikta)	  20	NA	NA	    1
 (2) s. A12-F12G5.	NA	NA	NA	    1
 (4) s. A12-F12G6; A12.	NA	NA	NA	    1
 [376] s. (a4-b4A4-S4; A4-Z4Aa4-Bb4)	 376	NA	NA	    1
@@ -4835,7 +4835,7 @@ A4-B4G2.	NA	NA	NA	    1
 (2) bl., A4-B4C2.	   4	NA	NA	    1
 [24], 242 s.	 266	NA	NA	    1
 (16) 1-300 s.	 300	NA	NA	    1
-A2-H2I.	NA	NA	NA	    1
+A2-H2I.	   1	NA	NA	    1
 (2) s. A4-B4C2D.	NA	NA	NA	    1
 (4) 5-27 (1) s.	NA	NA	NA	    1
 (2) 3-47 (1) s.	NA	NA	NA	    1
@@ -4862,11 +4862,11 @@ A2-H2I.	NA	NA	NA	    1
 [16], 560, [14] s.	 590	NA	NA	    1
 [224] s. (A4-Z4, Aa4-Ff4.)	 224	NA	NA	    1
 A4-Y4.	NA	NA	NA	    1
-[88 s.] (A4-L4.)	  88	NA	NA	    1
+[88 s.] (A4-L4.)	NA	NA	NA	    1
 (1) bl. A2-C2.	   2	NA	NA	    1
 (10) 1-330 (252); (2) 3-128 (38) s.	NA	NA	NA	    1
 (8) s. A8G8.	NA	NA	NA	    1
-A4-C4 (2) s.	NA	NA	NA	    1
+A4-C4 (2) s.	   2	NA	NA	    1
 A3A4.	NA	NA	NA	    1
 (3) bl. A4-B4C5.	   6	NA	NA	    1
 [34], 710, [2] s.	 746	NA	NA	    1
@@ -4891,10 +4891,10 @@ A4A2-A4B4C2.	NA	NA	NA	    1
 (19) 1-77 bl.	NA	NA	NA	    1
 (4) 1-124 s.	 124	NA	NA	    1
 [4], 356, [24] s.	 384	NA	NA	    1
-A4-C4D; [2], [26] s	  28	NA	NA	    1
+A4-C4D; [2], [26] s	 528	NA	NA	    1
 (9) 2-93 (1) s.	NA	NA	NA	    1
 (3) 4-248 s.	 248	NA	NA	    1
-(2) bl. A2-G2 (1) bl.	   4	NA	NA	    1
+(2) bl. A2-G2 (1) bl.	   6	NA	NA	    1
 [3] 271, 72 s.	 274	NA	NA	    1
 (A)4(B)3(C)4(D)3.	NA	NA	NA	    1
 [16], [1] 2-80 s.	  96	NA	NA	    1
@@ -4925,7 +4925,7 @@ A2A2B4-C4.	NA	NA	NA	    1
 a4, s. 1-16, A4-D4EF4, s. 67-94.	  94	NA	NA	    1
 (4) bl. A4-N4.	   8	NA	NA	    1
 (3) bl. A4-N4O.	   6	NA	NA	    1
-[80] s. (A8-D8E4)	  80	NA	NA	    1
+[80] s. (A8-D8E4)	NA	NA	NA	    1
 (14) 1-112 s.	 112	NA	NA	    1
 [12] 84 s.	  96	NA	NA	    1
 [16], [1] 2-120 s.	 136	NA	NA	    1
@@ -4963,17 +4963,17 @@ AI2-Q12.	NA	NA	NA	    1
 [8] 88 s.	  96	NA	NA	    1
 [6], 3-31 [1] s.	  37	NA	NA	    1
 [2], 297 s.	 299	NA	NA	    1
-[136] s. (A12B8-H8)	 136	NA	NA	    1
+[136] s. (A12B8-H8)	NA	NA	NA	    1
 [8], 94 s.	 102	NA	NA	    1
 47[1] s. (s. 46 felpag '26')	NA	NA	NA	    1
 A12-Q12.	NA	NA	NA	    1
 (2) bl. A12-M12N10a12-b12.	   4	NA	NA	    1
-[4], [72] s. ([2] b1. A4-I4)	  76	NA	NA	    1
+[4], [72] s. ([2] b1. A4-I4)	   4	NA	NA	    1
 [3], 2-125, [1] s.	 128	NA	NA	    1
 [2], 261 [3] s.	   2	NA	NA	    1
 (1) bl. A4-B4.	   2	NA	NA	    1
 [32], 124; [2], 162, [2] s.	 322	NA	NA	    1
-(2) s. A2-D2.	NA	NA	NA	    1
+(2) s. A2-D2.	   2	NA	NA	    1
 )(4 1-81 (7) s.	NA	NA	NA	    1
 (9) 2-69 (3) s.	NA	NA	NA	    1
 [25], 2-830 s.	 854	NA	NA	    1
@@ -5024,7 +5024,7 @@ A6-T6	NA	NA	NA	    1
 (14) 1-276 s.	 276	NA	NA	    1
 (17) 2-310 s.	 310	NA	NA	    1
 (16) 1-319 s.	 319	NA	NA	    1
-A4-B4Cl.	NA	NA	NA	    1
+A4-B4Cl.	 150	NA	NA	    1
 (3) 4-29 (1) s.	NA	NA	NA	    1
 1 provark (?)	NA	NA	NA	    1
 (28) 1-752 (8) s.	NA	NA	NA	    1
@@ -5035,7 +5035,7 @@ A4-B4Cl.	NA	NA	NA	    1
 [32], 559, [1] s.	 592	NA	NA	    1
 [16], 178 s.	 194	NA	NA	    1
 (:)2A2-C2.	NA	NA	NA	    1
-[84] s. (A4-I4K5.)	  84	NA	NA	    1
+[84] s. (A4-I4K5.)	NA	NA	NA	    1
 [3], 2-46 s.	  48	NA	NA	    1
 (1)4A8-C8.	NA	NA	NA	    1
 (1)4A8-C8D4.	NA	NA	NA	    1
@@ -5068,7 +5068,7 @@ A12-B12C	NA	NA	NA	    1
 [6], 58 s.	  64	NA	NA	    1
 [9], 2-155, [5] s.	 168	NA	NA	    1
 [3], [1] 2-34 s.	  37	NA	NA	    1
-(6) s. A4-B4.	NA	NA	NA	    1
+(6) s. A4-B4.	   6	NA	NA	    1
 (15) bl. + )(9.	  39	NA	NA	    1
 (15) bl. + A4.	  30	NA	NA	    1
 (6) 1-108 (4) s.	NA	NA	NA	    1
@@ -5097,7 +5097,7 @@ A8D8 + 1 tab.	NA	NA	NA	    1
 A8-D8	NA	NA	NA	    1
 [16], 392, 648, 208 s.	 664	NA	NA	    1
 A4B2-?	NA	NA	NA	    1
-[A4]-C4-?	-Inf	NA	NA	    1
+[A4]-C4-?	NA	NA	NA	    1
 [8], 368, [56] s.	 432	NA	NA	    1
 A4-D4 E2.	NA	NA	NA	    1
 )(3.	   3	NA	NA	    1
@@ -5112,7 +5112,7 @@ A8 B2.	NA	NA	NA	    1
 (17) 2-214 (2) s.	NA	NA	NA	    1
 ):(12 A12-I12.	NA	NA	NA	    1
 [4], 1-273, [1] s.	 278	NA	NA	    1
-(2) 1-25 (1) s.; (1) bl. s. 27-69 (1).	   2	NA	NA	    1
+(2) 1-25 (1) s.; (1) bl. s. 27-69 (1).	NA	NA	NA	    1
 [2], 3-304 s.	 304	NA	NA	    1
 (19) 2-359 (1) s.	NA	NA	NA	    1
 [8], 472; [2], 135 [1] s.	 482	NA	NA	    1
@@ -5130,7 +5130,7 @@ A4-B4C5.	NA	NA	NA	    1
 A2B4-G4.	NA	NA	NA	    1
 (13) 1-154 s.	 154	NA	NA	    1
 A4E4F2.	NA	NA	NA	    1
-[66] s. ((2) s. B4-I4)	  66	NA	NA	    1
+[66] s. ((2) s. B4-I4)	NA	NA	NA	    1
 (6) 1-302 s.; (2) 1-522 (8) s.	 302	NA	NA	    1
 (12) 1-252; (3) 2-504 (12) s.	 252	NA	NA	    1
 (8) 1-372; (1) 2-460 (10) s.	 372	NA	NA	    1
@@ -5142,7 +5142,7 @@ A12-L12 (1) bl.	NA	NA	NA	    1
 (4) 1-738 s.	 738	NA	NA	    1
 l bl.	 100	NA	NA	    1
 [32], 394, [6] s.	 432	NA	NA	    1
-[A4-B4], [16] s.	-Inf	NA	NA	    1
+[A4-B4], [16] s.	  16	NA	NA	    1
 [16] bl. + B4.	  32	NA	NA	    1
 (24) bl.	  48	NA	NA	    1
 (16) bl. + )(4.	  36	NA	NA	    1
@@ -5162,23 +5162,23 @@ l bl.	 100	NA	NA	    1
 [40] s. (A4-E4)	  40	NA	NA	    1
 [16], 856 s.	 872	NA	NA	    1
 294 (?) s.	 294	NA	NA	    1
-(4) s. A4-D4.	NA	NA	NA	    1
+(4) s. A4-D4.	   4	NA	NA	    1
 A4-C4D4.	NA	NA	NA	    1
 A4-D4 D4-E4.	NA	NA	NA	    1
 H4-N4O2.	NA	NA	NA	    1
 [16], 190 [2] s.	  16	NA	NA	    1
-[44] s. (A4-E4F2)	  44	NA	NA	    1
+[44] s. (A4-E4F2)	NA	NA	NA	    1
 [2], 260 s.	 262	NA	NA	    1
 [8], 612; [8], 360; 184 s.	1172	NA	NA	    1
-Bl. H[7]I8-K8L4.	   9	NA	NA	    1
-G[8]H8-I8.	   8	NA	NA	    1
+Bl. H[7]I8-K8L4.	   2	NA	NA	    1
+G[8]H8-I8.	NA	NA	NA	    1
 (2) bl. A2-L2.	   4	NA	NA	    1
 [2] 4-220 [68] s.	 287	NA	NA	    1
 8176] s. (A8-L8)	8176	NA	NA	    1
 (11) 4-239 (1) s.	NA	NA	NA	    1
 (5) 2-148 s.	 148	NA	NA	    1
 [16], 134 [10] s.	  16	NA	NA	    1
-[10], [119] s. (A8-G8H6)	 129	NA	NA	    1
+[10], [119] s. (A8-G8H6)	  10	NA	NA	    1
 (3) bl. A2-K2.	   6	NA	NA	    1
 (2) 1-98 s. A8-D8E4.	NA	NA	NA	    1
 (16) bl. + (1) 4.	  32	NA	NA	    1
@@ -5229,8 +5229,8 @@ A8-T8U4.	NA	NA	NA	    1
 A8-T8?	NA	NA	NA	    1
 [103] [1] s. A4-N4.	 104	NA	NA	    1
 [4], [8], [1] 2-191, [1] s.	 204	NA	NA	    1
-A4-C4. [24] s.	  24	NA	NA	    1
-a4-d4 1-1229 (3) s.; (:)4 1-970 (4) s.	NA	NA	NA	    1
+A4-C4. [24] s.	NA	NA	NA	    1
+a4-d4 1-1229 (3) s.; (:)4 1-970 (4) s.	1229	NA	NA	    1
 A12-B12E6.	NA	NA	NA	    1
 [22], 505, [1] s.	 528	NA	NA	    1
 92 [4] s.	NA	NA	NA	    1
@@ -5251,7 +5251,7 @@ A8):(8 (1) 2-366 (8) s. (fel i paginer., tit.-bl. saknas).; (2) 3-180 bl. (fel i
 (47) 2-360 (10) s.; (1) I-XXXI; (1) II-VIII; (1) VIII-XLI bl. (m. fel i folieringen); (1) 2-165 bl. (fel i folieringen); (32) s.; (1) 2-38 bl. (fel i folieringen); (2) 42-48 (fel i folieringen).	  71	NA	NA	    1
 [112] s. (A8-G8)	 112	NA	NA	    1
 A8-I8K2.	NA	NA	NA	    1
-[176] s. (a8b2A8-D8E4A8-E8F2)	 176	NA	NA	    1
+[176] s. (a8b2A8-D8E4A8-E8F2)	NA	NA	NA	    1
 A3B2-D2E3.	NA	NA	NA	    1
 [40], 328 s.	 368	NA	NA	    1
 [304] s.	 304	NA	NA	    1
@@ -5275,9 +5275,9 @@ A2-I2.	NA	NA	NA	    1
 [8], 309 s.	 317	NA	NA	    1
 (11) 1-27 s., 1 pl.	  29	NA	NA	    1
 [56], 472, [26] s.	 554	NA	NA	    1
-(2) A4-C4.	NA	NA	NA	    1
+(2) A4-C4.	   2	NA	NA	    1
 (6) 1-86 s.	  86	NA	NA	    1
-[88] s. (A8-E8F4)	  88	NA	NA	    1
+[88] s. (A8-E8F4)	NA	NA	NA	    1
 [2] 102 s.	 104	NA	NA	    1
 [8], 111 [1] s.	   8	NA	NA	    1
 1-33 (eg. 32) s.	  33	NA	NA	    1
@@ -5308,7 +5308,7 @@ Sign. P4Qij.	NA	NA	NA	    1
 [2], 3-215, [1] s.	 216	NA	NA	    1
 (25) 2-143 (1); (1) 2-22 (2) s.	NA	NA	NA	    1
 (4) A4-F4G2.	NA	NA	NA	    1
-(4) s. A4-D4	NA	NA	NA	    1
+(4) s. A4-D4	   4	NA	NA	    1
 A2B4-C4.	NA	NA	NA	    1
 [2] bl., A²-S², [1] bl.	   6	NA	NA	    1
 A4)(4.	NA	NA	NA	    1
@@ -5324,11 +5324,11 @@ A4)(4.	NA	NA	NA	    1
 [14], 340 [20]; 175 [1] s.	  14	NA	NA	    1
 [8], 359 [17]; [4], 131 [1]; [3] 29, [4] s.	  48	NA	NA	    1
 (17) 2-488 (12) s.	NA	NA	NA	    1
-[36] s. (A8-B8B2)	  36	NA	NA	    1
+[36] s. (A8-B8B2)	NA	NA	NA	    1
 [8], 264 s.	 272	NA	NA	    1
 (1) bl. A4 B3.	   2	NA	NA	    1
 (4) s. A4-I4K2.	NA	NA	NA	    1
-(8) s. A4-C4.	NA	NA	NA	    1
+(8) s. A4-C4.	   8	NA	NA	    1
 (1) bl. A2-E2F.	   2	NA	NA	    1
 (12) s. B4C2.	NA	NA	NA	    1
 a4A8-L8M6.	NA	NA	NA	    1
@@ -5361,8 +5361,8 @@ A8 -C8(?)	NA	NA	NA	    1
 [20], [8], 282, [286] s.	 596	NA	NA	    1
 [24], 179 [1], [3] s.	  27	NA	NA	    1
 [3], 2-48, [4] s.	  54	NA	NA	    1
-[8], 128 s. [a4A4-Q4.]	 136	NA	NA	    1
-[18] s. ((2) s. A4-B4)	  18	NA	NA	    1
+[8], 128 s. [a4A4-Q4.]	   8	NA	NA	    1
+[18] s. ((2) s. A4-B4)	NA	NA	NA	    1
 A4-B4C2A4.	NA	NA	NA	    1
 [12], 131 [1] s.	  12	NA	NA	    1
 a4A4-C4.	NA	NA	NA	    1
@@ -5388,7 +5388,7 @@ a8-b8; A8-F8; (1) 2-329 (7) s.; A8-Z8Aa8.	NA	NA	NA	    1
 A4-N4O2.	NA	NA	NA	    1
 [8], 621 [1] s.	   8	NA	NA	    1
 A12-B12C6.	NA	NA	NA	    1
-[102] s. (A8-D8E3; A8-B8)	 102	NA	NA	    1
+[102] s. (A8-D8E3; A8-B8)	NA	NA	NA	    1
 [2], 3-216, [24] s.	 240	NA	NA	    1
 (2) 3-216 (24) s.	NA	NA	NA	    1
 (3) 2-22 s.	  22	NA	NA	    1
@@ -5427,7 +5427,7 @@ A4-Z4Aa4-Zz4Aaa4-Zzz4Aaaa4-L1114.	NA	NA	NA	    1
 [8], 216, 339-345 [1] s.	 353	NA	NA	    1
 (9) 2-234 (68) s.	NA	NA	NA	    1
 (...)12x12-xx12 xxx6 (8) 1-119 (5) s.	NA	NA	NA	    1
-[52] s. (A4-F4G2)	  52	NA	NA	    1
+[52] s. (A4-F4G2)	NA	NA	NA	    1
 (5) 6-47 (1) s.	NA	NA	NA	    1
 (8) 1-208 (16) s.	NA	NA	NA	    1
 (2) 3-148, 1-54 s.	 148	NA	NA	    1
@@ -5442,22 +5442,22 @@ A2L2M.	NA	NA	NA	    1
 [8], 133 [3] s.	   8	NA	NA	    1
 (2) bl. A2-F2.	   4	NA	NA	    1
 [40] s. (A2B4-E4F2)	  40	NA	NA	    1
-(4) s. A8-D8.	NA	NA	NA	    1
+(4) s. A8-D8.	   4	NA	NA	    1
 A2B4-E4.	NA	NA	NA	    1
 A2A2-C2.	NA	NA	NA	    1
 (3) bl. A4-C4.	   6	NA	NA	    1
 (8) 1-201 (7) s.	NA	NA	NA	    1
 [2], [46], 1148 [32] s.	  48	NA	NA	    1
-[196] s. (2A4-Z4)	 196	NA	NA	    1
-[220] s. (A4B8-O8P2)	 220	NA	NA	    1
+[196] s. (2A4-Z4)	NA	NA	NA	    1
+[220] s. (A4B8-O8P2)	NA	NA	NA	    1
 [16], 160 s., [1] vikt pl.-bl., frontespis	 176	NA	NA	    1
 [12] 72 s. (s. 1-2 opag.)	  84	NA	NA	    1
 (2) 3-256 s.	 256	NA	NA	    1
 [8], 376 s.	 384	NA	NA	    1
-)(8 A8-O8.	NA	NA	NA	    1
+)(8 A8-O8.	   8	NA	NA	    1
 (32) 1-231 (1) s.	NA	NA	NA	    1
 [16], 253, [17], [66] s.	 352	NA	NA	    1
-(4) s. A2-B2.	NA	NA	NA	    1
+(4) s. A2-B2.	   4	NA	NA	    1
 (6) 1-246 (8) s.	NA	NA	NA	    1
 (1) 2-47 s.	  47	NA	NA	    1
 (3) 2-233 (1) s.	NA	NA	NA	    1
@@ -5498,13 +5498,13 @@ A4B4 [16] s.	NA	NA	NA	    1
 [12], 85 [3] s.	  12	NA	NA	    1
 [16], 224, [14] s.	 254	NA	NA	    1
 [15] [1] s. A4-B4.	  16	NA	NA	    1
-(3) bl. A4-b4c, A4, B4-C4, D4-E4F4, G4, H4, I4-K4L4, M4, N2.	   6	NA	NA	    1
+(3) bl. A4-b4c, A4, B4-C4, D4-E4F4, G4, H4, I4-K4L4, M4, N2.	 106	NA	NA	    1
 [103]s., 1 planschblad	 103	NA	NA	    1
 (10) 1-45 (1) s.	NA	NA	NA	    1
 [88] s. (A4-K4)	  88	NA	NA	    1
 [104] s. (A4-M4)	 104	NA	NA	    1
-[94] s. A4-M4N2.	  94	NA	NA	    1
-(2) s. A2-C2.	NA	NA	NA	    1
+[94] s. A4-M4N2.	NA	NA	NA	    1
+(2) s. A2-C2.	   2	NA	NA	    1
 )(3A4B1.	NA	NA	NA	    1
 [9], 2-36, [2] s.	  46	NA	NA	    1
 [2], 63 s.	  65	NA	NA	    1
@@ -5520,7 +5520,7 @@ Bl. F2-F8G8.	   2	NA	NA	    1
 A4-G4-?	NA	NA	NA	    1
 [8], 95 [1] s.	   8	NA	NA	    1
 [8], 98 [2] s.	   8	NA	NA	    1
-[34] s. (A4-D4E2)	  34	NA	NA	    1
+[34] s. (A4-D4E2)	NA	NA	NA	    1
 (2) 3-20 (4) s.	NA	NA	NA	    1
 (2) 3-20 s.	  20	NA	NA	    1
 Patenttryck i 2 bl.	NA	NA	NA	    1
@@ -5532,14 +5532,14 @@ Patenttryck i 2 bl.	NA	NA	NA	    1
 [22], [1] 2-580, [2] 3-48 [64] s.	 669	NA	NA	    1
 A12-F12G2.	NA	NA	NA	    1
 A8-C8D2	NA	NA	NA	    1
-[79] [1] s. (A8-E8.)	  80	NA	NA	    1
+[79] [1] s. (A8-E8.)	  79	NA	NA	    1
 (6) bl., A8-G8H2.	  12	NA	NA	    1
 [4]91[1] s.	  96	NA	NA	    1
 [8], 196 s.	 204	NA	NA	    1
 (1) bl. B4-F4G2.	   2	NA	NA	    1
-(2) s. A4-D4.	NA	NA	NA	    1
+(2) s. A4-D4.	   2	NA	NA	    1
 (2) bl. A8 (+ 1 tab.)-H8, A8-D8.	NA	NA	NA	    1
-[24] s. (A4-C4.)	  24	NA	NA	    1
+[24] s. (A4-C4.)	NA	NA	NA	    1
 [A]2-D2E.	   2	NA	NA	    1
 )(6A8-N8O2.	NA	NA	NA	    1
 [24] s. (A8-B4)	  24	NA	NA	    1
@@ -5590,7 +5590,7 @@ A8-N8O2.	NA	NA	NA	    1
 47 [2] s.	NA	NA	NA	    1
 A8-B8A8.	NA	NA	NA	    1
 [78], [2] s. (A8-E8)	  80	NA	NA	    1
-[164] s. (A8-K8L4)	 164	NA	NA	    1
+[164] s. (A8-K8L4)	NA	NA	NA	    1
 (2) 3-269 (11) bl.	NA	NA	NA	    1
 (3) 4-148 s.	 148	NA	NA	    1
 (3) 4-171 (1) s.	NA	NA	NA	    1
@@ -5609,7 +5609,7 @@ A8-B8A8.	NA	NA	NA	    1
 (8) 5-450 (5) bl.	NA	NA	NA	    1
 (1) s., s. 314-385.	 385	NA	NA	    1
 A8-C8D6.	NA	NA	NA	    1
-144 s. (A8-I8)	NA	NA	NA	    1
+144 s. (A8-I8)	 144	NA	NA	    1
 (1), s. 79-194	 194	NA	NA	    1
 A8-M8N4.	NA	NA	NA	    1
 [208] s. (A8-N8)	 208	NA	NA	    1
@@ -5672,14 +5672,14 @@ A12-C12D6	NA	NA	NA	    1
 [22], 480, [84] s., frontespis, [15] pl.-bl. (varav 9 vikta)	 586	NA	NA	    1
 [26], 324 s.	 350	NA	NA	    1
 [14], 314 [38] s.	  14	NA	NA	    1
-[44] s. A4-E4F1.	  44	NA	NA	    1
+[44] s. A4-E4F1.	NA	NA	NA	    1
 AA4.	NA	NA	NA	    1
 (2) s. A2C1.	NA	NA	NA	    1
-(*)2-(***)2A2-C2.	   2	NA	NA	    1
+(*)2-(***)2A2-C2.	   1	NA	NA	    1
 A3-B3.	NA	NA	NA	    1
 [11] s. A4B2.	NA	NA	NA	    1
 (2) 3-14 s.	  14	NA	NA	    1
-A2-C2D.	NA	NA	NA	    1
+A2-C2D.	 500	NA	NA	    1
 [24] s. A4-C4.	  24	NA	NA	    1
 [16] s. A4.	NA	NA	NA	    1
 ):4):2.	NA	NA	NA	    1
@@ -5712,7 +5712,7 @@ A8-L8M4.	NA	NA	NA	    1
 [6] 122, 537 [7] s.	 550	NA	NA	    1
 [8], 148, [4] s.	 160	NA	NA	    1
 (8) s.;(A8-D8E4.)	   8	NA	NA	    1
-[20] s. ([A2]B4-C4)	  20	NA	NA	    1
+[20] s. ([A2]B4-C4)	NA	NA	NA	    1
 [16], 152 s.	 168	NA	NA	    1
 (49) 2-528 (36) s.	NA	NA	NA	    1
 (27) 4-426; (1) 2-406 (30) s.	 426	NA	NA	    1
@@ -5733,7 +5733,7 @@ A2B4-C4D2.	NA	NA	NA	    1
 [16], 346, [6] s.	 368	NA	NA	    1
 [8], 334, [2] s.	 344	NA	NA	    1
 (5) 1-31 (1) s.	NA	NA	NA	    1
-[22] s. [A4-C4]	  22	NA	NA	    1
+[22] s. [A4-C4]	NA	NA	NA	    1
 1 grav., (16) 1-341 (1) s.; Sign.: P4Qij.	NA	NA	NA	    1
 [80], s. ((8) s. A8-D8E4)	  80	NA	NA	    1
 [6], 143 [9], [8], 38, [2] s.	  54	NA	NA	    1
@@ -5755,7 +5755,7 @@ a4-b4c2 A4-I4K2.	NA	NA	NA	    1
 A4D4E2.	NA	NA	NA	    1
 (2) 3-120 (4) s.	NA	NA	NA	    1
 [5], 6-83, [1] s.	  84	NA	NA	    1
-[144] s. ((*)12 A8-G8H4)	 144	NA	NA	    1
+[144] s. ((*)12 A8-G8H4)	NA	NA	NA	    1
 [48] s. A8-C8	  48	NA	NA	    1
 [A]12-[B]12, C12 -H12.	  12	NA	NA	    1
 (16) b1. + B4.	NA	NA	NA	    1
@@ -8524,7 +8524,7 @@ iv, 64 s. =(s. 63-64 opag.).=	   4	NA	NA	    1
 [08] , 132 s.	 140	NA	NA	    1
 [80] , ii390, [iii26] s. =(s. 373-90 opag.)=.	  80	NA	NA	    1
 =Gemensamt titelbl.:= [02] s. 24 s. 24 s. 20 s. 32 s. 28 s. 24 s. 22 s.	NA	NA	NA	    1
-08 .s	NA	NA	NA	    1
+08 .s	   8	NA	NA	    1
 32 s. =(s. 32 felpag. '30')=.	NA	NA	NA	    1
 [20] , 64 s.	  84	NA	NA	    1
 [08] s., s. 53-192 =(s. 191-92 felpag. '192', '193')=.	   8	NA	NA	    1

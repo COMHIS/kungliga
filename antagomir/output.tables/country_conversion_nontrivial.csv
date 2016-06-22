@@ -1,5 +1,5 @@
 original	polished	Count
-Total count: 	67578	
+Total count: 	67569	
 Stockholm	Sweden	30858
 [Stockholm]	Sweden	 3599
 Uppsala	Sweden	 2664
@@ -172,7 +172,6 @@ Nürnberg	Germany	   17
 [Paris]	France	   17
 [Upsala ]	Sweden	   17
 Wästeråhs	Sweden	   17
-Gefle	Sweden	   17
 Petersburg	Russia	   17
 Stockholm, tryckt i kongl. tryckeriet.	Sweden	   16
 [Upsaliæ]	Sweden	   16
@@ -321,7 +320,7 @@ Copenhague	Denmark	    7
 Upsaliæ, litteris Joh. Fredr. Edman, reg. acad. typogr.	Sweden	    7
 Gryphiæ	Germany	    7
 Upsaliæ, apud Joh. Edman, reg. acad. typogr.	Sweden	    7
-Londini Gothorum, litteris Berlingianis.	England	    7
+Londini Gothorum, litteris Berlingianis.	Sweden	    7
 Sanktpeterburg	Russia	    7
 Tryckt i Stockholm, aff Ignatio Meurer.	Sweden	    7
 Stregnesij	Sweden	    7
@@ -426,7 +425,6 @@ Köpenhamn	Denmark	    5
 Leeuwarden	Netherlands	    5
 Gryphiae, litteris I. H. Eckhardt, reg. acad. typogr.	Germany	    5
 Aboæ, impressit Johannes Christophorus Frenckell.	Finland	    5
-Cassel	France	    5
 Ulm	Germany	    5
 Tryckt j Stockholm, aff Andrea Gutterwitz.	Sweden	    5
 [Reval]	Estonia	    5
@@ -752,6 +750,7 @@ Upsala, tryckt hos direct. Johan Edman, Kongl. acad. boktr.	Sweden	    3
 Upsaliæ, litteris director. Joh. Edman.	Sweden	    3
 Holmiæ, typis Laurentii Salvii.	Sweden	    3
 Upsala, tryckt hos L. M. Höjer, kongl. acad. boktr.	Sweden	    3
+Stockholm, tryckte i Elméns och Granbergs tryckeri, 1823.	Sweden	    3
 Stockholm, tryckta hos Olof Grahn, 1818.	Sweden	    3
 Stockholm, tryckte hos A. Gadelius.	Sweden	    3
 Stockholm, tryckta hos A. Gadelius, 1818.	Sweden	    3
@@ -795,7 +794,6 @@ Stockholm, tryckt hos Peter Hesselberg, 1767.	Sweden	    3
 Stockholm, tryckte hos Carl Delén, 1811.	Sweden	    3
 Narva	Estonia	    3
 Stockholm, tryckt hos Peter Hesselberg, 1771.	Sweden	    3
-Tryckt i Gefle, 1778.	Sweden	    2
 Kjøbenhavn 1790. Trykt paa Boghandler Mallings Forlag hos Sebastian Popp.	Denmark	    2
 Lepzig	Germany	    2
 St Petersburg, gedruckt bey der kayserl. Akademie der Wissenschaften 1786.	Russia	    2
@@ -803,7 +801,7 @@ St Petersburg, gedruckt bey der kayserl. Akademie der Wissenschaften 1786.	Russi
 Stralsund, gedruckt in der Königl. Regierungs-Buchdruckerey.	Germany	    2
 A Paris, Chez Benoît Dandré, Garnery, Obré, an IV. [1796]	France	    2
 London: printed for G. G. J. and J. Robinson, Pater-Noster-Row. MDCCLXXXVI.	England	    2
-Londini Gothorum, typis Berlingianis.	England	    2
+Londini Gothorum, typis Berlingianis.	Sweden	    2
 Tryckt i Vpsala, aff Eskil Matzson. 1624.	Sweden	    2
 Fahlun, tryckt hos Pehr Ol. Axmar, 1798.	Sweden	    2
 Upsala, tryckt hos Em. Bruzelius 1828.	Sweden	    2
@@ -1025,6 +1023,7 @@ Stockholm, å nyo Trykt i Kongl. Tryckeriet, 1782.	Sweden	    2
 Stockholm, uti det Kongl. tryckeriet, hos Joh. Henr. Werner, directeur öfwer alla tryckerien i riket, åhr 1734.	Sweden	    2
 Stockholm, å nyo tryckt i Kongl. Tryckeriet, 1800.	Sweden	    2
 Stockholm, Tryckt uti Kongl. Tryckeriet 1750.	Sweden	    2
+Stokgolʹm, pečatan v korolevskoj tipografii.	Sweden	    2
 Stockholm, tryckt hos Johan Pehr Lindh, 1795.	Sweden	    2
 Stockholm, å nyo Tryckt i Kongl. Tryckeriet, 1798.	Sweden	    2
 Stockholm, Tryckt å nyo i Kongl. Tryckeriet År 1770.	Sweden	    2
@@ -1062,7 +1061,7 @@ Deventer	Netherlands	    2
 Upsala ...	Sweden	    2
 Aboæ, excud. Joh. Kiämpe, reg. acad. typ.	Finland	    2
 Lund, 1811. Tryckt uti Berlingska boktryckeriet.	Sweden	    2
-Londini Gothorum litteris Berlingianis.	England	    2
+Londini Gothorum litteris Berlingianis.	Sweden	    2
 [Altona]	Germany	    2
 Åboæ, typis Frenckellianis	Finland	    2
 Upsaliæ. Typis Keyserianis.	Sweden	    2
@@ -1095,8 +1094,8 @@ Londini Gothorum. Litteris directoris Caroli Gustavi Berling.	England	    2
 Typis Caroli Gustavi Berling, directoris officinæ typographicæ Lundini Gothorum.	England	    2
 Londini Gothorvm, typis Caroli Gvstavi Berling.	England	    2
 Londini Gothorum. Ex officina direct. Caroli Gustavi Berling reg. acad. Carol. typograph.	England	    2
-Londini Gothorum, typis Caroli Gustavi Berling.	England	    2
-Londini Gothorum typis Caroli Gustavi Berling.	England	    2
+Londini Gothorum, typis Caroli Gustavi Berling.	Sweden	    2
+Londini Gothorum typis Caroli Gustavi Berling.	Sweden	    2
 Londini Gothorum, typis reg. aul. Camer. & direct. reg. acad. Carolinæ typog. Caroli Gustavi Berling.	England	    2
 Londini Gothorum ex officina director. Caroli Gustavi Berling, reg. acad. Carol. typograph.	England	    2
 Londini Gothorum. Ex officina director. Caroli Gustavi Berling, reg. acad. Carol. typograph.	England	    2
@@ -1154,7 +1153,7 @@ Upsaliæ, apud Johan. Edman, reg. acad. typogr.	Sweden	    2
 Lugduni	France	    2
 Dorpat	Estonia	    2
 Londini Gothorum, typis r. aul. camer. & direct. reg. acad. Carolinæ typog. Caroli Gustavi Berling.	England	    2
-Londini Gothorum. Typis Berlingianis.	England	    2
+Londini Gothorum. Typis Berlingianis.	Sweden	    2
 Aboe	Finland	    2
 Glasgow	Scotland	    2
 Goettingae	Germany	    2
@@ -1419,11 +1418,8 @@ Gothoburgi, a. M. DCC. XIV. Imprimebat Zacharias Hagemann.	Sweden	    1
 Örebro, tryckt genom Erik Widblad 1796. Exemplaret kostar 6 rundstycken.	Sweden	    1
 Leipzig verlegts Johann Gottfried Dyck. 1760.	Germany	    1
 [S.n.] Amsterdam 1743.	Netherlands	    1
-Tryckt i Gefle, 1783.	Sweden	    1
 A Stocholm, chez Jean Pleyn de Courage, LXXVII.	Sweden	    1
-Tryckt i Gefle, 1782.	Sweden	    1
 Trckt i Westeråhs.	Sweden	    1
-Tryckt i Gefle, 1777.	Sweden	    1
 Götheborg, 1814, tryckt hos Sam. Norberg.	Sweden	    1
 Linköping, 1838. tryckt hos P. A. Strömberg.	Sweden	    1
 1548. [Kolofon:] Tulkittu somen turws, waan prentattu Stocholmis Amundi Lauritzan Poialta ... 1548.	Sweden	    1
@@ -2245,6 +2241,7 @@ Stockholm, å nyo tryckt i Kongl. Tryckeriet, 1816.	Sweden	    1
 Carlskrona 1813, tryckt i Kongl. Am:ts Boktryckeriet, hos Major C. F. Svinhufvud.	Sweden	    1
 Stockholm, hoos Ignatium Meurer, anno MDCXLVI.	Sweden	    1
 Stockholm, Tryckt i Marquardska Tryckeriet, 1812.	Sweden	    1
+Stockholm, Tryckte i Elméns och Gransbergs Tryckeri, 1813.	Sweden	    1
 Stockholm, de L'Imprimerie Royale, 1812.	Sweden	    1
 Stockholm, tryckt i Kongl. tryckeriet, 1811.	Sweden	    1
 Linköping, 1812. Groth och Petre.	Sweden	    1
@@ -2399,6 +2396,7 @@ Stockholm, Å nyo Trykt [!] uti Kongl. Tryckeriet, 1782.	Sweden	    1
 Stockholm, å nyo tryckt uti Kongl. Tryckeriet, 1803.	Sweden	    1
 Tryckt i Upsala, 1759.	Sweden	    1
 Stockholm, å nyo Tryckt uti Kongl. Tryckeriet, 1782.	Sweden	    1
+Carls-crona, tryckt uti Kongl. Amiralitets boktryckeriet.	Sweden	    1
 Upsala, Tryckt hos Directeuren Johan Edman, 1781.	Sweden	    1
 Stockholm, tryckt hos direct. Lars Salvius, 1758.	Sweden	    1
 Götheborg, 1760. Tryckt hos Johan Georg Lange, Jun.	Sweden	    1
@@ -2758,8 +2756,10 @@ Tryckt i Upsala,1760.	Sweden	    1
 Upsala, Tryckt uti Kongl. Academiska Tryckeriet.	Sweden	    1
 Stockholm, tryckt hos directeuren Lars Salvius. 1758.	Sweden	    1
 Stockholm, Tryckt uti Kongl. Tryckeriet 1756	Sweden	    1
+Carls-Crona, Tryckt hos Kongl. Amiralitets Boktryckaren Sal. Joan Winqwists Änckia.	Sweden	    1
 Stockholm, Tryckt uti Kongl. tryckeriet 1754.	Sweden	    1
 Stockholm, Tryckt uti thet Kongl. Tryckeriet, hos Directeuren Pet. Momma. 1754.	Sweden	    1
+Carls-Crona, Tryckt hos Kongl. Amiralitets Boktryckaren Joan Winqwist.	Sweden	    1
 Stockholm Tryckt uti Kongl. Tryckeriet, Hos Directeuren Pet. Momma	Sweden	    1
 Stockholm, Tryckt hos Lars Salvius	Sweden	    1
 Stockholm, Tryckt uti Kongl. Tryckeriet	Sweden	    1
@@ -3027,6 +3027,7 @@ Carlscrona, tryckt uti Kongl. Amir. Boktryckeriet	Sweden	    1
 Stockholm, Gedruckt in der Königl. Buchdruckerey, Bey dem Directeur Pet. Momma	Sweden	    1
 Stockholm, å nyo Tryckt i Kongl. Tryckeriet, 1785.	Sweden	    1
 Stockholm, uti Kongl. Tryckeriet, Hos Directeuren Pet. Momma.	Sweden	    1
+Carls-Crona, tryckt hos Georg Törn.	Sweden	    1
 Stralsund, bey Johann Jacob Weitbrecht. 1749.	Germany	    1
 Stockholm, å nyo Tryckt i Kongl. Tryckeriet, 1802.	Sweden	    1
 Stockholm, Tryckt uti Kongl. Tryckeriet, Hos Directeuren Pet. Momma, 1747.	Sweden	    1
@@ -3044,6 +3045,7 @@ Stockholm, tryckt uti Kongl. tryckeriet, hos directeuren Pet. Momma. 1746.	Swede
 Stockholm, Å nyo uplagt hos Henr. Fougt, 1772. Huset N:o 104 på Stora Nygatan.	Sweden	    1
 Stockholm, å nyo uplagt hos Henr. Fougt, 1772. Stora Nygatan, huset N:o 104.	Sweden	    1
 Stockholm, tryckt uti Kongl. tryckeriet, å nyo år 1770.	Sweden	    1
+Stokgolʹm, pečatan v Korolevskoj tipografii.	Sweden	    1
 Stockholm, Gedruckt in der Königl. Buchdruckerey bey dem Directeur Pet. Momma.	Sweden	    1
 Stockholm, Tryckt hos Lorentz Ludewig Grefing.	Sweden	    1
 Stockholm, Tryckt hos Lorentz Ludew. Grefwing. 1740.	Sweden	    1
@@ -3169,6 +3171,7 @@ Greifswald ...	Germany	    1
 Greifswald, verlegts Jacob Löffler, Königl. Univ. Buchh.	Germany	    1
 Gothoburgi, excudebat Zacharias Hageman̄, anno 1715.	Sweden	    1
 I Götheborg, tryckte och uplagde andra gången af Zacharias Hagemann med hans egen omkostnadt, åhr 1706.	Sweden	    1
+Nyköping, tryckt åhr 1774.	Sweden	    1
 Avignon	France	    1
 Junecopiae	Sweden	    1
 Argentorati	France	    1
@@ -3455,7 +3458,6 @@ A Paris, chez Henry Sara, au Mont St. Hilaire, pres le Puits certain et chez Jea
 [Basel]	Switzerland	    1
 [Strassburg]	France	    1
 Kopenhagen u. Leipzig	Germany	    1
-A Cassel, chez Jerfmie Estienne. MDCCLIV.	France	    1
 Stockholmiæ, in typ. reg.	Sweden	    1
 t' Amsterdam	Netherlands	    1
 Lipsiae, apud Siegfried Lebrecht Crvsivm. MDCCXCI.	Germany	    1
@@ -3687,6 +3689,7 @@ Nürnberg, verlegts Buggel und Seitz. An. 1719.	Germany	    1
 Aboæ, impressit Joh. Christoph. Frenkell.	Finland	    1
 London, printed for T. W. and are to be sold at the signe of the bell in st. Pauls church-yard, 1658.	England	    1
 Riga..	Latvia	    1
+Berlin & Stettin, bey Friederich Nicolai, 1783.	Germany	    1
 Aboæ, in officina typographica Societatis Biblicæ	Finland	    1
 Londini Gothorum, ex officina director. Caroli Gustavi Berling, reg. acad. Carol. typograph.	England	    1
 Odense, hos Christian Iversen.	Denmark	    1
@@ -3704,7 +3707,7 @@ Londini-Gothorum, ex officina directoris Caroli Gustavi Berling reg. acad. Carol
 Londini Gothorum ex officina directoris Caroli Gustavi Berling. reg. acad. Carol. typograph.	England	    1
 Londini Gothorum. ex officina direct. Caroli Gustavi Berling, reg. acad. Carol. typograph.	England	    1
 Londini Gothorum typis Caroli Gvstavi Berling.	England	    1
-Londini Gothorum Typis Caroli Gustavi Berling.	England	    1
+Londini Gothorum Typis Caroli Gustavi Berling.	Sweden	    1
 Londini Gothorum ex officina direct. Caroli Gustavi Berling. Reg. acad. Carol. typograph.	England	    1
 Londini Gothorum. typ. reg. aul. cam. & direct. reg. acad. Caroliæ typogr. Caroli Gustavi Berling.	England	    1
 Londini Gothorum. Ex officina directoris Carli Gustavi Berling, reg. acad. Carol. Typograph.	England	    1
@@ -3946,6 +3949,7 @@ Upsaliæ, impressum apud Johannem Edman reg. acad. typogr.	Sweden	    1
 Stockholm, tryckt hos Carl Delén, 1805.	Sweden	    1
 Arnstadt..	Germany	    1
 Holmiæ, typis direct. Laurentii Salvii.	Sweden	    1
+Berlin & Stettin	Germany	    1
 Berlin, 1774. Bey Christian Friedrich Himburg.	Germany	    1
 Sthlm & Upsala	Sweden	    1
 Franckfurth	Germany	    1
@@ -4055,7 +4059,7 @@ A La Haye; chez Adrien Moetjens. M. DCC. XXX.	Netherlands	    1
 A La Haye, chez P.F. Gosse, libraire & imprimeur de la cour. M.DCC.LXXXIX.	Netherlands	    1
 London : printed for G. Kearsley, at Johnson's Head, no. 46, Fleet Street.	England	    1
 Lipsiæ ex officina Langenhemiana.	Germany	    1
-Londini Gothorum. typis Berlingianis.	England	    1
+Londini Gothorum. typis Berlingianis.	Sweden	    1
 Leeds	England	    1
 A La Haye, chez Henry Scheurleer ..., M. D. CC. XI.	Netherlands	    1
 Lipsiæ, apud Siegfried Lebrecht Crvsivm, MDCCLXXXIII	Germany	    1
@@ -5257,6 +5261,7 @@ Stockholm. Praelo Schroderiano, anno M. DC XXXIV.	Sweden	    1
 Medh translateris egen bekostnat, och finnes hoos honom til kiöps. Prælo Reusneriano anno 1615. [Kolofon:] Tryckt i Stockholm, aff Christoff Reuszner, anno M. DC. XV.	Sweden	    1
 Aboæ, excusum à Johanne Winter, reg. typogr. anno 1690.	Finland	    1
 Tryckt i Vpsala, [Eskil Mattsson] åhr 1620.	Sweden	    1
+Nyköping, tryckt hoos Amund Nilszon Grefwe, på hans egen typographia, åhr 1649	Sweden	    1
 [Linköping] Typis Danielis Kempe, 1676.	Sweden	    1
 Stocholmisa	Sweden	    1
 Imprimebatur Wisingsbvrgi per Celsiss : regni dtotzeti typographum Johannem Kankel. Anno M DC LXXIX.	Sweden	    1
@@ -5468,7 +5473,6 @@ Montpellier	France	    1
 Hafniæ. Literis Joh. Phil. Bockenhoffer, reg. maj. & univ. typogr. anno M DC LXXXIX.	Denmark	    1
 Rostochi apud Johannem Hallerfordeum Bibliopolam. Anno M.DC.XXI.	Germany	    1
 Glückstadt und Leipzig, bey Gotthilff Lehmann, Königl. provil. Buchhändler. 1712.	Germany	    1
-A Hesse-Cassel, M. DCC. XVIII.	France	    1
 Wasasa, 1782. Prändätty Georg Wilh. Londicerildä.	Finland	    1
 Turusa, prändätty direct. ja cuning. kirj. pränttäjäldä, Jacob Merckellildä.	Finland	    1
 Upsala, tryckt hos directeuren Joh. Edman, Kgl. acad. boktr.	Sweden	    1
@@ -5484,6 +5488,7 @@ Stockholmiæ, in typ reg.	Sweden	    1
 Upsala, tryckt hos directeuren Joh. Edman.	Sweden	    1
 A La Haye, chez Charles Charpentier, à l'enseigne de l'apôtre St. Barthelemy. M D C C XVI.	Netherlands	    1
 Stockholm, tryckt hos Anders Jacobszon Nordström 1797.	Sweden	    1
+Berlin und Stettin, bey Friedrich Nicolai, 1792.	Germany	    1
 Carlscrona, tryckt hos Kongl. Amiralitets boktryck. Joan Winqwists enka 1755.	Sweden	    1
 Lund, 1785. Tryckt och bekostad, af hof-cammer och direct. Berling	Sweden	    1
 Scaræ 1764	Sweden	    1
@@ -5510,6 +5515,8 @@ Stockholm, Elméns och Granbergs tryckeri, 1824.	Sweden	    1
 Stockholm, hos Johan Haeggström, 1824.	Sweden	    1
 Stockholm, tryckt hos Johan Hörberg, 1824.	Sweden	    1
 Stockholm, tryckt hos Elmén och Granberg, J.P. Lindhs enka, F.B. Nestius, Z. Hæggström, A.E. Ortman, samt å Ecksteinska och Marquardska boktryckerierne, 1823 och 1824	Sweden	    1
+Stockholm, tryckte i Elméns och Granbergs tryckeri, 1824.	Sweden	    1
+Stockholm, tryckte i Elméns och Granbergs tryckeri, 1823	Sweden	    1
 Stockholm, Grahn, 1823.	Sweden	    1
 Stockholm, tryckte hos Samuel Rumstedt : 1824.	Sweden	    1
 Stockholm, tryckt hos J.A. Ewaldt, 1824.	Sweden	    1
@@ -6360,6 +6367,7 @@ Stockholm [Kolofon:] Stockholm, de l'imprimerie de C. Deleen, 1817.	Sweden	    1
 Stockholm, tryckte i kongl. tryckeriet, MDCCXCII.	Sweden	    1
 Wasa, tryckt af Georg Wilhelm Londicer, 1788.	Finland	    1
 Imprimé à Linköping, l'année 1792. [Schonbergs och Biörckegrens änka.]	Sweden	    1
+Nyköping, tryckte hos Petter Winge 1799.	Sweden	    1
 À Lund MDCCLV. Imprimé par Charles Gustave Berling directeur de l'imprimerie dans l'université caroline aux depens de l'auteur.	Sweden	    1
 Stockholm, tryckte på direct. Lars Salvii kostnad, 1772.	Sweden	    1
 Stockholm, tryckte på direct. Lars Salvii kostnad, 1768.	Sweden	    1
@@ -6588,6 +6596,7 @@ Stockholm, tryckt af Andr. Biörkman, kongl. acad. boktr. 1728.	Sweden	    1
 Skara, tryckt hos Herm. Arnold Möller, kongl. gymnas. boktryckiare.	Sweden	    1
 Götheborg, 1776. Trykt hos Immanuel Smitt, k.g.b.	Sweden	    1
 Stockholm, tryckt hos A. Gadelius, 1816.	Sweden	    1
+Nyköping, tryckt af Carl Haszelrot, 1782.	Sweden	    1
 Stockholm, tryckt hos J.C. Holmberg, 1788.	Sweden	    1
 Stockholm, tryckt hos Samuel Rumstedt, 1812.	Sweden	    1
 À Stockholm 1809, imprimé chez le directeur Pierre Sohm.	Sweden	    1

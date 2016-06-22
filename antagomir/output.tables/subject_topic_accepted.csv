@@ -418,8 +418,8 @@ Brännvin;Alkohollagstiftning	  4
 Broar	  4
 Ceremonier;Kröningar	  4
 Domkapitel;Präster;Pastoralexamen;Ecklesiastikstaten	  4
-Ekonomisk brottslighet	  4
 Ekonomiska förhållanden;Hushåll;Historia	  4
+Ekonomisk brottslighet	  4
 Epidemier;Gula febern;Karantän;Farsot;Farsot	  4
 Epidemier;Gula febern;Karantän;Sjöfart;Farsot;Farsot	  4
 Epidemier;Pest;Farsot	  4
@@ -458,8 +458,8 @@ Krigsbyten;Rysk-svenska kriget 1788-1790	  4
 Kyrkohandböcker	  4
 Kyrkoplikt;Kyrkoplikt	  4
 Lagring;Import;Handelssjöfart;Handel	  4
-Lantbruk;Storskifte;Lantmäteri;Jordreformer;Lantmäteriverket	  4
 Lantbruksredskap	  4
+Lantbruk;Storskifte;Lantmäteri;Jordreformer;Lantmäteriverket	  4
 Lantkrigsväsen;Indelningsverket;Soldater	  4
 Lantmäteriverket	  4
 Lantvärnet	  4
@@ -571,8 +571,8 @@ Alkohollagstiftning;Alkoholförsäljning;Brännvin;Alkoholskatt;Acciser	  3
 Alkohollagstiftning;Alkoholförsäljning;Husbehovsbränning;Straff;Kroppsstraff;Böter;Brännvin;Brännvin	  3
 Alkohollagstiftning;Husbehovsbränning;Alkoholskatt;Brännvin;Brännvin	  3
 Allianser;Försvarspakter;Freds- och förbundsslut;Freds- och förbundsslut	  3
-Ämbets- och tjänstemän;Ämbets- och tjänstemän	  3
 Ämbetsmän;Tro- och huldhetseder;Ämbetseder;Eder	  3
+Ämbets- och tjänstemän;Ämbets- och tjänstemän	  3
 Änkor;Pensioner;Änke- och pupillkassor;Barn	  3
 Apotekare;Apotekare	  3
 Arbetare;Hantverkare;Varutillverkning;Varutillverkning	  3
@@ -601,7 +601,6 @@ Bergsbruk;Smideshantverk	  3
 Bibelöversättning	  3
 Bokföring;Lantbruksbokföring;Lantbruksekonomi	  3
 Bokslut;Räkenskaper;Penningväsen;Riksgäldskontor	  3
-Bön;Tacksägelser;Furstliga personer;Furstliga personer	  3
 Böndagar;Böner;Furstliga personer	  3
 Böndagsplakat;Böner;Bönedag;Bönedag	  3
 Böner;Bön	  3
@@ -609,6 +608,7 @@ Böner;Böndagsplakat;Böndagar	  3
 Böner;Dansk-svenska kriget 1658-1660;Polsk-svenska kriget 1655-1660;Freden i Oliva 1660;Freden i Köpenhamn 1660;Bönedag;Tacksägelser	  3
 Böner;Furstliga personer	  3
 Böner;Furstliga personer;Tacksägelser;Ceremonier	  3
+Bön;Tacksägelser;Furstliga personer;Furstliga personer	  3
 Borgare;Hantverkare;Sjökaptener;Tro- och huldhetseder;Eder	  3
 Borgare;Städer;Landsbygd;Handelssjöfart;Privilegier;Handel	  3
 Borgare;Stadsvakter;Allmän ordning och säkerhet	  3
@@ -679,8 +679,8 @@ Humle	  3
 Husdjur;Får;Djursjukdomar	  3
 Husdjur;Får;Fåravel;Premiering;Premier (merkantilismen);Ull;Ull	  3
 Husdjur;Hästar;Djursjukdomar	  3
-Hushåll;Svensk matlagning	  3
 Hushållningssällskap;Lantbruk;Hushåll;Lantbruksekonomi	  3
+Hushåll;Svensk matlagning	  3
 Indelningsverket;Adel;Bönder;Krigsmakten till lands	  3
 Indelningsverket;Krigsmakten till lands;Krigsmakten till lands	  3
 Indelningsverket;Militära uniformer;Lantmilitiens utredning;Lantmilitiens utredning	  3
@@ -691,9 +691,9 @@ Inkvartering (militärväsen);Inkvartering;Inkvartering	  3
 Inkvartering (militärväsen);Livsmedel;Inkvartering	  3
 Jakt;Jaktmetoder;Jaktredskap	  3
 Jakt;Naturvård;Djur;Jakt;Jakt	  3
-Järn;Järn	  3
 Järnbruk;Järnhantering;Skatter;Järn;Järn	  3
 Järnhantering;Järn;Järn;Järn;Järn	  3
+Järn;Järn	  3
 Jordägande;Fastigheter;Skatteköp och byte;Skatteköp och byte	  3
 Jus detractus;Jus detractus	  3
 Kanalbyggnad;Soldater;Arbetskommenderingar;Slussar;Varutillverkning	  3
@@ -708,11 +708,11 @@ Kläder;Mode;Nationella dräkten;Angiveri;Överflödsförordningar	  3
 Konkurser	  3
 Konungaförsäkran;Kungaförsäkringar	  3
 Kortspel	  3
-Krig;Stora nordiska kriget 1700-1721	  3
 Krigsfartyg;Sjöpass	  3
 Krigslagstiftning;Sjökrigsväsen;Krigsbyten;Uppbringning;Uppbringning	  3
 Krigsmakten till lands;Krigsmakten till lands	  3
 Krigsrätter;Krigslagstiftning	  3
+Krig;Stora nordiska kriget 1700-1721	  3
 Krogar;Skatter;Acciser	  3
 Kröningar;Benådning;Kröning;Kröning	  3
 Kungamakten;Polsk-svenska kriget 1599-1629;Tronföljd	  3
@@ -869,8 +869,8 @@ Stora nordiska kriget 1700-1721;Slaget vid Holowczyn 1708;Krig	  3
 Stora nordiska kriget 1700-1721;Slaget vid Narva 1700;Krig	  3
 Storskifte;Jordreformer;Lantbruk;Hemman;Lantmäteriverket	  3
 Storskifte;Lantbruk;Jordreformer	  3
-Svensk-norska unionen 1814-1905	  3
 Svenska språket	  3
+Svensk-norska unionen 1814-1905	  3
 Taxering;Skatter;Bevillning	  3
 Textilfärgning	  3
 Textilier;Textilfärgning	  3
@@ -981,9 +981,9 @@ Bankväsen;Revision;Räkenskaper	  2
 Bankväsen;Revision;Revision av stats-, banko- och riksgäldsverken	  2
 Bankväsen;Riksdagen 1720;Riksbanken;Riksbanken	  2
 Bankväsen;Tullväsen;Sjöfart;Skatter;Varuskatt	  2
-Barn;Barnarbete;Barnhus	  2
 Barnamord;Barnamord	  2
 Barnamord;Barnamord;Barnamord	  2
+Barn;Barnarbete;Barnhus	  2
 Barnförlossning;Barnförlossning	  2
 Barnhus	  2
 Barnmorskor	  2
@@ -998,18 +998,18 @@ Bergsbruk;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  2
 Bergsbruk;Förlagssystem;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  2
 Bergsbruk;Geologi	  2
 Bergsbruk;Järn	  2
-Bergsbruk;Järn;Järn	  2
 Bergsbruk;Järnbruk;Järnframställning;Järn;Masmästare	  2
 Bergsbruk;Järnbruk;Svedjebruk;Jordbruk;Skogsbruk;Järn	  2
 Bergsbruk;Järnframställning;Järn;Järn	  2
+Bergsbruk;Järn;Järn	  2
 Bergsbruk;Metaller;Mineraler;Privilegier;Bergskollegium	  2
 Bergsbruk;Smedjor;Volymmått;Träkol;Hammarsmedjor	  2
 Bergsbruk;Smideshantverk;Fysik	  2
 Bergsbruk;Träkol;Koppar	  2
 Bergshantering	  2
 Beskickningar;Tullväsen;Beskickning;Beskickning	  2
-Besvärsmål;Rättegång;Rättegång	  2
 Besvärsmål;Rättegångar;Rättegång	  2
+Besvärsmål;Rättegång;Rättegång	  2
 Besvärsmål;Vittnesmål;Brott;Vittne	  2
 Betraktelser;Dogmatik	  2
 Bibeln	  2
@@ -1024,8 +1024,6 @@ Blomsterodling	  2
 Böcker	  2
 Bokföring;Lantbruksbokföring	  2
 Bön;Bön	  2
-Bön;Furstliga personer;Furstliga personer	  2
-Bön;Graviditet;Furstliga personer;Furstliga personer	  2
 Böndagar;Böndagsplakat	  2
 Bönder	  2
 Bönder;Begravning;Testamenten;Tionde;Präster;Arvsrätt;Kyrkoordningar;Arvs- och giftorätt	  2
@@ -1039,6 +1037,8 @@ Böner;Graviditet	  2
 Böner;Rysk-svenska kriget 1788-1790	  2
 Böner;Tacksägelser	  2
 Böner;Uppbyggelselitteratur	  2
+Bön;Furstliga personer;Furstliga personer	  2
+Bön;Graviditet;Furstliga personer;Furstliga personer	  2
 Borgare;Städer;Soldater;Artilleri;Båtsmanshållet	  2
 Borgare;Stadsprivilegier;Städer	  2
 Borgarståndet	  2
@@ -1142,12 +1142,12 @@ Finska kriget 1808-1809;Dansk-svenska kriget 1808-1809;Böner;Oroligheter;Tacks�
 Finska kriget 1808-1809;Dansk-svenska kriget 1808-1809;Skatter;Kapital;Förmögenhet	  2
 Finska soldater;Desertörer;Benådning;Dödsstraff;Desertör	  2
 Finska soldater;Desertörer;Straff;Desertör	  2
-Fisk;Fisk	  2
 Fiske;Intrång (skråväsen)	  2
-Fiske;Sill;Import;Tulltaxa;Fisk;Fisk	  2
-Fiske;Torskfiske;Sillfiske;Valfångst;Musselfångst;Skaldjur;Fiskerisocieteten;Fiskerisocieteten	  2
 Fiskeregale;Kungliga privilegier;Pärlfiske;Fiske;Pärlfiske	  2
 Fiskerilagstiftning;Näringsliv;Salterier;Fiske;Fisk;Fisk	  2
+Fiske;Sill;Import;Tulltaxa;Fisk;Fisk	  2
+Fiske;Torskfiske;Sillfiske;Valfångst;Musselfångst;Skaldjur;Fiskerisocieteten;Fiskerisocieteten	  2
+Fisk;Fisk	  2
 Flyktingar	  2
 Folkbokföring;Mantalsskrivning;Tjänstemän	  2
 Folksamling;Folksamling	  2
@@ -1166,14 +1166,14 @@ Försäkring;Brandförsäkring;Fast egendom	  2
 Församlingar;Präster	  2
 Förskingring;Skatter;Statsverket;Statsverket	  2
 Förvaltning	  2
+Förvaltningen av sjöärendena;Förvaltningen av sjöärendena	  2
 Förvaltning;Fögderier;Tjänstemän;Härader;Fogdar	  2
 Förvaltning;Juridik;Lantbruk;Skatter	  2
 Förvaltning;Krigskollegium	  2
-Förvaltningen av sjöärendena;Förvaltningen av sjöärendena	  2
 Frälse;Adel;Feodalism;Rusttjänst	  2
 Franska resenärer;Gradmätning;Reseskildringar	  2
-Fredsfördrag;Freds- och förbundsslut	  2
 Fredsfördrag;Fredsfördrag;Fredsfördrag;Polsk-svenska kriget 1655-1660;Freden i Oliva 1660;Freds- och förbundsslut	  2
+Fredsfördrag;Freds- och förbundsslut	  2
 Fredsfördrag;Kungamakten;Tronföljd	  2
 Fredsfördrag;Napoleonkrigen 1800-1815;Freds- och förbundsslut	  2
 Fredsfördrag;Rysk-svenska kriget 1788-1790;Freden i Värälä 1790;Freds- och förbundsslut	  2
@@ -1216,9 +1216,9 @@ Hamnväsen;Hamnar;Hamn och fiskeläge;Hamn och fiskeläge	  2
 Hamnväsen;Skeppsklarering;Mäklare;Mäklare	  2
 Handel;Handel;Kvalitetskontroll	  2
 Handel;Köpmän;Borgare	  2
+Handelsavtal;Handelstraktater;Handelstraktater	  2
 Handel;Sjöfart;Sjömän;Sjökaptener;Sjöfolk;Sjöfolk	  2
 Handel;Sjöfart;Tullväsen;Import;Livsmedel;Nationalekonomi;Ekonomiska förhållanden;Livsmedel	  2
-Handelsavtal;Handelstraktater;Handelstraktater	  2
 Handelskompanier;Handelssjöfart;Söderkompaniet	  2
 Handelsrätt;Köpmän;Köpmannaförbund;Handel;Näringsidkares föreningar;Näringsidkares föreningar	  2
 Handelsresande	  2
@@ -1227,8 +1227,8 @@ Handelssjöfart;Farleder;Varutransport;Varutransport	  2
 Handelssjöfart;Fartyg;Fartyg;Fartyg	  2
 Handelssjöfart;Fartyg;Varutransport	  2
 Handelssjöfart;Fartyg;Varutransport;Varutransport	  2
-Handelssjöfart;Handel;Sjöfart;Suppliker	  2
 Handelssjöfart;Handelsförbindelser;Handelsavtal;Handelstraktater;Handelstraktater	  2
+Handelssjöfart;Handel;Sjöfart;Suppliker	  2
 Handelssjöfart;Krig;Handelsförbindelser;Handelsavtal;Fredsfördrag;Handelstraktater	  2
 Handelssjöfart;Napoleonkrigen 1800-1815;Uppbringning	  2
 Handelssjöfart;Sjöfart	  2
@@ -1242,8 +1242,8 @@ Handelssjöfart;Tullväsen;Sjöpass;Öresundsfarten	  2
 Handelssjöfart;Utrikeshandel;Handelskompanier;Ostindiska kompanier;Ostindiska handeln;Ostindiska handeln	  2
 Handelssjöfart;Virke;Trävaror;Exportförbud;Skogseffekter	  2
 Handelstraktater;Handelstraktater	  2
-Hantverk;Varupris;Varupris	  2
 Hantverkare;Konstnärer	  2
+Hantverk;Varupris;Varupris	  2
 Härader;Regioner;Förvaltning	  2
 Hästar;Officerare;Tjänstemän;Inkvartering	  2
 Helgdagar;Sabbatsbrott;Hädelse;Svordomar;Helgedag;Helgedag	  2
@@ -1278,13 +1278,13 @@ Husdjur;Svin;Sjukdomar;Allmän ordning och säkerhet	  2
 Husdjur;Veterinärmedicin	  2
 Hushåll;Huslig ekonomi;Kemiteknik	  2
 Hushåll;Matlagning;Livsmedel;Kokböcker	  2
-Hushåll;Spannmål;Öl;Brännerier	  2
 Hushållningssällskap;Hushållningssällskap;Lantbruk;Lantbruk	  2
+Hushåll;Spannmål;Öl;Brännerier	  2
 Hydraulik	  2
 Hydrologi;Hydrologi	  2
-Import;Tulltaxa;Varuskatt;Varuskatt	  2
 Importförbud;Köpmän;Handel;Tullväsen	  2
 Importförbud;Överflödsförordningar;Levnadssätt;Levnadssätt	  2
+Import;Tulltaxa;Varuskatt;Varuskatt	  2
 Inbrott;Stöld;Tillgrepp;Tillgrepp	  2
 Incest;Sexualbrott;Syskonrelationer;Domstolar;Samlag;Samlag	  2
 Indelningsverket	  2
@@ -1304,21 +1304,21 @@ Inteckning;Fastighet;Fastighet	  2
 Inteckning;Panträtt;Fast egendom;Fastighet;Fastighet	  2
 Jakt;Älgjakt;Jakt;Jakt	  2
 Jakt;Jaktredskap	  2
-Järn;Stål;Stapelstäder;Järn;Järn	  2
 Järnbruk;Järnframställning;Järn;Järn	  2
 Järnbruk;Järnsmide;Järnframställning;Manufakturer;Järn;Järn	  2
 Järnhandel	  2
 Järnhantering;Järn;Järn	  2
 Järnhantering;Järn;Metaller;Vågar	  2
-Jesu liv;Uppbyggelselitteratur	  2
+Järn;Stål;Stapelstäder;Järn;Järn	  2
 Jesuiter	  2
+Jesu liv;Uppbyggelselitteratur	  2
 Jordägande;Jordbruk;Hemman;Skatter;Skiften;Hemmansklyvning	  2
 Jordbruk	  2
 Jordbruk;Lantmäteri;Enskifte;Arrende	  2
 Jordbruk;Lantmäteri;Enskifte;Livegenskap	  2
-Jordbruk;Spannmål;Sockenmagasin;Lador	  2
 Jordbrukslära;Jordens bearbetning	  2
 Jordbrukslära;Marklära	  2
+Jordbruk;Spannmål;Sockenmagasin;Lador	  2
 Jordeböcker;Jordebok;Jordebok	  2
 Jordmagnetism	  2
 Julianska kalendern	  2
@@ -1326,8 +1326,8 @@ Juridik;Förvaltning;Nationalekonomi	  2
 Juridik;Nationalekonomi;Ekonomiska förhållanden;Skatter;Lantbruk	  2
 Jurister;Domstolar;Sportler;Stämpelskatt;Rättegångsverken	  2
 Kaffe	  2
-Kaffe och te;Kaffe och te	  2
 Kaffe;Kaffe och te;Överflödsförordningar;Kaffe och te	  2
+Kaffe och te;Kaffe och te	  2
 Kanalbyggnad;Bolag;Kanal- och slussverk	  2
 Kanalbyggnad;Entreprenad;Kanal- och slussverk;Kanal- och slussverk	  2
 Kanalbyggnad;Göta kanal	  2
@@ -1365,12 +1365,12 @@ Krigslagstiftning;Krigsbyten;Uppbringning;Uppbringning	  2
 Krigsmakten till sjöss	  2
 Krigsrätter;Spionage;Krigsartiklar	  2
 Krigsveteraner;Pensioner;Vadstena krigsmanshus;Vadstena krigsmanshus	  2
-Kristen etik	  2
 Kristendom	  2
 Kristendom;Katekeser;Dogmatik	  2
 Kristendom;Katekeser;Religionsundervisning	  2
 Kristendom;Katekeser;Skrifter	  2
 Kristendom;Kyrkohistoria	  2
+Kristen etik	  2
 Kröningar	  2
 Kröningar;Ceremonier;Kröning;Kröning	  2
 Kröningar;Kröning	  2
@@ -1406,14 +1406,14 @@ Lagring;Skatter;Varuupplag;Varuupplag	  2
 Läkarböcker	  2
 Läkare;Ämbetsansvar;Ämbetseder;Fångar;Hälsovård;Medicinalverket	  2
 Läkemedel;Apotek;Apotekare	  2
+Landsbygden;Städer;Handel	  2
+Landsbygd;Städer;Borgare;Handel	  2
 Lån;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  2
 Lån;Obligationer;Statsskuld	  2
 Lån;Pensionskassor;Arméns pensionskassa;Arméns pensionskassa	  2
-Lån;Statsskuld	  2
-Landsbygd;Städer;Borgare;Handel	  2
-Landsbygden;Städer;Handel	  2
 Länsförvaltning;Bergsbruk;Borgare;Privilegier	  2
 Länsförvaltning;Hovrätter	  2
+Lån;Statsskuld	  2
 Lantbruk;Geografi	  2
 Lantbruk;Hushåll;Ekonomiska förhållanden	  2
 Lantbruk;Hushåll;Jordbrukslära	  2
@@ -1424,14 +1424,14 @@ Lantbruk;Jordbrukslära;Jordförbättring	  2
 Lantbruk;Jordbrukslära;Växtodling;Åkerbruksväxter	  2
 Lantbruk;Lantbruksbyggnader	  2
 Lantbruk;Marklära	  2
-Lantbruk;Skatter	  2
-Lantbruk;Skatter;Markegång;Markegång	  2
-Lantbruk;Spannmål;Svedjebruk;Lantbruket	  2
-Lantbruk;Storskifte;Lantmätare;Arvoden	  2
 Lantbruksekonomi;Jordbruk	  2
 Lantbruksekonomi;Jordbrukslära	  2
 Lantbruksekonomi;Lantbruk;Jordbrukslära	  2
+Lantbruk;Skatter	  2
+Lantbruk;Skatter;Markegång;Markegång	  2
 Lantbruksmaskiner;Lantbruksredskap	  2
+Lantbruk;Spannmål;Svedjebruk;Lantbruket	  2
+Lantbruk;Storskifte;Lantmätare;Arvoden	  2
 Lantmäteri;Lantbruk;Lantmäteriverket	  2
 Lantmäteri;Lantmätare;Lantmäteriverket	  2
 Lantvärnet;Lantvärnet	  2
@@ -1483,9 +1483,9 @@ Miniatyrmåleri	  2
 Misshandel;Straff	  2
 Mode;Kläder;Överflödsförordningar;Levnadssätt;Levnadssätt	  2
 Moral;Etikettfrågor;Umgängeskonst	  2
-Mynt;Mynt	  2
 Myntfot;Penningväsen;Mynt;Mynt	  2
 Myntfynd;Fornlämningar;Minnesmärken	  2
+Mynt;Mynt	  2
 Mythology, Classical.	  2
 Nämndemän;Traktamenten;Skjutsväsen;Nämndeman;Nämndeman	  2
 Napoleonkrigen 1800-1815;Krig	  2
@@ -1716,14 +1716,13 @@ Ryktesspridning;Lagar;Laglydnad;Laglydnad	  2
 Rysk-svenska kriget 1741-1743	  2
 Rysk-svenska kriget 1788-1790	  2
 Rysk-svenska kriget 1788-1790;Regering;Interimsregering;Interimsregering	  2
-S:t Jacobs församling	  2
 Säkerhetspolitik;Riksdagen 1746-1747	  2
 Sällskap;Patriotism	  2
 Salpetersyra;Bedrägeri	  2
-Salt;Salt	  2
 Salthandel;Export;Salt;Salt	  2
 Salthandel;Vinhandel;Brännvin;Papper;Lagring;Import	  2
 Saltpeter;Saltpeter	  2
+Salt;Salt	  2
 Salut;Skjutande;Skjutande	  2
 Säterier;Adel;Privilegier;Hemman;Räntor och tionde	  2
 Säterier;Adel;Privilegier;Hemman;Tionde;Räntor och tionde	  2
@@ -1759,9 +1758,9 @@ Sjökrigshistoria	  2
 Sjömän;Båtsmän;Pensioner;Pensionskassor;Amiralitetskrigsmanskassan;Amiralitetskrigsmanskassan	  2
 Sjömän;Krigsmakten till sjöss;Krigsmakten till sjöss	  2
 Sjömän;Sjöfolk;Sjöfolk	  2
+Sjömanskap	  2
 Sjömän;Soldater;Krigsmakten till sjöss;Krigsmakten till sjöss	  2
 Sjömän;Soldater;Rysk-svenska kriget 1788-1790;Krigsmakten till sjöss;Krigsmakten till sjöss	  2
-Sjömanskap	  2
 Sjöpass;Sjöfart;Skeppshandlingar;Skeppshandlingar	  2
 Sjöräddning;Bärgningsväsen;Dykeriväsen;Fartygsolyckor;Sjöskada	  2
 Sjukhus;Bönder;Privilegier;Skjutsväsen;Gästning	  2
@@ -1810,8 +1809,8 @@ Skråväsen;Bokbinderi;Bokbindare;Varutillverkning;Varutillverkning	  2
 Skråväsen;Hantverkare;Gesäller;Varutillverkning;Varutillverkning	  2
 Skråväsen;Metallmanufaktur;Plåtslageri;Varutillverkning;Varutillverkning	  2
 Skråväsen;Tunnbinderi;Intrång (skråväsen)	  2
-Skrifter;Skrifter	  2
 Skriftermål	  2
+Skrifter;Skrifter	  2
 Skuldfordring;Skuldfordring	  2
 Slakt	  2
 Slakterier;Kött	  2
@@ -1839,8 +1838,8 @@ Spannmål;Exportförbud;Livsmedel;Livsmedel	  2
 Spannmål;Exportförbud;Livsmedel;Livsmedel;Livsmedel	  2
 Spannmål;Import;Järn	  2
 Spannmål;Import;Tullväsen;Livsmedel;Livsmedel	  2
-Spannmål;Skörd;Livsmedelsförsörjning;Jordbruk;Livsmedel;Lantbruksekonomi	  2
 Spannmålshandel;Spannmål;Exportförbud;Livsmedel;Livsmedel	  2
+Spannmål;Skörd;Livsmedelsförsörjning;Jordbruk;Livsmedel;Lantbruksekonomi	  2
 Spinnhus;Straff;Husbehovsbränning;Alkohollagstiftning;Brännvin;Brännvin	  2
 Spritdrycker;Import;Tullväsen;Främmande drycker;Främmande drycker	  2
 Städer;Förvaltning;Revision;Räkenskaper;Bokföring	  2
@@ -1855,7 +1854,9 @@ Statsskick;Testamente;Furstliga personer	  2
 Statsskuld;Räkenskaper	  2
 Statstjänstemän	  2
 Statsvetenskap	  2
+S:t Jacobs församling	  2
 Stöld;Skeppsbyggeri;Tillgrepp;Tillgrepp	  2
+Storamiral;Storamiral	  2
 Stora nordiska kriget 1700-1721;Kosacker;Krig	  2
 Stora nordiska kriget 1700-1721;Krigsbyten;Krig;Militärhistoria;Troféer (militära segertecken)	  2
 Stora nordiska kriget 1700-1721;Officerare;Slaget vid Kliszów 1702;Krig	  2
@@ -1869,21 +1870,20 @@ Stora nordiska kriget 1700-1721;Slaget vid Narva 1700	  2
 Stora nordiska kriget 1700-1721;Slaget vid Saladen 1703;Krig	  2
 Stora nordiska kriget 1700-1721;Svenska krigsfångar;Danska krigsfångar;Fångenskap	  2
 Stora nordiska kriget 1700-1721;Tal	  2
-Storamiral;Storamiral	  2
 Storskifte;Jordägande;Jordreformer;Lantbruk	  2
+Straffarbete;Straff;Skuldsättning;Gäldenärsbrott;Skuldfordring;Bysättning;Skuldfordring	  2
 Straff;Böter;Alkohollagstiftning;Husbehovsbränning;Alkoholförsäljning;Brännvin;Brännvin	  2
 Straff;Inbrott;Stöld;Tillgrepp;Tillgrepp	  2
 Straff;Opposition (politik);Landsförvisning;Adel;Adel	  2
 Straff;Straffarbete;Böter;Brännvin;Brännvin	  2
-Straffarbete;Straff;Skuldsättning;Gäldenärsbrott;Skuldfordring;Bysättning;Skuldfordring	  2
 Suppliker;Kyrkor;Insamlingar;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  2
 Suppliker;Överklagande;Besvärsmål	  2
 Suppliker;Överklagande;Besvärsmål;Ansöknings- och besvärsskrifter	  2
 Suppliker;Överklagande;Besvärsmål;Ansöknings- och besvärsskrifter;Ansöknings- och besvärsskrifter	  2
 Suppliker;Överklagande;Domstolar	  2
-Svensk-norska unionen 1814-1905;Sveriges och Norges förening	  2
 Svenska kyrkan.	  2
 Svenskar;Svenskar	  2
+Svensk-norska unionen 1814-1905;Sveriges och Norges förening	  2
 Sverige;Nationalekonomi	  2
 Symbolik;Trosbekännelsen	  2
 Systematik	  2
@@ -2006,7 +2006,6 @@ Volymmått;Vikt	  2
 Voyages and travels.	  2
 Zoologi	  2
 Zoologi;Fiskar	  2
-a Stämplar;Kläder;Mode	  1
 Abc-böcker;Abc-böcker	  1
 Acciser;Alkoholdrycker;Alkoholskatt;Krogar;Gästgiverier;Gästgiveri;Gästgiveri	  1
 Acciser;Alkoholdrycker;Tullväsen;Vin;Öl;Mjöd;Varuskatt	  1
@@ -2057,9 +2056,9 @@ Adel;Regementen;Kavalleri;Militära uniformer;Lantmilitiens utredning;Lantmiliti
 Adel;Riddarhuset	  1
 Adel;Skatter;Riddarhuset;Riddarhuset	  1
 Adel;Sköldebrev;Vapenmärken	  1
+Adelskvinnor;Vadstena adliga jungfrustift;Vadstena adliga jungfrustift	  1
 Adel;Släktnamn;Ättartavlor;Genealogi;Riddarhuset;Riddarhuset	  1
 Adel;Släktnamn;Ättartavlor;Riddarhuset	  1
-Adelskvinnor;Vadstena adliga jungfrustift;Vadstena adliga jungfrustift	  1
 Adelsståndet;Bondeståndet;Privilegier	  1
 Adelsståndet;Prästeståndet;Borgarståndet;Bondeståndet;Tro- och huldhetseder;Eder	  1
 Adelsståndet;Privilegier;Adel;Adel	  1
@@ -2085,7 +2084,6 @@ Akademier;Lantbruk;Lantbruksstiftelser	  1
 Akademier;Lantbruk;Lantbruksstiftelser;Lantbruksstiftelser	  1
 Åkerbruk	  1
 Åkerbruk;Ängar	  1
-Åkerbruk;Trädgårdsskötsel	  1
 Åkerbruksväxter;Bönder;Skatter;Tionde;Vikt;Hö;Halm;Räntor och tionde;Räntor och tionde	  1
 Åkerbruksväxter;Export;Spannmål;Handel;Tulltaxa;Livsmedel;Livsmedel	  1
 Åkerbruksväxter;Hampa	  1
@@ -2112,10 +2110,11 @@ Akademier;Lantbruk;Lantbruksstiftelser;Lantbruksstiftelser	  1
 Åkerbruksväxter;Spannmål;Hungersnöd;Undsättning;Undsättning	  1
 Åkerbruksväxter;Spannmål;Missväxt;Livsmedel;Livsmedel;Livsmedel	  1
 Åkerbruksväxter;Spannmål;Råg;Korn;Tullväsen;Tulltaxa;Import;Livsmedel	  1
-Åkerbruksväxter;Tobak;Tobaksodling;Tobak;Tobak	  1
 Åkerbruksväxter;Tobaksodling;Njutningsmedel;Tobak;Tobak	  1
+Åkerbruksväxter;Tobak;Tobaksodling;Tobak;Tobak	  1
 Åkerbruksväxter;Tullväsen;Import;Tulltaxa;Livsmedel;Livsmedel	  1
 Åkerbruksväxter;Växtodling	  1
+Åkerbruk;Trädgårdsskötsel	  1
 Åklagare;Allmän ordning och säkerhet;Poliser;Kronoåklagare;Kronoåklagare	  1
 Åklagare;Böter;Konfiskation;Auktion;Kronoåklagare;Kronoåklagare	  1
 Åklagare;Hantverk;Varupris;Varupris	  1
@@ -2138,9 +2137,6 @@ Akademier;Lantbruk;Lantbruksstiftelser;Lantbruksstiftelser	  1
 Äktenskap;Genetiska sjukdomar;Epilepsi;Samlag;Samlag	  1
 Äktenskap;Incest;Samlag;Samlag	  1
 Äktenskap;Ryska krigsfångar;Samlag	  1
-Äktenskap;Skilsmässa;Samlag;Samlag	  1
-Äktenskap;Syskonrelationer	  1
-Äktenskap;Syskonrelationer;Syskonäktenskap;Samlag;Samlag	  1
 Äktenskapsbrott;Äktenskap;Trolovning	  1
 Äktenskapsbrott;Äktenskap;Trolovning;Samlag	  1
 Äktenskapsbrott;Böter;Kyrkoplikt;Samlag	  1
@@ -2155,10 +2151,13 @@ Akademier;Lantbruk;Lantbruksstiftelser;Lantbruksstiftelser	  1
 Äktenskapsbrott;Skilsmässa;Samlag;Samlag	  1
 Äktenskapsbrott;Stöld;Kyrkoplikt;Kyrkoplikt	  1
 Äktenskapsbrott;Trolovning;Domkapitel;Otukt;Samlag;Jurisdiktion	  1
+Äktenskap;Skilsmässa;Samlag;Samlag	  1
 Äktenskapslöfte	  1
 Äktenskapslöfte;Äktenskap;Samlag;Samlag	  1
 Äktenskapslöfte;Äktenskapsrätt;Otukt;Barn;Samlag;Samlag	  1
 Äktenskapsrätt;Samlag;Samlag	  1
+Äktenskap;Syskonrelationer	  1
+Äktenskap;Syskonrelationer;Syskonäktenskap;Samlag;Samlag	  1
 Aktier;Handelssjöfart;Utrikeshandel;Handelskompanier;Östersjökompaniet	  1
 Aktier;Lotterier;Stengods;Keramik;Fajans;Porslin;Manufakturer	  1
 Algae	  1
@@ -2167,7 +2166,6 @@ Algonquin;Delaware (språk);Indianspråk	  1
 Alkemi	  1
 Alkemi;Magi	  1
 Alkhollagstiftning;Alkoholförsäljning;Brännerier;Spannmål;Råg;Vete;Intrång (skråväsen);Brännvin;Livsmedel	  1
-Alkohol;Socker;Alkohollagstiftning;Brännvin;Brännerier;Brännvin	  1
 Alkoholdrycker;Främmande drycker;Främmande drycker	  1
 Alkoholdrycker;Krogar;Alkohollagstiftning;Vin;Alkoholförsäljning	  1
 Alkoholdrycker;Maltdrycker;Brännerier	  1
@@ -2299,16 +2297,11 @@ Alkoholskatt;Alkoholförsäljning;Brännvin;Acciser	  1
 Alkoholskatt;Brännvin;Acciser;Alkohollagstiftning;Bevillning;Gärder	  1
 Alkoholskatt;Brännvin;Alkoholskatt	  1
 Alkoholskatt;Brännvin;Fattigvård	  1
+Alkohol;Socker;Alkohollagstiftning;Brännvin;Brännerier;Brännvin	  1
 Alléer;Skadegörelse;Allmän ordning och säkerhet	  1
 Allianser	  1
 Allianser;Försvarspakter	  1
 Allianser;Krig;Holländska kriget 1672-1678	  1
-Allmän ordning och säkerhet;Sjukhus;Psykiatriska sjukhus	  1
-Allmän ordning och säkerhet;Studenter;Högskolelärare;Förolämpningar;Pamfletter;Våld;Skadegörelse	  1
-Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Övervåld	  1
-Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Övervåld;Övervåld	  1
-Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Skadegörelse;Högtider;Övervåld	  1
-Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Skadegörelse;Högtider;Övervåld;Övervåld	  1
 Allmänna änke- och pupillkassan	  1
 Allmänna handlingar;Sverige.;Kommerskollegium	  1
 Allmänna magasinsinrättningen;Allmänna magasinsinrättningen	  1
@@ -2319,6 +2312,12 @@ Allmänningar;Skogar;Hemman;Jordägande	  1
 Allmänningsskogar;Skogar;Skogshushållning;Skogshushållning	  1
 Allmänningsskogar;Skogsbruk	  1
 Allmänningsskogar;Skogsbruk;Avvittringsverket;Skogsbruk;Avvittringsverket	  1
+Allmän ordning och säkerhet;Sjukhus;Psykiatriska sjukhus	  1
+Allmän ordning och säkerhet;Studenter;Högskolelärare;Förolämpningar;Pamfletter;Våld;Skadegörelse	  1
+Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Övervåld	  1
+Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Övervåld;Övervåld	  1
+Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Skadegörelse;Högtider;Övervåld	  1
+Allmän ordning och säkerhet;Våld;Stadsvakter;Skjutvapen;Skadegörelse;Högtider;Övervåld;Övervåld	  1
 Allmoge;Allmoge	  1
 Allmogeslöjd;Livsmedelshandel;Bönder;Gatuförsäljning;Handelsbodar	  1
 Almanackor;Entreprenad;Almanack;Almanack	  1
@@ -2334,7 +2333,6 @@ Alun	  1
 Älvsborgs lö̈sen	  1
 Älvsborgs lösen (Stettin, 1570)	  1
 Ämbeten;Ceremonier;Tal (retorik);Borgare	  1
-Ämbets- och tjänstemäns sportelinkomster;Domstolar;Tjänstemän;Jurister;Sportler;Ämbets- och tjänstemäns sportelinkomster	  1
 Ämbetsansvar	  1
 Ämbetsansvar;Ämbetsmän;Ministeransvarighet;Ministrar;Riksdagen 1809-1810;Konungens råd och kansli	  1
 Ämbetsansvar;Ämbetsmän;Riksdagen 1809-1810;Riksbanken;Riksbanken	  1
@@ -2382,6 +2380,7 @@ Alun	  1
 Ämbetsmän;Tjänstemän;Tro- och huldhetseder;Ämbetseder;Eder	  1
 Ämbetsmän;Tjänstemän;Tro- och huldhetseder;Eder	  1
 Ämbetsmän;Tro- och huldhetseder;Tjänstemän;Eder;Eder	  1
+Ämbets- och tjänstemäns sportelinkomster;Domstolar;Tjänstemän;Jurister;Sportler;Ämbets- och tjänstemäns sportelinkomster	  1
 Ämbetsverk;Ämbetsmän;Fogdar;Förvaltning;Organisationsförändringar;Slott;Kungl. Maj:ts och kronans hus;Kungl. Maj:ts och kronans hus	  1
 Ämbetsverk;Ämbetsmän;Fogdar;Förvaltning;Pensioner;Soldater;Vadstena krigsmanshus	  1
 Ämbetsverk;Ämbetsmän;Statsverket;Statsverket	  1
@@ -2411,25 +2410,25 @@ Animal magnetism;Sömngång	  1
 Änkor;Pensioner;Änke- och pupillkassor;Barn;Pensionskassor	  1
 Annonsering;Tjänstetillsättningar;Tjänstemän;Ämbetsmän;Tingsrätter;Häradsrätter;Ting;Ting	  1
 Ansöknings- och besvärsskrifter;Ansöknings- och besvärsskrifter	  1
-Anställning;Tjänstemän;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Anställningsvillkor;Rang;Rang	  1
+Anställning;Tjänstemän;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Ansvar;Ämbetsmän;Riksgäldskontor;Riksgäldskontor	  1
 Antiken	  1
 Apologetik;Betraktelser	  1
 Apologetik;Herrnhutare	  1
 Apostlarna;Lärjungarna;Apostles	  1
 Apotek	  1
-Apotek;Arsenik;Gifter;Gifter	  1
-Apotek;Läkemedel;Färger;Gifter;Gifter	  1
-Apotek;Läkemedel;Gifter;Kryddor;Detaljhandel	  1
-Apotek;Medicinalväsen;Läkemedel;Apotekare;Lärlingar;Apotekare	  1
-Apotek;Skatter;Suppliker;Apotekare;Apotekare	  1
 Apotekare;Arsenik;Intrång (skråväsen);Gifter;Gifter	  1
 Apotekare;Brännvin;Alkohollagstiftning	  1
 Apotekare;Brännvin;Alkohollagstiftning;Husbehovsbränning	  1
 Apotekare;Läkare;Medicinska instrument och apparater;Militär sjukvård;Medicinalverket	  1
 Apotekare;Privilegier	  1
 Apotekare;Tro- och huldhetseder	  1
+Apotek;Arsenik;Gifter;Gifter	  1
+Apotek;Läkemedel;Färger;Gifter;Gifter	  1
+Apotek;Läkemedel;Gifter;Kryddor;Detaljhandel	  1
+Apotek;Medicinalväsen;Läkemedel;Apotekare;Lärlingar;Apotekare	  1
+Apotek;Skatter;Suppliker;Apotekare;Apotekare	  1
 Apoteksväsen;Läkemedel;Farmaci;Hälso- och sjukvård;Medicinalväxter;Apotekare	  1
 Äpplen	  1
 Arabiska språket	  1
@@ -2437,17 +2436,17 @@ Arbetare;Hantverkare;Manufakturer;Hallrätter;Varutillverkning;Varutillverkning	
 Arbetare;Soldater;Manufakturer;Varutillverkning;Värvning;Varutillverkning	  1
 Arbetare;Stöld;Tyger;Varutillverkning;Varutillverkning	  1
 Arbetare;Transporter	  1
-Arbete och arbetsmarknad;Kvinnlig arbetskraft;Sjömän;Detaljhandel;Krogar;Fattigvården;Fattigvården	  1
 Arbete;Hushåll	  1
 Arbete;Lantbruk	  1
+Arbete och arbetsmarknad;Kvinnlig arbetskraft;Sjömän;Detaljhandel;Krogar;Fattigvården;Fattigvården	  1
 Arbete;Salpeter;Soldater;Bönder;Indelningsverket;Saltpeter;Nationalekonomi;Ekonomiska förhållanden;Saltpeter	  1
 Arbetsförmedling;Löner;Fattigvård;Tiggeri;Arbetshus	  1
 Arbetslösa;Fattigvård;Arbetshus;Gustavs inrättning till understöd för Stockholms stads fattiga arbetare	  1
+Arbetslösa;Fattigvården;Fattigvården	  1
 Arbetslösa;Fattigvård;Gustavs inrättning till understöd för Stockholms stads fattiga arbetare;Arbetshus;Gustavs inrättn. till understöd för Sthlms stads fattige arbetare	  1
 Arbetslösa;Fattigvård;Redovisning;Livsmedel;Arbetshus;Gustavs inrättning till understöd för Stockholms stads fattiga arbetare	  1
 Arbetslösa;Fattigvård;Redovisning;Revision;Arbetshus;Gustavs inrättning till understöd för Stockholms stads fattiga arbetare;Gustavs inrättn. till understöd för Sthlms stads fattige arbetare	  1
 Arbetslösa;Fattigvård;Ved;Gustavs inrättning till understöd för Stockholms stads fattiga arbetare	  1
-Arbetslösa;Fattigvården;Fattigvården	  1
 Arbetslösa;Tiggeri;Fattigvård;Kroppsstraff;Spinnhus;Arbetshus	  1
 Arbetslösa;Tjänstefolk	  1
 Arbetslöshet;Arbetshus;Fattigvård	  1
@@ -2514,9 +2513,10 @@ Arvsskatt;Testamente	  1
 Arvsskatt;Testamente;Jus detractus;Jus detractus	  1
 Arvsskatt;Utländska medborgare;Jus detractus;Jus detractus	  1
 Åska	  1
-Astronomi;Tideräkning 2 sao;Tidmätning	  1
+a Stämplar;Kläder;Mode	  1
 Astronomiska instrument	  1
 Astronomiska ur	  1
+Astronomi;Tideräkning 2 sao;Tidmätning	  1
 Astronomy	  1
 Åtal;Tidningar;Tidning;Tidning	  1
 Atlantis	  1
@@ -2660,13 +2660,12 @@ Bärgningsväsen;Dykeriväsen	  1
 Bärgningsväsen;Dykeriväsen;Fartygsolyckor;Auktioner;Fogdar	  1
 Bärgningsväsen;Dykeriväsen;Maskiner;Redskap	  1
 Bärgningsväsen;Fartyg;Båtar;Dykeriväsen;Fartygsolyckor;Sjöskada;Sjöskada	  1
+Barnavård	  1
 Barn;Barn	  1
 Barn;Barnarbete	  1
 Barn;Barnhus;Barnarbete	  1
 Barn;Barnhus;Barnarbete;Sjukhus;Sjukhus	  1
 Barn;Barnhus;Barnhemsbarn	  1
-Barn;Torpare;Tjänstefolk;Nationalekonomi;Ekonomiska förhållanden;Arbete;Tjänstefolk	  1
-Barnavård	  1
 Barnhem	  1
 Barnhem;Barnhus;Insamlingar;Barn;Barn	  1
 Barnhus;Banklån;Fast egendom	  1
@@ -2687,6 +2686,7 @@ Barnmorskor;Barnförlossning;Barnförlossning	  1
 Barnmorskor;Obstetrik	  1
 Barnmorskor;Obstetrik;Förlossning;Barnförlossning;Barnförlossning	  1
 Barnsjukdomar	  1
+Barn;Torpare;Tjänstefolk;Nationalekonomi;Ekonomiska förhållanden;Arbete;Tjänstefolk	  1
 Båtar;Båtbryggor;Vattenpumpar;Skadegörelse;Allmän ordning och säkerhet	  1
 Båtar;Bedrägeri;Smuggling;Sjöfart	  1
 Båtar;Sjöfart;Allmän ordning och säkerhet	  1
@@ -2697,16 +2697,16 @@ Båtsmän;Benådning;Desertörer;Desertör;Desertör	  1
 Båtsmän;Domstolar;Båtsmanshållet;Krigsrätter;Båtsmanshållet	  1
 Båtsmän;Förplägning (militärväsen);Indelningsverket;Båtsmanshållet;Båtsmanshållet	  1
 Båtsmän;Militära uniformer;Täcken	  1
-Båtsmän;Sjömän;Mönstring (militärväsen)	  1
-Båtsmän;Sjömän;Soldater;Mönstring (militärväsen)	  1
-Båtsmän;Skånska kriget 1675-1679;Båtsmanshållet	  1
-Båtsmän;Soldattorp;Båtsmanshållet;Båtsmanshållet	  1
 Båtsmanshållet;Båtsmän;Bönder	  1
 Båtsmanshållet;Båtsmän;Bönder;Båtsmanshållet	  1
 Båtsmanshållet;Båtsmanshållet	  1
 Båtsmanshållet;Båtsmanshållet;Mönstring (militärväsen);Båtsmanshållet	  1
 Båtsmanshållet;Lotsväsen;Hemman;Rättegång	  1
 Båtsmanshållet;Postbefordran;Postbönder;Indelningsverket;Hemman;Båtsmanshållet;Båtsmanshållet	  1
+Båtsmän;Sjömän;Mönstring (militärväsen)	  1
+Båtsmän;Sjömän;Soldater;Mönstring (militärväsen)	  1
+Båtsmän;Skånska kriget 1675-1679;Båtsmanshållet	  1
+Båtsmän;Soldattorp;Båtsmanshållet;Båtsmanshållet	  1
 Battlefields	  1
 Bedrägeri;Åklagare;Levnadssätt;Överflödsförordningar;Levnadssätt	  1
 Bedrägeri;Importförbud;Smuggling;Husrannsakan;Varutransport;Varutransport	  1
@@ -2738,7 +2738,6 @@ Benådning;Desertörer;Soldater	  1
 Benådning;Desertörer;Soldater;Desertör	  1
 Benådning;Desertörer;Soldater;Desertör;Desertör	  1
 Benådning;Sjömän;Soldater;Båtsmän;Desertör;Desertör	  1
-Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
 Bergsbruk;Bergsbruk;Järn	  1
 Bergsbruk;Bergshantering;Förlagssystem;Koppar;Koppar	  1
 Bergsbruk;Bergshantering;Träkol;Träkol	  1
@@ -2756,9 +2755,6 @@ Bergsbruk;Gruvarbetare;Bergs- och brukshanteringen;Bergs- och brukshanteringen	 
 Bergsbruk;Gruvor;Äganderätt;Bergstingsrätter;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
 Bergsbruk;Guld;Silver;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
 Bergsbruk;Hemman;Bönder;Skatter;Skatteköp och byte;Skatteköp och byte	  1
-Bergsbruk;Järn;Smedjor	  1
-Bergsbruk;Järn;Smideshantverk	  1
-Bergsbruk;Järn;Stål;Smideshantverk	  1
 Bergsbruk;Järnbruk;Bergs- och brukshanteringen	  1
 Bergsbruk;Järnbruk;Järnframställning;Järn;Järn	  1
 Bergsbruk;Järnbruk;Järnframställning;Järn;Masmästare;Järn	  1
@@ -2766,6 +2762,9 @@ Bergsbruk;Järnbruk;Smeder;Benådning;Bergs- och brukshanteringen;Bergs- och bru
 Bergsbruk;Järnbruk;Smeder;Brukspatroner;Fordran;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
 Bergsbruk;Järnbruk;Smeder;Gesäller;Brukspatroner;Fordran;Bergs- och brukshanteringen	  1
 Bergsbruk;Järnhantering;Livsmedel;Järn;Livsmedel;Livsmedel	  1
+Bergsbruk;Järn;Smedjor	  1
+Bergsbruk;Järn;Smideshantverk	  1
+Bergsbruk;Järn;Stål;Smideshantverk	  1
 Bergsbruk;Koppar;Träkol;Järnbruk;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
 Bergsbruk;Koppar;Träkol;Träkol	  1
 Bergsbruk;Lantbruk	  1
@@ -2788,6 +2787,7 @@ Bergsmän;Bergsbruk	  1
 Bergsmän;Bergsbruk;Kungl. Maj:ts och kronans gods;Kungl. Maj:ts och kronans gods	  1
 Bergsmän;Borgare;Bönder;Handel	  1
 Bergsmän;Fast egendom;Äganderätt;Fastighet	  1
+Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
 Bergsprängning	  1
 Bergsprängning;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
 Bergsprängning;Stenbrott;Sten	  1
@@ -2804,8 +2804,8 @@ Besvärsmål;Böter;Överklagande	  1
 Besvärsmål;Exekutionsrätt;Utsökning;Utsökning	  1
 Besvärsmål;Kungsgårdar;Tjänstebostäder;Boställen;Boställen	  1
 Besvärsmål;Överklagande;Ansöknings- och besvärsskrifter;Ansöknings- och besvärsskrifter	  1
-Besvärsmål;Överklagande;Rättegång;Rättegångshandlingar;Rättegång	  1
 Besvärsmål;Överklagande;Rättegångar;Rättegång	  1
+Besvärsmål;Överklagande;Rättegång;Rättegångshandlingar;Rättegång	  1
 Besvärsmål;Överklagande;Rättegångshandlingar	  1
 Besvärsmål;Överklagande;Straff;Straff	  1
 Besvärsmål;Rättegång	  1
@@ -2876,10 +2876,6 @@ Bolagsstämmor;Associationsrätt;Göta kanal;Göta kanal	  1
 Bomull;Import;Tulltaxa;Garn;Garn	  1
 Bön;Bön;Bön	  1
 Bön;Böner;Kungliga resor;Furstliga personer;Furstliga personer	  1
-Bön;Missfall;Furstliga personer;Furstliga personer	  1
-Bön;Regeringsform;Tacksägelser	  1
-Bön;Tacksägelser	  1
-Bön;Tacksägelser;Jubelfest;Jubelfest	  1
 Böndagar;Böndagsplakat;Sabbatsbrott;Allmän ordning och säkerhet	  1
 Böndagar;Bönedag;Bönedag	  1
 Böndagar;Bönedag;Tacksägelser;Bönedag	  1
@@ -2951,6 +2947,10 @@ Böner;Stora nordiska kriget 1700-1721	  1
 Böner;Stora nordiska kriget 1700-1721;Slaget vid Narva 1700;Tacksägelser;Krig	  1
 Böner;Trettioåriga kriget 1618-1648;Slaget vid Schweidnitz 1642;Tacksägelser	  1
 Bönhaseri	  1
+Bön;Missfall;Furstliga personer;Furstliga personer	  1
+Bön;Regeringsform;Tacksägelser	  1
+Bön;Tacksägelser	  1
+Bön;Tacksägelser;Jubelfest;Jubelfest	  1
 Bördsrätt;Jordägande;Förskingring;Fastighet;Fastighet	  1
 Borgare;Adel;Hantverkare;Tjänstemän;Städer;Lösdrivare;Varutillverkning	  1
 Borgare;Änkor;Skatter;Stad;Stad	  1
@@ -3226,14 +3226,6 @@ Brott;Domstolar;Präster;Domkapitel	  1
 Brott;Inkvartering (militärväsen);Soldater;Officerare;Bönder;Krigsartiklar	  1
 Brott;Rättegångar;Straff	  1
 Brott;Rättegångar;Straff;Straff	  1
-Brott;Soldater;Böter;Kroppsstraff;Domstolar;Krigsartiklar;Krigsartiklar	  1
-Brott;Soldater;Officerare;Tjänstemän;Domstolar;Krigsrätter;Krigsartiklar	  1
-Brott;Soldater;Officerare;Tjänstemän;Domstolar;Krigsrätter;Krigsartiklar;Krigsartiklar	  1
-Brott;Soldathustrur;Krigsartiklar;Krigsartiklar	  1
-Brott;Stad;Stad	  1
-Brott;Straff;Angiveri	  1
-Brott;Straff;Angiveri;Straff	  1
-Brott;Straff;Borgfred;Straff	  1
 Brottslingar;Äktenskapsbrott;Kyrkoplikt	  1
 Brottslingar;Bedrägeri;Våldsbrott	  1
 Brottslingar;Begravning;Begravning	  1
@@ -3245,6 +3237,14 @@ Brottslingar;Stöld;Äktenskapsbrott;Otukt;Krigsfångar;Religion;Kyrkoplikt	  1
 Brottslingar;Straff	  1
 Brottslingar;Straff;Kroppsstraff;Krigsartiklar	  1
 Brottslingar;Utlämning;Rättegångar;Sveriges och Norges förening;Sveriges och Norges förening	  1
+Brott;Soldater;Böter;Kroppsstraff;Domstolar;Krigsartiklar;Krigsartiklar	  1
+Brott;Soldater;Officerare;Tjänstemän;Domstolar;Krigsrätter;Krigsartiklar	  1
+Brott;Soldater;Officerare;Tjänstemän;Domstolar;Krigsrätter;Krigsartiklar;Krigsartiklar	  1
+Brott;Soldathustrur;Krigsartiklar;Krigsartiklar	  1
+Brott;Stad;Stad	  1
+Brott;Straff;Angiveri	  1
+Brott;Straff;Angiveri;Straff	  1
+Brott;Straff;Borgfred;Straff	  1
 Brunnar;Vatten;Fordon;Tvättning;Hälsorisker	  1
 Bryggerier;Alkohollagstiftning;Intrång (skråväsen);Varutillverkning;Varutillverkning	  1
 Bryggerier;Brännerier;Brännvin;Alkohollagstiftning	  1
@@ -3328,9 +3328,9 @@ Ceremonier;Riksdagen 1815;Tal	  1
 Ceremonier;Riksdagen 1823;Tal	  1
 Ceremonier;Sorgkläder	  1
 Ceremonier;Statyer;Minneshögtider;Furstliga personer	  1
+Ceremonier;Tronföljd	  1
 Ceremonier;Tro- och huldhetseder;Eder;Eder	  1
 Ceremonier;Tro- och huldhetseder;Kröningar;Eder;Eder	  1
-Ceremonier;Tronföljd	  1
 Characters and characteristics.	  1
 Charkuterivaror;Slakt;Handel;Livsmedel	  1
 Charkuterivaror;Slakt;Privilegier;Boskap;Detaljhandel;Intrång (skråväsen)	  1
@@ -3408,8 +3408,8 @@ Diplomati;Ceremonier	  1
 Diplomati;Ceremonier;Beskickning;Beskickning	  1
 Disputationer	  1
 Djur	  1
-Djur;Naturvård;Fågelskydd;Kronoparker;Avverkning;Jakt	  1
 Djurgeografi;Insekter	  1
+Djur;Naturvård;Fågelskydd;Kronoparker;Avverkning;Jakt	  1
 Djursjukdomar;Böner;Kreaturssjukdom;Kreaturssjukdom	  1
 Djursjukdomar;Boskapspest	  1
 Djursjukdomar;Boskapspest;Husdjur;Kreaturssjukdom;Kreaturssjukdom	  1
@@ -3451,8 +3451,6 @@ Dogmatik;Symbolik	  1
 Doktorsavhandlingar	  1
 Doktorspromotioner	  1
 Domar;Delgivning;Protokoll	  1
-Domar;Rättegångar;Rättegångshandlingar	  1
-Domar;Rättegångar;Rättegångshandlingar;Protokoll;Protokoll	  1
 Domare	  1
 Domare;Ämbetsmän;Krigsmakten till sjöss;Krigsmakten till sjöss	  1
 Domare;Böter;Sjukhus;Ämbetsansvar;Rättegångsverken;Sportler;Rättegångsverken	  1
@@ -3463,6 +3461,8 @@ Domare;Domstolar;Rättegångskostnader;Sportler;Ämbets- och tjänstemäns sport
 Domare;Rättegångar;Rättegångsverken;Rättegångsverken	  1
 Domare;Skadegörelse;Böter;Straff;Sportler;Straff	  1
 Domare;Skiften;Lantbruk;Rättegångsverken;Rättegångsverken	  1
+Domar;Rättegångar;Rättegångshandlingar	  1
+Domar;Rättegångar;Rättegångshandlingar;Protokoll;Protokoll	  1
 Domböcker;Domare;Hovrätter;Domstolar;Protokoll;Protokoll	  1
 Domböcker;Domstolar;Rättegångshandlingar;Protokoll	  1
 Domböcker;Hovrätter;Protokoll;Protokoll	  1
@@ -3491,8 +3491,8 @@ Domstolar;Böter;Kroppsstraff;Straff;Straff	  1
 Domstolar;Böter;Redovisning;Räkenskaper;Straff;Jurisdiktion	  1
 Domstolar;Böter;Sportler;Straff;Kämnersrätter	  1
 Domstolar;Brott;Jurisdiktion	  1
-Domstolar;Domar;Straff	  1
 Domstolar;Domare;Jurister;Rättegångsverken;Rättegångsverken	  1
+Domstolar;Domar;Straff	  1
 Domstolar;Domböcker;Böter;Rättegångshandlingar;Protokoll;Protokoll	  1
 Domstolar;Domstolar;Domstolar;Ceremonier	  1
 Domstolar;Ed (juridik);Mened	  1
@@ -3517,9 +3517,9 @@ Domstolar;Jurisdiktion;Krigsakademien;Krigsrätter;Krigsakademien	  1
 Domstolar;Jurisdiktion;Krigsrätter;Soldater;Brott;Krigsartiklar;Krigsartiklar	  1
 Domstolar;Jurisdiktion;Lån;Amiralitetskrigsmanskassan	  1
 Domstolar;Jurisdiktion;Manufakturer;Varutillverkning;Varutillverkning	  1
-Domstolar;Jurisdiktion;Rättegång;Rättegång	  1
 Domstolar;Jurisdiktion;Rättegångar;Skatter;Räntor och tionde;Räntor och tionde	  1
 Domstolar;Jurisdiktion;Rättegångar;Straff;Straff	  1
+Domstolar;Jurisdiktion;Rättegång;Rättegång	  1
 Domstolar;Jurisdiktion;Rättegångsverken;Krigsrätter	  1
 Domstolar;Jurisdiktion;Rusthållet;Rusthåll;Rusthåll	  1
 Domstolar;Jurisdiktion;Skogsbruk;Bergsbruk;Svedjebruk;Sågverk;Bergs- och brukshanteringen;Bergs- och brukshanteringen	  1
@@ -3536,23 +3536,23 @@ Domstolar;Krigsartiklar;Krigsrätter;Krigsartiklar	  1
 Domstolar;Krigsartiklar;Krigsrätter;Överklagande;Krigsartiklar	  1
 Domstolar;Krigsrätter;Krigsartiklar;Krigsartiklar	  1
 Domstolar;Levnadssätt;Överflödsförordningar;Levnadssätt	  1
-Domstolar;Militär yrkesutbildning;Jurisdiktion;Krigsakademien;Krigsrätter;Krigsakademien	  1
 Domstolar;Militärlagstiftning;Kammarrätter;Rättegång;Rättegångsverken;Rättegångsverken	  1
+Domstolar;Militär yrkesutbildning;Jurisdiktion;Krigsakademien;Krigsrätter;Krigsakademien	  1
 Domstolar;Överklagande;Besvärsmål	  1
 Domstolar;Predikningar	  1
 Domstolar;Protokoll;Krigsrätter;Protokoll	  1
-Domstolar;Rättegång;Besvärsmål;Rättegång	  1
-Domstolar;Rättegång;Dödsstraff;Tidelag;Tidelag	  1
-Domstolar;Rättegång;Rättegång	  1
-Domstolar;Rättegång;Uppror;Straff;Straff	  1
 Domstolar;Rättegångar;Överklagande;Straff	  1
 Domstolar;Rättegångar;Rättegång;Överklagande;Rättegång	  1
 Domstolar;Rättegångar;Rättegångshandlingar;Protokoll;Krigsrätter;Protokoll	  1
 Domstolar;Rättegångar;Straff	  1
 Domstolar;Rättegångar;Straff;Straff	  1
 Domstolar;Rättegångar;Traktamenten;Sportler;Krigsrätter;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
+Domstolar;Rättegång;Besvärsmål;Rättegång	  1
+Domstolar;Rättegång;Dödsstraff;Tidelag;Tidelag	  1
+Domstolar;Rättegång;Rättegång	  1
 Domstolar;Rättegångshandlingar;Rättegångar;Straff	  1
 Domstolar;Rättegångskostnader;Obligationer;Sedlar;Sedelmynt;Sedelmynt	  1
+Domstolar;Rättegång;Uppror;Straff;Straff	  1
 Domstolar;Redovisning;Böter;Straff;Straff	  1
 Domstolar;Rusthållet;Rusthåll;Rusthåll	  1
 Domstolar;Skatter;Misshandel;Övervåld;Jurisdiktion;Övervåld	  1
@@ -3608,19 +3608,17 @@ Dykning	  1
 Dysenteri	  1
 Dysenteri;Diarré;Farsot	  1
 Dysenteri;Diarré;Farsot;Farsot	  1
+Eddadiktning	  1
 Ed (juridik);Arrende;Kungsgårdar;Ladugårdar;Kungl. Maj:ts och kronans gods;Lantbruk;Kungl. Maj:ts och kronans gods	  1
 Ed (juridik);Konkurser;Eder;Eder	  1
-Eddadiktning	  1
 Education	  1
-Education of princes.	  1
 Education.	  1
+Education of princes.	  1
 Ek	  1
 Ek;Bönder;Skogsvård;Benådning	  1
 Ekenäs;Ekenäs	  1
 Eko	  1
 Ekonomi;Rättegångar;Landshövdingar;Magistrater;Rättegång;Rättegång	  1
-Ekonomisk historia;Industri	  1
-Ekonomisk psykologi	  1
 Ekonomiska förhållanden;Arbete;Hushåll	  1
 Ekonomiska förhållanden;Brännerier;Hushåll	  1
 Ekonomiska förhållanden;Ekonomiska förhållanden;Hushåll;Hushåll	  1
@@ -3643,6 +3641,8 @@ Ekonomiska förhållanden;Uppslagsverk;Lantbruk;Botanik;Bin;Husdjur;Hushåll	  1
 Ekonomiska förhållanden;Uppslagsverk;Lantbruk;Botanik;Hushåll;Brännerier;Bröd	  1
 Ekonomiska förhållanden;Uppslagsverk;Lantbruk;Botanik;Hushåll;Växtodling	  1
 Ekonomiska förhållanden;Uppslagsverk;Lantbruk;Hushåll;Botanik;Husdjur	  1
+Ekonomisk historia;Industri	  1
+Ekonomisk psykologi	  1
 Ekumenik;Ecumenical movement;Reformerta samfund;Reformed church	  1
 Ekumenik;Kristendom;Skrifter;Skrifter	  1
 Elektricitet	  1
@@ -3708,6 +3708,19 @@ Exekutiva auktioner	  1
 Exorcism;Dopet	  1
 Export;Bönor;Ärter;Tullväsen;Livsmedel;Livsmedel	  1
 Export;Fajans;Stengods;Husgeråd;Manufakturer;Premier (merkantilismen);Glas och porslin;Glas och porslin	  1
+Exportförbud;Ammunition;Varutransport;Varutransport	  1
+Exportförbud;Boskap;Livsmedel;Livsmedel	  1
+Exportförbud;Dansk-svenska kriget 1808-1809;Varutransport;Varutransport	  1
+Exportförbud;Handelssjöfart;Virke;Trävaror	  1
+Exportförbud;Mässingsarbeten;Kopparhandel;Handelskompanier;Privilegier;Koppar;Koppar	  1
+Exportförbud;Mässingsarbeten;Kopparhandel;Koppar;Handelskompanier;Privilegier	  1
+Exportförbud;Mässingsarbeten;Kopparhandel;Koppar;Handelskompanier;Privilegier;Koppar;Koppar	  1
+Exportförbud;Salt;Nationalekonomi;Ekonomiska förhållanden;Salt;Salt	  1
+Exportförbud;Salt;Salt;Salt	  1
+Exportförbud;Skrivpapper;Tryckpapper;Papper;Papper	  1
+Exportförbud;Spannmål;Rysk-svenska kriget 1570-1595	  1
+Exportförbud;Trävaror;Virke;Ek	  1
+Exportförbud;Trävaror;Virke;Ek;Ek	  1
 Export;Handel;Tulltaxa;Svensk-norska unionen 1814-1905;Sveriges och Norges förening;Sveriges och Norges förening	  1
 Export;Import;Tulltaxa;Acciser;Alkoholskatt;Handelssjöfart;Varuskatt;Varuskatt	  1
 Export;Järnhantering;Stål;Manufakturer;Premier (merkantilismen);Järn;Järn	  1
@@ -3733,19 +3746,6 @@ Export;Tulltaxa;Varutransport;Varutransport	  1
 Export;Tullväsen;Järn;Järn	  1
 Export;Utrikeshandel;Manufakturer;Premier (merkantilismen);Varutransport;Varutransport	  1
 Export;Varutransport;Varutransport	  1
-Exportförbud;Ammunition;Varutransport;Varutransport	  1
-Exportförbud;Boskap;Livsmedel;Livsmedel	  1
-Exportförbud;Dansk-svenska kriget 1808-1809;Varutransport;Varutransport	  1
-Exportförbud;Handelssjöfart;Virke;Trävaror	  1
-Exportförbud;Mässingsarbeten;Kopparhandel;Handelskompanier;Privilegier;Koppar;Koppar	  1
-Exportförbud;Mässingsarbeten;Kopparhandel;Koppar;Handelskompanier;Privilegier	  1
-Exportförbud;Mässingsarbeten;Kopparhandel;Koppar;Handelskompanier;Privilegier;Koppar;Koppar	  1
-Exportförbud;Salt;Nationalekonomi;Ekonomiska förhållanden;Salt;Salt	  1
-Exportförbud;Salt;Salt;Salt	  1
-Exportförbud;Skrivpapper;Tryckpapper;Papper;Papper	  1
-Exportförbud;Spannmål;Rysk-svenska kriget 1570-1595	  1
-Exportförbud;Trävaror;Virke;Ek	  1
-Exportförbud;Trävaror;Virke;Ek;Ek	  1
 Facklor;Brandförsvar;Brandordning;Brandordning	  1
 Facklor;Brandförsvar;Broar	  1
 Facklor;Broar;Brandförsvar;Trähus	  1
@@ -3769,24 +3769,21 @@ Fångar;Brottslingar;Fångvården;Fångvården	  1
 Fångar;Domstolar;Fästningar;Spinnhus;Straffarbete;Brottslingar	  1
 Fångar;Fängelser	  1
 Fångar;Fängelser;Häkten;Övervakning	  1
-Fångar;Fästningar;Straff;Straffarbete;Fångvården;Fångvården	  1
 Fångar;Fästningar;Straffarbete;Brottslingar;Fångvården;Fångvården	  1
 Fångar;Fästningar;Straffarbete;Brottslingar;Fångvården;Krigsrätter;Straff	  1
+Fångar;Fästningar;Straff;Straffarbete;Fångvården;Fångvården	  1
 Fångar;Häkten;Övervakning	  1
 Fångar;Häktning;Begravning	  1
 Fångar;Häktning;Tingsrätter;Fångvården;Fångvården	  1
 Fångar;Soldater;Desertörer;Benådning;Kröningar;Kröning;Kröning	  1
 Fångar;Soldater;Våldsbrott;Inbrott;Stöld;Tillgrepp	  1
 Fångar;Soldater;Våldsbrott;Inbrott;Stöld;Tillgrepp;Tillgrepp	  1
-Fångar;Straff;Straffarbete	  1
 Fångar;Straffarbete;Fästningar	  1
 Fångar;Straffarbete;Varvsanläggningar;Fångvården;Fångvården	  1
+Fångar;Straff;Straffarbete	  1
 Fångar;Upplopp;Allmän ordning och säkerhet	  1
 Fängelser;Fästningar;Fortifikation;Försvarsanläggningar;Fångvården;Fångvården	  1
 Fängelser;Rättsfall	  1
-Får;Djursjukdomar;Parasiter;Kreaturssjukdom	  1
-Får;Fåravel;Premiering;Premier (merkantilismen);Ull;Ull	  1
-Får;Ull;Fåravel;Ull	  1
 Fåravel;Får;Getter;Ull;Ekonomiska förhållanden;Handel;Ull	  1
 Fåravel;Getter;Manufakturer;Hallrätter;Ull;Husdjur;Får;Premier (merkantilismen)	  1
 Fåravel;Premiering;Kungsgårdar;Ull;Premier (merkantilismen);Får;Ull	  1
@@ -3794,6 +3791,8 @@ Fåravel;Premiering;Premier (merkantilismen);Ull;Får;Ekonomiska förhållanden;
 Fåravel;Ull;Partihandel;Ull;Får;Handel;Nationalekonomi;Ekonomiska förhållanden;Ull	  1
 Fåravel;Ull;Slöjd;Manufakturer;Tyger;Hallrätter;Kläder;Vävnad;Vävnad	  1
 Fåravel;Ull;Ull;Handel;Ekonomiska förhållanden;Får;Ull	  1
+Får;Djursjukdomar;Parasiter;Kreaturssjukdom	  1
+Får;Fåravel;Premiering;Premier (merkantilismen);Ull;Ull	  1
 Färger;Byggnadsteknik	  1
 Färgeriindustri;Färgning;Tyger;Varutillverkning;Textilier;Textilfärgning;Varutillverkning	  1
 Färgeriindustri;Textilfärgning;Varutillverkning;Varutillverkning	  1
@@ -3830,6 +3829,7 @@ Fartyg;Skeppsbyggeri;Tullväsen	  1
 Fartyg;Slussar;Kanal- och slussverk	  1
 Fartygsolyckor;Bärgningsväsen;Tullväsen;Bedrägeri;Sjöskada	  1
 Fartygsolyckor;Bärgningsväsen;Tullväsen;Bedrägeri;Sjöskada;Sjöskada	  1
+Får;Ull;Fåravel;Ull	  1
 Fast egendom;Auktioner	  1
 Fast egendom;Auktioner;Hemman	  1
 Fast egendom;Banklån;Borgen;Skuldsättning;Riksbanken;Riksbanken	  1
@@ -3885,13 +3885,13 @@ Fattiga;Spannmål;Detaljhandel;Råg;Mjöl	  1
 Fattiga;Spannmål;Detaljhandel;Råg;Mjöl;Livsmedel	  1
 Fattiga;Spannmål;Detaljhandel;Råg;Mjöl;Nationalekonomi;Ekonomiska förhållanden;Livsmedel	  1
 Fattiga;Tiggare;Lösdrivare;Migration	  1
+Fattighus;Fattigvården;Fattigvården	  1
 Fattighus;Fattigvård;Fattigvården;Fattigvården	  1
 Fattighus;Fattigvård;Lån	  1
 Fattighus;Fattigvård;Polisväsen	  1
 Fattighus;Fattigvård;Skatteindrivning	  1
 Fattighus;Fattigvård;Tiggeri	  1
 Fattighus;Fattigvård;Tiggeri;Arvsrätt	  1
-Fattighus;Fattigvården;Fattigvården	  1
 Fattighus;Skatter	  1
 Fattighus;Skatter;Skatteindrivning	  1
 Fattighus;Skolor;Statsfinanser;Räkenskaper;Föräldralösa barn	  1
@@ -3956,8 +3956,6 @@ Finska kriget 1808-1809;Skuldsättning;Fordran;Skuldfordring;Skuldfordring	  1
 Finsnickeri	  1
 Finsnickeri;Lantbruk	  1
 Finsnickeri;Skråväsen	  1
-Fisk;Fiskhandel;Torghandel;Bönder	  1
-Fisk;Volymmått;Vikt	  1
 Fiskare;Bönder;Bondeseglation;Fiskhandel;Spannmålshandel;Marknader;Byteshandel;Handel;Handel;Fiske;Handel	  1
 Fiskare;Fiskhandel;Spannmålshandel;Marknader;Byteshandel	  1
 fiske	  1
@@ -3968,12 +3966,8 @@ Fiske;Export;Näringsliv;Tullväsen	  1
 Fiske;Export;Sill;Premier (merkantilismen);Fisk;Fisk	  1
 Fiske;Fartyg;Sjöfart;Fiskhandel;Fiske;Näringsliv;Sillfiske;Sill;Varutransport;Varutransport	  1
 Fiske;Fisk	  1
-Fiske;Fisk;Fattiga;Fiskhandel	  1
-Fiske;Fisk;Fisk;Bönder;Bönder;Tulltaxa;Import;Fisk;Tullväsen;Fisk	  1
-Fiske;Fisk;Nationalekonomi;Fisk	  1
-Fiske;Fisk;Riksdagen 1760-1762	  1
-Fiske;Fiskar;Fiskar	  1
 Fiske;Fiskare;Hamnar;Skråväsen	  1
+Fiske;Fiskar;Fiskar	  1
 Fiske;Fiske;Fiskerilagstiftning;Näringsliv;Salterier;Fisk;Fisk	  1
 Fiske;Fiske;Kungliga privilegier;Pärlor;Fiskeregale;Pärlfiske;Pärlfiske	  1
 Fiske;Fiske;Lax;Sik	  1
@@ -3982,8 +3976,12 @@ Fiske;Fiskeredskap;Sjöfart;Farleder	  1
 Fiske;Fiskeregale;Kungliga privilegier;Pärlfiske	  1
 Fiske;Fiskeregale;Kungliga privilegier;Pärlfiske;Pärlfiske	  1
 Fiske;Fiskeregale;Kungliga privilegier;Pärlfiske;Pärlfiske;Pärlfiske	  1
+Fiske;Fisk;Fattiga;Fiskhandel	  1
+Fiske;Fisk;Fisk;Bönder;Bönder;Tulltaxa;Import;Fisk;Tullväsen;Fisk	  1
 Fiske;Fiskhandel;Detaljhandel	  1
 Fiske;Fiskhandel;Fisk;Fisk	  1
+Fiske;Fisk;Nationalekonomi;Fisk	  1
+Fiske;Fisk;Riksdagen 1760-1762	  1
 Fiske;Fridsbrott;Privilegier;Allmän ordning och säkerhet	  1
 Fiske;Hamnväsen;Fiskelägen;Allmän ordning och säkerhet;Hamn och fiskeläge;Hamn och fiskeläge	  1
 Fiske;Havsfiske	  1
@@ -3992,25 +3990,8 @@ Fiske;Näringsliv;Salterier	  1
 Fiske;Näringsliv;Sillfiske	  1
 Fiske;Näringsliv;Skuldsättning;Gäldenärsbrott;Frihandelszoner;Frihamn;Frihamn	  1
 Fiske;Nationalekonomi;Privilegier;Fisk;Fisk	  1
-Fiske;Pärlfiske	  1
-Fiske;Salt;Fisk;Fisk	  1
-Fiske;Salterier;Salt;Fisk;Tullväsen;Nationalekonomi;Ekonomiska förhållanden;Fisk	  1
-Fiske;Salterier;Tulltaxa;Salt;Salt	  1
-Fiske;Sill;Bedrägeri;Tunnbinderi;Fisk;Volymmått;Fisk	  1
-Fiske;Sill;Exportförbud;Fisk;Fisk	  1
-Fiske;Sill;Exportförbud;Utländska medborgare;Fisk;Fisk	  1
-Fiske;Sill;Salterier;Salt;Utrikeshandel;Premier (merkantilismen);Fisk;Fisk	  1
-Fiske;Sill;Tullväsen;Fisk;Fisk	  1
-Fiske;Sillfiske;Tran;Trankokerier;Export;Premier (merkantilismen);Fisk;Fisk	  1
-Fiske;Skatteköp;Skatteköp och byte	  1
-Fiske;Skatter;Fisk;Fisk	  1
-Fiske;Stöld;Tjuvfiske	  1
-Fiske;Strömmingsfiske;Arrende;Fisk;Fisk	  1
-Fiske;Strömmingsfiske;Lagring;Salthandel;Salt;Salt	  1
-Fiske;Valfångst;Valfångst;Handelskompanier	  1
-Fiske;Valfångst;Valfångst;Handelskompanier;Grönlandskompaniet;Grönlandskompaniet	  1
-Fiske;Vin;Brännvin;Alkoholdrycker;Alkoholskatt;Främmande drycker;Främmande drycker	  1
 Fiskeodling;Karp	  1
+Fiske;Pärlfiske	  1
 Fiskeregale;Kungliga privilegier;Pärlfiske	  1
 Fiskerilagstiftning;Fiske;Salt;Salt	  1
 Fiskerilagstiftning;Handel;Näringsliv;Sill;Salterier;Trankokerier;Fiske;Fisk;Fisk	  1
@@ -4020,11 +4001,30 @@ Fiskerilagstiftning;Näringsliv;Fiske;Fisk;Fisk	  1
 Fiskerilagstiftning;Näringsliv;Salterier;Sillfiske;Fästningar;Städer;Fiske;Fisk;Fisk	  1
 Fiskerilagstiftning;Näringsliv;Salterier;Sillfiske;Torskfiske;Fiske;Premier (merkantilismen);Fisk;Ekonomiska förhållanden;Fisk	  1
 Fiskerilagstiftning;Näringsliv;Tullväsen;Sjöfart;Fiske;Fisk;Fisk	  1
+Fiske;Salterier;Salt;Fisk;Tullväsen;Nationalekonomi;Ekonomiska förhållanden;Fisk	  1
+Fiske;Salterier;Tulltaxa;Salt;Salt	  1
+Fiske;Salt;Fisk;Fisk	  1
+Fiske;Sill;Bedrägeri;Tunnbinderi;Fisk;Volymmått;Fisk	  1
+Fiske;Sill;Exportförbud;Fisk;Fisk	  1
+Fiske;Sill;Exportförbud;Utländska medborgare;Fisk;Fisk	  1
+Fiske;Sillfiske;Tran;Trankokerier;Export;Premier (merkantilismen);Fisk;Fisk	  1
+Fiske;Sill;Salterier;Salt;Utrikeshandel;Premier (merkantilismen);Fisk;Fisk	  1
+Fiske;Sill;Tullväsen;Fisk;Fisk	  1
+Fiske;Skatteköp;Skatteköp och byte	  1
+Fiske;Skatter;Fisk;Fisk	  1
+Fiske;Stöld;Tjuvfiske	  1
+Fiske;Strömmingsfiske;Arrende;Fisk;Fisk	  1
+Fiske;Strömmingsfiske;Lagring;Salthandel;Salt;Salt	  1
+Fiske;Valfångst;Valfångst;Handelskompanier	  1
+Fiske;Valfångst;Valfångst;Handelskompanier;Grönlandskompaniet;Grönlandskompaniet	  1
+Fiske;Vin;Brännvin;Alkoholdrycker;Alkoholskatt;Främmande drycker;Främmande drycker	  1
+Fisk;Fiskhandel;Torghandel;Bönder	  1
 Fiskhandel;Bönder;Vikt;Fisk;Fisk	  1
 Fiskhandel;Fiskerilagstiftning;Näringsliv;Sillfiske;Fiske;Fisk;Fisk	  1
 Fiskhandel;Månglerskor;Intrång (skråväsen)	  1
 Fiskhandel;Sill;Sjöfart;Fisk;Fisk	  1
 Fiskodling;Fiske	  1
+Fisk;Volymmått;Vikt	  1
 Fjäderfä;Höns;Arbetare;Bönder;Soldater	  1
 Flaggor;Flagg;Flagg	  1
 Flaggor;Handelssjöfart;Sjöfart;Flagg;Flagg	  1
@@ -4152,13 +4152,13 @@ Förvaltning;Nationalekonomi;Lantbruk	  1
 Förvaltning;Rättsväsen;Borgmästare;Stad;Stad	  1
 Förvaltning;Rättsväsen;Handel	  1
 Förvaltning;Reformförslag;Reformförslag	  1
-Förvaltning;S:t Barthelemy;S:t Barthelemy	  1
 Förvaltning;Spannmål	  1
 Förvaltning;Stad;Stad	  1
+Förvaltning;S:t Barthelemy;S:t Barthelemy	  1
 Förvaltning;Tomträtt;Fastigheter;Stad;Stad	  1
-Fransk matlagning	  1
 Franska resenärer	  1
 Franska revolutionen 1789-1799	  1
+Fransk matlagning	  1
 Freden i Åbo 1743;Svenska kyrkan.	  1
 Freden i Fredrikshamn 1809;Handelsavtal;Fredsfördrag;Icke-angreppspakter;Handelstraktater;Handelstraktater	  1
 Freden i Kiel 1814;Båtsmanshållet;Indelningsverket;Värnpliktiga;Beväringen	  1
@@ -4168,15 +4168,14 @@ Freden i Kiel 1814;Segerfester;Ceremonier;Fyrverkeri;Illumination	  1
 Freden i Kiel 1814;Svensk-norska unionen 1814-1905;Sveriges och Norges förening	  1
 Freden i Nystad 1721	  1
 Freden i Stockholm (Preussen) 1720;Freden i Stockholm (Danmark) 1720;Freden i Frederiksborg (Danmark) 1720;Predikningar	  1
-Freds- och förbundsslut;Rysk-svenska kriget 1741-1743;Freden i Åbo 1743;Tacksägelser;Freds- och förbundsslut	  1
 Fredsfördrag;Dansk-svenska kriget 1658-1660;Freden i Roskilde 1658;Freds- och förbundsslut	  1
 Fredsfördrag;Dansk-svenska kriget 1658-1660;Freds- och förbundsslut;Freden i Köpenhamn 1660	  1
 Fredsfördrag;Freden i Åbo 1743;Rysk-svenska kriget 1741-1743;Freds- och förbundsslut;Freds- och förbundsslut	  1
 Fredsfördrag;Freden i Fredrikshamn 1809;Fastigheter;Fastighetsförvärv;Fastighet;Fastighet	  1
-Fredsfördrag;Freds- och förbundsslut;Freden i Åbo 1743;Rysk-svenska kriget 1741-1743;Freds- och förbundsslut	  1
-Fredsfördrag;Freds- och förbundsslut;Freden i Kardis 1661;Rysk-svenska kriget 1656-1661	  1
 Fredsfördrag;Fredsfester;Tacksägelser	  1
 Fredsfördrag;Fredsfördrag;Stora nordiska kriget 1700-1721;Freds- och förbundsslut	  1
+Fredsfördrag;Freds- och förbundsslut;Freden i Åbo 1743;Rysk-svenska kriget 1741-1743;Freds- och förbundsslut	  1
+Fredsfördrag;Freds- och förbundsslut;Freden i Kardis 1661;Rysk-svenska kriget 1656-1661	  1
 Fredsfördrag;Handelsförbindelser;Handelsavtal;Utrikespolitik;Handelstraktater;Handelstraktater	  1
 Fredsfördrag;Internationella relationer;Icke-angreppspakter;Handelsförbindelser;Handelsavtal;Handelstraktater;Handelstraktater	  1
 Fredsfördrag;Internationella relationer;Icke-angreppspakter;Handelstraktater;Handelstraktater	  1
@@ -4191,6 +4190,7 @@ Fredsfördrag;Stora nordiska kriget 1700-1721;Böner;Tacksägelser	  1
 Fredsfördrag;Storbritannien;Preussen;Danmark;Sverige;Fredsfester;Tacksägelser;Freds- och förbundsslut;Freds- och förbundsslut	  1
 Fredsfördrag;Trettioåriga kriget 1618-1648;Freds- och förbundsslut	  1
 Fredsfördrag;Trettioåriga kriget 1618-1648;Westfaliska freden (1648);Freds- och förbundsslut	  1
+Freds- och förbundsslut;Rysk-svenska kriget 1741-1743;Freden i Åbo 1743;Tacksägelser;Freds- och förbundsslut	  1
 French language	  1
 Fridsbrott;Straff;Straff	  1
 Frihandelszoner;Flyttningar;Emigration;S:t Barthelemy;S:t Barthelemy	  1
@@ -4270,7 +4270,6 @@ Genealogi	  1
 Genealogi;Historia	  1
 Generalguvernörer;Länsförvaltning;Lantstaten;Lantstaten	  1
 Genoveva	  1
-Geografi Turkiet Reseskilddringar	  1
 Geografi;Ekonomiska förhållanden	  1
 Geografi;Ekonomiska förhållanden;Historia	  1
 Geografi;Geografi;Geografi;Geografi	  1
@@ -4280,6 +4279,7 @@ Geografi;Historia;Nationalekonomi	  1
 Geografi;Nationalekonomi;Ekonomiska förhållanden	  1
 Geografi;Sjöfågel	  1
 Geografi;Skatter	  1
+Geografi Turkiet Reseskilddringar	  1
 Geography, Medieval	  1
 Geologi;Ekonomiska förhållanden	  1
 Geologi;Geologi;Mineralogi;Mineralogi	  1
@@ -4335,8 +4335,8 @@ Greker;Goter;Goths;Funeral rites and ceremonies	  1
 Grekiska	  1
 Grekiska språket	  1
 Grönsaker;Detaljhandel;Torghandel	  1
-Grönsaker;Frukt;Livsmedel;Torghandel;Allmän ordning och säkerhet	  1
 Grönsaker;Frukthandel;Trädgårdsprodukter;Detaljhandel	  1
+Grönsaker;Frukt;Livsmedel;Torghandel;Allmän ordning och säkerhet	  1
 Grönsaker;Livsmedel;Torghandel;Allmän ordning och säkerhet	  1
 Grönsaker;Trädgårdar;Torghandel;Nationalekonomi;Ekonomiska förhållanden;Handel	  1
 Gröt	  1
@@ -4358,15 +4358,15 @@ Gudstjänsten;Sabbatsbrott;Kyrkoordning;Kyrkoordning	  1
 Gudstjänsten;Skadegörelse;Allmän ordning och säkerhet	  1
 Gudstjänstordningar;Gudstjänsten;Kyrkoordning;Kyrkoordning	  1
 Gula febern;Epidemier;Sjöfart;Karantän;Farsot;Farsot	  1
+Guldmynt;Silvermynt;Exportförbud;Export;Koppar;Järn;Varutransport;Varutransport	  1
+Guldmynt;Silvermynt;Valutautflöde;Utförselskydd;Mynt;Mynt	  1
+Guldmynt;Silvermynt;Valutautflöde;Utförselskydd;Penningväsen;Mynt	  1
 Guld;Silver;Export;Tulltaxa;Mynt;Mynt	  1
 Guld;Silver;Metallurgi	  1
 Guld;Silver;Silversmide;Guldsmide;Import;Kvalitetskontroll;Metallkontroller	  1
 Guld;Silver;Silversmide;Guldsmide;Import;Kvalitetskontroll;Metallkontroller;Metallkontroller	  1
 Guld;Silver;Stämplar;Guldsmide;Metallkontroller;Metallkontroller	  1
 Guld;Silver;Tenn;Stämplar;Guldstämplar;Silverstämplar;Metallkontroller;Metallkontroller	  1
-Guldmynt;Silvermynt;Exportförbud;Export;Koppar;Järn;Varutransport;Varutransport	  1
-Guldmynt;Silvermynt;Valutautflöde;Utförselskydd;Mynt;Mynt	  1
-Guldmynt;Silvermynt;Valutautflöde;Utförselskydd;Penningväsen;Mynt	  1
 Guldsmeder;Bagare;Bröd;Gesäller;Intrång (skråväsen)	  1
 Guldsmedskonst	  1
 Guldsmedskonst;Guldsmide;Silversmide;Smycken	  1
@@ -4407,11 +4407,11 @@ Hamnväsen;Allmän ordning och säkerhet	  1
 Hamnväsen;Brandförsvar;Eldning;Fartyg	  1
 Hamnväsen;Fiske;Hamn och fiskeläge;Hamn och fiskeläge	  1
 Hamnväsen;Hamnar	  1
-Hamnväsen;Hamnar;Hamn och fiskeläge	  1
 Hamnväsen;Hamnarbetare;Järn;Fartyg;Lastning;Lossning	  1
 Hamnväsen;Hamnarbetare;Järn;Järnhantering;Fartyg;Lastning;Lossning	  1
 Hamnväsen;Hamnarbetare;Järn;Järnhantering;Vågar;Metaller;Fartyg;Lastning;Lossning	  1
 Hamnväsen;Hamnarbetare;Järn;Vågar;Fartyg;Lastning;Lossning	  1
+Hamnväsen;Hamnar;Hamn och fiskeläge	  1
 Hamnväsen;Handelssjöfart;Stadsprivilegier;Tullväsen;Varutransport;Varutransport	  1
 Hamnväsen;Lossning	  1
 Hamnväsen;Sjöfart;Fartyg;Broavgifter;Lastning;Lossning	  1
@@ -4425,8 +4425,8 @@ Handel;Ekonomiska förhållanden	  1
 Handel;Export;Import;Böter;Domstolar;Varutransport;Varutransport	  1
 Handel;Frihandel;Varutransport	  1
 Handel;Hamnar;Sjöfart;Uppbringning;Uppbringning	  1
-Handel;Handel;Spannmål;Alkohollagstiftning;Husbehovsbränning;Alkoholförsäljning;Brännvin;Brännvin	  1
 Handel;Handelskompanier;Levantiska handeln;Levantiska handeln	  1
+Handel;Handel;Spannmål;Alkohollagstiftning;Husbehovsbränning;Alkoholförsäljning;Brännvin;Brännvin	  1
 Handel;Handelssjöfart;Finska kriget 1808-1809;Freden i Fredrikshamn 1809;Fredsfördrag;Handel;Handel	  1
 Handel;Handelssjöfart;Penningväsen;Rättegång;Jurisdiktion	  1
 Handel;Handelssjöfart;Tulltaxa;Lagring;Handel;Handelssjöfart;Varuskatt;Varuskatt	  1
@@ -4444,26 +4444,19 @@ Handel;Nationalekonomi	  1
 Handel;Nationalekonomi;Ekonomiska förhållanden	  1
 Handel;Premier (merkantilismen);Ull;Får;Nationalekonomi;Ekonomiska förhållanden;Ull	  1
 Handel;Privatekonomi	  1
+Handelsavtal;Sjöfart;Handelstraktater;Handelstraktater	  1
+Handelsbolag;Urkundsförfalskning;Personnamn;Ansvarsfrågor;Bolag;Bolag	  1
+Handelsförbindelser;Handelsavtal;Handelssjöfart;Fartyg;Fartyg	  1
+Handelsförbindelser;Handelsavtal;Handelssjöfart;Handel	  1
 Handel;Sjöfart	  1
 Handel;Sjöfart;Bedrägeri;Varutransport;Varutransport	  1
 Handel;Sjöfart;Bergsbruk;Hantverk;Privilegier;Privilegier	  1
 Handel;Sjöfart;Epidemier	  1
 Handel;Sjöfart;Epidemier;Farsot;Farsot	  1
-Handel;Sjöfart;Tullväsen;Fartyg;Fartyg	  1
-Handel;Sjöfart;Tullväsen;Import;Livsmedel;Livsmedel	  1
-Handel;Spannmål;Intrång (skråväsen);Nationalekonomi;Ekonomiska förhållanden	  1
-Handel;Stämpling;Import;Bedrägeri;Marknader;Stapelstäder;Varustämpling	  1
-Handel;Stämpling;Import;Bedrägeri;Marknader;Stapelstäder;Varustämpling;Varustämpling	  1
-Handel;Tolkar;Ryska köpmän	  1
-Handel;Transporter;Tullväsen;Varutransport;Varutransport	  1
-Handel;Tulltaxa;Vågar	  1
-Handel;Utländska medborgare;Import	  1
-Handelsavtal;Sjöfart;Handelstraktater;Handelstraktater	  1
-Handelsbolag;Urkundsförfalskning;Personnamn;Ansvarsfrågor;Bolag;Bolag	  1
-Handelsförbindelser;Handelsavtal;Handelssjöfart;Fartyg;Fartyg	  1
-Handelsförbindelser;Handelsavtal;Handelssjöfart;Handel	  1
 Handelsjöfart;Napoleonkrigen 1800-1815;Sjökrigsväsen;Fredsfördrag;Fartyg;Fartyg	  1
 Handelsjöfart;Napoleonkrigen 1800-1815;Sjökrigsväsen;Fredsfördrag;Varutransport;Varutransport	  1
+Handel;Sjöfart;Tullväsen;Fartyg;Fartyg	  1
+Handel;Sjöfart;Tullväsen;Import;Livsmedel;Livsmedel	  1
 Handelskompanier;Handelssjöfart	  1
 Handelskompanier;Handelssjöfart;Finansiering	  1
 Handelskompanier;Handelssjöfart;Finansiering;Söderkompaniet;Söderkompaniet	  1
@@ -4476,6 +4469,7 @@ Handelskompanier;Privilegier;Handel	  1
 Handelskompanier;Privilegier;Handelssjöfart	  1
 Handelskompanier;Privilegier;Handelssjöfart;Söderkompaniet	  1
 Handelskompanier;Privilegier;Stapelstäder;Handel;Levantiska handeln;Levantiska handeln	  1
+Handel;Spannmål;Intrång (skråväsen);Nationalekonomi;Ekonomiska förhållanden	  1
 Handelspolitik	  1
 Handelsrätt	  1
 Handelsrätt;Köpmän;Köpmannaförbund;Handel	  1
@@ -4521,9 +4515,9 @@ Handelssjöfart;Sjöfart;Napoleonkrigen 1800-1815;Revolutionskrigen;Smuggling;Va
 Handelssjöfart;Sjöfart;Nordamerikanska frihetskriget 1775-1783;Uppbringning;Uppbringning	  1
 Handelssjöfart;Sjöfart;Öresundsfarten	  1
 Handelssjöfart;Sjöfart;Revolutionskrigen;Napoleonkrigen 1800-1815;Skatter;Tulltaxa;Konvojavgift;Konvojavgift	  1
-Handelssjöfart;Sjöfart;S:t Barthelemy;S:t Barthelemy	  1
 Handelssjöfart;Sjöfart;Sjökaptener;Svenskar i utlandet;Sjöfolk;Sjöfolk	  1
 Handelssjöfart;Sjöfart;Skatter;Tulltaxa;Salt;Konvojavgift;Konvojavgift	  1
+Handelssjöfart;Sjöfart;S:t Barthelemy;S:t Barthelemy	  1
 Handelssjöfart;Sjöfart;Tullväsen;Skatter;Nordamerikanska frihetskriget 1775-1783;Tulltaxa;Konvojavgift;Konvojavgift	  1
 Handelssjöfart;Sjömän;Redare;Privilegier;Sjöfolk	  1
 Handelssjöfart;Sjömän;Svenskar i utlandet;Sjöfolk;Sjöfolk	  1
@@ -4554,8 +4548,24 @@ Handelssjöfart;Utrikeshandel;Handelskompanier;Ostindiska kompanier	  1
 Handelssjöfart;Utrikeshandel;Handelskompanier;Ostindiska kompanier;Ostindiska handeln	  1
 Handelssjöfart;Utrikeshandel;Handelskompanier;Tullväsen;Handel;Handel	  1
 Handelssjöfart;Virke;Trävaror;Tulltaxa;Skatter;Export;Skogseffekter;Nationalekonomi;Ekonomiska förhållanden;Skogseffekter	  1
+Handel;Stämpling;Import;Bedrägeri;Marknader;Stapelstäder;Varustämpling	  1
+Handel;Stämpling;Import;Bedrägeri;Marknader;Stapelstäder;Varustämpling;Varustämpling	  1
+Handel;Tolkar;Ryska köpmän	  1
+Handel;Transporter;Tullväsen;Varutransport;Varutransport	  1
+Handel;Tulltaxa;Vågar	  1
+Handel;Utländska medborgare;Import	  1
 Hansan	  1
 Hantverk	  1
+Hantverkare;Arbetare;Skatter;Manufakturer;Personliga utskylder;Personliga utskylder	  1
+Hantverkare;Gesäller;Varutillverkning;Varutillverkning	  1
+Hantverkare;Landsbygd;Bönder;Varutillverkning;Varutillverkning	  1
+Hantverkare;Militära uniformer;Krigsmakten till lands;Krigsmakten till lands	  1
+Hantverkare;Skatter;Städer;Gärningsören;Gärningsören	  1
+Hantverkare;Skråväsen;Hantverk	  1
+Hantverkare;Skråväsen;Varutillverkning	  1
+Hantverkare;Smideshantverk;Vapensmide;Varutillverkning;Varutillverkning	  1
+Hantverkare;Soldater;Värvning;Varutillverkning	  1
+Hantverkare;Underhållsväsen;Straff;Artilleri;Artilleri	  1
 Hantverk;Bönhaseri;Intrång (skråväsen)	  1
 Hantverk;Ekonomiska förhållanden	  1
 Hantverk;Handel;Hallrätter;Organisationsförändringar;Manufakturer;Kronoåklagare;Kronoåklagare	  1
@@ -4577,16 +4587,6 @@ Hantverk;Slöjd;Manufakturer;Hallrätter;Näringsstatistik;Näringsstatistik	  1
 Hantverk;Stämplar	  1
 Hantverk;Stämpling;Stämplar;Varustämpling;Varustämpling	  1
 Hantverk;Tjära;Virke;Tjära	  1
-Hantverkare;Arbetare;Skatter;Manufakturer;Personliga utskylder;Personliga utskylder	  1
-Hantverkare;Gesäller;Varutillverkning;Varutillverkning	  1
-Hantverkare;Landsbygd;Bönder;Varutillverkning;Varutillverkning	  1
-Hantverkare;Militära uniformer;Krigsmakten till lands;Krigsmakten till lands	  1
-Hantverkare;Skatter;Städer;Gärningsören;Gärningsören	  1
-Hantverkare;Skråväsen;Hantverk	  1
-Hantverkare;Skråväsen;Varutillverkning	  1
-Hantverkare;Smideshantverk;Vapensmide;Varutillverkning;Varutillverkning	  1
-Hantverkare;Soldater;Värvning;Varutillverkning	  1
-Hantverkare;Underhållsväsen;Straff;Artilleri;Artilleri	  1
 Härader;Fogdar;Tionde;Skatter;Tjänstemän;Lantstaten;Lantstaten	  1
 Härader;Tjänstemän;Skatter;Jordeböcker	  1
 Häradshövdingar;Domare;Rättegångsverken	  1
@@ -4610,9 +4610,9 @@ Hästar;Hästavel;Rusthållet;Hästkreatur;Husdjur;Hästkreatur	  1
 Hästar;Hästkreatur;Hästkreatur	  1
 Hästar;Hästskötsel;Rusthållet;Hästkreatur;Hästkreatur	  1
 Hästar;Husdjur;Importförbud;Hästkreatur;Hästkreatur	  1
+Hästar;Importförbud;Djursjukdomar;Kreaturssjukdom;Kreaturssjukdom	  1
 Hästar;Import;Tulltaxa;Hästkreatur;Husdjur;Hästkreatur	  1
 Hästar;Import;Tulltaxa;Hästkreatur;Nationalekonomi;Ekonomiska förhållanden;Tullväsen;Hästkreatur	  1
-Hästar;Importförbud;Djursjukdomar;Kreaturssjukdom;Kreaturssjukdom	  1
 Hästar;Kavalleri;Rusthållet;Dragoner;Hästkreatur;Hästkreatur	  1
 Hästar;Kuskar;Allmän ordning och säkerhet	  1
 Hästar;Officerare;Inkvartering	  1
@@ -4629,11 +4629,11 @@ Hästar;Vagnar;Gärder;Gärder	  1
 Hästavel;Hästar;Hästkreatur;Hästkreatur	  1
 Hästhandel;Marknader;Stadsprivilegier;Borgare;Marknad	  1
 Hattmakare;Kramvaror;Intrång (skråväsen)	  1
-Hav;Salinitet	  1
 Haverier;Sjöförsäkring;Försäkring;Sjöskada;Sjöskada	  1
 Haverier;Sjöröveri;Straff;Våldsbrott;Sjöskada;Sjöskada	  1
 Havre;Malt;Havre;Spannmål;Skatter;Livsmedel;Åkerbruksväxter;Livsmedel	  1
 Havre;Malt;Importförbud;Spannmål;Livsmedel;Livsmedel	  1
+Hav;Salinitet	  1
 Häxprocesser	  1
 Hebreiska språket	  1
 Hebrew language	  1
@@ -4685,21 +4685,18 @@ Historia;Ekonomiska förhållanden	  1
 Historia;Konsthantverk	  1
 Historia;Polsk-svenska kriget 1599-1629	  1
 Historiefilosofi	  1
-Historisk kronologi	  1
 Historiska källor;Historieskrivning;Fornlämningar;Allmänna handlingar;Allmänna handlingar	  1
 Historiska minnesmärken;Fornlämningar	  1
 Historiska minnesmärken;Fornlämningar;Antikviteter;Minnesmärken	  1
 Historiska minnesmärken;Fornlämningar;Antikviteter;Minnesmärken;Minnesmärken	  1
 Historiska minnesmärken;Fornlämningar;Minnesmärken;Minnesmärken	  1
+Historisk kronologi	  1
+History, Ancient.	  1
 History of medicine	  1
 History of Medicine	  1
-History, Ancient.	  1
 Hjorted	  1
 Hö	  1
 Hö;Foderväxter;Sädesslag;Växtodling	  1
-Hö;Halm;Import;Tulltaxa;Varutransport;Spannmål;Varutransport	  1
-Hö;Ved;Träkol;Kalk	  1
-Hö;Volymmått;Bedrägeri	  1
 Högmålsbrott;Böner;Furstliga personer;Furstliga personer	  1
 Högmålsbrott;Dödsstraff;Högmål;Högmål	  1
 Högmålsbrott;Högmål;Högmål	  1
@@ -4719,8 +4716,11 @@ Högtider	  1
 Högtider;Krogar;Kaféer	  1
 Högtider;Sabbatsbrott;Helgdagar;Helgedag;Helgedag	  1
 Högtider;Statskupper;Dödsstraff;Benådning;Högmål;Tacksägelser;Högmål	  1
+Hö;Halm;Import;Tulltaxa;Varutransport;Spannmål;Varutransport	  1
 Holländska kriget 1672-1678	  1
 Holländska kriget 1672-1678;Krig	  1
+Hö;Ved;Träkol;Kalk	  1
+Hö;Volymmått;Bedrägeri	  1
 Hovrätter;Ämbetsmän;Tjänsteansvar	  1
 Hovrätter;Distriktsregleringar;Jurisdiktion;Distriktsregleringar	  1
 Hovrätter;Hovrätter;Ceremonier	  1
@@ -4728,9 +4728,9 @@ Hovrätter;Hovrätter;Ceremonier;Rättegångsverken;Rättegångsverken	  1
 Hovrätter;Krigsartiklar;Krigsrätter;Krigsartiklar	  1
 Hovrätter;Överklagande;Rättegång	  1
 Hovrätter;Överklagande;Rättegång;Rättegång	  1
-Hovrätter;Rättegång;Rättegång	  1
 Hovrätter;Rättegångar;Överklagande;Straff;Straff	  1
 Hovrätter;Rättegångar;Straff;Överklagande;Straff	  1
+Hovrätter;Rättegång;Rättegång	  1
 Hovrätter;Rättegångsverken;Rättegångsverken	  1
 Hovrätter;Tingsrätter;Domsagor	  1
 Hovrätter;Växlar (skuldförbindelser);Sjörätt;Rättegång;Rättegång	  1
@@ -4761,14 +4761,13 @@ Husdjur;Biodling;Bin;Honung	  1
 Husdjur;Borstbinderi;Svin;Borst;Borst	  1
 Husdjur;Djursjukdomar;Hästar	  1
 Husdjur;Djursjukdomar;Lantbruk	  1
+Husdjur;Fåravel;Får;Exportförbud;Ull;Ull	  1
 Husdjur;Får;Avel;Premier (merkantilismen);Fåravel	  1
 Husdjur;Får;Fåravel;Getter;Manufakturer;Hallrätter;Premier (merkantilismen);Ull;Ull	  1
-Husdjur;Fåravel;Får;Exportförbud;Ull;Ull	  1
 Husdjur;Fårskötsel;Potatis	  1
 Husdjur;Fjäderfä	  1
 Husdjur;Gesäller;Veterinärer;Skråväsen	  1
 Husdjur;Getter	  1
-Husdjur;Häst;Marknader;Stadsprivilegier;Borgare;Marknad;Marknad	  1
 Husdjur;Hästar;Djursjukdomar;Kreaturssjukdom	  1
 Husdjur;Hästar;Djursjukdomar;Stuterier	  1
 Husdjur;Hästar;Historia;Juridik	  1
@@ -4777,6 +4776,7 @@ Husdjur;Hästar;Husdjursavel;Hästkreatur;Hästkreatur	  1
 Husdjur;Hästar;Ridning	  1
 Husdjur;Hästar;Stuterier	  1
 Husdjur;Hästar;Veterinärmedicin;Djursjukdomar	  1
+Husdjur;Häst;Marknader;Stadsprivilegier;Borgare;Marknad;Marknad	  1
 Husdjur;Hundar;Allmän ordning och säkerhet	  1
 Husdjur;Husdjur	  1
 Husdjur;Jordbrukslära;Acciser;Boskap;Åkerbruk	  1
@@ -4805,10 +4805,10 @@ Hushåll;Huslig ekonomi;Åkerbruksväxter;Njutningsmedel;Geologi	  1
 Hushåll;Huslig ekonomi;Husdjur	  1
 Hushåll;Huslig ekonomi;Teknisk kemi	  1
 Hushåll;Kemiteknik;Gödselmedel;Huslig ekonomi	  1
-Hushåll;Lantbruk;Skogsbruk;Husdjur;Jordbruk	  1
-Hushåll;Lantbruk;Växtodling;Husdjur	  1
 Hushåll;Lantbruksekonomi;Hushållningssällskap;Lantbruk	  1
 Hushåll;Lantbruksekonomi;Lantbruk;Hushållningssällskap	  1
+Hushåll;Lantbruk;Skogsbruk;Husdjur;Jordbruk	  1
+Hushåll;Lantbruk;Växtodling;Husdjur	  1
 Hushåll;Livsmedel	  1
 Hushåll;Livsmedel;Matlagning	  1
 Hushåll;Livsmedel;Spannmål;Kvickrot	  1
@@ -4816,9 +4816,9 @@ Hushåll;Livsmedel;Trädgårdsskötsel	  1
 Hushåll;Matlagning;Lantbruk	  1
 Hushåll;Matlagning;Livsmedel	  1
 Hushåll;Medicin	  1
-Hushåll;Växtodling;Folkmedicin	  1
 Hushållningssällskap	  1
 Hushållningssällskap;Lantbruk;Hushållningssällskap;Lantbruk	  1
+Hushåll;Växtodling;Folkmedicin	  1
 Huskurer	  1
 Huslig ekonomi;Hushåll	  1
 Hydroterapi;Hygien	  1
@@ -4831,6 +4831,24 @@ Icke-angreppspakter;Icke-angreppspakter;Icke-angreppspakter;Napoleonkrigen 1800-
 Immigration;Invandrare;Judar;Judar	  1
 Import;Acciser;Ättika;Varuskatt;Varuskatt	  1
 Import;Byggnadsmaterial;Taktegel;Varutransport;Varutransport	  1
+Importförbud;Bomull;Garn;Garn	  1
+Importförbud;Böter;Smuggling;Varutransport;Varutransport	  1
+Importförbud;Böter;Varutransport;Varutransport	  1
+Importförbud;Censur;Böcker;Tidskrifter;Tidningar;Skrifter;Skrifter	  1
+Importförbud;Exportförbud;Domstolar;Varutransport;Varutransport	  1
+Importförbud;Import;Vin;Vin;Främmande drycker;Främmande drycker	  1
+Importförbud;Kaffe;Export;Lagring;Överflödsförordningar;Kaffe och te;Kaffe och te	  1
+Importförbud;Kaffe;Kaffe och te;Livsmedel;Njutningsmedel;Kaffe och te	  1
+Importförbud;Kvalitetskontroll;Stämplar;Stämpling;Fickur;Ur;Ur	  1
+Importförbud;Lyx;Tyger;Siden;Manufakturer;Vävnad;Överflödsförordningar;Vävnad	  1
+Importförbud;Lyx;Tyger;Siden;Manufakturer;Vävnad;Vävnad	  1
+Importförbud;Porslin;Varutransport;Varutransport	  1
+Importförbud;Smuggling;Bedrägeri;Varutransport;Varutransport	  1
+Importförbud;Tulltaxa;Varutransport;Varutransport	  1
+Importförbud;Tyger;Silke;Textilfärgning;Bedrägeri;Vävnad	  1
+Importförbud;Tyger;Silke;Textilfärgning;Bedrägeri;Vävnad;Vävnad	  1
+Importförbud;Tyger;Textilier;Överflödsförordningar;Vävnad;Vävnad	  1
+Importförbud;Varutransport;Åkerbruksväxter;Medicinalväxter;Varutransport	  1
 Import;Handel;Borgare;Handel;Handel	  1
 Import;Handelssjöfart;Certifiering;Kvalitetskontroll;Varutransport;Varutransport	  1
 Import;Handelssjöfart;Tullväsen;Varuupplag;Varuupplag	  1
@@ -4860,8 +4878,8 @@ Import;Tulltaxa;Mjöl;Kött;Livsmedel	  1
 Import;Tulltaxa;Ostindiska handeln;Ostindiska handeln	  1
 Import;Tulltaxa;Papper;Papper	  1
 Import;Tulltaxa;Pärlor;Ädelstenar;Varutransport;Varutransport	  1
-Import;Tulltaxa;Salt;Salt	  1
 Import;Tulltaxa;Salthandel;Salt;Salt	  1
+Import;Tulltaxa;Salt;Salt	  1
 Import;Tulltaxa;Sjöfart;Spannmål;Potatis;Ärter;Livsmedel;Nationalekonomi;Ekonomiska förhållanden;Tullväsen;Livsmedel	  1
 Import;Tulltaxa;Spannmål;Livsmedel;Livsmedel	  1
 Import;Tulltaxa;Stenkol;Varuskatt;Varuskatt	  1
@@ -4881,24 +4899,6 @@ Import;Varuskatt;Varuskatt	  1
 Import;Varutransport;Varutransport	  1
 Import;Växelkurser;Hantverk;Sedlar;Bankväsen;Varupris;Varupris	  1
 Import;Vin;Främmande drycker;Främmande drycker	  1
-Importförbud;Bomull;Garn;Garn	  1
-Importförbud;Böter;Smuggling;Varutransport;Varutransport	  1
-Importförbud;Böter;Varutransport;Varutransport	  1
-Importförbud;Censur;Böcker;Tidskrifter;Tidningar;Skrifter;Skrifter	  1
-Importförbud;Exportförbud;Domstolar;Varutransport;Varutransport	  1
-Importförbud;Import;Vin;Vin;Främmande drycker;Främmande drycker	  1
-Importförbud;Kaffe;Export;Lagring;Överflödsförordningar;Kaffe och te;Kaffe och te	  1
-Importförbud;Kaffe;Kaffe och te;Livsmedel;Njutningsmedel;Kaffe och te	  1
-Importförbud;Kvalitetskontroll;Stämplar;Stämpling;Fickur;Ur;Ur	  1
-Importförbud;Lyx;Tyger;Siden;Manufakturer;Vävnad;Överflödsförordningar;Vävnad	  1
-Importförbud;Lyx;Tyger;Siden;Manufakturer;Vävnad;Vävnad	  1
-Importförbud;Porslin;Varutransport;Varutransport	  1
-Importförbud;Smuggling;Bedrägeri;Varutransport;Varutransport	  1
-Importförbud;Tulltaxa;Varutransport;Varutransport	  1
-Importförbud;Tyger;Silke;Textilfärgning;Bedrägeri;Vävnad	  1
-Importförbud;Tyger;Silke;Textilfärgning;Bedrägeri;Vävnad;Vävnad	  1
-Importförbud;Tyger;Textilier;Överflödsförordningar;Vävnad;Vävnad	  1
-Importförbud;Varutransport;Åkerbruksväxter;Medicinalväxter;Varutransport	  1
 Imprints (in books), Fictitious	  1
 Inbrott	  1
 Inbrott;Dödsstraff;Stöld;Tillgrepp;Tillgrepp	  1
@@ -4983,13 +4983,14 @@ Infektionssjukdomar	  1
 Ingenjörsväsen;Terminologi	  1
 Inhägnader;Byar;Lantbruk;Stängsel;Stängsel	  1
 Inhägnader;Häckar	  1
-Inhägnader;Lantbruk;Stängsel;Stängsel	  1
 Inhägnader;Lantbruksbyggnader;Lantbruk;Lantbruk;Stängsel;Stängsel	  1
+Inhägnader;Lantbruk;Stängsel;Stängsel	  1
 Inhägnader;Skadegörelse;Allmän ordning och säkerhet	  1
 Initiationsriter;Studenter;Studenttraditioner	  1
-Inkomst;Tjänstemän;Ämbets- och tjänstemäns sportelinkomster;Ekonomiska förhållanden;Ämbets- och tjänstemäns sportelinkomster	  1
 Inkomstskatt;Ämbetsmän;Tjänstemän;Bevillning;Gärder;Gärder	  1
+Inkomst;Tjänstemän;Ämbets- och tjänstemäns sportelinkomster;Ekonomiska förhållanden;Ämbets- och tjänstemäns sportelinkomster	  1
 Inkvartering	  1
+Inkvartering;Finska soldater;Inkvartering;Inkvartering	  1
 Inkvartering (militärväsen);Besvärsmål;Överklagande;Inkvartering;Inkvartering	  1
 Inkvartering (militärväsen);Fodermedel;Hästar;Markegång;Inkvartering	  1
 Inkvartering (militärväsen);Fodermedel;Hästar;Markegång;Inkvartering;Inkvartering	  1
@@ -5002,7 +5003,6 @@ Inkvartering (militärväsen);Riksdagen 1678;Inkvartering;Inkvartering	  1
 Inkvartering (militärväsen);Soldater;Värvning;Livsmedel;Städer;Borgare;Inkvartering;Inkvartering	  1
 Inkvartering (militärväsen);Underhållsväsen	  1
 Inkvartering (militärväsen);Underhållsväsen;Militärfortskaffning;Militärfortskaffning	  1
-Inkvartering;Finska soldater;Inkvartering;Inkvartering	  1
 Inkvartering;Skjutsväsen;Krogar;Gästgiverier;Fartyg;Sjöfart;Borgare;Gästning;Stad;Stad	  1
 Insamlingar	  1
 Insamlingar;Ämbetsmän;Tjänstemän;Allmänna sammanskott;Allmänna sammanskott	  1
@@ -5011,8 +5011,8 @@ Insamlingar;Bränder;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
 Insamlingar;Bränder;Skattelättnader	  1
 Insamlingar;Finska kriget 1808-1809	  1
 Insamlingar;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
-Insamlingar;Kyrkor;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
 Insamlingar;Kyrkorestaurering;Kyrkor;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
+Insamlingar;Kyrkor;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
 Insamlingar;Lotterier;Kyrkor;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
 Insamlingar;Militära uniformer;Lantvärnet	  1
 Insamlingar;Översvämningar	  1
@@ -5033,9 +5033,9 @@ Inteckning;Fast egendom;Fastighet;Fastighet	  1
 Intrång (skråväsen)	  1
 Iran;Ryssland	  1
 Irenik;Reformationen	  1
-Is;Olyckor;Drunkningsolyckor;Allmän ordning och säkerhet;Sjöar	  1
 Islam.	  1
 Island	  1
+Is;Olyckor;Drunkningsolyckor;Allmän ordning och säkerhet;Sjöar	  1
 Italienska språket	  1
 Italienska språket;Engelska språket	  1
 Jägarförband;Dragoner;Rusthållet;Krigsmakten till lands;Krigsmakten till lands	  1
@@ -5052,14 +5052,6 @@ Jakt;Rovfåglar;Fåglar;Skadedjur;Jakt;Jakt	  1
 Jakt;Skogsbruk;Domstolar;Rättegångskostnader;Skogs- och jägeristaten;Skogs- och jägeristaten	  1
 Jakt;Skogsbruk;Fattigvård;Inbrott;Kyrkosång;Skogsbränder;Mått;Vikt;Våld;Äktenskapsrätt	  1
 Jakt;Vargjakt;Skadedjur	  1
-Järn;Ekonomiska förhållanden	  1
-Järn;Järnbruk;Borgare;Stapelstäder;Järn;Järn	  1
-Järn;Järnframställning;Järnbruk	  1
-Järn;Järnhantering;Järn;Järn	  1
-Järn;Koppar;Metaller;Tulltaxa;Vågar	  1
-Järn;Stål;Järn;Järn	  1
-Järn;Stål;Stapelstäder	  1
-Järn;Vikt;Vågar;Mått, mål och vikt;Mått, mål och vikt	  1
 Järnbruk;Fastighetsförvärv;Protokoll;Protokoll	  1
 Järnbruk;Hemman;Skatteköp;Skatteköp och byte	  1
 Järnbruk;Järnframställning;Auktioner;Järn;Järn	  1
@@ -5071,27 +5063,35 @@ Järnbruk;Järnhantering;Lagring;Skatter;Järn;Järn	  1
 Järnbruk;Manufakturer;Järnhantering;Järn	  1
 Järnbruk;Manufakturer;Järnhantering;Järn;Järn	  1
 Järnbruk;Tulltaxa;Export;Järn;Järn	  1
+Järn;Ekonomiska förhållanden	  1
 Järnframställning;Färskning	  1
-Järnframställning;Järn;Järn;Järn	  1
 Järnframställning;Järnbruk;Hantverk;Verktyg;Kvarnstenar;Järn;Järn	  1
+Järnframställning;Järn;Järn;Järn	  1
 Järnframställning;Privilegier;Järn;Hammarsmedjor;Järn	  1
 Järnhantering;Bedrägeri;Järn;Järn	  1
 Järnhantering;Handel;Järn;Järn	  1
 Järnhantering;Handel;Vikt;Järn	  1
-Järnhantering;Järn;Handel;Vikt	  1
+Järnhantering;Järnbruk;Arbetare;Hyttor;Järn;Järn	  1
+Järnhantering;Järnbruk;Gjuterier;Manufakturer;Järn;Järn	  1
 Järnhantering;Järn;Handelssjöfart;Uppstäder	  1
+Järnhantering;Järn;Handel;Vikt	  1
+Järnhantering;Järnmalm;Järn;Järn	  1
 Järnhantering;Järn;Tulltaxa;Järn	  1
 Järnhantering;Järn;Tulltaxa;Järn;Järn	  1
 Järnhantering;Järn;Vågar;Nattvakter;Stöld	  1
-Järnhantering;Järnbruk;Arbetare;Hyttor;Järn;Järn	  1
-Järnhantering;Järnbruk;Gjuterier;Manufakturer;Järn;Järn	  1
-Järnhantering;Järnmalm;Järn;Järn	  1
 Järnhantering;Manufakturer;Smedjor;Smeder;Järn;Hammarsmedjor;Järn	  1
 Järnhantering;Skatter;Handel;Vikt;Järn;Järn	  1
+Järn;Järnbruk;Borgare;Stapelstäder;Järn;Järn	  1
+Järn;Järnframställning;Järnbruk	  1
+Järn;Järnhantering;Järn;Järn	  1
+Järn;Koppar;Metaller;Tulltaxa;Vågar	  1
 Järnmalm;Geografi;Bergsbruk	  1
 Järnmalm;Järn;Järn	  1
 Järnsmide;Järnbruk;Vågar;Järnframställning;Manufakturer;Järn;Järn	  1
+Järn;Stål;Järn;Järn	  1
+Järn;Stål;Stapelstäder	  1
 Järnverk;Järnframställning;Masugnar;Skogsbruk	  1
+Järn;Vikt;Vågar;Mått, mål och vikt;Mått, mål och vikt	  1
 Jesu liv;Exegetik	  1
 Jordägande;Borgare;Besvärsmål	  1
 Jordägande;Fastigheter;Hemman;Skatteköp;Skatteköp och byte;Skatteköp och byte	  1
@@ -5106,9 +5106,9 @@ Jordägande;Krigsfångar;Fastighetsförvärv;Fastighet;Fastighet	  1
 Jordägande;Lantbruk;Hemman;Skiften;Hemmansklyvning;Hemmansklyvning	  1
 Jordägande;Reduktionen;Hemman;Fast egendom;Gravationsbevis;Reduktion;Lantbruk;Lantbruksekonomi;Reduktion	  1
 Jordägande;Rusthållet;Skatteköp;Hemman;Skatteköp och byte;Handel;Lantbruk;Lantbruksekonomi;Skatteköp och byte	  1
-Jordägande;Skatteköp och byte;Skatteköp och byte	  1
 Jordägande;Skatteköp;Hemman;Skatteköp och byte;Lantbruk;Lantbruksekonomi;Skatteköp och byte	  1
 Jordägande;Skatteköp;Hemman;Skatteköp och byte;Skatteköp och byte	  1
+Jordägande;Skatteköp och byte;Skatteköp och byte	  1
 Jordägande;Skogar;Jordbruk;Hemman;Boställen;Boställen	  1
 Jordartslära;Marklära	  1
 Jordbruk;Byordningar;Lantbruk;Jordbruk;Lantbruket;Lantbruket;Lantbruket	  1
@@ -5116,18 +5116,13 @@ Jordbruk;Hemman;Nyttjanderätt;Allmänningar;Kungl. Maj:ts och kronans gods	  1
 Jordbruk;Jordabalken	  1
 Jordbruk;Jordägande;Allmänningar;Kronoparker;Kungl. Maj:ts och kronans gods	  1
 Jordbruk;Lantbruk;Nyodling;Lantbruket;Lantbruket	  1
-Jordbruk;Lantbruk;Skogsbruk;Allmänningar;Allmänningsskogar;Lantmäteriverket	  1
 Jordbruk;Lantbruksekonomi;Lantbruksekonomi;Lantbruk;Lantbruksekonomi;Jordbrukslära	  1
+Jordbruk;Lantbruk;Skogsbruk;Allmänningar;Allmänningsskogar;Lantmäteriverket	  1
 Jordbruk;Nyodling;Lador;Sockenmagasin	  1
-Jordbruk;Nyodling;Lantbruk;Lantbruket;Jordbrukslära;Jordens bearbetning;Lantbruket	  1
 Jordbruk;Nyodling;Lantbruket;Jordbrukslära;Marklära;Lantbruket	  1
+Jordbruk;Nyodling;Lantbruk;Lantbruket;Jordbrukslära;Jordens bearbetning;Lantbruket	  1
 Jordbruk;Odling	  1
 Jordbruk;Skatter;Fönster;Lantbruk;Jordbruksfastigheter;Gärder;Nationalekonomi;Ekonomiska förhållanden;Gärder	  1
-Jordbruk;Spannmål;Lador;Sockenmagasin	  1
-Jordbruk;Spannmål;Missväxt;Lador;Spannmålsmagasin;Lantmannabyggnader;Sockenmagasin;Lantbruksekonomi;Sockenmagasin	  1
-Jordbruk;Spannmål;Spannmålstorkning;Premier (merkantilismen);Lantbruket;Lantbruket	  1
-Jordbruk;Svensk matlagning;Lantbruksekonomi;Lantbruksekonomi;Lantbruksekonomi;Trädgårdsskötsel	  1
-Jordbruk;Vattenverk;Vattendrag;Riksdagen 1815;Vattendrag	  1
 Jordbrukslära;Åkerbruksväxter	  1
 Jordbrukslära;Dränering;Åkerbruksväxter	  1
 Jordbrukslära;Jordbearbetning;Bevattning	  1
@@ -5153,7 +5148,12 @@ Jordbrukslära;Lantbruk;Växtodling;Åkerbruksväxter;Husdjur;Jordförbättring;
 Jordbrukslära;Marklära;Byar;Skogar;Lantbruk;Skiften;Hemman;Lantmäteriverket	  1
 Jordbrukslära;Marklära;Lantbruk	  1
 Jordbrukslära;Skogsbruk	  1
+Jordbruk;Spannmål;Lador;Sockenmagasin	  1
+Jordbruk;Spannmål;Missväxt;Lador;Spannmålsmagasin;Lantmannabyggnader;Sockenmagasin;Lantbruksekonomi;Sockenmagasin	  1
+Jordbruk;Spannmål;Spannmålstorkning;Premier (merkantilismen);Lantbruket;Lantbruket	  1
 Jordbruksprodukter;Bönder;Intrång (skråväsen);Livsmedel;Livsmedel	  1
+Jordbruk;Svensk matlagning;Lantbruksekonomi;Lantbruksekonomi;Lantbruksekonomi;Trädgårdsskötsel	  1
+Jordbruk;Vattenverk;Vattendrag;Riksdagen 1815;Vattendrag	  1
 Jordeböcker;Hemman;Postväsen;Postbefordran;Postbönder;Jordebok	  1
 Jordeböcker;Jordebok;Lantbruk;Lantmäteri;Lantbruksekonomi;Jordebok	  1
 Jordebok;Jordebok	  1
@@ -5164,13 +5164,13 @@ Jubelfest;Jubelfest	  1
 Jubiléer;Medaljer;Tal	  1
 Jubiléer;Tacksägelser;Jubelfest;Jubelfest	  1
 Jubiléer;Tal	  1
-Judar i musiken	  1
 Judar;Fastighetsförvärv;Äganderätt;Judar	  1
 Judar;Handel;Näringsförbud Sverige	  1
+Judar i musiken	  1
 Judar;Judar	  1
 Judar;Judar;Immigration	  1
-Judar;Skatter;Taxering	  1
 Judarna	  1
+Judar;Skatter;Taxering	  1
 Julen;Julseder	  1
 Julen;Lösdrivare	  1
 Julianska kalendern;Gregorianska kalendern	  1
@@ -5198,23 +5198,23 @@ Justititekansler	  1
 Kadetter;Militär yrkesutbildning	  1
 Kadetter;Militär yrkesutbildning;Officerare	  1
 Kaffe i litteraturen;Överflödsförordningar	  1
-Kaffe och thé;Kaffe;Te;Kaffe och thé	  1
 Kaffe;Importförbud;Kaffe och te;Överflödsförordningar;Kaffe och te	  1
 Kaffe;Kaffe och te;Kaffe och te	  1
+Kaffe och thé;Kaffe;Te;Kaffe och thé	  1
 Kaffe;Överflödsförordningar	  1
 Kaffe;Överflödsförordningar;Kaffe och te	  1
 Kaffe;Överflödsförordningar;Kaffe och te;Livsmedel;Kaffe och te	  1
 Kaffe;Överflödsförordningar;Transporter;Kaffe och te;Kaffe och te	  1
 Kaffe;Te;Choklad;Snus;Tulltaxa;Kaffe och te;Livsmedel;Kaffe och te	  1
 Kakelugnar	  1
-Kål;Grönsaker	  1
-Kål;Växtodling;Åkebruksväxter;Botanik	  1
 Kalenderreformer	  1
 Kalendrar;Franska revolutionen 1789-1799;Kalenderreformer	  1
 Kalendrar;Hushåll;Lantbruk	  1
-Kalk;Tulltaxa;Varuskatt;Varuskatt	  1
+Kål;Grönsaker	  1
 Kälkåkning	  1
+Kalk;Tulltaxa;Varuskatt;Varuskatt	  1
 Kalmar War, 1611-1613.	  1
+Kål;Växtodling;Åkebruksväxter;Botanik	  1
 Kammarrätter;Exekutionsrätt;Utsökning;Borgen;Kammarrätten;Kammarrätten	  1
 Kanalbyggnad	  1
 Kanalbyggnad;Banker;Banklån;Diskonter	  1
@@ -5250,6 +5250,8 @@ Kavalleri;Dragoner;Hästar;Hästkreatur;Mönstring (militärväsen);Hästkreatur
 Kavalleri;Dragoner;Hästar;Lantmilitiens möten och mönstringar;Mönstring (militärväsen);Lantmilitiens möten och mönstringar	  1
 Kavalleri;Dragoner;Officerare;Präster;Tjänstemän;Krigsmakten till lands;Krigsmakten till lands	  1
 Kavalleri;Dragoner;Officerare;Tjänstemän;Värvade regementen;Krigsmakten till lands;Krigsmakten till lands	  1
+Kavalleriet;Dragoner;Krigsmakten till lands;Krigsmakten till lands	  1
+Kavalleriet;Regementen;Dragoner;Krigsmakten till lands;Krigsmakten till lands	  1
 Kavalleri;Indelningsverket;Lantmilitiens möten och mönstringar;Värvade regementen;Mönstring (militärväsen);Lantmilitiens möten och mönstringar	  1
 Kavalleri;Indelningsverket;Officerare;Hästar;Hästkreatur;Hästkreatur	  1
 Kavalleri;Lantmilitiens möten och mönstringar;Möten (militärväsen);Mönstring (militärväsen)	  1
@@ -5261,8 +5263,6 @@ Kavalleri;Rusthållet;Hästar;Krigsmakten till lands;Krigsmakten till lands	  1
 Kavalleri;Soldater;Hästar;Krigsmakten till lands;Mönstring (militärväsen)	  1
 Kavalleri;Soldater;Vargering;Värvning;Vargering	  1
 Kavalleri;Värvade regementen;Lantmilitiens möten och mönstringar;Mönstring (militärväsen);Lantmilitiens möten och mönstringar	  1
-Kavalleriet;Dragoner;Krigsmakten till lands;Krigsmakten till lands	  1
-Kavalleriet;Regementen;Dragoner;Krigsmakten till lands;Krigsmakten till lands	  1
 Kejsare	  1
 Kelp;Pottaska	  1
 Keltiska fornlämningar;Germaner	  1
@@ -5317,12 +5317,12 @@ Kokböcker;Svensk matlagning;Färgning;Färgväxter	  1
 Köksväxter;Växter;Lantbruk;Växtodling;Medicinalväxter;Örtläkemedel;Örtaböcker	  1
 Kol;Bergsbruk	  1
 Kol;Bergsbruk;Träkol;Träkol	  1
-Kol;Ved	  1
 Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
 Kolmilor	  1
 Kolonialpolitik;Nationalekonomi;Ekonomiska förhållanden	  1
 Kolonisation;Nyodling;Lappmarken;Lappmarken	  1
 Kolonisation;Skatter;Jordbruk;Skattelättnader	  1
+Kol;Ved	  1
 Konditorer;Konditorivaror;Bröd;Intrång (skråväsen)	  1
 Konfirmationen	  1
 Konfiskation	  1
@@ -5367,8 +5367,8 @@ Könssjukdomar;Insamlingar	  1
 Könssjukdomar;Sjukhus;Sjukvård;Skatter	  1
 Könssjukdomar;Sjukhus;Skatter;Veneriska sjukdomen;Veneriska sjukdomen	  1
 Konst	  1
-Konst;Målarkonst;Skulptur;Arkitektur;Akademier	  1
 Konstantinska donationen	  1
+Konst;Målarkonst;Skulptur;Arkitektur;Akademier	  1
 Konstnärer	  1
 Konstutställningar;Fornnordisk mytologi i konsten	  1
 Konsulat;Handelssjöfart;Fartyg;Konsul;Konsul	  1
@@ -5387,15 +5387,10 @@ Köpmän;Handel;Utländska medborgare;Resande;Resande	  1
 Köpmän;Kramvaror;Livsmedel;Alkoholdrycker;Krogar;Handel;Handelssjöfart;Stadsprivilegier;Bodar;Utländska medborgare	  1
 Köpmän;Partihandel;Betalningsvillkor;Skuldfordring;Skuldfordring	  1
 Köpmän;Skuldebrev;Urkundsförfalskning;Dödsstraff;Krigsmakten till lands;Krigsmakten till lands	  1
-Koppar;Bergsbruk	  1
-Koppar;Järnbruk;Bergsbruk;Träkol;Skogsbruk;Träkol	  1
-Koppar;Koppar	  1
-Koppar;Koppar;Koppar	  1
-Koppar;Kopparhantering	  1
-Koppar;Metallurgi	  1
 Koppararbeten;Alkohollagstiftning;Husbehovsbränning;Brännvin;Livsmedel;Brännerier;Brännvin	  1
 Koppararbeten;Koppar;Alkohollagstiftning;Husbehovsbränning;Brännvin;Brännvin	  1
 Koppararbeten;Smeder;Husbehovsbränning;Alkohollagstiftning;Brännvin;Smideshantverk;Brännvin	  1
+Koppar;Bergsbruk	  1
 Kopparhandel;Export;Fordran;Handelskompanier;Koppar	  1
 Kopparhandel;Export;Tullväsen;Koppar	  1
 Kopparhandel;Export;Tullväsen;Koppar;Koppar	  1
@@ -5405,6 +5400,11 @@ Kopparhandel;Mynt;Mynt	  1
 Kopparhandel;Smuggling;Export;Handelssjöfart;Koppar;Koppar	  1
 Kopparhantering;Smältugnar;Bergsbruk;Koppar	  1
 Kopparhantering;Smältugnar;Bergsbruk;Koppar;Koppar	  1
+Koppar;Järnbruk;Bergsbruk;Träkol;Skogsbruk;Träkol	  1
+Koppar;Koppar	  1
+Koppar;Kopparhantering	  1
+Koppar;Koppar;Koppar	  1
+Koppar;Metallurgi	  1
 Kopparmynt;Export;Stämpling	  1
 Kopparmynt;Mynt;Penningväsen;Mynt;Mynt	  1
 Kopparmynt;Penningvärde;Devalvering;Penningväsen;Mynt	  1
@@ -5431,14 +5431,14 @@ Kortspel;Kaféer;Krogar;Lotterier;Biljard;Illegalt spel	  1
 Kortspel;Kaféer;Krogar;Lotterier;Biljard;Illegalt spel;Spel;Spel	  1
 Kortspel;Spelkort;Spel;Spel	  1
 Kortspel;Tärningsspel;Kaféer;Krogar;Illegalt spel;Spel	  1
-Kött;Kött;Får;Oxar;Mat och dryck;Handel	  1
-Kött;Slakt;Slakterier;Varutillverkning;Varutillverkning	  1
 Kötthandel	  1
 Kötthandel;Intrång (skråväsen);Livsmedel;Livsmedel	  1
 Kötthandel;Slakt;Boskap;Detaljhandel;Intrång (skråväsen);Husdjur	  1
 Kötthandel;Slakt;Boskap;Månglerskor;Soldater;Båtsmän;Intrång (skråväsen)	  1
 Kötthandel;Slakt;Boskap;Månglerskor;Soldater;Båtsmän;Intrång (skråväsen);Husdjur;Handel	  1
 Kötthandel;Slakt;Intrång (skråväsen);Nationalekonomi;Ekonomiska förhållanden;Handel	  1
+Kött;Kött;Får;Oxar;Mat och dryck;Handel	  1
+Kött;Slakt;Slakterier;Varutillverkning;Varutillverkning	  1
 Kramvaror;Export;Tulltaxa;Varutransport;Varutransport	  1
 Kreaturshandel;Livsmedel	  1
 Kredit;Häradshövdingar;Statsfinanser;Förvaltning;Charta sigillata	  1
@@ -5460,8 +5460,6 @@ Kreditväsen;Sedlar;Bankväsen;Mynt;Ränta;Penningvärde;Riksbanken;Riksbanken	 
 Krig;Holländska kriget 1672-1678;Krig	  1
 Krig;Landsförräderi;Benådning;Stora nordiska kriget 1700-1721	  1
 Krig;Militärhistoria;Krig	  1
-Krig;Stora nordiska kriget 1700-1721;Böner	  1
-Krig;Teologisk etik;Militärväsen	  1
 Krigsbyten;Böner;Trettioåriga kriget 1618-1648;Slaget vid Leipzig 1642;Tacksägelser	  1
 Krigsbyten;Fartyg;Uppbringning;Uppbringning	  1
 Krigsbyten;Krigsmakten till lands;Militärhistoria;Finska kriget 1808-1809;Troféer (militära segertecken);Krigsmakten till lands	  1
@@ -5484,10 +5482,13 @@ Krigslagstiftning;Svenskar;Resande;Resande	  1
 Krigsrätter;Krigsartiklar;Krigsartiklar	  1
 Krigsrätter;Kronoförråd;Kronoförråd	  1
 Krigsrätter;Tingsrätter;Officerare;Soldater;Jurisdiktion	  1
+Krig;Stora nordiska kriget 1700-1721;Böner	  1
 Krigsveteraner;Pensioner;Pensionskassor;Arméns pensionskassa;Arméns pensionskassa	  1
 Krigsveteraner;Pensioner;Skatter;Tionde;Vadstena krigsmanshus	  1
 Krigsveteraner;Soldater;Änkor;Barn;Insamlingar;Napoleonkrigen 1800-1815;Konungens hospital	  1
+Krig;Teologisk etik;Militärväsen	  1
 Kriminalvård;Fångar;Fångar;Fångvården;Fångvården	  1
+Kristendomen	  1
 Kristendom;Kyrkoråd;Katekeser;Stockstraff;Religionsvården;Religionsvården	  1
 Kristendom;Prästämbetet;Avundsjuka	  1
 Kristendom;Präster;Frimurare;Herrnhutare;Skrifter;Skrifter	  1
@@ -5495,11 +5496,10 @@ Kristendom;Protestantism;Pamfletter;Kungamakten;Opposition (politik);Tjänstemä
 Kristendom;Protestantism;Pamfletter;Kungamakten;Opposition (politik);Tjänstemän;Fogdar;Präster;Soldater;Bönder;Korruption;Tro- och huldhetseder	  1
 Kristendom;Religionvården	  1
 Kristendom;Religiöst liv;Sekularisering	  1
-Kristendom;Trosbekännelsen;Katekeser;Censur;Religionvården	  1
-Kristendomen	  1
 Kristendomsundervisning;Christian education;Grundskolan;Education, Elementary	  1
 Kristendomsundervisning;Soldater;Indelningsverket;Trolovning;Religionsvården	  1
 Kristendomsundervisning;Soldater;Indelningsverket;Trolovning;Religionsvården;Religionsvården	  1
+Kristendom;Trosbekännelsen;Katekeser;Censur;Religionvården	  1
 Krogar;Alkoholförsäljning;Alkohollagstiftning;Brännvin;Allmän ordning och säkerhet	  1
 Krogar;Alkoholförsäljning;Brännvin;Gästgiveri;Gästgiveri	  1
 Krogar;Alkoholförsäljning;Öl;Månglerskor;Renhållning;Hö;Ved;Vikt;Allmän ordning och säkerhet;Resenärer;Bryggare	  1
@@ -5561,7 +5561,6 @@ Kungamakten;Titelväsen;Svensk-norska unionen 1814-1905;Sveriges och Norges för
 Kungamakten;Tronföljd;Riksdagen 1547	  1
 Kungamakten;Tronföljd;Tronföljd	  1
 Kungar och härskare	  1
-Kungl. Maj:ts och kronans gods;Kungl. Maj:ts och kronans gods	  1
 Kungl.förordningar. Sverige (Förteckn.) [1522-1750];Juridik;Bibliografi;Kungl.förordningar. Sverige (Förteckn.) [1522-1750]	  1
 Kungliga begravningar	  1
 Kungliga begravningar;Ceremonier;Allmän ordning och säkerhet	  1
@@ -5588,6 +5587,7 @@ Kungliga intåg;Rysk-svenska kriget 1788-1790;Ceremonier	  1
 Kungliga intåg;Tacksägelser;Furstliga personer;Furstliga personer	  1
 Kungliga intåg;Tal;Tal	  1
 Kungliga intåg;Triumfvagnar	  1
+Kungl. Maj:ts och kronans gods;Kungl. Maj:ts och kronans gods	  1
 Kungörelser;Civilprocess;Stämning;Stämning	  1
 Kungörelser;Folksamling;Folksamling	  1
 Kungörelser;Tidningar;Tidning;Tidning	  1
@@ -5605,7 +5605,6 @@ Kvacksalveri;Läkemedel;Läkare;Sjukvård;Apotek	  1
 Kvalitetskontroll;Böter;Guld;Silver;Tenn;Metallkontroller;Metallkontroller	  1
 Kvalitetskontroll;Export;Plåtar;Järn;Järn	  1
 Kväner	  1
-Kvarn;Kvarn	  1
 Kvarnar;Brandförsvar;Brandsäkerhet	  1
 Kvarnar;Bryggerier;Bagerier;Lantbruksredskap;Kvarnar	  1
 Kvarnar;Kvarnar;Kvarntull;Kvarntull	  1
@@ -5620,23 +5619,24 @@ Kvarnar;Spannmål;Kvarn;Kvarn	  1
 Kvarnar;Spannmål;Kvarntull	  1
 Kvarnar;Spannmål;Tullväsen;Acciser;Arrende	  1
 Kvarnar;Tullväsen;Kvarntull;Nationalekonomi;Ekonomiska förhållanden	  1
+Kvarn;Kvarn	  1
 Kvinnliga mördare	  1
 Kvinnor	  1
 Kvinnor i Bibeln	  1
+Kvinnorollen	  1
 Kvinnor;Skuldsättning;Fast egendom;Gäldenärsbrott;Omyndighet	  1
 Kvinnor;Tobaksskatt	  1
 Kvinnor;Uppbyggelselitteratur	  1
-Kvinnorollen	  1
-Kyrkan och staten;Riksdagen 1720;Prästeståndet;Ecklesiastikstaten;Ecklesiastik-staten	  1
 Kyrkan;Kyrklig jord;Kyrkogods;Kyrkogods	  1
 Kyrkan;Kyrkogods;Kyrkogods	  1
 Kyrkan;Kyrkorätt	  1
+Kyrkan och staten;Riksdagen 1720;Prästeståndet;Ecklesiastikstaten;Ecklesiastik-staten	  1
 Kyrkan;Skatter;Räntor och tionde;Räntor och tionde	  1
-Kyrklig jord;Prästboställen;Klockare	  1
 Kyrkliga jubiléer;Böner;Jubelfest	  1
 Kyrkliga jubiléer;Böner;Jubelfest;Tacksägelser;Jubelfest	  1
 Kyrkliga jubiléer;Ceremonier;Kröningar;Jubelfest	  1
 Kyrkliga jubiléer;Jubelfest	  1
+Kyrklig jord;Prästboställen;Klockare	  1
 Kyrkogårdar;Gravar;Begravning;Begravning	  1
 Kyrkoherdar	  1
 Kyrkoinspektorer;Kyrkogods	  1
@@ -5650,6 +5650,9 @@ Kyrkoordningar;Kyrkolagstiftning;Kyrkoordning	  1
 Kyrkoplikt;Äktenskapsbrott;Samlag;Samlag	  1
 Kyrkoplikt;Kyrkoordning;Kyrkoordning	  1
 Kyrkoplikt;Trolovning;Samlag;Samlag	  1
+Kyrkoråd;Församling;Församling	  1
+Kyrkorätt;Kyrkan och staten;Kyrkotukt;Tingsrätter	  1
+Kyrkorätt;Kyrkan och staten;Kyrkotukt;Tingsrätter;Rättegång;Rättegång	  1
 Kyrkor;Bränder;Insamlingar	  1
 Kyrkor;Bränder;Insamlingar;Suppliker	  1
 Kyrkor;Church buildings	  1
@@ -5658,9 +5661,6 @@ Kyrkor;Insamlingar;Byggnadsrenovering;Kollekt- och stamboksmedel;Kollekt- och st
 Kyrkor;Marknader;Präster;Samer;Metaller;Lappmarken;Lappmarken	  1
 Kyrkor;Skatter	  1
 Kyrkor;Tillbyggnad;Insamlingar	  1
-Kyrkoråd;Församling;Församling	  1
-Kyrkorätt;Kyrkan och staten;Kyrkotukt;Tingsrätter	  1
-Kyrkorätt;Kyrkan och staten;Kyrkotukt;Tingsrätter;Rättegång;Rättegång	  1
 Kyrkotagning;Ceremonier;Furstliga personer;Furstliga personer	  1
 Kyrktagning;Ceremonier;Furstliga personer;Furstliga personer	  1
 Laboratorieteknik;Naturvetenskap	  1
@@ -5722,26 +5722,9 @@ Lampor	  1
 Län	  1
 Lån;Adel;Riddarhuset;Riddarhuset	  1
 Lån;Brandförsäkring;Försäkring;Fast egendom;Ränta	  1
-Lån;Domkapitel;Fastighet	  1
-Lån;Fast egendom;Guld;Silver;Pensionskassor;Arméns pensionskassa;Arméns pensionskassa	  1
-Lån;Fastigheter;Fastighet;Fastighet	  1
-Lån;Fastigheter;Fastighet;Pensionskassor	  1
-Lån;Fastigheter;Pensionskassor;Vadstena krigsmanshus;Vadstena krigsmanshus	  1
-Lån;Finska kriget 1808-1809;Dansk-svenska kriget 1808-1809;Statsskuld;Statsskuld	  1
-Lån;Krigskollegium	  1
-Lån;Lagfart;Fastighet	  1
-Lån;Manufaktur- och ulldiskontfonderna;Juridik;Handel;Manufaktur- och ulldiskontfonderna	  1
-Lån;Manufakturer;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
-Lån;Obligationer;Statsskuld;Statsskuld	  1
-Lån;Pensionskassor;Krigskollegium	  1
-Lån;Ränta;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
-Lån;Ränta;Rusthållet;Rusthåll;Rusthåll	  1
-Lån;Statsfinanser;Obligationer;Statsskuld	  1
-Lån;Statsfinanser;Obligationer;Statsskuld;Statsskuld	  1
-Lån;Statsskuld;Statsskuld	  1
-Lån;Vadstena krigsmanshus;Vadstena krigsmanshus	  1
 Lanbruk;Lantbruksbyggnader;Gårdar	  1
 Lanbruksbyggnader;Lador;Spannmål;Jordbruk;Sockenmagasin	  1
+Lån;Domkapitel;Fastighet	  1
 Landsbygden;Städer;Handel;Handel	  1
 Landscape gardening.	  1
 Landsförrädare;Brottslingar;Utlämning;Jus asyli;Jus asyli	  1
@@ -5756,9 +5739,22 @@ Landshövdingar;Charta sigillata;Charta sigillata	  1
 Landshövdingar;Länsförvaltning	  1
 Landshövdingar;Mål (processrätt);Sverige.	  1
 Landskapsmåleri	  1
+Lån;Fast egendom;Guld;Silver;Pensionskassor;Arméns pensionskassa;Arméns pensionskassa	  1
+Lån;Fastigheter;Fastighet;Fastighet	  1
+Lån;Fastigheter;Fastighet;Pensionskassor	  1
+Lån;Fastigheter;Pensionskassor;Vadstena krigsmanshus;Vadstena krigsmanshus	  1
+Lån;Finska kriget 1808-1809;Dansk-svenska kriget 1808-1809;Statsskuld;Statsskuld	  1
 Längdmått;Volymmått;Vikt;Mått, mål och vikt;Fysikaliska måttenheter;Mått, mål och vikt	  1
 Längdmått;Volymmått;Vikt;Mått, mål och vikt;Mått, mål och vikt	  1
+Lån;Krigskollegium	  1
+Lån;Lagfart;Fastighet	  1
+Lån;Manufakturer;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
+Lån;Manufaktur- och ulldiskontfonderna;Juridik;Handel;Manufaktur- och ulldiskontfonderna	  1
+Lån;Obligationer;Statsskuld;Statsskuld	  1
 Lånord	  1
+Lån;Pensionskassor;Krigskollegium	  1
+Lån;Ränta;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
+Lån;Ränta;Rusthållet;Rusthåll;Rusthåll	  1
 Länsförvaltning	  1
 Länsförvaltning;Bergsbruk;Borgare;Privilegier;Stad;Stad	  1
 Länsförvaltning;Bergsbruk;Borgare;Stad;Privilegier;Stad	  1
@@ -5770,6 +5766,9 @@ Länsförvaltning;Räkenskaper;Verksamhetsberättelser;Statsverket	  1
 Länsförvaltning;Statsverket;Statsverket	  1
 Länsförvaltning;Tjänstemän;Ämbetsmän;Kompetens;Tjänstetillsättningar;Lantstaten;Lantstaten	  1
 Länsstyrelser;Landshövdingar;Skatter;Statsverket;Statsverket	  1
+Lån;Statsfinanser;Obligationer;Statsskuld	  1
+Lån;Statsfinanser;Obligationer;Statsskuld;Statsskuld	  1
+Lån;Statsskuld;Statsskuld	  1
 Lantbruk;Åkerbruksväxter	  1
 Lantbruk;Åkerbruksväxter;Lantbruksredskap	  1
 Lantbruk;Åkerbruksväxter;Sädesslag	  1
@@ -5793,6 +5792,7 @@ Lantbruk;Djur;Skadegörelse;Riksdagen 1815;Intrång (skråväsen);Husdjur	  1
 Lantbruk;Ekonomiska förhållanden;Lantbruksekonomi	  1
 Lantbruk;Ekonomiska förhållanden;Skatter	  1
 Lantbruk;Ekonomiska förhållanden;Skogsbruk;Handel;Lantbruksekonomi;Juridik;Hushåll	  1
+Lantbruket;Lantbruket	  1
 Lantbruk;Gästrikland	  1
 Lantbruk;Handel;Nationalekonomi	  1
 Lantbruk;Hantverk;Hampa	  1
@@ -5827,7 +5827,6 @@ Lantbruk;Jordbruk;Hemman;Hemmansklyvning;Hemmansklyvning;Hemmansklyvning	  1
 Lantbruk;Jordbruk;Hemmansklyvning;Lantbruksekonomi;Nationalekonomi;Ekonomiska förhållanden;Hemmansklyvning	  1
 Lantbruk;Jordbruk;Hemmansklyvning;Nationalekonomi;Ekonomiska förhållanden;Hemmansklyvning	  1
 Lantbruk;Jordbruk;Lantbruket;Lantbruket	  1
-Lantbruk;Jordbruk;Växtodling;Husdjur	  1
 Lantbruk;Jordbrukslära;Åkerbruksväxter;Jordförbättring	  1
 Lantbruk;Jordbrukslära;Åkerbruksväxter;Växtodling	  1
 Lantbruk;Jordbrukslära;Arrende;Ensamstående kvinnor;Fastighet;Fastighet	  1
@@ -5858,6 +5857,7 @@ Lantbruk;Jordbrukslära;Växtodling;Husdjur;Åkerbruksväxter;Handskrifter	  1
 Lantbruk;Jordbrukslära;Växtodling;Husdjur;Boskapsskötsel;Åkerbruk	  1
 Lantbruk;Jordbrukslära;Växtodling;Husdjur;Lantbruksekonomi;Skogsbruk	  1
 Lantbruk;Jordbrukslära;Växtodling;Marklära	  1
+Lantbruk;Jordbruk;Växtodling;Husdjur	  1
 Lantbruk;Jordens bearbetning	  1
 Lantbruk;Jordens bearbetning;Nyodling	  1
 Lantbruk;Jordförbättring;Utfodring;Spannmål;Lantbruksbyggnader;Jordbrukslära	  1
@@ -5868,7 +5868,6 @@ Lantbruk;Lantbruk;Jordbrukslära;Jordförbättring	  1
 Lantbruk;Lantbruk;Jordbrukslära;Lantbruksekonomi	  1
 Lantbruk;Lantbruk;Lanthushållning;Husdjur;Jorbrukslära	  1
 Lantbruk;Lantbruk;Livsmedel;Åkerbruksväxter	  1
-Lantbruk;Lantbruk;Växtföljd;Växtföljd	  1
 Lantbruk;Lantbruksbyggnader;Hushåll;Lantbruksekonomi;Husdjur;Oxar;Arbete;Jordförbättring;Jordbrukslära;Växtföljd	  1
 Lantbruk;Lantbruksbyggnader;Lantbruksekonomi	  1
 Lantbruk;Lantbruksekonomi;Brännerier;Hushåll	  1
@@ -5877,6 +5876,7 @@ Lantbruk;Lantbruksekonomi;Växtodling;Åkerbruksväxter	  1
 Lantbruk;Lantbruksekonomi;Växtodling;Åkerbruksväxter;Livsmedel	  1
 Lantbruk;Lantbruksmaskiner	  1
 Lantbruk;Lantbruksredskap;Jordbrukslära;Åkerbruksväxter	  1
+Lantbruk;Lantbruk;Växtföljd;Växtföljd	  1
 Lantbruk;Lantmätare;Lantmäteri;Lantmäteriverket	  1
 Lantbruk;Lantmäteri;Geografi	  1
 Lantbruk;Lantmäteri;Jordbrukslära;Lantbruksbyggnader;Husdjur;Lantbruksekonomi	  1
@@ -5902,31 +5902,6 @@ Lantbruk;Nyodling	  1
 Lantbruk;Nyodling;Åkerbruk	  1
 Lantbruk;Nyodling;Lantbruket;Jordbrukslära;Jordens bearbetning;Mossodling;Lantbruket	  1
 Lantbruk;Sågverk;Vägar;Broar;Vägunderhåll;Offentliga byggnader;Kvarnar;Kvarn;Kvarn	  1
-Lantbruk;Skadegörelse;Kungsgårdar;Kungl. Maj:ts och kronans gods	  1
-Lantbruk;Skatter;Landshövdingar;Markegång	  1
-Lantbruk;Skatter;Skatter;Lantbruksekonomi	  1
-Lantbruk;Skiften	  1
-Lantbruk;Skiften;Enskifte;Storskifte;Lantmäteri	  1
-Lantbruk;Skiften;Enskifte;Storskifte;Lantmäteri;Lantmäteriverket	  1
-Lantbruk;Södermanland	  1
-Lantbruk;Spannmål	  1
-Lantbruk;Storskifte;Lantbruksekonomi	  1
-Lantbruk;Storskifte;Lantmäteri;Jordreformer	  1
-Lantbruk;Tjänstefolk;Skatter;Personliga utskylder;Personliga utskylder	  1
-Lantbruk;Trädgårdsskötsel;Husdjur;Nyodling;Jordbrukslära	  1
-Lantbruk;Uppslagsverk;Botanik;Husdjur;Hushåll	  1
-Lantbruk;Uppslagsverk;Hushåll;Botanik	  1
-Lantbruk;Uppslagsverk;Hushåll;Jordbrukslära	  1
-Lantbruk;Uppslagsverk;Jordbrukslära;Trädgårdsskötsel;Husdjur;Lantbruksekonomi;Växtodling	  1
-Lantbruk;Vattenverk;Fiske;Vattendrag;Vattendrag	  1
-Lantbruk;Växtodling;Åkerbruksväxter	  1
-Lantbruk;Växtodling;Botanik;Hushållningssällskap	  1
-Lantbruk;Växtodling;Husdjur;Hushåll;Svensk matlagning;Livsmedel	  1
-Lantbruk;Växtodling;Livsmedel	  1
-Lantbruk;Växtodling;Växtfärger;Lantbruket;Lantbruket	  1
-Lantbruk;Växtodling;Växtsjukdomar	  1
-Lantbruk;Växtsjukdomar	  1
-Lantbruket;Lantbruket	  1
 Lantbruksakademien;Lantbruk;Jordbrukslära	  1
 Lantbruksbyggnader;Byggnadsteknik	  1
 Lantbruksbyggnader;Byggritningar;Kornhus	  1
@@ -5946,11 +5921,35 @@ Lantbruksekonomi;Lantbruk;Växtodling;Foderväxter	  1
 Lantbruksekonomi;Livsmedel;Brännerier	  1
 Lantbruksekonomi;Spannmålshandel	  1
 Lantbruksekonomi;Växtföljd;Jordbrukslära;Växtodling;Foderväxter	  1
+Lantbruk;Skadegörelse;Kungsgårdar;Kungl. Maj:ts och kronans gods	  1
+Lantbruk;Skatter;Landshövdingar;Markegång	  1
+Lantbruk;Skatter;Skatter;Lantbruksekonomi	  1
+Lantbruk;Skiften	  1
+Lantbruk;Skiften;Enskifte;Storskifte;Lantmäteri	  1
+Lantbruk;Skiften;Enskifte;Storskifte;Lantmäteri;Lantmäteriverket	  1
 Lantbruksmaskiner;Maskiner	  1
 Lantbruksmaskiner;Maskiner;Uppfinningar	  1
 Lantbruksmaskiner;Tyger;Ylle;Kvarnar;Kvarn;Kvarn	  1
 Lantbruksmaskiner;Ventilation	  1
+Lantbruk;Södermanland	  1
+Lantbruk;Spannmål	  1
 Lantbruksskolor;Jordbruk	  1
+Lantbruk;Storskifte;Lantbruksekonomi	  1
+Lantbruk;Storskifte;Lantmäteri;Jordreformer	  1
+Lantbruk;Tjänstefolk;Skatter;Personliga utskylder;Personliga utskylder	  1
+Lantbruk;Trädgårdsskötsel;Husdjur;Nyodling;Jordbrukslära	  1
+Lantbruk;Uppslagsverk;Botanik;Husdjur;Hushåll	  1
+Lantbruk;Uppslagsverk;Hushåll;Botanik	  1
+Lantbruk;Uppslagsverk;Hushåll;Jordbrukslära	  1
+Lantbruk;Uppslagsverk;Jordbrukslära;Trädgårdsskötsel;Husdjur;Lantbruksekonomi;Växtodling	  1
+Lantbruk;Vattenverk;Fiske;Vattendrag;Vattendrag	  1
+Lantbruk;Växtodling;Åkerbruksväxter	  1
+Lantbruk;Växtodling;Botanik;Hushållningssällskap	  1
+Lantbruk;Växtodling;Husdjur;Hushåll;Svensk matlagning;Livsmedel	  1
+Lantbruk;Växtodling;Livsmedel	  1
+Lantbruk;Växtodling;Växtfärger;Lantbruket;Lantbruket	  1
+Lantbruk;Växtodling;Växtsjukdomar	  1
+Lantbruk;Växtsjukdomar	  1
 Lanthushållning	  1
 Lanthushållning;Handaslöjder	  1
 Lanthushållning;Lantbruk;Lantbruk	  1
@@ -5963,8 +5962,8 @@ Lantmannabyggnader;Spannmål;Spannmålstorkar;Lantbruket;Lantbruk;Lantbruket	  1
 Lantmarskalkar	  1
 Lantmätare;Bedrägeri;Straffarbete;Kroppsstraff;Mått, mål och vikt;Mått, mål och vikt	  1
 Lantmätare;Lantmäteri;Kartor;Lantmäteriverket	  1
-Lantmätare;Lantmäteri;Vikt;Längdmått;Stämplar;Volymmått;Mått, mål och vikt;Mått, mål och vikt	  1
 Lantmätare;Lantmäteriverket	  1
+Lantmätare;Lantmäteri;Vikt;Längdmått;Stämplar;Volymmått;Mått, mål och vikt;Mått, mål och vikt	  1
 Lantmätare;Rang;Rang	  1
 Lantmätare;Sportler;Lantmäteriverket	  1
 Lantmätare;Tjänsteansvar;Besvärsmål;Ämbets- och tjänstemän;Överklagande;Ämbets- och tjänstemän	  1
@@ -5974,28 +5973,29 @@ Lantmäteri;Jordägande;Lantmäteriverket	  1
 Lantmäteri;Kartografi;Geografiska mätningar;Geografiska mätningar	  1
 Lantmäteri;Kartor	  1
 Lantmäteri;Kartor;Häradshövdingar;Domare	  1
+Lantmäterikartor;Lantmäteri	  1
 Lantmäteri;Kartor;Statistik;Mått;Vikt;Lantmäteriverket	  1
+Lantmäterikontoret;Lantmäteri;Lantmätare;Tjänsteansvar;Lantmäteriverket	  1
 Lantmäteri;Lantmätare;Enskifte;Militära boställen;Hemman;Lantmäteriverket	  1
 Lantmäteri;Lantmäteriverket	  1
 Lantmäteri;Ödegårdar;Lantbruk;Jordeböcker;Lantbruket;Hemman;Lantbruket	  1
 Lantmäteri;Skiften;Lantbruk;Lantmätare;Lantmäteriverket	  1
 Lantmäteri;Skiften;Lantbruk;Lantmäteriverket	  1
 Lantmäteri;Storskifte;Jordfördelning;Lantbruk	  1
-Lantmäterikartor;Lantmäteri	  1
-Lantmäterikontoret;Lantmäteri;Lantmätare;Tjänsteansvar;Lantmäteriverket	  1
 Lantmilitiens möten och mönstringar;Bönder;Mönstring (militärväsen);Lantmilitiens möten och mönstringar	  1
 Lantmilitiens möten och mönstringar;Mönstring (militärväsen);Rangordning;Lantmilitiens möten och mönstringar	  1
 Lantmilitiestaten;Lantmilitiestaten	  1
 Lantmilitiestaten;Officerare;Permissioner;Tjänstetillsättningar;Lantmilitiestaten	  1
+Lån;Vadstena krigsmanshus;Vadstena krigsmanshus	  1
 Lärare;Präster;Undervisning;Pastoralexamen	  1
 Lärlingar;Fastlagsspel;Gesäller;Allmän ordning och säkerhet	  1
 Läromedel;Skolböcker	  1
 Läroverk;Skolor;Undervisning;Lärare;Uppfostringsverket;Uppfostringsverket	  1
 Lastfartyg;Vågar;Järnhantering	  1
 Latin;Grammatik	  1
+Latinsk poesi;Latin poetry;Grekisk poesi;Greek poetry;Litteraturkritik;Literature - History and criticism	  1
 Latin;Svenska	  1
 Latin;Tyska språket	  1
-Latinsk poesi;Latin poetry;Grekisk poesi;Greek poetry;Litteraturkritik;Literature - History and criticism	  1
 Learning and scholarship	  1
 Leder (kroppsdelar);Muskuloskeletala systemet	  1
 Lektionarier	  1
@@ -6016,9 +6016,9 @@ Lin	  1
 Lin;Hampa	  1
 Lin;Hampa;Repslageri;Textilier;Lin och hampa;Åkerbruksväxter;Lin och hampa	  1
 Lin;Handel;Lin och hampa;Lin och hampa	  1
-Lin;Linodling;Lantbruksredskap;Lin och hampa;Lin och hampa	  1
 Linköpings blodbad 1600	  1
 Linköpings blodbad 1600;Riksdagen 1600;Opposition (politik);Kungamakten;Högmål	  1
+Lin;Linodling;Lantbruksredskap;Lin och hampa;Lin och hampa	  1
 Linne	  1
 Linne;Band;Textilier;Tyger;Varutransport;Varutransport	  1
 Linne;Flors linnemanufakturi;Flors linnemanufakturi	  1
@@ -6072,6 +6072,13 @@ Livsmedel;Matlagning;Hushåll;Livsmedel;Kokböcker	  1
 Livsmedel;Näringsväxter;Nutrition;Mat;Bröd;Livsmedel;Matlagning;Nödföda	  1
 Livsmedel;Öl;Malt	  1
 Livsmedel;Partihandel;Gatuförsäljning;Månglerskor;Intrång (skråväsen)	  1
+Livsmedelshandel;Äpplen;Frukt;Frukthandel;Varutransport;Varutransport	  1
+Livsmedelshandel;Fattiga;Råg;Mjöl;Bröd;Livsmedel;Nödföda	  1
+Livsmedelshandel;Fattiga;Spannmål;Råg;Mjöl	  1
+Livsmedelshandel;Frukt;Konfekt;Frukthandel;Varutransport;Nationalekonomi;Varutransport	  1
+Livsmedelshandel;Grönsaker;Frukt;Åkerbruksväxter;Förvaltning	  1
+Livsmedelshandel;Kötthandel;Slakt;Intrång (skråväsen);Livsmedel	  1
+Livsmedelshandel;Mjöl;Strömming;Sill;Fattigvård;Gustavs inrättning till understöd för Stockholms stads fattiga arbetare	  1
 Livsmedel;Skånska kriget 1675-1679	  1
 Livsmedel;Skatter;Avrad;Tionde;Räntor och tionde;Räntor och tionde	  1
 Livsmedel;Skatter;Rysk-svenska kriget 1570-1595;Gärder	  1
@@ -6088,16 +6095,9 @@ Livsmedel;Vågar;Vikt	  1
 Livsmedel;Vete;Spannmål;Mjöl;Importförbud;Livsmedel;Nationalekonomi;Livsmedel	  1
 Livsmedel;Vin;Hushåll	  1
 Livsmedel;Volymmått;Vikt;Detaljhandel;Mått, mål och vikt;Mått, mål och vikt	  1
-Livsmedelshandel;Äpplen;Frukt;Frukthandel;Varutransport;Varutransport	  1
-Livsmedelshandel;Fattiga;Råg;Mjöl;Bröd;Livsmedel;Nödföda	  1
-Livsmedelshandel;Fattiga;Spannmål;Råg;Mjöl	  1
-Livsmedelshandel;Frukt;Konfekt;Frukthandel;Varutransport;Nationalekonomi;Varutransport	  1
-Livsmedelshandel;Grönsaker;Frukt;Åkerbruksväxter;Förvaltning	  1
-Livsmedelshandel;Kötthandel;Slakt;Intrång (skråväsen);Livsmedel	  1
-Livsmedelshandel;Mjöl;Strömming;Sill;Fattigvård;Gustavs inrättning till understöd för Stockholms stads fattiga arbetare	  1
+Ljusstakar;Stöld	  1
 Ljus (stearin-, vax-etc);Krigsmakten till sjöss;Krigsmakten till sjöss	  1
 Ljus (stearin-, vax-etc);Livsmedel;Spannmål;Detaljhandel	  1
-Ljusstakar;Stöld	  1
 Logarithms	  1
 Logik	  1
 Logik;Retorik	  1
@@ -6155,15 +6155,15 @@ Lyx;Trolovning;Bröllop;Fester;Dopet;Begravning;Kläder;Borgare;Överflödsföro
 Lyx;Trolovning;Bröllop;Fester;Dopet;Begravning;Kläder;Präster;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Lyx;Trolovning;Bröllop;Fester;Dopet;Begravning;Präster;Kläder;Böter;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Magistrater;Traktamenten;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
-Mål (processrätt);Domstolar;Tjänstemän;Sportler;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
 Mälaren;Mälaren	  1
 Malm;Bergshantering	  1
-Män i Bibeln	  1
+Mål (processrätt);Domstolar;Tjänstemän;Sportler;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
 Månglerskor;Gatuförsäljning;Acciser	  1
 Månglerskor;Gatuförsäljning;Bedrägeri	  1
 Månglerskor;Gatuförsäljning;Brott;Köpmän;Kryddhandel;Skråväsen;Intrång (skråväsen)	  1
 Månglerskor;Gatuförsäljning;Kroppsstraff;Straffarbete;Spinnhus	  1
 Månglerskor;Manufakturer;Spinning	  1
+Män i Bibeln	  1
 Manikeism	  1
 Mänskliga rättigheter	  1
 Mantalslängder;Taxering;Mantalsskrivning och uppbördsmöte;Mantalsskrivning och uppbördsmöte	  1
@@ -6174,7 +6174,6 @@ Mantalsskrivning;Folkbokföring;Sjömän;Soldater;Fattiga;Mantalsskrivning och u
 Mantalsskrivning;Folkbokföring;Skatter;Böter;Mantalsskrivning och uppbördsmöte;Mantalsskrivning och uppbördsmöte	  1
 Mantalsskrivning;Folkbokföring;Skomakare;Skräddare;Gesäller	  1
 Mantalsskrivning;Skatter;Mantalsskrivning och uppbördsmöte	  1
-Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
 Manufakturer	  1
 Manufakturer;Arbetare;Hallrätter;Varutillverkning;Varutillverkning	  1
 Manufakturer;Bevillning;Skattelättnader;Personliga utskylder;Personliga utskylder	  1
@@ -6192,6 +6191,7 @@ Manufakturer;Premier (merkantilismen);Manufaktur- och ulldiskontfonderna;Manufak
 Manufakturer;Skråväsen;Hantverk;Hallrätter;Varutillverkning;Varutillverkning	  1
 Manufakturer;Skråväsen;Varutillverkning;Varutillverkning	  1
 Manufakturer;Stämpling;Varustämpling;Varustämpling	  1
+Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
 Manuscripts	  1
 Markegång	  1
 Markegång;Nationalekonomi;Ekonomiska förhållanden;Handel;Markegång	  1
@@ -6211,6 +6211,10 @@ Martyrskap	  1
 Maskerader;Krogar;Fester;Folknöjen;Överflödsförordningar;Folknöjen	  1
 Maskerader;Krogar;Fester;Överflödsförordningar	  1
 Mässling	  1
+Matematik;Matematik	  1
+Matematiska tabeller;Kalendrar	  1
+Matlagning;Hushåll	  1
+Matlagning;Medicin;Livsmedel;Hygien	  1
 Mat och dryck	  1
 Mat och dryck;Bakning;Bröd;Krigsmakten till sjöss;Livsmedel;Krigsmakten till sjöss	  1
 Mat och dryck;Flottan;Krigsmakten till sjöss;Krigsmakten till sjöss	  1
@@ -6220,31 +6224,21 @@ Mat och dryck;Livsmedel;Kvalitetskontroll;Handel;Kronoförråd;Kronoförråd	  1
 Mat och dryck;Måltider;Krigsmakten till sjöss;Krigsmakten till sjöss	  1
 Mat och dryck;Mat och dryck	  1
 Mat och dryck;Matsedlar;Sjukhus;Sjukhus	  1
-Matematik;Matematik	  1
-Matematiska tabeller;Kalendrar	  1
-Matlagning;Hushåll	  1
-Matlagning;Medicin;Livsmedel;Hygien	  1
 Matpriser;Brännvin	  1
 Matpriser;Bröd;Öl;Brännvin;Varupris;Spannmål;Livsmedel;Varupris	  1
 Matpriser;Kött	  1
 Matpriser;Taxor och avgifter;Brännvin;Varupris;Livsmedel;Spannmål;Varupris	  1
 Matriklar;Biografi	  1
 Mått	  1
-Mått, mål och vikt;Mått, mål och vikt	  1
 Mått;Hushåll	  1
+Mått, mål och vikt;Mått, mål och vikt	  1
+Mattor;Textilier	  1
 Mått;Ved;Skogseffekter;Skogseffekter	  1
 Mått;Volymmått;Mått, mål och vikt;Mått, mål och vikt	  1
-Mattor;Textilier	  1
 Mätverktyg;Volymmått;Tunnbinderi;Tjära;Tjära	  1
 Maxims, French.	  1
 Medals, Ancient.	  1
 Medborgarskap;Finska kriget 1808-1809;Freden i Fredrikshamn 1809;Fredsfördrag;Resande;Tro- och huldhetseder;Resande	  1
-Medicin;Farmakologi	  1
-Medicin;Folkmedicin	  1
-Medicin;Gifter;Farmakologi;Gifter	  1
-Medicin;Hushåll;Första hjälpen vid olycksfall;Akutvård	  1
-Medicin;Livräddning	  1
-Medicin;Sjukvård;Läkare;Provinsialläkare;Medicinalordningar;Medicinalverket;Medicinalverket	  1
 Medicinalväsen;Examenssystem;Kirurger;Medicinalverket;Medicinalverket	  1
 Medicinalväsen;Läkare;Apotekare;Tjänstetillsättningar;Kompetens;Professorer;Militär sjukvård;Medicinalverket;Medicinalverket	  1
 Medicinalväsen;Läkare;Examenssystem;Medico-kirurgiska institutet	  1
@@ -6252,6 +6246,12 @@ Medicinalväsen;Läkare;Tjänstetillsättningar;Kompetens;Professorer;Militär s
 Medicinalväsen;Läkemedel;Lärlingar;Medicinalordningar;Apotekare;Apotekare	  1
 Medicinalväsen;Läkemedel;Medicinalordningar;Apotekare	  1
 Medicinalväxter;Örtläkemedel;Folkmedicin	  1
+Medicin;Farmakologi	  1
+Medicin;Folkmedicin	  1
+Medicin;Gifter;Farmakologi;Gifter	  1
+Medicin;Hushåll;Första hjälpen vid olycksfall;Akutvård	  1
+Medicin;Livräddning	  1
+Medicin;Sjukvård;Läkare;Provinsialläkare;Medicinalordningar;Medicinalverket;Medicinalverket	  1
 Medicinväxter	  1
 Mekanik	  1
 Metafysik	  1
@@ -6269,14 +6269,11 @@ Meteorologi;Medicin;Medicin	  1
 Meteorologi;Meteorologi	  1
 Meteorologiska instrument	  1
 Midsommarfirande;Kyrkor;Skogsvård;Skogshushållning;Skogsbruk;Skogshushållning	  1
-Migration;Hantverk;Gesäller;Skattelättnader;Värvning	  1
 Migration;Hantverkare;Gesäller;Skattelättnader;Värvning;Varutillverkning	  1
+Migration;Hantverk;Gesäller;Skattelättnader;Värvning	  1
 Migration;Historia	  1
 Migration;Resenärer;Pass (legitimationshandling);Hantverk;Gesäller;Resande;Resande	  1
 Milis	  1
-Militär yrkesutbildning;Officerare	  1
-Militär yrkesutbildning;Officerare;Krigsakademien;Krigsakademien	  1
-Militär yrkesutbildning;Officerare;Krigsmakten till lands;Krigsmakten till lands	  1
 Militära boställen;Änkor;Barn;Boställen;Boställen	  1
 Militära boställen;Arrende;Boställen;Boställen	  1
 Militära boställen;Auktioner;Auktion;Auktion	  1
@@ -6331,11 +6328,14 @@ Militärväsen;Militärväsen	  1
 Militärväsen;Soldater;Värvning	  1
 Militärväsen;Uppfostran	  1
 Military art and science	  1
-Mineral waters	  1
+Militär yrkesutbildning;Officerare	  1
+Militär yrkesutbildning;Officerare;Krigsakademien;Krigsakademien	  1
+Militär yrkesutbildning;Officerare;Krigsmakten till lands;Krigsmakten till lands	  1
 Mineraler;Metaller;Ädelstenar	  1
 Mineraler;Mineraler;Mineraler	  1
 Mineraler;Minerals;Sweden	  1
 Mineralogy.	  1
+Mineral waters	  1
 Miniatyrmåleri;Porträttmåleri	  1
 Minor	  1
 Misshandel;Stadsvakter;Allmän ordning och säkerhet	  1
@@ -6353,18 +6353,21 @@ Missväxt;Spannmål;Lilla tullen;Bergsbruk;Borgare;Spannmålshandel;Livsmedel	  
 Missväxt;Spannmål;Mjöl;Spannmålshandel;Varupris;Nationalekonomi;Ekonomiska förhållanden;Handel;Varupris	  1
 Missväxt;Spannmål;Tulltaxa;Livsmedel;Nationalekonomi;Ekonomiska förhållanden;Livsmedel	  1
 Mjöl;Fattigvård;Välgörenhet;Fattiga	  1
-Mjöl;Spannmål;Alkohollagstiftning;Brännvin;Bönder	  1
 Mjölkhushållning;Smör	  1
+Mjöl;Spannmål;Alkohollagstiftning;Brännvin;Bönder	  1
 Möbelsnickare;Snickare;Möbler;Finsnickeri;Bönhaseri	  1
 mode	  1
+modejournaler	  1
 Mode;Kläder;Vin;Likörer;Handelsbalans;Importförbud;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 mode;mode-historia	  1
-modejournaler	  1
 Moln	  1
 Monism.	  1
 Mönstring (militärväsen);Krigsmakten till sjöss;Krigsmakten till sjöss	  1
+Mördare	  1
 Mord;Attentat;Högmålsbrott;Förundersökning;Allmän ordning och säkerhet;Oroligheter;Oroligheter	  1
 Mord;Attentat;Högmålsbrott;Furstliga personer	  1
+Mordbrand;Bränder	  1
+Mordbrand;Bränder;Manufakturer;Manufakturer	  1
 Mord;Högmålsbrott;Domar;Straff;Dödsstraff;Furstliga personer;Furstliga personer	  1
 Mord;Högmålsbrott;Förundersökning;Furstliga personer;Furstliga personer	  1
 Mord;Oskyldigt dömda	  1
@@ -6372,9 +6375,6 @@ Mord;Rättsfall	  1
 Mord;Skriftermål	  1
 Mord;Stöld	  1
 Mord;Stöld;Rättegångshandlingar	  1
-Mördare	  1
-Mordbrand;Bränder	  1
-Mordbrand;Bränder;Manufakturer;Manufakturer	  1
 Morgongåvor	  1
 Morötter;Åkerbruksväxter;Rotfrukter	  1
 Mortalitet	  1
@@ -6386,13 +6386,13 @@ Murare;Byggmästare;Arbetstid;Gesäller	  1
 Murare;Gesäller	  1
 Musicians	  1
 Musiklära	  1
-Mynt;Kopparmynt;Penningvärde;Export;Penningväsen;Mynt	  1
-Mynt;Mynttillverkning;Penningvärde;Guld;Silvermynt;Silver;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
-Mynt;Ränta;Penningvärde;Sedlar;Bankväsen;Kreditväsen;Riksbanken;Riksbanken	  1
 Myntfot;Penningväsen;Mynt	  1
 Myntfot;Penningväsen;Penningvärde;Mynt	  1
 Myntfot;Penningväsen;Penningvärde;Mynt;Mynt	  1
 Myntfot;Penningväsen;Tullväsen;Sedelmynt	  1
+Mynt;Kopparmynt;Penningvärde;Export;Penningväsen;Mynt	  1
+Mynt;Mynttillverkning;Penningvärde;Guld;Silvermynt;Silver;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
+Mynt;Ränta;Penningvärde;Sedlar;Bankväsen;Kreditväsen;Riksbanken;Riksbanken	  1
 Mynttillverkning;Guld;Silver;Guldmynt;Silvermynt;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
 Mynttillverkning;Guld;Silver;Import;Tullväsen;Mynt- och kontrollverken	  1
 Mynttillverkning;Guld;Silver;Import;Tullväsen;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
@@ -6429,7 +6429,6 @@ Näringsliv;Ekonomiska förhållanden	  1
 Näringsliv;Sillfiske;Fiskerilagstiftning;Fiske;Premier (merkantilismen);Fisk;Fisk	  1
 Näringsliv;Trankokerier	  1
 Nässlor	  1
-National Libraries	  1
 Nationalekonomi;Bergsbruk	  1
 Nationalekonomi;Ekonomiska förhållanden;Brännerier;Handel;Spannmål;Alkohollagstiftning;Husbehovsbränning;Alkoholförsäljning;Brännvin;Brännvin	  1
 Nationalekonomi;Ekonomiska förhållanden;Fiske;Spannmålsmagasin;Brännerier	  1
@@ -6479,14 +6478,14 @@ Nationalekonomi;Ekonomiska förhållanden;Kreditväsen;Spannmål	  1
 Nationalekonomi;Ekonomiska förhållanden;Kreditväsen;Statsfinanser;Statsverket;Statsverket	  1
 Nationalekonomi;Ekonomiska förhållanden;Kreditväsen;Tomträtt;Fastigheter	  1
 Nationalekonomi;Ekonomiska förhållanden;Kvarnar;Vattenkvarnar;Väderkvarnar;Skatter;Kvarn;Kvarn	  1
-Nationalekonomi;Ekonomiska förhållanden;Lån;Statsskuld	  1
 Nationalekonomi;Ekonomiska förhållanden;Lanbruk	  1
+Nationalekonomi;Ekonomiska förhållanden;Lån;Statsskuld	  1
 Nationalekonomi;Ekonomiska förhållanden;Lantbruk;Bergsbruk;Handel	  1
 Nationalekonomi;Ekonomiska förhållanden;Lantbruk;Brännerier;Fiske;Spannmål	  1
 Nationalekonomi;Ekonomiska förhållanden;Lantbruk;Handel	  1
+Nationalekonomi;Ekonomiska förhållanden;Lantbruksekonomi	  1
 Nationalekonomi;Ekonomiska förhållanden;Lantbruk;Skogsbruk	  1
 Nationalekonomi;Ekonomiska förhållanden;Lantbruk;Spannmålsmagasin	  1
-Nationalekonomi;Ekonomiska förhållanden;Lantbruksekonomi	  1
 Nationalekonomi;Ekonomiska förhållanden;Myntväsende	  1
 Nationalekonomi;Ekonomiska förhållanden;Nationalekonomi;Ekonomiska förhållanden	  1
 Nationalekonomi;Ekonomiska förhållanden;Penningväsen;Penningvärde;Mynt;Ryktesspridning;Mynt	  1
@@ -6511,8 +6510,9 @@ Nationalekonomi;Kreditväsen;Ämbetsmän;Tjänstemän;Lagar;Laglydnad;Laglydnad	
 Nationalekonomi;Kreditväsen;Banklån;Fast egendom;Fastighet;Fastighet	  1
 Nationalekonomi;Kreditväsen;Konkurser;Förmånsrätt;Konkurs;Konkurs	  1
 Nationalekonomi;Nationalekonomi;Ekonomiska förhållanden;Ekonomiska förhållanden	  1
-Nationalekonomi;Ultuna	  1
 Nationalekonomin;Ekonomiska förhållanden;Lantbruk;Husdjur;Bergsbruk;Handel;Skatter	  1
+Nationalekonomi;Ultuna	  1
+National Libraries	  1
 Nationella dräkten;Kläder;Mode;Överflödsförordningar	  1
 Nationella dräkten;Kläder;Tyger;Mode;Skräddare;Kläder	  1
 Nationella dräkten;Snörmakeri;Band (textilier);Hovdräkter;Kläder;Kläder	  1
@@ -6563,8 +6563,8 @@ Nötkreatursskötsel;Nötkreaturssjukdomar	  1
 Numismatics, Medieval.	  1
 NUMISMATIK	  1
 Nunnekloster	  1
-Nya Sverige	  1
 Nyårsfirande	  1
+Nya Sverige	  1
 Nykterhetsrörelsen	  1
 Nylatinsk poesi	  1
 Nyodling;Nybyggare	  1
@@ -6600,8 +6600,6 @@ Ocker;Predikningar	  1
 Ödegårdar;Jordbruk;Hemman;Skattelättnader	  1
 Ödegårdar;Lantbruk;Lantbruket;Hemman;Lantbruket	  1
 Odling;Jordbruk;Odling;Jordbruk	  1
-Offentlig ekonomi;Penningväsen	  1
-Offentlig ekonomi;Sverige.	  1
 Offentliga byggnader;Grannelagsrätt;Stadsplanering;Hantverkare;Stadsarkitekter;Arkitektur;Husbyggnadsentreprenader;Byggnadsmaterial;Stad;Stad	  1
 Offentliga byggnader;Historiska minnesmärken;Fornlämningar;Vetenskapliga sällskap;Minnesmärken;Minnesmärken	  1
 Offentliga byggnader;Kyrkor;Byggnadsordning;Byggnadsordning	  1
@@ -6613,6 +6611,8 @@ Offentliga handlingar;Arkivmaterial;Krigsmakten till lands;Krigsmakten till land
 Offentliga handlingar;Arkivmaterial;Stöld;Kungörelser	  1
 Offentliga handlingar;Krigskollegium	  1
 Offentliga handlingar;Räkenskaper;Transfereringar;Krigskollegium	  1
+Offentlig ekonomi;Penningväsen	  1
+Offentlig ekonomi;Sverige.	  1
 Officerare;Änkor;Pensioner;Änke- och pupillkassor;Barn;Arméns änke- och pupillkassa;Arméns änke- och pupillkassa	  1
 Officerare;Änkor;Rang;Rang	  1
 Officerare;Befordran;Artilleri;Rangordning;Artilleri	  1
@@ -6691,12 +6691,12 @@ Officerare;Våld;Straff;Värvning	  1
 Öl;Alkoholfrågor;Drycker;Brännerier	  1
 Öl;Brännerier	  1
 Öl;Brännvin	  1
+Old Norse literature	  1
 Öl;Fisk	  1
 Öl;Import;Tulltaxa	  1
 Öl;Livsmedel	  1
 Öl;Livsmedel;Spannmål	  1
 Öl;Porter;Import;Varutransport;Varutransport	  1
-Old Norse literature	  1
 Olyckor	  1
 Ombudsmän;Ämbetsmän;Tjänstemän;Sverige.;Tullverket	  1
 Ombudsmän;Generalassistanskontoret	  1
@@ -6752,10 +6752,10 @@ Ovanför titeln: I Jesu namn!;Predikningar	  1
 Överflödsförordningar;Begravning;Levnadssätt;Levnadssätt	  1
 Överflödsförordningar;Begravning;Tyger;Levnadssätt;Levnadssätt	  1
 Överflödsförordningar;Fjädrar;Huvudbonader;Mode;Kvinnor;Levnadssätt	  1
-Överflödsförordningar;Import;Penningväsen;Levnadssätt;Levnadssätt	  1
-Överflödsförordningar;Import;Smuggling;Levnadssätt;Levnadssätt	  1
 Överflödsförordningar;Importförbud;Kläder;Mode;Lyx;Tyger;Siden;Kramvaror;Vävnad;Vävnad	  1
 Överflödsförordningar;Importförbud;Smuggling;Levnadssätt;Levnadssätt	  1
+Överflödsförordningar;Import;Penningväsen;Levnadssätt;Levnadssätt	  1
+Överflödsförordningar;Import;Smuggling;Levnadssätt;Levnadssätt	  1
 Överflödsförordningar;Kaffe;Alkoholdrycker;Penningvärde;Husrannsakan;Levnadssätt;Levnadssätt	  1
 Överflödsförordningar;Kläder;Mode;Mat;Begravning;Bröllop;Dopet;Möbler;Levnadssätt;Levnadssätt	  1
 Överflödsförordningar;Kläder;Mode;Tyger;Siden	  1
@@ -6802,6 +6802,7 @@ Partihandel;Månglerskor;Livsmedel;Varupris;Nationalekonomi;Ekonomiska förhåll
 Partihandel;Prisbildning;Handel;Handel	  1
 Partihandel;Spannmål;Mjöl;Ärter;Livsmedel	  1
 Partihandel;Stämpling;Prisbildning;Handel;Städer;Varustämpling;Nationalekonomi;Ekonomiska förhållanden;Varustämpling	  1
+Passevolans	  1
 Pass (legitimationshandling);Borgare;Köpmän;Resenärer;Resande;Resande	  1
 Pass (legitimationshandling);Gårdfarihandel;Handelsresande;Borgare;Handel;Handel	  1
 Pass (legitimationshandling);Gårdfarihandel;Handelsresande;Handel;Handel	  1
@@ -6813,7 +6814,6 @@ Pass (legitimationshandling);Resenärer;Resande;Resande	  1
 Pass (legitimationshandling);Sjöfart;Resenärer	  1
 Pass (legitimationshandling);Suppliker;Ansöknings- och besvärsskrifter;Charta sigillata;Ansöknings- och besvärsskrifter	  1
 Pass (legitimationshandling);Trankokerier;Salterier;Transporträtt;Byggnadsmaterial;Varutransport;Varutransport	  1
-Passevolans	  1
 Påvedömet	  1
 Påvestolen;Stora nordiska kriget 1700-1721;Krig	  1
 Pedagogik;Idé- och lärdomshistoria	  1
@@ -6836,6 +6836,7 @@ Penningväsen;Bankväsen;Banklån;Sedlar;Aktier;Diskonter;Diskonter	  1
 Penningväsen;Bankväsen;Kreditväsen;Riksbanken	  1
 Penningväsen;Bankväsen;Revision;Diskonter	  1
 Penningväsen;Bankväsen;Riksbanken;Riksbanken	  1
+Penningväsende;Mynt	  1
 Penningväsen;Export;Hudar;Koppar	  1
 Penningväsen;Export;Hudar;Koppar;Koppar	  1
 Penningväsen;Guldmynt;Penningförfalskning;Mynt	  1
@@ -6849,11 +6850,11 @@ Penningväsen;Kopparmynt;Silvermynt;Guldmynt;Guld;Silver;Smuggling;Exportförbud
 Penningväsen;Kopparmynt;Smuggling;Mynt	  1
 Penningväsen;Kopparmynt;Straff;Mynt;Mynt	  1
 Penningväsen;Lån;Skuldsättning	  1
+Penningväsen;Myntcirkulation;Polletter;Mynt;Mynt	  1
+Penningväsen;Myntfot;Järn;Mynt;Mynt	  1
 Penningväsen;Mynt;Kopparmynt;Exportförbud;Utförselskydd;Valutautflöde;Koppar;Koppar	  1
 Penningväsen;Mynt;Mynt	  1
 Penningväsen;Mynt;Mynt;Mynt	  1
-Penningväsen;Myntcirkulation;Polletter;Mynt;Mynt	  1
-Penningväsen;Myntfot;Järn;Mynt;Mynt	  1
 Penningväsen;Mynttillverkning;Guldmynt;Mynt;Mynt	  1
 Penningväsen;Mynttillverkning;Kopparmynt;Mynt;Mynt	  1
 Penningväsen;Mynttillverkning;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
@@ -6879,10 +6880,10 @@ Penningväsen;Penningvärde;Krogar;Gästgiverier;Mynt	  1
 Penningväsen;Penningvärde;Krogar;Gästgiverier;Mynt;Mynt	  1
 Penningväsen;Penningvärde;Livsmedel;Import;Mynt;Mynt	  1
 Penningväsen;Penningvärde;Mynt;Kopparmynt;Exportförbud;Utförselskydd;Valutautflöde;Mässingsarbeten;Privilegier;Koppar;Koppar	  1
-Penningväsen;Penningvärde;Mynt;Ryktesspridning;Mynt;Mynt	  1
-Penningväsen;Penningvärde;Mynt;Utförselskydd;Guldsmeder;Guld;Guldsmide;Skråväsen;Varutillverkning;Varutillverkning	  1
 Penningväsen;Penningvärde;Myntlagstiftning;Mynt;Mynt	  1
+Penningväsen;Penningvärde;Mynt;Ryktesspridning;Mynt;Mynt	  1
 Penningväsen;Penningvärde;Mynttillverkning;Silvermynt;Riksbanken;Riksbanken	  1
+Penningväsen;Penningvärde;Mynt;Utförselskydd;Guldsmeder;Guld;Guldsmide;Skråväsen;Varutillverkning;Varutillverkning	  1
 Penningväsen;Penningvärde;Nödmynt;Mynt;Mynt	  1
 Penningväsen;Penningvärde;Nödmynt;Sedelmynt;Sedelmynt	  1
 Penningväsen;Penningvärde;Penningförfalskning;Utförselskydd;Exportförbud;Mynt;Mynt	  1
@@ -6897,8 +6898,8 @@ Penningväsen;Penningvärde;Utförselskydd;Mynt;Mynt	  1
 Penningväsen;Penningvärde;Valutautflöde;Utförselskydd;Mynt;Mynt	  1
 Penningväsen;Penningvärde;Valutautflöde;Utförselskydd;Smuggling;Mynt	  1
 Penningväsen;Penningvärde;Valutautflöde;Utförselskydd;Smuggling;Mynt;Mynt	  1
-Penningväsen;Penningvärde;Växelkurser;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
 Penningväsen;Penningvärde;Växelkurser;Mynt;Mynt;Mynt	  1
+Penningväsen;Penningvärde;Växelkurser;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
 Penningväsen;Revisionsberättelser;Riksdagen 1800;Revision av stats-, banko- och riksgäldsverken	  1
 Penningväsen;Riksgäldskontor;Riksgäldskontor	  1
 Penningväsen;Sedlar	  1
@@ -6932,7 +6933,6 @@ Penningväsen;Tullväsen;Tulltaxa;Handelssjöfart;Mynt- och kontrollverken;Mynt-
 Penningväsen;Valutautflöde;Utförselskydd;Smuggling;Kopparmynt;Mynt	  1
 Penningväsen;Växelkurser;Järn;Mynt;Mynt	  1
 Penningväsen;Växlar (skuldförbindelser);Växel;Växel	  1
-Penningväsende;Mynt	  1
 Pensioner	  1
 Pensioner;Ämbetsmän;Tjänstemän;Änkor;Barn;Änke- och pupillkassor;Lönebesparing;Lönebesparing	  1
 Pensioner;Amiralitetskrigsmanskassan;Amiralitetskrigsmanskassan	  1
@@ -7113,12 +7113,12 @@ Postväsen;Revision;Postverket;Postverket	  1
 Postväsen;Skadegörelse;Angiveri;Postverket	  1
 Postväsen;Våldsbrott;Postiljoner	  1
 Postverket;Postkontor;Postverket	  1
-Potatis - odling;Potatis - odling	  1
 Potatis;Åkerbruksväxter;Lantbruket;Lantbruket	  1
 Potatis;Fåravel	  1
 Potatis;Lantbruk	  1
 Potatis;Lantbruk;Åkerbruksväxter	  1
 Potatis;Livsmedel;Tullfrihet;Livsmedel	  1
+Potatis - odling;Potatis - odling	  1
 Potatis;Potatisrätter;Växtodling	  1
 Pottaska	  1
 Pottaska;Pottaska	  1
@@ -7165,6 +7165,7 @@ Präster;Prästval;Pastoralexamen	  1
 Präster;Privilegier;Ecklesiastikstatens avlöning;Ecklesiastikstatens avlöning	  1
 Präster;Rättegångar;Brott;Ecklesiastikstaten;Ecklesiastikstaten	  1
 Präster;Resenärer	  1
+Prästerskapets änke- och pupillkassa;Prästerskapets änke- och pupillkassa	  1
 Präster;Spannmål;Tionde;Ecklesiastikstatens avlöning;Ecklesiastikstatens avlöning	  1
 Präster;Tionde	  1
 Präster;Tionde;Ecklesiastikstatens avlöning;Ecklesiastikstatens avlöning	  1
@@ -7177,7 +7178,6 @@ Präster;Tjänstetillsättningar;Domkapitel;Ecklesiastikstaten	  1
 Präster;Torpare;Backstugusittare;Dagsverken;Ecklesiastikstatens avlöning;Lantbruksekonomi;Arbete;Ecklesiastikstatens avlöning	  1
 Präster;Tro- och huldhetseder;Eder	  1
 Präster;Tro- och huldhetseder;Eder;Eder	  1
-Prästerskapets änke- och pupillkassa;Prästerskapets änke- och pupillkassa	  1
 Prästeståndet	  1
 Prästeståndet;Adelsståndet	  1
 Prästeståndet;Bondeståndet;Präster;Tionde;Domkapitel;Ecklesiastikstatens avlöning;Ecklesiastikstatens avlöning	  1
@@ -7212,11 +7212,11 @@ Predikningar;Historia	  1
 Predikningar;Tacksägelser	  1
 Predikningar;Trettioåriga kriget 1618-1648;Slaget vid Wittstock 1636	  1
 Predikningar;Uppbyggelselitteratur	  1
+Premiering;Fåravel;Ull;Manufakturer;Hallrätter;Premier (merkantilismen);Ull;Nationalekonomi;Ekonomiska förhållanden;handel;Ull	  1
 Premier (merkantilismen);Ek;Nationalekonomi;Ekonomiska förhållanden;Handel;Ek	  1
 Premier (merkantilismen);Ull;Får;Ekonomiska förhållanden;Ull;Ull	  1
 Premier (merkantilismen);Ull;Får;Nationalekonomi;Ekonomiska förhållanden;Ull;Ull	  1
 Premier (merkantilismen);Ull;Nationalekonomi;Ekonomiska förhållanden;Handel;Husdjur;Får;Ull;Ull	  1
-Premiering;Fåravel;Ull;Manufakturer;Hallrätter;Premier (merkantilismen);Ull;Nationalekonomi;Ekonomiska förhållanden;handel;Ull	  1
 Prinsar;Dopet;Ceremonier;Förlossning;Furstliga personer;Furstliga personer	  1
 Prinsar;Furstliga personer;Tacksägelser;Furstliga personer	  1
 Prinsar;Guvernörer;Undervisning;Uppfostran;Riksdagen 1755-1756;Ceremonier;Uppfostringsverket	  1
@@ -7244,9 +7244,9 @@ Psalmböcker;Censur;Tryckerier;Boktryckerier;Psalmbok	  1
 Punktskatter;Import;Bomull;Garn;Garn;Garn	  1
 Punktskatter;Import;Varuskatt;Varuskatt	  1
 Pythagoréerna	  1
-Qa;Nationalekonomi;Ekonomiska förhållanden	  1
 Qad;Nationalekonomi;Ekonomiska förhållanden;Handel	  1
 Qad;Nationalekonomi;Ekonomiska förhållanden;Historia	  1
+Qa;Nationalekonomi;Ekonomiska förhållanden	  1
 Qdcc;Jordbrukslära;Jordförbättring	  1
 Qf-c	  1
 Rådmän;Värdering (företagsekonomi);Fastigheter;Eder;Eder	  1
@@ -7286,8 +7286,6 @@ Ränta;Sjukhus;Riksbanken;Barnhus	  1
 Räntor och tionde;Räntor och tionde	  1
 Rapporter;Barnförlossning;Barnförlossning	  1
 Rapporter;Statsverket;Statsverket	  1
-Rättegång;Besvärsmål;Rättegång;Rättegång	  1
-Rättegång;Domstolar;Rättegångsverken;Rättegångsverken	  1
 Rättegångar;Advokat;Advokat	  1
 Rättegångar;Advokater;Jurister;Advokat;Advokat	  1
 Rättegångar;Ämbetsmän;Tjänstemän;Rättegångshandlingar;Sportler;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
@@ -7302,8 +7300,8 @@ Rättegångar;Brottslingar;Straff;Straff	  1
 Rättegångar;Dödsstraff;Böter;Dödsbon;Krigsrätter	  1
 Rättegångar;Domar	  1
 Rättegångar;Domar;Domkapitel;Hovrätter;Rättegång;Överklagande;Rättegång	  1
-Rättegångar;Domar;Skrifter;Skrifter	  1
 Rättegångar;Domare;Traktamenten;Sportler;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
+Rättegångar;Domar;Skrifter;Skrifter	  1
 Rättegångar;Domstolar;Adel;Jurisdiktion	  1
 Rättegångar;Domstolar;Besvärsmål;Rättegång;Överklagande;Rättegång	  1
 Rättegångar;Domstolar;Rättegångsstatistik;Rättegångshandlingar;Krigsrätter;Rättegångsstatistik	  1
@@ -7345,6 +7343,8 @@ Rättegångar;Tingsrätter	  1
 Rättegångar;Tingsrätter;Domstolar	  1
 Rättegångar;Tingsrätter;Domstolar;Rättegång	  1
 Rättegångar;Tingsrätter;Domstolar;Rättegång;Rättegång	  1
+Rättegång;Besvärsmål;Rättegång;Rättegång	  1
+Rättegång;Domstolar;Rättegångsverken;Rättegångsverken	  1
 Rättegångshandlingar	  1
 Rättegångshandlingar;Rysk-svenska kriget 1788-1790	  1
 Rättegångshandlingar;Skuldebrev	  1
@@ -7371,7 +7371,6 @@ Rederier;Sjöfart;Äganderätt;Ed (juridik);Eder;Eder	  1
 Redovisning;Förskingring	  1
 Redovisning;Inventarier;Räkenskaper;Krigskollegium	  1
 Redskap;Teknik	  1
-Reduktion;Reduktionen;Överklagande;Reduktion	  1
 Reduktionen;Fast egendom;Jordägande;Reduktion	  1
 Reduktionen;Fast egendom;Jordägande;Reduktion;Reduktion	  1
 Reduktionen;Fonder (allmänna);Reduktion;Reduktion	  1
@@ -7383,6 +7382,7 @@ Reduktionen;Riksdagen 1686;Skatter;Fast egendom;Reduktion	  1
 Reduktionen;Riksdagen 1686;Skatter;Fast egendom;Reduktion;Reduktion	  1
 Reduktionen;Skatter;Reduktion	  1
 Reduktionen;Titelväsen;Adel;Reduktion	  1
+Reduktion;Reduktionen;Överklagande;Reduktion	  1
 Regementen;Artilleri;Artilleri	  1
 Regementen;Indelningsverket;Riksdagen 1720	  1
 Regering;Kungamakten;Tronföljd;Tronföljd	  1
@@ -7392,9 +7392,9 @@ Regering;Resor;Interimsregering;Interimsregering	  1
 Regering;Riksdagen 1792;Interimsregering;Interimsregering	  1
 Regering;Riksdagen 1810;Interimsregering;Interimsregering	  1
 Regering;Riksdagen 1812;Interimsregering;Interimsregering	  1
-Regering;Sjukdom;Interimsregering;Interimsregering	  1
 Regeringsform	  1
 Regeringsform;Regeringsform	  1
+Regering;Sjukdom;Interimsregering;Interimsregering	  1
 Reglementen	  1
 Reidgoter	  1
 Religion;Pamfletter;Skrifter;Skrifter	  1
@@ -7408,11 +7408,11 @@ Religionsfrihet;Religionsvården;Religionsvården	  1
 Religionspolitik;Gudstjänsten;Religionsvården	  1
 Religionspolitik;Religionsfrihet;Religionsundervisning;Religionsvården;Religionsvården	  1
 Religionsvården;Religionsvården	  1
-Religiös tolerans;Tolerans	  1
 Religiöst liv;Helgdagar;Hädelse;Polsk-svenska kriget 1599-1629;Sabbatsbrott;Eder	  1
 Religiöst liv;Sekularisering	  1
 Religiöst liv;Sekularisering;Religionsvården	  1
 Religiöst liv;Sekularisering;Religionsvården;Religionsvården	  1
+Religiös tolerans;Tolerans	  1
 Renar;Hudar;Export;Skinnvaror;Skinnvaror	  1
 Renar;Jakt;Samer;Jakt;Jakt;Jakt	  1
 Renhållning;avfall	  1
@@ -7437,10 +7437,10 @@ Resenärer;Handel;Judar;Pass (legitimationshandling);Judar;Judar	  1
 Resenärer;Immigration;Judar;Judar	  1
 Resenärer;Köpmän;Utländska medborgare	  1
 Resenärer;Mat och dryck;Gästgiverier;Skjutsväsen	  1
-Resenärer;Pass (legitimationshandling;Resande	  1
-Resenärer;Pass (legitimationshandling;Resande;Resande	  1
 Resenärer;Pass (legitimationshandling);Gästgiverier;Ryktesspridning;Gästning;Resande;Resande	  1
 Resenärer;Pass (legitimationshandling);Marknader;Mat och dryck;Marknad;Marknad	  1
+Resenärer;Pass (legitimationshandling;Resande	  1
+Resenärer;Pass (legitimationshandling;Resande;Resande	  1
 Resenärer;Pass (legitimationshandling);Ryktesspridning;Spioner;Resande;Resande	  1
 Resenärer;Resenärer;Geografi;Geografi	  1
 Resenärer;Resor;Emigration;Tjänstefolk;Hantverkare;Resande;Resande	  1
@@ -7469,8 +7469,8 @@ Restauranger;Krogar;Mat och dryck;Skatter;Kläder;Handel;Handelsbodar	  1
 Restauranger;Krogar;Skyltning	  1
 Restitution;Suppliker;Domstolar;Rättegång;Rättegång	  1
 Retorik;Homiletik	  1
-Revision av stats-, banko- och riksgäldsverken;Revision av stats-, banko- och riksgäldsverken	  1
 Revision;Allmänna magasinsinrättningen;Lantbruk;Spannmålsmagasin	  1
+Revision av stats-, banko- och riksgäldsverken;Revision av stats-, banko- och riksgäldsverken	  1
 Revision;Förvaltning;Revision av stats-, banko- och riksgäldsverken;Revision av stats-, banko- och riksgäldsverken	  1
 Revision;Präster;Domkapitel;Studenter;Stipendier;Statsverket;Statsverket	  1
 Revision;Räkenskaper;Statsfinanser;Tjänstemän;Tjänsteansvar;Statsverket;Statsverket	  1
@@ -7649,8 +7649,8 @@ Riksdagen 1731;Riksdagshandlingar;Rikets ständers beslut;Rikets ständers beslu
 Riksdagen 1734;Adelsståndet;Adel;Adel	  1
 Riksdagen 1734;Bondeståndet;Allmoge;Lantbruk;Allmoge	  1
 Riksdagen 1734;Borgarståndet;Stad;Stad	  1
-Riksdagen 1734;Gästgiveri;Gästgiveri	  1
 Riksdagen 1734;Gästgiverier;Gästgiveri;Gästgiveri	  1
+Riksdagen 1734;Gästgiveri;Gästgiveri	  1
 Riksdagen 1734;Länsförvaltning;Landshövdingar;Lantstaten;Lantstaten	  1
 Riksdagen 1734;Prästeståndet;Ecklesiastikstaten;Ecklesiastikstaten	  1
 Riksdagen 1734;Prästeståndet;Religionsbrott;Religionspolitik;Antiklerikalism;Kyrkan och staten	  1
@@ -7847,8 +7847,8 @@ Riksdagshandlingar;Riksdagen 1765-1766;Riksdagsordning;Riksdagsordning	  1
 Riksdagshandlingar;Riksdagsledamöter;Riksdagsordning;Riksdagsordning	  1
 Riksdagsledamöter	  1
 Riksdagsledamöter;Tro- och huldhetseder;Riksdagsordning;Riksdagsordning	  1
-Riksdagsmän;Riksdagen 1771-1772;Våld;Riksdagsordning;Riksdagsordning	  1
 Riksdagsmannaval;Borgarståndet	  1
+Riksdagsmän;Riksdagen 1771-1772;Våld;Riksdagsordning;Riksdagsordning	  1
 Riksdagsprotokoll;Adelsståndet	  1
 Riksdagsval;Benådning;Opposition (politik);Riksdagsordning;Riksdagsordning	  1
 Riksdagsval;Bondeståndet;Förvaltning	  1
@@ -7867,10 +7867,10 @@ Ris;Exportförbud;Livsmedel;Livsmedel;Livsmedel	  1
 Röjning;Bönder;Skogshushållning;Skogshushållning	  1
 Roman law.	  1
 Rome	  1
+Romerska riket	  1
 Romersk mytologi	  1
 Romersk rätt	  1
 Romersk skulptur	  1
-Romerska riket	  1
 Runes	  1
 Runinskrifter	  1
 Runinskrifter;Runstenar	  1
@@ -7914,14 +7914,21 @@ Ryktesspridning;Laglydnad;Laglydnad	  1
 Ryktesspridning;Oroligheter;Oroligheter	  1
 Ryktesspridning;Skrifter;Skrifter	  1
 Ryktesspridning;Straff;Straff	  1
+Ryska diplomater;Brott;Vandalism	  1
+Ryska köpmän;Misshandel;Våldsbrott;Allmän ordning och säkerhet	  1
+Ryska kriget 1719-1721;Skärgårdskriget 1719	  1
+Ryska krigsfångar	  1
+Ryska krigsfångar;Stora nordiska kriget 1700-1721;Militärhistoria;Slaget vid Narva 1700;Troféer (militära segertecken)	  1
+Ryska soldater;Militärväsen;Resande;Resande	  1
+Ryska språket	  1
 Rysk-svenska kriget 1570-1595	  1
 Rysk-svenska kriget 1570-1595;Statsskuld	  1
 Rysk-svenska kriget 1788-1790;Böner;Krig;Slaget vid Parkumäki 1789	  1
 Rysk-svenska kriget 1788-1790;Finnar i utlandet	  1
 Rysk-svenska kriget 1788-1790;Konspirativ verksamhet;Konspirativ verksamhet;Finnar;Finlandssvenskar	  1
 Rysk-svenska kriget 1788-1790;Krig;Krig	  1
-Rysk-svenska kriget 1788-1790;Krig;Tacksägelser	  1
 Rysk-svenska kriget 1788-1790;Krigsbyten	  1
+Rysk-svenska kriget 1788-1790;Krig;Tacksägelser	  1
 Rysk-svenska kriget 1788-1790;Lantkrigsväsen	  1
 Rysk-svenska kriget 1788-1790;Lantkrigsväsen;Krigsmakten till lands;Krigsmakten till lands	  1
 Rysk-svenska kriget 1788-1790;Lantkrigsväsen;Soldater	  1
@@ -7938,13 +7945,6 @@ Rysk-svenska kriget 1788-1790;Soldater;Sjömän;Krigsmakten till sjöss;Krigsmak
 Rysk-svenska kriget 1788-1790;Tacksägelser;Krig	  1
 Rysk-svenska kriget 1788-1790;Tacksägelser;Krig;Slaget vid Parkumäki 1789	  1
 Rysk-turkiska kriget 1768-1774	  1
-Ryska diplomater;Brott;Vandalism	  1
-Ryska köpmän;Misshandel;Våldsbrott;Allmän ordning och säkerhet	  1
-Ryska kriget 1719-1721;Skärgårdskriget 1719	  1
-Ryska krigsfångar	  1
-Ryska krigsfångar;Stora nordiska kriget 1700-1721;Militärhistoria;Slaget vid Narva 1700;Troféer (militära segertecken)	  1
-Ryska soldater;Militärväsen;Resande;Resande	  1
-Ryska språket	  1
 Ryssar;Arvsrätt;Äganderätt;Reduktionen;Reduktion;Reduktion	  1
 Sabbatsbrott;Allmän ordning och säkerhet;Tiggeri;Fylleri;Våld;Lyx;Överflödsförordningar	  1
 Sabbatsbrott;Högtider;Helgdagar;Soldater;Militärfortskaffning;Militärfortskaffning	  1
@@ -7974,23 +7974,10 @@ Salpeter;Salpeter;Saltpeter;Saltpeter	  1
 Salpeter;Saltpeter;Skattelättnader;Saltpeter	  1
 Salpeter;Skatter;Räntor och tionde;Nationalekonomi;Ekonomiska förhållanden;Räntor och tionde	  1
 Salpeter;Skjutsväsen;Tjänstemän;Saltpeter;Fogdar	  1
-Salpeter;Ved;Saltpeter;Saltpeter	  1
 Salpetersyra;Bedrägeri;Hallrätter	  1
 Salpetersyra;Export;Skatter;Varutransport;Varutransport	  1
+Salpeter;Ved;Saltpeter;Saltpeter	  1
 Salt	  1
-Salt;Import;Stapelstäder;Salt;Salt	  1
-Salt;Lagring;Skatter;Salt;Salt	  1
-Salt;Lagring;Tullväsen;Bedrägeri;Salt;Salt	  1
-Salt;Privilegier;Salt	  1
-Salt;Salt;Export;Stapelstäder;Salt;Salt	  1
-Salt;Salt;Salt	  1
-Salt;Salthandel;Import;Salt;Livsmedel	  1
-Salt;Skattelättnader;Salt	  1
-Salt;Skattelättnader;Salt;Salt	  1
-Salt;Spannmål;Arbetare;Nationalekonomi;Ekonomiska förhållanden;Arbete	  1
-Salt;Spannmål;Lagring	  1
-Salt;Spannmål;Skatter	  1
-Salt;Tullväsen;Skatter;Konkurser;Förmånsrätt;Tullväsen;Nationalekonomi;Ekonomiska förhållanden;Förmånsrätt	  1
 Salthandel	  1
 Salthandel;Import;Tulltaxa;Salt;Salt	  1
 Salthandel;Kungliga privilegier;Salt;Salt	  1
@@ -8000,7 +7987,20 @@ Salthandel;Tulltaxa;Salt	  1
 Salthandel;Tulltaxa;Salt;Salt	  1
 Salthandel;Utrikeshandel;Salt;Nationalekonomi;Ekonomiska förhållanden;Salt	  1
 Salthandel;Vinhandel;Brännvin;Papper;Lagring;Import;Varuupplag;Varuupplag	  1
+Salt;Import;Stapelstäder;Salt;Salt	  1
+Salt;Lagring;Skatter;Salt;Salt	  1
+Salt;Lagring;Tullväsen;Bedrägeri;Salt;Salt	  1
 Saltpeter;Skatter;Saltpeter;Skattelättnader;Saltpeter	  1
+Salt;Privilegier;Salt	  1
+Salt;Salt;Export;Stapelstäder;Salt;Salt	  1
+Salt;Salthandel;Import;Salt;Livsmedel	  1
+Salt;Salt;Salt	  1
+Salt;Skattelättnader;Salt	  1
+Salt;Skattelättnader;Salt;Salt	  1
+Salt;Spannmål;Arbetare;Nationalekonomi;Ekonomiska förhållanden;Arbete	  1
+Salt;Spannmål;Lagring	  1
+Salt;Spannmål;Skatter	  1
+Salt;Tullväsen;Skatter;Konkurser;Förmånsrätt;Tullväsen;Nationalekonomi;Ekonomiska förhållanden;Förmånsrätt	  1
 Samer;Fonder (allmänna);Pengar;Lån;Lappmarken	  1
 Samer;Kristnande;Kristendomsundervisning	  1
 Samer;Kristnande;Kristendomsundervisning;Lappmarken	  1
@@ -8042,25 +8042,23 @@ Sexualbrott;Äktenskapsbrott;Samlag;Samlag	  1
 Sexualbrott;Incest;Samlag;Samlag	  1
 Shells.	  1
 Siden;Handel;Handel	  1
+Sidenhandel;Siden;Kläder;Mode;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Siden;Kläder;Mode;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Siden;Manufakturer;Sidenhandel;Tyger;Vävnad;Vävnad	  1
 Siden;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Siden;Tyger;Sidenhandel;Vävnad;Vävnad	  1
-Sidenhandel;Siden;Kläder;Mode;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Sikar;Fiske	  1
 Sill;Arbetare	  1
-Sill;Fisk;Handel;Vikt;Bedrägeri	  1
+Sillfiske	  1
+Sillfiske;Näringsliv;Trankokerier;Fiske	  1
 Sill;Fiske;Salt;Salt;Livsmedel;Ekonomiska förhållanden;Salt	  1
+Sill;Fisk;Handel;Vikt;Bedrägeri	  1
 Sill;Handel;Fiskerilagstiftning;Näringsliv;Salterier;Trankokerier;Fiske;Fisk;Fisk	  1
 Sill;Import;Tulltaxa;Fisk;Fiske;Fisk	  1
 Sill;Tulltaxa;Import;Fisk;Fiske;Fisk	  1
 Sill;Tunnbinderi;Volymmått;Salterier;Fisk;Fisk	  1
 Sill;Tunnbinderi;Volymmått;Salterier;Trankokerier;Fisk;Fiske;Fisk	  1
-Sillfiske	  1
-Sillfiske;Näringsliv;Trankokerier;Fiske	  1
 Silver;Guld;Kvalitetskontroll;Metallkontroller;Metallkontroller	  1
-Silver;Överflödsförordningar	  1
-Silver;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Silvermynt;Guldmynt;Silver;Myntfot;Mynttillverkning;Penningväsen;Mynt- och kontrollverken	  1
 Silvermynt;Kopparmynt;Nödmynt;Penningförfalskning;Export;Smuggling	  1
 Silvermynt;Kopparmynt;Penningväsen;Mynt;Mynt	  1
@@ -8068,6 +8066,8 @@ Silvermynt;Penningväsen;Mynt;Mynt	  1
 Silvermynt;Penningväsen;Penningvärde;Mynttillverkning;Mynt;Mynt	  1
 Silvermynt;Penningväsen;Skatter;Statsfinanser;Mynt	  1
 Silvermynt;Statsskuld;Mynttillverkning;Penningväsen;Mynt- och kontrollverken;Mynt- och kontrollverken	  1
+Silver;Överflödsförordningar	  1
+Silver;Överflödsförordningar;Levnadssätt;Levnadssätt	  1
 Silversmide;Guldsmide;Smuggling;Ädelmetallstämplar;Metallkontroller;Metallkontroller	  1
 Silversmide;Guldsmide;Tennarbeten;Kvalitetskontroll;Metallkontroller;Metallkontroller	  1
 Silversmide;Guldsmide;Tennarbeten;Kvalitetskontroll;Sedlar;Metallkontroller;Metallkontroller	  1
@@ -8094,7 +8094,6 @@ Sjöfart;Handel;Epidemier;Farsot;Farsot	  1
 Sjöfart;Handel;Handelssjöfart	  1
 Sjöfart;Handel;Kapare;Kapare;Sjöpass	  1
 Sjöfart;Handel;Kapare;Kapare;Skeppshandlingar;Sjöpass;Skeppshandlingar	  1
-Sjöfart;Handel;Städer;Stad;Stad	  1
 Sjöfart;Handelssjöfart;Farleder;Varutransport	  1
 Sjöfart;Handelssjöfart;Farleder;Varutransport;Varutransport	  1
 Sjöfart;Handelssjöfart;Handel;Krig;Kapare;Kapare;Uppbringning;Uppbringning	  1
@@ -8102,6 +8101,7 @@ Sjöfart;Handelssjöfart;Konvojavgift;Konvojavgift	  1
 Sjöfart;Handelssjöfart;Sjömän;Sjöfolk;Sjöfolk	  1
 Sjöfart;Handelssjöfart;Sjömän;Svenskar i utlandet;Sjöfolk;Sjöfolk	  1
 Sjöfart;Handelssjöfart;Tullväsen	  1
+Sjöfart;Handel;Städer;Stad;Stad	  1
 Sjöfart;Haverier;Straff;Sjöskada;Sjöskada	  1
 Sjöfart;Kapare;Sjöröveri;Handelssjöfart;Handel	  1
 Sjöfart;Kapare;Sjöröveri;Handelssjöfart;Handel;Uppbringning;Uppbringning	  1
@@ -8160,6 +8160,9 @@ Sjömän;Handelssjöfart;Skatter;Personliga utskylder;Personliga utskylder	  1
 Sjömän;Kök;Matlagning;Allmän ordning och säkerhet	  1
 Sjömän;Lösdrivare;Våldsbrott;Allmän ordning och säkerhet;Gesäller	  1
 Sjömän;Militärhygien;Sjukdomar	  1
+Sjömanshus;Sjöfart;Rederier;Sjöfolk;Sjöfolk	  1
+Sjömanshus;Sjömän;Mönstring (militärväsen);Sjöfolk;Sjöfolk	  1
+Sjömanshus;Sjömän;Pensioner;Sjöfart;Pensionskassor;Stapelstäder;Sjöfolk;Sjöfolk	  1
 Sjömän;Sjöfart	  1
 Sjömän;Sjöfart;Anställning	  1
 Sjömän;Sjöfart;Kök;Matlagning	  1
@@ -8168,6 +8171,7 @@ Sjömän;Sjökaptener;Skatter;Personliga utskylder;Personliga utskylder	  1
 Sjömän;Sjömanshus;Handelssjöfart;Sjöfolk;Sjöfolk	  1
 Sjömän;Sjömanshus;Krigsmakten till sjöss	  1
 Sjömän;Sjömanshus;Krigsmakten till sjöss;Krigsmakten till sjöss	  1
+Sjömansliv;Medicin	  1
 Sjömän;Soldater	  1
 Sjömän;Soldater;Auktion;Kvarlåtenskap	  1
 Sjömän;Soldater;Krigsfångar;Fångenskap;Fångenskap	  1
@@ -8184,10 +8188,6 @@ Sjömän;Utländska medborgare;Rederier;Allmän ordning och säkerhet;Sjöfolk;S
 Sjömän;Utländska medborgare;Våldsbrott;Allmän ordning och säkerhet	  1
 Sjömän;Värvning;Krigsmakten till sjöss;Krigsmakten till sjöss	  1
 Sjömän;Värvning;Sjöfolk	  1
-Sjömanshus;Sjöfart;Rederier;Sjöfolk;Sjöfolk	  1
-Sjömanshus;Sjömän;Mönstring (militärväsen);Sjöfolk;Sjöfolk	  1
-Sjömanshus;Sjömän;Pensioner;Sjöfart;Pensionskassor;Stapelstäder;Sjöfolk;Sjöfolk	  1
-Sjömansliv;Medicin	  1
 Sjöpass;Handelssjöfart;Hamnar;Skeppshandlingar;Skeppshandlingar	  1
 Sjöpass;Handelssjöfart;Handelsavtal;Skeppshandlingar;Skeppshandlingar	  1
 Sjöpass;Sjöfart;Fartyg;Skeppshandlingar;Skeppshandlingar	  1
@@ -8230,10 +8230,10 @@ Sjukvård;Hälsovård;Verksamhetsberättelser;Fonder (allmänna);Sjukhus;Konunge
 Sjukvård;Läkare;Läkemedelsräkning;Patientjournaler;Sjukhus	  1
 Sjukvård;Patienter;Sjukhus;Sjukhus	  1
 Sjukvård;Räkenskaper;Donationer (ekonomi);Barnhus;Sjukhus	  1
+Sjukvårdsanstalter	  1
 Sjukvård;Verksamhetsberättelser;Hälsovård;Fonder (allmänna);Sjukhus;Konungens hospital	  1
 Sjukvård;Verksamhetsberättelser;Hälsovård;Sjukhus	  1
 Sjukvård;Verksamhetsberättelser;Sjukhus;Fonder (allmänna);Konungens hospital;Konungens hospital	  1
-Sjukvårdsanstalter	  1
 Skadedjur;Jakt;Hudar	  1
 Skadegörelse;Alléer	  1
 Skadegörelse;Allmän ordning och säkerhet	  1
@@ -8271,6 +8271,7 @@ Skatter;Acciser;Varuskatt	  1
 Skatter;Acciser;Varuskatt;Varuskatt	  1
 Skatter;Ämbetsmän;Tjänstemän;Tjänstetillsättningar;Bevillning;Gärder;Gärder	  1
 Skatter;Arvsskatt;Dödsbon;Bevillning;Fideikommiss	  1
+Skatterätt;Taxering	  1
 Skatter;Avrad	  1
 Skatter;Avrad;Räntor och tionde;Räntor och tionde	  1
 Skatter;Banker;Skattelättnader;Penningväsen	  1
@@ -8319,9 +8320,9 @@ Skatter;Import;Varuskatt;Varuskatt	  1
 Skatter;Indelningsverket;Dagsverken;Markegång;Nationalekonomi;Ekonomiska förhållanden;Markegång	  1
 Skatter;Indelningsverket;Statsverket;Statsverket	  1
 Skatter;Jämlikhet;Gärder;Gärder	  1
-Skatter;Järnbruk;Järn;Markegång;Bergs- och brukshanteringens utskylder;Bergs- och brukshanteringens utskylder	  1
 Skatter;Järnbruk;Järnframställning;Bergs- och brukshanteringens utskylder;Bergs- och brukshanteringens utskylder	  1
 Skatter;Järnbruk;Järnframställning;Koppar;Penningväsen;Penningvärde;Bergs- och brukshanteringens utskylder;Bergs- och brukshanteringens utskylder	  1
+Skatter;Järnbruk;Järn;Markegång;Bergs- och brukshanteringens utskylder;Bergs- och brukshanteringens utskylder	  1
 Skatter;Jordägande	  1
 Skatter;Jordeböcker;Jordebok;Nationalekonomi;Ekonomiska förhållanden;Jordebok	  1
 Skatter;Jordränta	  1
@@ -8406,9 +8407,9 @@ Skatter;Spannmål;Markegång;Jordbruk;Skattelättnader	  1
 Skatter;Spannmål;Ränta;Gärder	  1
 Skatter;Spannmål;Ränta;Gärder;Gärder	  1
 Skatter;Spinnhus;Krogar;Kaféer	  1
-Skatter;Stad;Stad	  1
 Skatter;Städer;Borgare;Mantalslängder	  1
 Skatter;Städer;Borgare;Statsverket;Statsverket	  1
+Skatter;Stad;Stad	  1
 Skatter;Statsfinanser;Bevillning;Gärder;Gärder	  1
 Skatter;Statsfinanser;Hemman;Jordeböcker;Räntor och tionde;Räntor och tionde	  1
 Skatter;Statsfinanser;Statsverket;Statsverket	  1
@@ -8421,14 +8422,14 @@ Skatter;Taxering;Ämbetsmän;Tjänstemän	  1
 Skatter;Taxering;Besvärsmål;Bevillning;Gärder;Gärder	  1
 Skatter;Taxering;Bevillning;Gärder	  1
 Skatter;Taxering;Statsverket;Statsverket	  1
+Skatter;Tegel;Byggnadsmaterial	  1
 Skatter;Té;Kaffe;Choklad;Importförbud;Kaffe och te;Kaffe och te	  1
 Skatter;Te;Kaffe;Tobak;Snus;Acciser;Kaffe och te;Kaffe och te	  1
-Skatter;Tegel;Byggnadsmaterial	  1
 Skatter;Tingsrätter;Ting;Ting	  1
 Skatter;Tionde;Adel	  1
 Skatter;Tionde;Spannmål;Gärder	  1
-Skatter;Tjänstemän;Ämbets- och tjänstemän;Fogdar;Ämbets- och tjänstemän	  1
 Skatter;Tjänstemän;Ämbetsmän;Officerare;Järnbruk;Brukspatroner;Bevillning;Gärder;Gärder	  1
+Skatter;Tjänstemän;Ämbets- och tjänstemän;Fogdar;Ämbets- och tjänstemän	  1
 Skatter;Tjänstemän;Gärder;Gärder	  1
 Skatter;Tjänstemän;Rättegångar;Jurisdiktion	  1
 Skatter;Traktamenten;Skatteköp;Skatteköp och byte;Arvoden;Ekonomiska förhållanden;Skatteköp och byte	  1
@@ -8444,7 +8445,6 @@ Skatter;Vikt;Vågar;Våg	  1
 Skatter;Vikt;Vågar;Våg;Våg	  1
 Skatter;Vinstbeskattning;Bevillning;Lotteri;Lotteri	  1
 Skatter;Volymmått;Vikt;Vågar;Våg;Våg	  1
-Skatterätt;Taxering	  1
 Skeppsbyggare;Timmermän;Varvsanläggningar	  1
 Skeppsbyggare;Timmermän;Varvsanläggningar;Krigsmakten till sjöss;Krigsmakten till sjöss	  1
 Skeppsbyggeri;Fartyg;Fartyg	  1
@@ -8456,11 +8456,11 @@ Skeppsmätning;Arvoden;Skeppsmätning	  1
 Skeppsmätning;Fartyg	  1
 Skilsmässa;Äktenskapsrätt;Samlag	  1
 Skilsmässa;Äktenskapsrätt;Samlag;Samlag	  1
-Skinn (läder);Skinnarbeten;Intrång (skråväsen)	  1
 Skinnarbeten;Skor;Slakt;Garvning;Skomakeri	  1
 Skinnarbeten;Skråväsen	  1
 Skinnberedning;Pälsberedning;Skråväsen	  1
 Skinnberednning	  1
+Skinn (läder);Skinnarbeten;Intrång (skråväsen)	  1
 Skjutbanor;Krigsmakten till lands;Krigsmakten till lands	  1
 Skjutbanor;Skjutvapen	  1
 Skjuts;Skjuts	  1
@@ -8523,7 +8523,6 @@ Skogar;Skogsbruk;Skogsvård;Skadegörelse;Skogshushållning;Skogshushållning	  
 Skogar;Skogsbruk;Ved;Tjära;Kronoparker;Allmänningsskogar;Skogshushållning;Skogshushållning	  1
 Skogar;Skogsodling;Avverkning;Kronoparker;Skogshushållning	  1
 Skogar;Skosbruk;Skogsvård;Skogshushållning;Skogshushållning	  1
-Skogs- och jägeristaten;Skogs- och jägeristaten	  1
 Skogsbränder;Fruktträd;Allmänningar;Skogshushållning	  1
 Skogsbränder;Skogsbränder;Mordbrand;Bedrägeri;Skogs- och jägeristaten;Angiveri;Skogs- och jägeristaten	  1
 Skogsbränder;Skogshushållning;Skogsbruk;Brandsäkerhet	  1
@@ -8554,8 +8553,8 @@ Skogsbruk;Kvarnar;Sågverk;Trävaror;Skogar;Kvarn;Kvarn	  1
 Skogsbruk;Lantmäteri;Utmarksodlingar;Allmänningar;Lantmäteriverket	  1
 Skogsbruk;Oxel	  1
 Skogsbruk;Sågverk;Kvarn;Sågar;Kvarn	  1
-Skogsbruk;Sågverk;Tullväsen;Skogseffekter;Skogseffekter	  1
 Skogsbruk;Sågverksarbetare;Kvarn;Kvarn	  1
+Skogsbruk;Sågverk;Tullväsen;Skogseffekter;Skogseffekter	  1
 Skogsbruk;Sjöfart;Varutransport;Varutransport	  1
 Skogsbruk;Skatteköp;Järnbruk;Järnframställning;Skogar;Kronoparker	  1
 Skogsbruk;Skeppsbyggeri;Bergsbruk;Skogshushållning;Juridik;Skogshushållning	  1
@@ -8575,14 +8574,15 @@ Skogsbruk;Skogsplantering	  1
 Skogsbruk;Skogsskötsel;Skogshushållning;Skogshushållning	  1
 Skogsbruk;Skogsvård;Skogar;Skogshushållning	  1
 Skogsbruk;Skogsvård;Skogar;Svedjebruk;Skogshushållning;Skogshushållning	  1
-Skogsbruk;Trä;Skeppsbyggeri;Skogshushållning;Skogshushållning	  1
 Skogsbruk;Trädgårdar;Skadegörelse;Stockstraff;Allmän ordning och säkerhet;Skogshushållning;Skogshushållning	  1
+Skogsbruk;Trä;Skeppsbyggeri;Skogshushållning;Skogshushållning	  1
 Skogsbruk;Trävaror;Virke;Export;Tulltaxa;Skogseffekter;Skogseffekter	  1
 Skogsbruk;Tulltaxa;Export;Virke;Skogseffekter;Tullväsen;Skogseffekter	  1
 Skogsbruk;Tunnbinderi;Trävaror;Exportförbud;Export;Skogseffekter;Skogseffekter	  1
 Skogsbruk;Virke;Ek;Ek	  1
 Skogsbruk;Virke;Skogseffekter;Skogseffekter	  1
 Skogslagstiftning;Avverkning;Skogsvård;Skogsbruk	  1
+Skogs- och jägeristaten;Skogs- och jägeristaten	  1
 Skogsskötsel;Lantbruk	  1
 Skogsvård;Skogsbruk	  1
 Skogsvård;Skogsbruk;Inhägnader;Stängsel;Stängsel	  1
@@ -8610,14 +8610,14 @@ Skråväsen;Fiske;Fiskhandel	  1
 Skråväsen;Frimästare;Hantverkare;Migration;Varutillverkning;Varutillverkning	  1
 Skråväsen;Frimästare;Hantverkare;Varutillverkning;Varutillverkning	  1
 Skråväsen;Handel	  1
-Skråväsen;Hantverk;Lärlingar;Varupris;Gesäller;Varupris	  1
-Skråväsen;Hantverk;Postiljoner;Varutillverkning;Varutillverkning	  1
-Skråväsen;Hantverk;Soldater;Varutillverkning;Varutillverkning	  1
-Skråväsen;Hantverk;Varupris;Varupris	  1
 Skråväsen;Hantverkare;Bedrägeri;Gesäller;Varutillverkning;Varutillverkning	  1
 Skråväsen;Hantverkare;Borgare;Gesäller;Varutillverkning;Varutillverkning	  1
 Skråväsen;Hantverkare;Lärlingar;Näringsliv;Gesäller;Varutillverkning;Varutillverkning	  1
 Skråväsen;Hantverkare;Val (statsvetenskap);Näringsidkares föreningar;Näringsidkares föreningar	  1
+Skråväsen;Hantverk;Lärlingar;Varupris;Gesäller;Varupris	  1
+Skråväsen;Hantverk;Postiljoner;Varutillverkning;Varutillverkning	  1
+Skråväsen;Hantverk;Soldater;Varutillverkning;Varutillverkning	  1
+Skråväsen;Hantverk;Varupris;Varupris	  1
 Skråväsen;Hårarbeten;Perukmakeri;Hår;Peruker	  1
 Skråväsen;Koppararbeten;Koppar;Koppar	  1
 Skråväsen;Krögare;Bagare;Alkoholdrycker;Alkoholskatt;Domstolar;Varutillverkning;Bryggare;Varutillverkning	  1
@@ -8667,13 +8667,13 @@ Slaget vid Dennewitz 1813;Napoleonkrigen 1800-1815;Krig	  1
 Slaget vid Narva 1700	  1
 Slaget vid Poltava 1709	  1
 Slaget vid Svensksund 1790;Rysk-svenska kriget 1788-1790	  1
-Slakt;Kött;Livsmedel;Husdjur;Livsmedel	  1
-Slakt;Kötthandel;Intrång (skråväsen)	  1
-Slakt;Kötthandel;Intrång (skråväsen);Nationalekonomi;Ekonomiska förhållanden;Handel	  1
 Slaktare;Kött;Boskap;Intrång (skråväsen);Månglerskor	  1
 Slakterier;Garverier;Hudar;Skinn (läder)	  1
 Slakterier;Slakt;Hudar	  1
 Slakterier;Slakt;Kött	  1
+Slakt;Kötthandel;Intrång (skråväsen)	  1
+Slakt;Kötthandel;Intrång (skråväsen);Nationalekonomi;Ekonomiska förhållanden;Handel	  1
+Slakt;Kött;Livsmedel;Husdjur;Livsmedel	  1
 Släktnamn;Namnrätt;Brottslingar;Adel	  1
 Släktnamn;Namnrätt;Soldater;Adel;Adel	  1
 Slåtterängar;Marklära;Gräs	  1
@@ -8719,11 +8719,11 @@ Sockenmagasin;Jordbruk;Spannmål;Lador;Fattigvård	  1
 Sockenmagasin;Sockenmagasin;Jordbruk;Jordbruk;Spannmål;Lador;Juridik;Spannmålsmagasin	  1
 Sockenstämmor;Kyrkoråd;Församling;Församling	  1
 Socker	  1
+Sockerhandel;Socker;Socker	  1
 Socker;Import;Socker;Socker	  1
 Socker;Livsmedel	  1
 Socker;Livsmedel;Brandsäkerhet	  1
 Socker;Socker	  1
-Sockerhandel;Socker;Socker	  1
 Socknar	  1
 Söderfors Ankarbruk	  1
 Söderhamn	  1
@@ -8748,6 +8748,7 @@ Soldater;Desertörer;Straff;Desertör;Desertör	  1
 Soldater;Dragoner;Kavalleri;Benådning;Desertörer;Desertör;Desertör	  1
 Soldater;Dragoner;Kavalleri;Rekrytering;Krigsmakten till lands	  1
 Soldater;Dragoner;Kavalleri;Rekrytering;Krigsmakten till lands;Krigsmakten till lands	  1
+Soldaterer;Desertörer;Brott;Domstolar;Krigsartiklar;Krigsrätter;Krigsartiklar	  1
 Soldater;Förplägning (militärväsen);Inkvartering (militärväsen);Skjutsväsen	  1
 Soldater;Förplägning (militärväsen);Inkvartering (militärväsen);Skjutsväsen;Gästgiveri;Gästgiveri	  1
 Soldater;Förplägning (militärväsen);Inkvartering (militärväsen);Skjutsväsen;Militärfortskaffning;Militärfortskaffning	  1
@@ -8803,17 +8804,16 @@ Soldater;Varutillverkning;Varutillverkning	  1
 Soldater;Värvning;Hantverkare	  1
 Soldater;Värvning;Värvade regementen	  1
 Soldater;Värvning;Värvning;Värvade regementen	  1
-Soldaterer;Desertörer;Brott;Domstolar;Krigsartiklar;Krigsrätter;Krigsartiklar	  1
 Solförmörkelser	  1
 Solmization.	  1
 Solur	  1
 Soppor	  1
-Sorg;Sorgkläder	  1
 Sorgkläder;Ceremonier	  1
 Sorgkläder;Ceremonier;Furstliga personer;Furstliga personer	  1
 Sorgkläder;Furstliga personer;Furstliga personer	  1
 Sorgkläder;Levnadssätt;Ceremonier;Levnadssätt	  1
 Sorgkläder;Sorg;Ceremonier	  1
+Sorg;Sorgkläder	  1
 Sotning;Skorstensfejare;Brandordning;Brandordning	  1
 Spädbarn;Dråp;Barnamord;Barnamord	  1
 Spannmål;Åkerbruksväxter	  1
@@ -8833,6 +8833,8 @@ Spannmål;Brännvin;Husbehovsbränning;Livsmedel;Livsmedel;Brännerier;Livsmedel
 Spannmål;Detaljhandel;Intrång (skråväsen);Livsmedelshandel	  1
 Spannmål;Detaljhandel;Livsmedel;Livsmedel;Livsmedel	  1
 Spannmål;Ekonomiska förhållanden;Nationalekonomi	  1
+Spannmål;Exportförbud;Borgen;Bedrägeri;Livsmedel;Livsmedel;Livsmedel	  1
+Spannmål;Exportförbud;Livsmedel;Nationalekonomi;Ekonomiska förhållanden;Livsmedel	  1
 Spannmål;Export;Grönsaker;Handel;Sveriges och Norges förening;Sveriges och Norges förening	  1
 Spannmål;Export;Handel;Livsmedel;Nationalekonomi;Ekonomiska förhållanden;Livsmedel	  1
 Spannmål;Export;Import;Tulltaxa;Livsmedel;Livsmedel	  1
@@ -8840,8 +8842,6 @@ Spannmål;Export;Tulltaxa;Livsmedel;Livsmedel	  1
 Spannmål;Export;Tulltaxa;Livsmedel;Livsmedel;Livsmedel	  1
 Spannmål;Export;Tullväsen	  1
 Spannmål;Export;Tullväsen;Livsmedel;Livsmedel	  1
-Spannmål;Exportförbud;Borgen;Bedrägeri;Livsmedel;Livsmedel;Livsmedel	  1
-Spannmål;Exportförbud;Livsmedel;Nationalekonomi;Ekonomiska förhållanden;Livsmedel	  1
 Spannmål;Fodermedel;Export	  1
 Spannmål;Förvaltning;Nödföda;Livsmedel	  1
 Spannmål;Handel	  1
@@ -8890,18 +8890,24 @@ Spannmål;Partihandel;Tullväsen;Skatter;Acciser;Livsmedel;Livsmedel	  1
 Spannmål;Råg;Mjöl	  1
 Spannmål;Råg;Mjöl;Fattigvård	  1
 Spannmål;Råg;Mjöl;Missväxt;Import;Tulltaxa;Livsmedel;Livsmedel	  1
+Spannmålshandel;Detaljhandel;Gatuförsäljning;Månglerskor	  1
+Spannmålshandel;Fiskhandel;Export;Import;Tullväsen;Livsmedel;Livsmedel	  1
+Spannmålshandel;Fiskhandel;Export;Import;Tullväsen;Sveriges och Norges förening;Sveriges och Norges förening	  1
+Spannmålshandel;Spannmål;Export;Tulltaxa;Livsmedel;Livsmedel	  1
+Spannmålshandel;Vikt;Mått, mål och vikt	  1
+Spannmålshandel;Vikt;Spannmål;Livsmedel	  1
 Spannmål;Sjukhus;Barnhem;Redovisning;Sjukhus;Barnhus	  1
 Spannmål;Skatter;Avrad;Tionde	  1
 Spannmål;Skatter;Avrad;Tionde;Dagsverken;Markegång;Räntor och tionde;Nationalekonomi;Ekonomiska förhållanden;Räntor och tionde	  1
 Spannmål;Skatter;Avrad;Tionde;Räntor och tionde;Räntor och tionde	  1
 Spannmål;Skatter;Tionde;Räntor och tionde;Räntor och tionde	  1
 Spannmål;Skatter;Tullväsen;Import;Livsmedel;Livsmedel	  1
-Spannmål;Spannmål;Spannmålsmagasin;Lador;Jordbruk;Sockenmagasin	  1
-Spannmål;Spannmål;Tullväsen;Livsmedel;Livsmedel	  1
 Spannmål;Spannmålshandel;Exportförbud;Livsmedel;Livsmedel	  1
 Spannmål;Spannmålshandel;Import;Missväxt;Livsmedel;Livsmedel	  1
 Spannmål;Spannmålshandel;Tullväsen;Livsmedel;Livsmedel;Nationalekonomi;Ekonomiska förhållanden;Livsmedel	  1
 Spannmål;Spannmålsmagasin;Fattigvård;Fattiga	  1
+Spannmål;Spannmål;Spannmålsmagasin;Lador;Jordbruk;Sockenmagasin	  1
+Spannmål;Spannmål;Tullväsen;Livsmedel;Livsmedel	  1
 Spannmål;Tionde;Avrad;Barnhem;Barnhus;Sjukhus;Sjukhus	  1
 Spannmål;Tionde;Präster;Domkapitel;Ecklesiastikstatens avlöning;Livsmedel;Ecklesiastikstatens avlöning	  1
 Spannmål;Tulltaxa	  1
@@ -8916,12 +8922,6 @@ Spannmål;Undsättning;Spannmålsmagasin;Undsättning	  1
 Spannmål;Vete;Import;Tulltaxa;Livsmedel;Åkerbruksväxter	  1
 Spannmål;Vikt;Livsmedel	  1
 Spannmål;Volymmått	  1
-Spannmålshandel;Detaljhandel;Gatuförsäljning;Månglerskor	  1
-Spannmålshandel;Fiskhandel;Export;Import;Tullväsen;Livsmedel;Livsmedel	  1
-Spannmålshandel;Fiskhandel;Export;Import;Tullväsen;Sveriges och Norges förening;Sveriges och Norges förening	  1
-Spannmålshandel;Spannmål;Export;Tulltaxa;Livsmedel;Livsmedel	  1
-Spannmålshandel;Vikt;Mått, mål och vikt	  1
-Spannmålshandel;Vikt;Spannmål;Livsmedel	  1
 Sparbanker;Banker	  1
 Sparbanker;Bankväsen;Banklån;Domare;Sparbanker;Sparbanker	  1
 Sparbanker;Sparbanker	  1
@@ -8949,7 +8949,6 @@ Sportler;Sjöfart;Tulltjänstemän;Korruption;Ämbets- och tjänstemäns sportel
 Sportler;Tjänstmän;Ämbetsmän;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
 Språkundervisning;Skrivundervisning	  1
 Språkvård;Kanslispråk;Statliga myndigheter;Ämbetsverk;Protokoll;Protokoll	  1
-Stad;Stad	  1
 Städer;Borgare;Köpmän;Hantverk;Skatter;Intrång (skråväsen);Stad;Stad	  1
 Städer;Borgare;Soldater;Värnplikt;Stad;Beväringen;Stad	  1
 Städer;Borgmästare;Rang;Rang	  1
@@ -8970,6 +8969,7 @@ Stadsprivilegier;Städer;Borgare	  1
 Stadsprivilegier;Städer;Borgare;Manufakturer	  1
 Stadsprivilegier;Städer;Borgare;Manufakturer;Stad;Stad	  1
 Stadsprivilegier;Städer;Stad	  1
+Stad;Stad	  1
 Stadsvakter;Allmän ordning och säkerhet;Stad;Stad	  1
 Stadsvakter;Våld;Straff	  1
 Stålverk	  1
@@ -8999,14 +8999,14 @@ Stämplar;Stämpling;Handel;Varustämpling;Varustämpling	  1
 Stämplar;Stämpling;Varustämpling;Varustämpling	  1
 Stämplar;Tullväsen	  1
 Stämplar;Tyger;Ylle;Tullväsen;Vävnad;Vävnad	  1
-Stämpling (skogsbruk);Ek;Ek	  1
-Stämpling (skogsbruk);Skogsbruk;Ek;Ek	  1
 Stämpling;Acciser;Spinnerier;Manufakturer;Hallrätter;Tobak;Tobak	  1
 Stämpling;Charta sigillata;Charta sigillata	  1
 Stämpling;Guld;Silver;Tenn;Smideshantverk;Guldstämplar;Silverstämplar;Stämplar;Metallkontroller;Metallkontroller	  1
 Stämpling;Hallrätter;Socker;Livsmedel;Socker	  1
 Stämpling;Hantverk;Bedrägeri;Manufakturer;Hallrätter;Varustämpling;Varustämpling	  1
 Stämpling;Manufakturer;Varustämpling;Varustämpling	  1
+Stämpling (skogsbruk);Ek;Ek	  1
+Stämpling (skogsbruk);Skogsbruk;Ek;Ek	  1
 Stämpling;Stämplar;Guldstämplar;Silverstämplar;Guld;Silver;Tenn;Metaller;Metallkontroller;Metallkontroller	  1
 Stämpling;Stämplar;Varustämpling;Varustämpling	  1
 Stämpling;Tobakshandel;Manufakturer;Spinning;Hallrätter;Tobak;Tobak	  1
@@ -9142,15 +9142,15 @@ Storskifte;Lantbruk;Jordreformer;Lantmäteriverket	  1
 Storskifte;Lantbruk;Lantbruk;Jordreformer	  1
 Storskifte;Lantbruksekonomi	  1
 Straff;Absolution;Fängelsestraff;Kyrkoplikt	  1
+Straffarbete;Fångar	  1
+Straffarbete;Fästningar;Fångvården;Fångvården	  1
 Straff;Böter;Laglydnad;Laglydnad	  1
 Straff;Kyrkoplikt;Kyrkoplikt	  1
 Straff;Straffarbete;Böter;Alkohollagstiftning;Brännvin;Brännvin	  1
 Straff;Straffarbete;Soldater	  1
-Straffarbete;Fångar	  1
-Straffarbete;Fästningar;Fångvården;Fångvården	  1
+Strömmingsfiske	  1
 Strömming;Strömmingsfiske;Fiske;Fiske	  1
 Strömming;Strömmingsfiske;Saltning;Konservering (livsmedel);Fiske;Fisk;Fisk	  1
-Strömmingsfiske	  1
 Strumpor;Kläder;Textilier;Varutillverkning	  1
 Studenter;Betyg;Utbildning;Universitet;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Studenter;Skuldsättning;Skuldfordring;Skuldfordring	  1
@@ -9169,17 +9169,32 @@ Suppliker;Garverier;Bränder;Insamlingar;Skinnvaror;Skinnvaror	  1
 Suppliker;Överklagande;Domstolar;Ansöknings- och besvärsskrifter;Ansöknings- och besvärsskrifter	  1
 Suppliker;Rättegång;Rättegång	  1
 Svärd;Blankvapen;Vapen	  1
-Svärd;Värjor;Vapen;Intrång (skråväsen)	  1
 Svärdsorden;Ordensväsen;Officerare;Ordenstecken;Ordnar	  1
+Svärd;Värjor;Vapen;Intrång (skråväsen)	  1
 Svavel;Bergs- och brukshanteringen	  1
 Svedjebruk	  1
 Svedjebruk;Domstolar;Skogshushållning;Skogshushållning	  1
 Svedjebruk;Skogshushållning;Skogshushållning	  1
+Svenska	  1
+Svenska fångar;Kyrkor;Insamlingar;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
+Svenska fångar;Sjömän;Fångenskap	  1
+Svenska krigsfångar	  1
+Svenska krigsfångar;Officerare;Pommerska kriget 1757-1762;Fångenskap;Fångenskap	  1
+Svenska kyrkan.;Riksdagsmannaval;Riksdagen 1771-1772;Prästeståndet	  1
+Svenska medborgare;Ryska medborgare	  1
+Svenska resenärer;Svenska resenärer	  1
+Svenskar i utlandet	  1
+Svenskar i utlandet;Resande;Resande	  1
+Svenskar i utlandet;Resenärer;Amnesti;Soldater;Resande;Resande	  1
+Svenskar;Napoleonkrigen 1800-1815;Resande;Resande	  1
+Svenskar;Norrmän;Ryssar;Ryssar;Resenärer;Resande	  1
+Svenskar;Svenskar;Resande	  1
+Svenska språket;Engelska språket	  1
+Svenska språket;Tyska språket	  1
 Svensk litteratur	  1
 Svensk matlagning;Livsmedel;Bakning;Kokböcker	  1
 Svensk matlagning;Livsmedel;Kokböcker	  1
 Svensk matlagning;Trädgårdsskötsel;Kokböcker;Livsmedel	  1
-Svensk teckningskonst	  1
 Svensk-norska unionen 1814-1905;Böner;Freds- och förbundsslut;Tacksägelser;Freds- och förbundsslut	  1
 Svensk-norska unionen 1814-1905;Brottslingar;Utlämning;Sveriges och Norges förening;Sveriges och Norges förening	  1
 Svensk-norska unionen 1814-1905;Ceremonier;Sveriges och Norges förening;Sveriges och Norges förening	  1
@@ -9189,31 +9204,16 @@ Svensk-norska unionen 1814-1905;Pensioner;Sveriges och Norges förening;Sveriges
 Svensk-norska unionen 1814-1905;Sjöfart;Handel;Handelssjöfart;Mellanrikslagar;Sveriges och Norges förening;Sveriges och Norges förening	  1
 Svensk-norska unionen 1814-1905;Sjöfart;Handelssjöfart;Tullväsen;Handel;Sveriges och Norges förening;Sveriges och Norges förening	  1
 Svensk-norska unionen 1814-1905;Sveriges och Norges förening;Sveriges och Norges förening	  1
-Svenska	  1
-Svenska fångar;Kyrkor;Insamlingar;Kollekt- och stamboksmedel;Kollekt- och stamboksmedel	  1
-Svenska fångar;Sjömän;Fångenskap	  1
-Svenska krigsfångar	  1
-Svenska krigsfångar;Officerare;Pommerska kriget 1757-1762;Fångenskap;Fångenskap	  1
-Svenska kyrkan.;Riksdagsmannaval;Riksdagen 1771-1772;Prästeståndet	  1
-Svenska medborgare;Ryska medborgare	  1
-Svenska resenärer;Svenska resenärer	  1
-Svenska språket;Engelska språket	  1
-Svenska språket;Tyska språket	  1
-Svenskar i utlandet	  1
-Svenskar i utlandet;Resande;Resande	  1
-Svenskar i utlandet;Resenärer;Amnesti;Soldater;Resande;Resande	  1
-Svenskar;Napoleonkrigen 1800-1815;Resande;Resande	  1
-Svenskar;Norrmän;Ryssar;Ryssar;Resenärer;Resande	  1
-Svenskar;Svenskar;Resande	  1
+Svensk teckningskonst	  1
+Sverige.	  1
 Sverige;Danmark	  1
 Sverige;Dragoner;Adel;Präster;Ämbetsmän;Tjänstemän	  1
 Sverige;Finland	  1
-Sverige;Lantbruk	  1
-Sverige;Tyskland	  1
-Sverige.	  1
 Sverige.;Justitiekansler;Justitiekansler	  1
-Sverige.;Vadstena;Borgarståndet	  1
+Sverige;Lantbruk	  1
 Sveriges och Norges förening;Sveriges och Norges förening	  1
+Sverige;Tyskland	  1
+Sverige.;Vadstena;Borgarståndet	  1
 Svin;Husdjur;Sjukdomar;Allmän ordning och säkerhet	  1
 Svordomar;Mord;Äktenskapsbrott;Fylleri;Skogar;Skogsbruk;Skogsvård;Avverkning;Humle;Lantbruket	  1
 Swedenborgare	  1
@@ -9225,11 +9225,11 @@ Tågvirke;Fartyg	  1
 Tågvirke;Fartyg;Textilier	  1
 Tågvirke;Textilier;Brännvin;Alkohollagstiftning;Ljus (stearin-, vax-etc);Import;Tulltaxa;Vävnad;Vävnad	  1
 Tågvirke;Textilier;Ljus (stearin-, vax-etc);Import;Tulltaxa;Vävnad;Vävnad	  1
+Tal;Ceremonier;Kungliga intåg	  1
+Tal;Ordensväsen	  1
 Tal (retorik);Riksdagen 1800	  1
 Tal (retorik);Svensk-norska unionen 1814-1905	  1
 Tal (retorik);Tal	  1
-Tal;Ceremonier;Kungliga intåg	  1
-Tal;Ordensväsen	  1
 Tal;Tacksägelser;Tal	  1
 Tält;Officerare;Lantmilitiens utredning;Lantmilitiens utredning	  1
 Tangentinstrument	  1
@@ -9239,7 +9239,6 @@ Taxering;Skatter;Tjänstemän;Gärder;Gärder	  1
 Taxering;Skatter;Tjänstemän;Räkenskaper	  1
 Taxor och avgifter;Lagar	  1
 Taxor och avgifter;Manufakturer;Tulltaxa;Skatter;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
-Te;Krogar;Skatter	  1
 Teater;Opera;Persontransporter;Trafikbrott;Allmän ordning och säkerhet	  1
 Teater;Vagnar;Allmän ordning och säkerhet	  1
 Teatrar;Teaterpublik;Allmän ordning och säkerhet	  1
@@ -9251,6 +9250,7 @@ Teknik;Hushåll	  1
 Teknik;Lantbruksredskap	  1
 Tekniska högskolor;Teknologiska institutet	  1
 Tekniska innovationer;Teknikhistoria	  1
+Te;Krogar;Skatter	  1
 Tenn;Guldsmeder;Silversmeder;Änkor;Gesäller;Varutillverkning;Varutillverkning	  1
 Tenn;Stämplar;Kvalitetskontroll;Metallkontroller;Metallkontroller	  1
 Teologi;Avhandlingar;Hädelse;Heresier;Censur;Universitet	  1
@@ -9298,8 +9298,8 @@ Textilier;Tyger;Siden;Manufakturer;Stämpling;Vävnad;Vävnad	  1
 Textilier;Tyger;Varutillverkning;Juridik;Varutillverkning	  1
 Textilier;ull -bearbetning	  1
 Textilindustri;Kardning;Ull;Ull	  1
-Textilindustri;Tyger;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
 Textilindustri;Tyger;Manufakturer;Varutillverkning;Varutillverkning	  1
+Textilindustri;Tyger;Manufaktur- och ulldiskontfonderna;Manufaktur- och ulldiskontfonderna	  1
 Textilindustri;Tyger;Textilier;Längdmått;Vävnad	  1
 Textilindustri;Tyger;Textilier;Vävnad	  1
 Theology	  1
@@ -9318,13 +9318,13 @@ Tiggeri;Barn	  1
 Tiggeri;Fattigvård	  1
 Tiggeri;Fattigvård;Arbetshus	  1
 Tiggeri;Tiggare;Poliser	  1
-Timmer;Timmer;Skuldsättning;Nationalekonomi;Ekonomiska förhållanden;Handel;Skogseffekter;Skogseffekter	  1
 Timmermän;Hantverkare;Krigsmakten till sjöss;Krigsmakten till sjöss	  1
 Timmermän;Hantverkare;Varvsanläggningar;Krigsmakten till sjöss	  1
+Timmer;Timmer;Skuldsättning;Nationalekonomi;Ekonomiska förhållanden;Handel;Skogseffekter;Skogseffekter	  1
 Ting (juridik);Arvsrätt;Bönder;Präster;Arvs- och giftorätt;Arvs- och giftorätt	  1
 Ting (juridik);Domar;Rättegångshandlingar;Protokoll	  1
-Tingsrätter;Fastighet;Fastighet	  1
 Tingsrätter;Fastigheter;Inteckning;Fastighet;Fastighet	  1
+Tingsrätter;Fastighet;Fastighet	  1
 Tingsrätter;Häradsrätter;Nämndemän;Nämndeman;Nämndeman	  1
 Tionde;Avrad;Räntor och tionde;Nationalekonomi;Ekonomiska förhållanden;Skatter;Räntor och tionde	  1
 Tionde;Avrad;Skatter;Missväxt;Spannmål;Räntor och tionde;Räntor och tionde	  1
@@ -9365,7 +9365,6 @@ Tjänstefolk;Tjänstemän;Ämbetsmän;Hovstaten;Hovstaten	  1
 Tjänstefolk;Utskrivning (militärväsen);Soldater;Stora nordiska kriget 1700-1721	  1
 Tjänstefolk;Vaktmästare	  1
 Tjänstemän	  1
-Tjänstemän;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Tjänstemän;Ämbetsmän;Änkor;Barn;Pensioner;Pensionskassor;Änke- och pupillkassor;Civilstatens pensionsinrättning;Civilstatens pensionsinrättning	  1
 Tjänstemän;Ämbetsmän;Änkor;Pensioner;Barn;Änke- och pupillkassor;Stockholms stads tjänstemäns änke- och pupillkassa;Stockholms stads tjänstemäns änke- och pupillkassa	  1
 Tjänstemän;Ämbetsmän;Jurister;Domstolar;Sportler;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
@@ -9381,6 +9380,7 @@ Tjänstemän;Ämbetsmän;Pensioner;Civilstatens pensionsinrättning;Pensionskass
 Tjänstemän;Ämbetsmän;Pensioner;Pensionsålder;Förtidspension;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Tjänstemän;Ämbetsmän;Pensioner;Pensionskassor;Civilstatens pensionsinrättning;Civilstatens pensionsinrättning	  1
 Tjänstemän;Ämbetsmän;Rättegångar;Advokater;Advokat	  1
+Tjänstemän;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Tjänstemän;Brott;Lotteri;Lotteri	  1
 Tjänstemän;Fordran;Skuldsättning	  1
 Tjänstemän;Jurister;Domstolar;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
@@ -9419,9 +9419,9 @@ Tjänstetillsättningar;Officerare;Tjänstemän;Lantmilitiestaten;Lantmilitiesta
 Tjänstetillsättningar;Officerare;Traktamenten;Rättegångsverken;Krigsrätter;Rättegångsverken	  1
 Tjänstetillsättningar;Skogar;Skogsbruk;Kronoparker;Kungsgårdar;Viltvård;Jakt;Skogs- och jägeristaten	  1
 Tjänstetillsättningar;Skogar;Skogsbruk;Kronoparker;Kungsgårdar;Viltvård;Jakt;Skogs- och jägeristaten;Skogs- och jägeristaten	  1
-Tjänstetillsättningar;Tjänstemän;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Tjänstetillsättningar;Tjänstemän;Ämbetsmän;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Tjänstetillsättningar;Tjänstemän;Ämbetsmän;Jurister;Domstolar;Ämbetsverk;Rättegångsverken;Rättegångsverken	  1
+Tjänstetillsättningar;Tjänstemän;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Tjänstetillsättningar;Tjänstemän;Rangordning;Ämbets- och tjänstemän;Ämbets- och tjänstemän	  1
 Tjänstetillsättningar;Tjänstemän;Suppliker;Överklagande	  1
 Tjära	  1
@@ -9430,23 +9430,14 @@ Tjära;Privilegier;Tjära	  1
 Tjära;Tjära	  1
 Tobak;Åkerbruksväxter	  1
 Tobak;Detaljhandel	  1
-Tobak;Stämplar;Manufakturer;Hallrätter;Tobak;Tobak	  1
-Tobak;Tobakshandel	  1
-Tobak;Tobakshandel;Intrång (skråväsen)	  1
-Tobak;Tobakshandel;Njutningsmedel;Tobak;Tobak	  1
-Tobak;Tobakshandel;Tobaksindustri;Manufakturer;Spinning;Intrång (skråväsen)	  1
-Tobak;Tobaksodling	  1
-Tobak;Tullfrihet;Tobak	  1
-Tobak;Tullväsen;Stämpling;Socker;Livsmedel;Socker;Socker	  1
-Tobak;Utrikeshandel;Manufakturer;Socker;Socker	  1
 Tobakshandel;Detaljhandel;Import;Tobak;Tobak	  1
 Tobakshandel;Detaljhandel;Import;Tullväsen;Tobak	  1
 Tobakshandel;Handelskompanier;Privilegier;Detaljhandel;Tobak;Tobak	  1
+Tobakshandel;Importförbud;Tobak;Njutningsmedel;Tobak;Tobak	  1
 Tobakshandel;Import;Privilegier;Sjömän;Sjöofficerare;Tobak;Tobak	  1
 Tobakshandel;Import;Privilegier;Tobak;Tobak	  1
 Tobakshandel;Import;Tobak	  1
 Tobakshandel;Import;Tobak;Tobak	  1
-Tobakshandel;Importförbud;Tobak;Njutningsmedel;Tobak;Tobak	  1
 Tobakshandel;Monopol;Skråväsen	  1
 Tobakshandel;Privilegier;Handelskompanier;Tobak;Tobak	  1
 Tobakshandel;Privilegier;Marknader;Lagtolkning;Borgare;Bedrägeri;Tobak;Tobak	  1
@@ -9463,11 +9454,20 @@ Tobaksodling;Växtfärger	  1
 Tobakspipor;Tobak;Tobak	  1
 Tobaksrökning;Brandsäkerhet;Brandförsvar;Tobak	  1
 Tobaksrökning;Ungdomar;Tobak;Tobak	  1
+Tobak;Stämplar;Manufakturer;Hallrätter;Tobak;Tobak	  1
+Tobak;Tobakshandel	  1
+Tobak;Tobakshandel;Intrång (skråväsen)	  1
+Tobak;Tobakshandel;Njutningsmedel;Tobak;Tobak	  1
+Tobak;Tobakshandel;Tobaksindustri;Manufakturer;Spinning;Intrång (skråväsen)	  1
+Tobak;Tobaksodling	  1
+Tobak;Tullfrihet;Tobak	  1
+Tobak;Tullväsen;Stämpling;Socker;Livsmedel;Socker;Socker	  1
+Tobak;Utrikeshandel;Manufakturer;Socker;Socker	  1
 Tolkar;Ryska köpmän;Handel	  1
 Torg	  1
-Torg;Stad	  1
 Torghandel;Gatuförsäljning;Detaljhandel;Frukt;Grönsaker;Vikt	  1
 Torghandel;Månglerskor;Bönder;Allmän ordning och säkerhet	  1
+Torg;Stad	  1
 Torkning av livsmedel;Livsmedel	  1
 Torneringar;Karuseller (offentliga fester);Offentliga fester	  1
 Torsång	  1
@@ -9492,9 +9492,9 @@ Trädgårdsskötsel;Kryddväxter	  1
 Trädgårdsskötsel;Livsmedel	  1
 Trädgårdsskötsel;Skråväsen;Lärlingar;Trädgårdsmästare;Gesäller;Varutillverkning;Varutillverkning	  1
 Trädgårdsskötsel;Träd;Buskar;Prydnadsväxtodling	  1
-Trädgårdsskötsel;Träd;Lantbruket;Lantbruket	  1
 Trädgårdsskötsel;Trädgårdsodling	  1
 Trädgårdsskötsel;Trädgårdsodling;Kryddväxter	  1
+Trädgårdsskötsel;Träd;Lantbruket;Lantbruket	  1
 Trädgårdsskötsel;Växtodling;Hushåll;Livsmedel;Åkerbruksväxter;Rotfrukter	  1
 Trädgårdsväxter;Grönsaker;Detaljhandel;Gatuförsäljning	  1
 Trädgårdsväxter;Grönsaker;Detaljhandel;Torghandel;Månglerskor;Gatuförsäljning	  1
@@ -9512,16 +9512,16 @@ Traktamenten;Skjutsväsen;Tjänstemän;Ämbetsmän;Redovisning;Statsverket;Stats
 Traktamenten;Skjutsväsen;Tjänstemän;Ämbetsmän;Sportler;Ämbets- och tjänstemäns sportelinkomster	  1
 Traktamenten;Skutsväsen;Tjänstemän;Ämbetsmän;Officerare;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
 Traktamenten;Sportler;Tjänstemän;Ämbetsmän;Ämbets- och tjänstemäns sportelinkomster;Ämbets- och tjänstemäns sportelinkomster	  1
-Traktater;Handel;Sjöfart;Utrikespolitik;Skeppshandlingar;Skeppshandlingar	  1
 Traktater;Handelsförbindelser;Handelsavtal	  1
 Traktater;Handelsförbindelser;Handelsavtal;Handelssjöfart;Utrikespolitik;Handelstraktater;Handelstraktater	  1
 Traktater;Handelsförbindelser;Handelsavtal;Handelstraktater;Handelstraktater	  1
+Traktater;Handel;Sjöfart;Utrikespolitik;Skeppshandlingar;Skeppshandlingar	  1
 Traktater;Traktater	  1
+Tranchering	  1
 Tran;Export;Tulltaxa;Varuskatt;Varuskatt	  1
 Tran;Handel;Premier (merkantilismen);Stapelstäder;Varutransport;Varutransport	  1
 Tran;Hushåll	  1
 Tran;Importförbud;Varutransport;Varutransport	  1
-Tranchering	  1
 Transporter;Allmän ordning och säkerhet	  1
 Transporter;Charta sigillata	  1
 Transporter;Sjöfart;Bedrägeri;Tulltaxa;Stapelstäder;Kaffe och te;Livsmedel;Kaffe;Kaffe och te	  1
@@ -9551,6 +9551,8 @@ Trettioåriga kriget 1618-1648;Riksdagen 1644;Dansk-svenska kriget 1643-1645;Kri
 Trettioåriga kriget 1618-1648;Slaget vid Wittstock 1636;Böner;Tacksägelser;Krig	  1
 Trettioåriga kriget 1618-1648;Trettioåriga kriget 1618-1648;Slaget vid Lützen 1632	  1
 Trindsäd, s. 413-437;Lantbruk;Jordbrukslära;Åkerbruksväxter;Råg;Korn;Trindsäd	  1
+Troféer (militära segertecken);Krigsbyten	  1
+Trolovning;Soldater;Kyrkosång;Diplomati	  1
 Tro- och huldhetseder;Ämbetseder;Auditörer;Eder	  1
 Tro- och huldhetseder;Ämbetseder;Eder;Cirkulär;Eder	  1
 Tro- och huldhetseder;Ämbetseder;Eder;Eder	  1
@@ -9558,8 +9560,6 @@ Tro- och huldhetseder;Apotekare	  1
 Tro- och huldhetseder;Borgare;Eder	  1
 Tro- och huldhetseder;Ceremonier;Offentliga fester;Riksdagen 1771-1772;Eder	  1
 Tro- och huldhetseder;Eder;Ämbetsmän;Tjänstemän;Eder	  1
-Troféer (militära segertecken);Krigsbyten	  1
-Trolovning;Soldater;Kyrkosång;Diplomati	  1
 Trosbekännelsen;Furstliga personer	  1
 Tröskmaskiner	  1
 Tryckerier;Boktryckerier;Almanackor;Almanack	  1
@@ -9595,6 +9595,7 @@ Tulltaxa;Handelssjöfart;Import;Export;Varuskatt;Varuskatt	  1
 Tulltaxa;Haverier;Vävnad;Vävnad	  1
 Tulltaxa;Import;Export;Skatter;Varuskatt;Varuskatt	  1
 Tulltaxa;Import;Export;Varuskatt;Varuskatt	  1
+Tulltaxa;Importförbud;Manufakturer;Socker;Socker	  1
 Tulltaxa;Import;Handelskompanier;Ostindiska kompanier;Ostindiska handeln;Ostindiska handeln	  1
 Tulltaxa;Import;Handelssjöfart;Varuskatt;Varuskatt	  1
 Tulltaxa;Import;Import;Export;Export;Varuskatt;Varuskatt	  1
@@ -9610,7 +9611,6 @@ Tulltaxa;Import;Utrikeshandel;Ostindiska handeln;Ostindiska handeln	  1
 Tulltaxa;Import;Varutransport;Varutransport	  1
 Tulltaxa;Import;Vikt;Varuskatt	  1
 Tulltaxa;Import;Vikt;Varutransport;Varutransport	  1
-Tulltaxa;Importförbud;Manufakturer;Socker;Socker	  1
 Tulltaxa;Jordbruksprodukter;Allmogeslöjd;Bönder;Sveriges och Norges förening;Sveriges och Norges förening	  1
 Tulltaxa;Kalksten;Kalk;Kalk	  1
 Tulltaxa;Läkemedel;Apotekare;Apotekare	  1
@@ -9729,19 +9729,19 @@ Tullväsen;Sjöpass;Handelssjöfart;Handel;Handel	  1
 Tullväsen;Skatter;Acciser	  1
 Tullväsen;Skatter;Acciser;Tullverket	  1
 Tullväsen;Skatter;Stämpling;Hallrätter;Tobak;Socker;Nationalekonomi;Ekonomiska förhållanden;Socker	  1
-Tullväsen;Skatter;Tobak;Socker	  1
-Tullväsen;Skatter;Tobak;Socker;Manufakturer;Socker;Socker	  1
 Tullväsen;Skatter;Tobakshandel;Monopol;Import;Smuggling;Tobak	  1
 Tullväsen;Skatter;Tobakshandel;Monopol;Import;Smuggling;Tobak;Tobak	  1
 Tullväsen;Skatter;Tobakshandel;Monopol;Import;Tobak	  1
+Tullväsen;Skatter;Tobak;Socker	  1
+Tullväsen;Skatter;Tobak;Socker;Manufakturer;Socker;Socker	  1
 Tullväsen;Skeppsmätning;Skeppsmätning	  1
 Tullväsen;Skråväsen;Varutransport;Varutransport	  1
 Tullväsen;Smuggling	  1
 Tullväsen;Smuggling;Bedrägeri;Konsulat;Konsul	  1
 Tullväsen;Smuggling;Bedrägeri;Varutransport	  1
 Tullväsen;Smuggling;Gränskontroll	  1
-Tullväsen;Smuggling;Import;Varutransport;Varutransport	  1
 Tullväsen;Smuggling;Importförbud;Tullverket	  1
+Tullväsen;Smuggling;Import;Varutransport;Varutransport	  1
 Tullväsen;Smuggling;Sjöpost;Varutransport;Varutransport	  1
 Tullväsen;Smuggling;Varutransport;Varutransport	  1
 Tullväsen;Socker;Tobak;Tobak	  1
@@ -9829,11 +9829,11 @@ Undervisning;Lantbruk	  1
 Undervisning;Naturvetenskap	  1
 Undervisning;Privilegier;Donationer (ekonomi);Universitet;Skolor	  1
 Undervisning;Privilegier;Universitet;Studenter	  1
+Undervisningsväsen	  1
+Undervisningsväsen;Universitet;Högskoleutbildning;Skolor;Konungens råd och kansli;Konungens råd och kansli	  1
 Undervisning;Undervisning	  1
 Undervisning;Undervisning;Lantbruk	  1
 Undervisning;Växelundervisning;Folkskolan	  1
-Undervisningsväsen	  1
-Undervisningsväsen;Universitet;Högskoleutbildning;Skolor;Konungens råd och kansli;Konungens råd och kansli	  1
 Undsättning;Undsättning	  1
 Uniformer	  1
 Universitet;Domkapitel;Universitetsstäder;Städer;Rättegång;Jurisdiktion	  1
@@ -9856,9 +9856,9 @@ Uppror;Oroligheter	  1
 Uppror;Regering;Interimsregering	  1
 Uppror;Statskupper	  1
 Uppror;Statskupper;Oroligheter	  1
-Ur (tidmätare)	  1
 Urkundsförfalskning	  1
 Urns	  1
+Ur (tidmätare)	  1
 Utlämning;Utlämning;Desertörer;Brottslingar;Slavar;Konsulat;Sjöfart;Jus asyli	  1
 Utländska medborgare;Främlingar;Våld;Våldsbrott	  1
 Utländska medborgare;Handel;Ryska köpmän	  1
@@ -9874,8 +9874,8 @@ Utmätning;Förskingring;Tjänstemän;Ämbetsansvar;Utsökning;Utsökning	  1
 Utmätning;Traktamenten;Fogdar;Ämbets- och tjänstemäns sportelinkomster;Sportler;Ämbets- och tjänstemäns sportelinkomster	  1
 Utomäktenskapliga barn	  1
 Utomäktenskapliga barn;Barn	  1
-Utrikeshandel;Handel;Tullväsen;Varutransport;Varutransport	  1
 Utrikeshandel;Handelsbolag;Försäkring;Växlar (skuldförbindelser);Auktioner;Generalfaktoriet;Generalfaktoriet	  1
+Utrikeshandel;Handel;Tullväsen;Varutransport;Varutransport	  1
 Utrikeshandel;Import;Tullväsen;Spannmål;Livsmedel;Sädesslag;Livsmedel	  1
 Utrikeshandel;Sjöfart;Handel;Stapelstäder;Levantiska handeln;Levantiska handeln	  1
 Utrikeshandel;Tullväsen;Varutransport;Varutransport	  1
@@ -9900,7 +9900,6 @@ Väderleksprognoser;Meteorologi	  1
 Vadstena adliga jungfrustift	  1
 Vadstena adliga jungfrustift;Vadstena adliga jungfrustift	  1
 Vadstena krigsmanshus;Vadstena krigsmanshus	  1
-Väg- och gatunamn;Skyltning	  1
 Vågar;Arbetare	  1
 Vågar;Broar;Hamnar	  1
 Vägar;Broar;Hamnar;Farleder;Väg;Väg	  1
@@ -9917,45 +9916,46 @@ Vägbeläggningar;Gator	  1
 Vagnar;Skatter;Hästar	  1
 Vagnar;Slädar;Levnadssätt;Överflödsförordningar;Levnadssätt	  1
 Vagnar;Stämpling;Överflödsförordningar	  1
+Väg- och gatunamn;Skyltning	  1
 Vägunderhåll;Väg;Väg	  1
-Val (statsvetenskap);Borgmästare;Rådmän;Städer;Magistrater;Rättegångsverken;Rättegångsverken	  1
-Val (statsvetenskap);Valfusk	  1
-Val;Städer;Borgmästare;Rådmän;Sekreterare;Rättegångsverken;Rättegångsverken	  1
-Våld i familjen;Våldsbrott;Domstolar;Straff;Övervåld	  1
-Våld i familjen;Våldsbrott;Domstolar;Straff;Övervåld;Övervåld	  1
 Våld;Dueller;Duell	  1
 Våld;Dueller;Duell;Duell	  1
 Våld;Dueller;Straff;Dödsstraff;Böter;Förolämpningar;Adel;Duell;Duell	  1
 Våld;Dueller;Straff;Förolämpningar	  1
 Våld;Dueller;Straff;Förolämpningar;Duell;Duell	  1
-Våld;Främlingar;Våldsbrott;Utländska medborgare;Övervåld;Övervåld	  1
-Våld;Krigsartiklar;Krigsartiklar	  1
-Våld;Rättegångar;Krigsartiklar;Krigsartiklar	  1
-Våld;Soldater;Stora nordiska kriget 1700-1721;Krig;Värvning	  1
-Våld;Våldsbrott;Allmän ordning och säkerhet	  1
-Våld;Våldsbrott;Misshandel;Övervåld;Övervåld	  1
-Våld;Våldsbrott;Övervåld;Övervåld	  1
-Våld;Värvning;Värvning;Värvning	  1
 Valdenser;Insamlingar	  1
 Valdenser;Valdenser;Kristna heresier;Waldenses;Heresy	  1
+Våld;Främlingar;Våldsbrott;Utländska medborgare;Övervåld;Övervåld	  1
+Våld i familjen;Våldsbrott;Domstolar;Straff;Övervåld	  1
+Våld i familjen;Våldsbrott;Domstolar;Straff;Övervåld;Övervåld	  1
+Våld;Krigsartiklar;Krigsartiklar	  1
+Våld;Rättegångar;Krigsartiklar;Krigsartiklar	  1
 Våldsbrott	  1
 Våldsbrott;Domstolar;Nattvarden;Straff;Straff	  1
 Våldsbrott;Fridsbrott;Böter;Straff	  1
 Våldsbrott;Straff;Allmän ordning och säkerhet	  1
 Våldsbrott;Tulltjänstemän	  1
+Våld;Soldater;Stora nordiska kriget 1700-1721;Krig;Värvning	  1
+Våld;Våldsbrott;Allmän ordning och säkerhet	  1
+Våld;Våldsbrott;Misshandel;Övervåld;Övervåld	  1
+Våld;Våldsbrott;Övervåld;Övervåld	  1
+Våld;Värvning;Värvning;Värvning	  1
 Välgörenhet;Fattigvård;Fattigvården;Tacksägelser;Fattigvården	  1
 Vallningsorganisation;Pojkar;Kvinnor;Tidelag	  1
 Vallningsorganisation;Tidelag;Lantbruk;Tidelag	  1
 Vallväxter;Växtodling;Växtodling	  1
+Val;Städer;Borgmästare;Rådmän;Sekreterare;Rättegångsverken;Rättegångsverken	  1
+Val (statsvetenskap);Borgmästare;Rådmän;Städer;Magistrater;Rättegångsverken;Rättegångsverken	  1
+Val (statsvetenskap);Valfusk	  1
 Valutaflöde;Penningväsen;Guldmynt;Silvermynt;Kopparmynt;Guldsmide;Silversmide;Mynt;Mynt	  1
 Valutaflöde;Penningväsen;Guldmynt;Silvermynt;Kopparmynt;Mynt;Mynt	  1
 Valutaflöde;Penningväsen;Penningvärde;Mynt	  1
 Valutaflöde;Penningväsen;Penningvärde;Mynt;Mynt	  1
 Valutautflöde;Penningväsen;Guldsmide;Silversmide;Mynt;Mynt	  1
 Vapen	  1
-Vapen;Vapen;Artilleri	  1
 Vapenlagstiftning;Skjutvapen;Vapen;Vapen	  1
 Vapenmärken;Begravningsseder	  1
+Vapen;Vapen;Artilleri	  1
 Varangians	  1
 Vargering;Mönstring (militärväsen)	  1
 Värjor;Boktryckare;Vapen;Vapen	  1
@@ -9963,9 +9963,9 @@ Värjor;Privilegier;Svärd;Handel	  1
 Värjor;Vapen	  1
 Världshistoria	  1
 Värnplikt;Beväringen;Beväring	  1
+Värnpliktiga;Domstolar;Beväringen;Beväring;Beväring	  1
 Värnplikt;Pensioner;Beväringen	  1
 Värnplikt;Soldater;Beväringen;Beväring;Mönstring (militärväsen);Beväring	  1
-Värnpliktiga;Domstolar;Beväringen;Beväring;Beväring	  1
 Varuskatt;Varuskatt	  1
 Varutillverkning	  1
 Varutillverkning;Skråväsen;Varutillverkning	  1
@@ -9986,25 +9986,25 @@ Vattenkemi	  1
 Väverier;Tyger;Vävnad;Vävnad	  1
 Vävnad;Tyger;Export;Siden;Premier (merkantilismen);Nationalekonomi;Ekonomiska förhållanden;Handel;Textilier;Vävnad	  1
 Vävnad;Vävnad	  1
-Växelkurs;Penningvärde;Växlar (skuldförbindelser);Växelkurs;Växelkurs	  1
 Växelkurser;Myntfot;Penningväsen;Växelkurs;Växelkurs	  1
 Växelkurser;Penningväsen	  1
 Växelkurser;Penningväsen;Straff;Straff	  1
 Växelkurser;Penningväsen;Växelkurs;Växelkurs	  1
 Växelkurser;Växelkurs;Växelkurs	  1
 Växelkurser;Växlar (skuldförbindelser);Penningväsen;Växel;Växel	  1
+Växelkurs;Penningvärde;Växlar (skuldförbindelser);Växelkurs;Växelkurs	  1
 Växelundervisning	  1
 Växelundervisning;Folkskolan	  1
 Växelundervisning;Folkundervisning	  1
 Vaxer;Vaxljus;Importförbud;Privilegier;Varutransport;Varutransport	  1
 Växjö stift	  1
+Växlar;Penningväsen;Rättegångar;Växel;Överklagande;Växel	  1
 Växlar (skuldförbindelser)	  1
 Växlar (skuldförbindelser);Bankväsen;Penningväsen;Växel;Växel	  1
 Växlar (skuldförbindelser);Penningväsen	  1
 Växlar (skuldförbindelser);Penningväsen;Riksdagen 1668;Växel;Växel	  1
 Växlar (skuldförbindelser);Penningväsen;Utländska medborgare;Växel;Växel	  1
 Växlar (skuldförbindelser);Sjörätt;Rättegång;Rättegång	  1
-Växlar;Penningväsen;Rättegångar;Växel;Överklagande;Växel	  1
 Vaxljus;Varutillverkning;Varutillverkning	  1
 Växtfärger;Lavar;Tulltaxa;Export;Varuskatt;Varuskatt	  1
 Växtfärgning;Silke;Lantbruk;Manufakturer;Silkesmaskodling;Premier (merkantilismen);Lantbruket;Åkerbruksväxter;Färgväxter (aspekt: odling och insamling);Lantbruket	  1
@@ -10014,8 +10014,8 @@ Växtodling;Åkerbruksväxter;Bomull;Manchenilleträdet	  1
 Växtodling;Åkerbruksväxter;Tobak	  1
 Växtodling;Botanik;Färgväxter	  1
 Växtodling;Färgväxter	  1
-Växtodling;Frukt;Tullväsen;Frukthandel;Varutransport;Varutransport	  1
 Växtodling;Frukthandel;Frukt;Varutransport;Varutransport	  1
+Växtodling;Frukt;Tullväsen;Frukthandel;Varutransport;Varutransport	  1
 Växtodling;Humle	  1
 Växtodling;Klöver;Lucernes	  1
 Växtodling;Lantbruket;Potatis;Lantbruket	  1

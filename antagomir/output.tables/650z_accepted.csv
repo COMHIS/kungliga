@@ -227,15 +227,15 @@ Småland;Kalmar län	   2
 Småland;Kalmar;Småland;Kalmar;Småland	   2
 Södermanland	   2
 Södermanland;Eskilstuna;Södermanland;Eskilstuna;Södermanland;Eskilstuna;Södermanland;Eskilstuna	   2
-Södermanland;Södermanland	   2
 Södermanlands län;Södermanland;Södermanlands län;Södermanland	   2
+Södermanland;Södermanland	   2
 Spanien	   2
 Stockholm;Finland	   2
 Stockholm;Finland;Åbo	   2
 Stockholm;Göteborg	   2
+Stockholms län;Uppland	   2
 Stockholm;Stockholm;Stockholm;Stockholm	   2
 Stockholm;Stockholm;Stockholm;Sverige;Stockholm;Stockholm;Stockholm	   2
-Stockholms län;Uppland	   2
 Storbritannien;Storbritannien	   2
 Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän	   2
 Sverige;Danmark;Sverige;Danmark;Sverige;Danmark	   2
@@ -297,10 +297,10 @@ Barbareskstaterna;Marocko	   1
 Barbareskstaterna;Neapel;Sicilien	   1
 Barbareskstaterna;Ottomanska riket	   1
 beredning	   1
-Blekinge län;1800-talet;Blekinge län;1800-talet;Blekinge;Blekinge	   1
-Blekinge län;Blekinge;Blekinge län;Blekinge	   1
 Blekinge;Blekinge	   1
 Blekinge;Karlskrona	   1
+Blekinge län;1800-talet;Blekinge län;1800-talet;Blekinge;Blekinge	   1
+Blekinge län;Blekinge;Blekinge län;Blekinge	   1
 Blekinge;Sverige	   1
 Blekinge;Sverige;Blekinge;Sverige;Blekinge;Sverige;Blekinge län	   1
 Bohuslän	   1
@@ -311,11 +311,11 @@ Dalälven	   1
 Dalarna;Älvdalen	   1
 Dalarna;Dalarna;Dalarna	   1
 Dalarna;Kopparbergs län	   1
+Dalarnas län;Dalarna;Dalarnas län;Dalarna	   1
+Dalarnas län;Dalarnas län	   1
 Dalarna;Sverige;Dalarna	   1
 Dalarna;Sverige;Dalarna;sverige	   1
 Dalarna;Västmanland	   1
-Dalarnas län;Dalarna;Dalarnas län;Dalarna	   1
-Dalarnas län;Dalarnas län	   1
 Dalsland;Älvsborgs län	   1
 Dalsland;Sverige	   1
 Dalsland;Västergötland;Älvsborgs län	   1
@@ -342,18 +342,18 @@ Finland;Finland;Västra Finlands län	   1
 Finland;Gotland	   1
 Finland;Karelen;Finland;Karelen	   1
 Finland;Karelen;Finland;Karelen;Finland;Karelen	   1
-Finland;Kymmene län	   1
 Finland;Kymmenegårds län;Finland;Nyslott	   1
+Finland;Kymmene län	   1
 Finland;Lovisa	   1
 Finland;Nådendal	   1
 Finland;Nyland;Finland;Nyland	   1
 Finland;Nyland;Kyrkslätt	   1
-Finland;Nyland;Tavastland	   1
 Finland;Nylands län	   1
 Finland;Nylands och Tavastehus län	   1
 Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län	   1
 Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län	   1
 Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län	   1
+Finland;Nyland;Tavastland	   1
 Finland;Österbotten;Västerbotten	   1
 Finland;Sankt Michel	   1
 Finland;Savolax	   1
@@ -383,9 +383,9 @@ Frankrike;Hamburg;Bremen;Lübeck;Frankrike;Hamburg;Bremen;Lübeck;Frankrike;Hamb
 Frankrike;Paris;Frankrike;Paris;Frankrike;Paris;Frankrike;Paris	   1
 Gästrikland;Gävle;Gästrikland;Gävle	   1
 Gästrikland;Sverige;Sverige	   1
-Gävle;Gävle	   1
 Gävleborgs län;Gästrikland;Gävleborgs län;Hälsingland;Gävleborgs län;Gästrikland;Gävleborgs län;Hälsningland	   1
 Gävleborgs län;Hälsingland;Gävleborgs län;Hälsingland;Gävleborgs län;Hälsingland	   1
+Gävle;Gävle	   1
 Göteborg;Bohuslän	   1
 Göteborg;Göteborgs län;Bohuslän	   1
 Göteborg;Skåne	   1
@@ -393,14 +393,14 @@ Göteborgs och Bohus län;Bohuslän;Göteborgs och Bohus län;Bohuslän;Götebor
 Göteborgs och Bohus län;Hallands län	   1
 Gotland;Gotland;Gotland	   1
 Gotland;Gotland;Gotland;Visby	   1
+Gotlands län;Gotlands län;Gotlands län;Sverige	   1
 Gotland;Sverige;Gotland;Sverige;Gotland;Sverige;Gotland;Sverige	   1
 Gotland;Visby	   1
-Gotlands län;Gotlands län;Gotlands län;Sverige	   1
 Greece	   1
 Gyllenstierna, Christina	   1
+Hallands län;Halland;Göteborgs och Bohus län;Bohuslän	   1
 Halland;Sverige	   1
 Halland;Sverige;Halland	   1
-Hallands län;Halland;Göteborgs och Bohus län;Bohuslän	   1
 Hälsingland	   1
 Hälsingland;Bollnäs	   1
 Hälsingland;Hälsingland	   1
@@ -466,12 +466,12 @@ Lübeck	   1
 Madeira	   1
 Madeira;Kanarieöarna	   1
 Mälaren	   1
-Malmö;Sverige	   1
 Malmöhus län;Kristianstads län;Kronobergs län;Skåne;Småland	   1
 Malmöhus län;Malmöhus län	   1
 Malmöhus län;Skåne	   1
 Malmöhus län;Skåne;Malmöhus län;Skåne	   1
 Malmöhus län;Skåne;Skåne	   1
+Malmö;Sverige	   1
 Marocko;Barbareskstaterna	   1
 Mecklenburg-Schwerin	   1
 Medelpad;Jämtland	   1
@@ -499,9 +499,9 @@ Norrland;Sverige;Norrland	   1
 Norrland;Sverige;Norrland;Sverige	   1
 Norrland;Västerbottens län;Norrland;Västerbottens län	   1
 Norway.	   1
-Nyköping;Sverige	   1
 Nyköpings län;Södermanland	   1
 Nyköpings län;Södermanland;Nyköpings län;Södermanland;Nyköpings län;Södermanland;Nyköpings län;Södermanland	   1
+Nyköping;Sverige	   1
 Nyland;Finland;Tavastehus;Finland;Sverige	   1
 Oceanien	   1
 Öland	   1
@@ -567,11 +567,11 @@ Skåne;Sverige;Skåne;Skåne;Sverige	   1
 Skåne;Sverige;Skåne;Sverige;Skåne;Sverige	   1
 Skåne;Sverige;Sverige	   1
 Skåne;Ystad	   1
-Skaraborg;Sverige	   1
 Skaraborgs län	   1
 Skaraborgs län;Skaraborgs län;Skaraborgs län;Skaraborgs län	   1
 Skaraborgs län;Sverige;Skaraborgs Län	   1
 Skaraborgs län;Sverige;Skaraborgs län;Skaraborgs län	   1
+Skaraborg;Sverige	   1
 Småland;Jönköpings län	   1
 Småland;Kronobergs län	   1
 Småland;Småland	   1
@@ -581,13 +581,13 @@ Småland;Värend	   1
 Småland;Västergötland	   1
 Södermanland;Gripsholms län;Eskilstuna län;Södertörn	   1
 Södermanland;Nyköpings län	   1
+Södermanlands län;Nyköpings län	   1
+Södermanlands län;Södermanland	   1
+Södermanlands län;Södermanlands län;Södermanlands län;Södermanland;Södermanlands län;Södermanland	   1
 Södermanland;Södermanlands län	   1
 Södermanland;Stockholms län	   1
 Södermanland;Sverige	   1
 Södermanland;Sverige;Södermanland;Sverige	   1
-Södermanlands län;Nyköpings län	   1
-Södermanlands län;Södermanland	   1
-Södermanlands län;Södermanlands län;Södermanlands län;Södermanland;Södermanlands län;Södermanland	   1
 South Africa;Cape of Good Hope.	   1
 Spanien;Mallorca	   1
 Spanien;Portugal;Sachsen	   1
@@ -595,18 +595,18 @@ Stockholm;Finland;Borgå	   1
 Stockholm;Frankrike;Spanien	   1
 Stockholm;Göteborg;Karlskrona	   1
 Stockholm;Göteborg;Sverige;Sverige	   1
-Stockholm;Stockholm;Stockholm;Stockholm;Stockholm	   1
-Stockholm;Stockholm;Sverige	   1
-Stockholm;Stockholms län	   1
-Stockholm;Sverige;Stockholm;Stockholm;Stockholm;Stockholm;Stockholm	   1
-Stockholm;Sverige;Stockholm;Sverige	   1
-Stockholm;Sverige;Sverige	   1
 Stockholms län;Drottningholm;Sverige	   1
 Stockholms län;Stockholm	   1
 Stockholms län;Stockholms län;Stockholms län;Stockholms län	   1
 Stockholms län;Uppland;Stockholms län;Uppland	   1
 Stockholms skärgård;Finland	   1
 Stockholms skärgård;Stockholm	   1
+Stockholm;Stockholms län	   1
+Stockholm;Stockholm;Stockholm;Stockholm;Stockholm	   1
+Stockholm;Stockholm;Sverige	   1
+Stockholm;Sverige;Stockholm;Stockholm;Stockholm;Stockholm;Stockholm	   1
+Stockholm;Sverige;Stockholm;Sverige	   1
+Stockholm;Sverige;Sverige	   1
 Stockhom	   1
 Storbritannien;Storbritannien;Storbritannien	   1
 Storbritannien;Storbritannien;Sverige;Frankrike	   1
@@ -701,9 +701,9 @@ Sverige;Småland	   1
 Sverige;Småland;Sverige;Småland	   1
 Sverige;Småland;Visingsö	   1
 Sverige;Stockholm;1700-talet;Sverige;Stockholm;1700-talet	   1
+Sverige;Stockholms län;Sverige;Uppland	   1
 Sverige;Stockholm;Stockholm	   1
 Sverige;Stockholm;Sverige;Södermanland	   1
-Sverige;Stockholms län;Sverige;Uppland	   1
 Sverige;Storbritannien;Preussen	   1
 Sverige;Storbritannien;Sverige;Storbritannien;Sverige;Storbritannien	   1
 Sverige;Strängnäs	   1
@@ -733,8 +733,8 @@ Sverige;Sverige;Värmland	   1
 Sverige;Sverige;Värmland;Sverige	   1
 Sverige;Sverige;Västernorrlands län;Medelpad;Västernorrlands län;Ångermanland	   1
 Sverige;Turkiet;Osmanska riket;Sverige;Turkiet;Osmanska riket	   1
-Sverige;Tysk-romerska riket;Schlesien;Schlesien	   1
 Sverige;Tyskland	   1
+Sverige;Tysk-romerska riket;Schlesien;Schlesien	   1
 Sverige;Uppland	   1
 Sverige;Uppland;Södermanland;Närke;Västmanland;Dalarna;Östergötland;Småland;Öland;Gotland;Västergötland;Värmland;Bohuslän;Halland;Blekinge;Gästrikland;Hälsingland;Medelpad;Jämtland;Härjedalen;Ångermanland;Västerbotten;Lappland;Finland	   1
 Sverige;Uppsala län;Sverige;Stockholms län	   1
@@ -758,8 +758,8 @@ Tyskland;Tyskland;Tyskland	   1
 Ungern	   1
 Ungern;Östersjön	   1
 Uppland;Lövstaholm	   1
-Uppland;Södermanland	   1
 Upplands län;Sverige;Uppland;Uppsala län;Sverige;Sverige	   1
+Uppland;Södermanland	   1
 Uppsala län	   1
 Uppsala län;Uppsala	   1
 Uppsala;Stockholm;Uppsala;Stockholm	   1
@@ -767,18 +767,18 @@ Uppsala;Sverige;Uppsala;Sverige	   1
 Uppsala;Uppsala län	   1
 Vänern	   1
 Vänern;Vänern	   1
+Värmlands län;Värmland	   1
+Värmlands län;Värmlands län;Värmlands län;Sverige	   1
 Värmland;Sverige	   1
 Värmland;Sverige;Norge	   1
 Värmland;Värmland	   1
 Värmland;Värmland;Värmland	   1
-Värmlands län;Värmland	   1
-Värmlands län;Värmlands län;Värmlands län;Sverige	   1
 Västerås	   1
 Västerbotten	   1
-Västerbotten;Västerbotten	   1
-Västerbotten;Västerbotten;Västerbotten;Västerbotten	   1
 Västerbottens län	   1
 Västerbottens län;Västerbotten	   1
+Västerbotten;Västerbotten	   1
+Västerbotten;Västerbotten;Västerbotten;Västerbotten	   1
 Västergötland;Älsvborgs län	   1
 Västergötland;Borås;Västergötland;Västergötland;Västergötland	   1
 Västergötland;Götlunda	   1
@@ -797,12 +797,12 @@ Västernorrlands län;Västernorrlands län;Västernorrlands län	   1
 Västindien;Förenta staterna	   1
 Västindien;Västindien	   1
 Västkusten	   1
-Västmanland;Sverige;Östergötland;Sverige	   1
-Västmanland;Sverige;Västmanland;Sverige	   1
-Västmanland;Västmanland;Västmanland;Norberg	   1
-Västmanland;Västmanlands län	   1
 Västmanlands län;Västmanland;Västmanlands län;Västmanland	   1
 Västmanlands;Västmanlands;Västmanlands;Västmanlands	   1
+Västmanland;Sverige;Östergötland;Sverige	   1
+Västmanland;Sverige;Västmanland;Sverige	   1
+Västmanland;Västmanlands län	   1
+Västmanland;Västmanland;Västmanland;Norberg	   1
 Vaxholm	   1
 West Indies.	   1
 Wismar;Svenska Pommern;Bremen-Verden	   1

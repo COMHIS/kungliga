@@ -112,8 +112,8 @@ johan jacob von	29
 johann matthias	29
 anders johan von	28
 carl israel	28
-johan von	28
 johann gottwerth	28
+johan von	28
 sigfrid aron	28
 carl christian	27
 carl georg	27
@@ -323,9 +323,9 @@ henning adolph	9
 jacob georg	9
 johan abraham abrahamsson	9
 johan fredrik af	9
-johan reinhold	9
 johann adam	9
 johann friedrich wilhelm	9
+johan reinhold	9
 laurence	9
 miguel de	9
 olof justinus	9
@@ -377,7 +377,6 @@ françois marie de	7
 georg joseph	7
 germain françois poullain de	7
 giovanni ambrogio de	7
-j robert	7
 jacques marie	7
 johan af	7
 johan albert	7
@@ -388,6 +387,7 @@ johan georg	7
 johann andreas christoph	7
 johann caspar	7
 jordan nilsson	7
+j robert	7
 justus	7
 karl ludwig von	7
 lars andreas	7
@@ -425,8 +425,8 @@ conrad johann martin	6
 daniel magnus	6
 daniel peter	6
 david wilhelm	6
-eric johan	6
 erich christian	6
+eric johan	6
 ericus benedicti	6
 étienne de	6
 finn	6
@@ -451,9 +451,6 @@ johan diedrich	6
 johan frederik	6
 johan julius	6
 johan laurentii	6
-johan peterson	6
-johan samuel	6
-johan theophilus	6
 johann adolph	6
 johann albrecht	6
 johann christoph friedrich	6
@@ -461,6 +458,9 @@ johann cyriacus	6
 johann david	6
 johann georg august	6
 johann ludwig	6
+johan peterson	6
+johan samuel	6
+johan theophilus	6
 jonas carl	6
 knud lyne	6
 lars anton	6
@@ -503,19 +503,19 @@ gunnar	5
 gustaf erik	5
 henry david	5
 isabelle de	5
-jacques marquet de montbreton	5
 jacques-louis de	5
+jacques marquet de montbreton	5
 jean baptiste joseph innocent philadelphe	5
 jean pierre guillaume	5
 johan abraham	5
 johan arvid	5
 johan j	5
-johan otto michael	5
-johan werner	5
 johann andreas	5
 johann benjamin	5
 johann georg adam	5
 johann jakob	5
+johan otto michael	5
+johan werner	5
 jonas johan	5
 jonas simonis	5
 joseph von	5
@@ -582,10 +582,10 @@ fredrik otto	4
 friedrich conrad albrekt	4
 friedrich ernst von	4
 georg carl von	4
-georg heinrich	4
-georg peter	4
 georges de	4
 georges louis leclerc de	4
+georg heinrich	4
+georg peter	4
 gerhard anton von	4
 giovanni battista	4
 giovanni di s constant	4
@@ -603,8 +603,9 @@ johan govert	4
 johan gustaf von	4
 johan heinrich	4
 johan hindric	4
-johan tobias	4
 johann christian wilhelm	4
+johannes benedicti	4
+johannes simonis	4
 johann georg friedrich	4
 johann kaspar	4
 johann lorenz von	4
@@ -612,8 +613,7 @@ johann michael	4
 johann otto	4
 johann renatus wilhelm	4
 johann von	4
-johannes benedicti	4
-johannes simonis	4
+johan tobias	4
 joseph pitton de	4
 juan luis	4
 justus jonas	4
@@ -728,10 +728,10 @@ heinrich von	3
 henrich	3
 jacob eric	3
 jacques roergas de	3
+jean-léonor le gallois de	3
 jean louis hubert simon	3
 jean louis marie	3
 jean marie jérôme de langle	3
-jean-léonor le gallois de	3
 jeanne marie bouvier de la motte	3
 joachim christian	3
 joachim johann	3
@@ -745,13 +745,13 @@ johan henrich	3
 johan larsson	3
 johan lorentz	3
 johan ludvig bogislaus von	3
-johan olofsson	3
 johann balthasar	3
 johann bartholomäus	3
 johann bernhard	3
 johann carl gottlob	3
 johann elert	3
 johann ernst	3
+johannes danielis	3
 johann friedrich ernst	3
 johann gabriel	3
 johann georg justus	3
@@ -760,7 +760,7 @@ johann nicolaus	3
 johann peter ludwig	3
 johann valentin	3
 johann wilhelm ludwig	3
-johannes danielis	3
+johan olofsson	3
 jonas raphael	3
 joseph petter	3
 josias carl	3
@@ -773,9 +773,9 @@ lars christian	3
 lebrecht christian gottlob	3
 leopold von	3
 louis bernard	3
+louise marguerite jeanne madelaine	3
 louis jacques jessé	3
 louis joseph marie	3
-louise marguerite jeanne madelaine	3
 ludwig august	3
 ludwig nicolaus von	3
 magnus magni	3
@@ -857,10 +857,10 @@ ari	2
 armand gaston maximilien de	2
 arsenne	2
 arvid adrian	2
-august samuel	2
 auguste étienne xavier	2
 auguste jacques	2
 augustin von	2
+august samuel	2
 axel pontus von	2
 axel reinhold von	2
 barry edward	2
@@ -895,8 +895,8 @@ catherine joseph ferdinand girard de	2
 césar vichard de	2
 charles françois philibert	2
 charles georges	2
-charles rivière	2
 charles-marguerite-jean-baptiste mercier	2
+charles rivière	2
 christ	2
 christ ian	2
 christian adolph	2
@@ -911,12 +911,12 @@ christian magnus	2
 christian peter	2
 christina catharina	2
 christine sophie	2
-christoph von	2
 christopher friedrich	2
 christopher gottlob	2
 christopher joelsson von	2
 christopher johan	2
 christopher nilsson	2
+christoph von	2
 claire lechat de kersaint	2
 claude françois xavier	2
 claude joseph	2
@@ -983,12 +983,12 @@ gabriel magni	2
 garlieb helwig	2
 gaspard théodore de	2
 georg albrekt	2
+george gordon	2
 georg gabriel	2
 georg heinrich christian	2
 georg michael	2
 georg philipp anton	2
 georg wilhelm christoph	2
-george gordon	2
 gérard joseph	2
 germund abraham	2
 germund adam	2
@@ -1010,8 +1010,8 @@ hector frederik janson	2
 heinrich anshelm von	2
 heinrich ludwig von	2
 henning johann	2
-henri louis	2
 henric sebastian	2
+henri louis	2
 herman von	2
 ignatz cajetan theodor ferdinand	2
 immanuel johann gerhard	2
@@ -1026,6 +1026,7 @@ jaques	2
 jaques de	2
 jean auguste desboulmiers	2
 jean baptiste charles	2
+jean-baptiste de boyer	2
 jean baptiste louis	2
 jean françois de galaup de	2
 jean frédéric	2
@@ -1036,18 +1037,17 @@ jean marie bernard de	2
 jean pierre	2
 jean rené	2
 jean robert	2
-jean-baptiste de boyer	2
 jerzy daniel	2
 joachim richard	2
 joaquim josé antonio de oriola	2
 jochum richard	2
-joh an d aniel	2
 johan benjamin	2
 johan carlsson	2
 johan christian henrik	2
 johan chrysostomus	2
-johan daniel timotheus	2
+joh an d aniel	2
 johan danielsson	2
+johan daniel timotheus	2
 johan e	2
 johan eberhard ludwig	2
 johan elias	2
@@ -1058,16 +1058,9 @@ johan h	2
 johan haquin	2
 johan harald	2
 johan herman	2
-johan j:son	2
 johan joachim	2
+johan j:son	2
 johan lorents	2
-johan nils	2
-johan nordahl	2
-johan peter olsson	2
-johan philip	2
-johan reinold	2
-johan rudolf	2
-johan victor	2
 johann adolf	2
 johann albert heinrich	2
 johann anton	2
@@ -1077,6 +1070,7 @@ johann christian polycarp	2
 johann christopher	2
 johann conrad	2
 johann ehrenfried	2
+johanne katherine	2
 johann friedrich christoph	2
 johann friedrich immanuel	2
 johann friedrich ludwig	2
@@ -1084,12 +1078,18 @@ johann gangolf wilhelm	2
 johann heinrich moritz von	2
 johann heinrich von	2
 johann hinrich	2
+johan nils	2
 johann joachim friedrich	2
+johan nordahl	2
 johann theodor	2
 johann wilhelm	2
 johann wilhelm andreas	2
 johann wolfgang	2
-johanne katherine	2
+johan peter olsson	2
+johan philip	2
+johan reinold	2
+johan rudolf	2
+johan victor	2
 john william	2
 joseph alois	2
 joseph françois	2
@@ -1121,8 +1121,8 @@ marie henri françois élisabeth de	2
 martin joachim	2
 martin johan	2
 matthew davenport	2
-michel théodore	2
 michele enrico	2
+michel théodore	2
 mus t afa	2
 nicolas de montfaucon de	2
 nicolas julien	2
@@ -1139,10 +1139,10 @@ otto arnold	2
 otto henrik	2
 otto ulrik	2
 ove	2
-p eter f eddersen	2
 paul erdmann	2
 paul gustaf andreios	2
 per eric	2
+p eter f eddersen	2
 peter von	2
 philipp gabriel	2
 pierre alexandre édouard	2
@@ -1176,12 +1176,12 @@ abbé de	1
 abel	1
 abel benedicti	1
 abel larsson	1
-abrah am von	1
 abraham canstantin mouradgea	1
 abraham gotthelf	1
 abraham isacsson	1
 abraham l	1
 abraham ottman h ermann	1
+abrah am von	1
 achates carl von	1
 achatius johan	1
 adam adalbert von	1
@@ -1214,7 +1214,6 @@ adrien jean quentin	1
 adrien maurice de	1
 adrien-nicolas piédefer de	1
 åke johan	1
-al phil	1
 albert georg friedrich	1
 albrecht johan	1
 albrecht wenzel eusebius von	1
@@ -1227,10 +1226,11 @@ alexandre guillaume mouslier de	1
 alexandre henri	1
 alexandre jacques	1
 alexis eduard	1
+al phil	1
 alphonse toussaint joseph andre marie marseille	1
 amélie julie	1
-and ers carl	1
 anders abraham	1
+and ers carl	1
 anders carlsson af	1
 anders von	1
 andreas amberni	1
@@ -1274,27 +1274,27 @@ antoine vincent	1
 anton de	1
 anton gunnarsson	1
 anton günter	1
+antonio da	1
 anton jesper	1
 anton magnus	1
 anton reinhard	1
 anton von	1
-antonio da	1
 armand marc jacques de chastenet de	1
 arndt johan	1
 aron isak	1
 aron leuchovius	1
 arthur william	1
 arvid adolph	1
+augusta	1
 august adolph friedrich	1
 august adolph leopold von	1
+auguste louis	1
 august filip	1
 august gideon	1
 august immanuel	1
+augustine	1
 august j g k	1
 august wilhelm albrecht	1
-augusta	1
-auguste louis	1
-augustine	1
 aurora von	1
 axel adam	1
 axel adrian	1
@@ -1318,8 +1318,6 @@ bernard le bovier de	1
 bernt otto	1
 birger martin	1
 bo gustaf	1
-c frid	1
-c laude f rançois x avier	1
 cajetan august	1
 carl ambrosius	1
 carl asmund	1
@@ -1332,12 +1330,12 @@ carl emil	1
 carl er	1
 carl ernst	1
 carl eugenius	1
-carl f riedrich	1
 carl ferdinand	1
 carl fredr	1
 carl fredric von	1
 carl fridrik	1
 carl friedric	1
+carl f riedrich	1
 carl fromhold von	1
 carl gerhard wilhelm	1
 carl gudmund	1
@@ -1373,6 +1371,7 @@ caroline juliana anna ulrika	1
 caroline van hove	1
 caspar otto	1
 catharina christina	1
+c frid	1
 ch arles	1
 charles augustin	1
 charles augustus	1
@@ -1388,12 +1387,11 @@ charles marguerite jean baptiste mercier	1
 charles marie de	1
 charlotte-rose de	1
 cher	1
-christ ian br aunmann	1
-christ peter	1
 christan hinrich	1
 christen powelsen	1
 christian adam	1
 christian august lebrecht	1
+christ ian br aunmann	1
 christian emmanuel	1
 christian ernst	1
 christian friedrich von	1
@@ -1415,14 +1413,16 @@ christofer conrad	1
 christoffer von	1
 christoph august	1
 christoph christian von	1
-christoph ernst von	1
 christopher ericsson	1
 christopher isac	1
+christoph ernst von	1
+christ peter	1
 claës adam	1
 claes adam fredrik	1
 claes carl henrik	1
 claes leonard	1
 clas johan	1
+c laude f rançois x avier	1
 claude la rose de	1
 claude pierre	1
 claude-prosper jolyot de	1
@@ -1458,8 +1458,8 @@ david harald	1
 david olof	1
 david otto	1
 de bougrenet de	1
-de quingey	1
 denis bernard	1
+de quingey	1
 didrik christian	1
 didrik von	1
 diego de	1
@@ -1468,7 +1468,6 @@ dietrich herrmann	1
 dietrich wilhelm	1
 dorothea maria	1
 drottning av england	1
-e von der	1
 ebba christina von	1
 edmond guillaume françois de	1
 elias daniel	1
@@ -1493,6 +1492,7 @@ eric caspar	1
 eric er icsson	1
 eric georg	1
 eric hindrichsson	1
+erich johan	1
 eric l	1
 eric ludolf	1
 eric magnus	1
@@ -1501,9 +1501,8 @@ eric olof	1
 eric p	1
 eric pettersson	1
 eric sten	1
-eric wilhelm von	1
-erich johan	1
 ericus pauli	1
+eric wilhelm von	1
 erik adolf	1
 erik af	1
 erik jonas	1
@@ -1526,21 +1525,22 @@ ernst joseph gustav de	1
 ernst otto innocenz	1
 etienne bourgelin v de	1
 eugen anton	1
+e von der	1
 ewald christian von	1
-f de la	1
-f freiherr von	1
 fale axel	1
 fale henrik	1
+f de la	1
 felix de	1
 ferdinand adolph wilhelm richard	1
+f freiherr von	1
 florentinus pauli	1
 fournier	1
-fr ancis	1
-frances d'	1
 francesco maria della	1
-francis d'	1
+frances d'	1
+fr ancis	1
 francisco de	1
 francisco de la	1
+francis d'	1
 françois gabriel de	1
 françois guillaume jean stanislas	1
 françois joseph de	1
@@ -1557,19 +1557,19 @@ fred	1
 frédéric charles	1
 frederic henric af	1
 frederick lewis	1
+frederika von	1
 frederik henric af	1
 frederik wilhelm af	1
-frederika von	1
 fredric anton	1
 fredric conrad	1
 fredric wilhelm von	1
+fredrika christina	1
 fredrik conrad	1
 fredrik erik	1
 fredrik fabian	1
 fredrik georg	1
 fredrik georg larsson	1
 fredrik henrik af	1
-fredrika christina	1
 freidrich heinrich karl de la motte	1
 friderich christian	1
 friederich adolph	1
@@ -1582,13 +1582,12 @@ friedrich heinrich christian	1
 friedrich johann	1
 friedrich ludwig von	1
 friedrich moritz von	1
-g ustaf philip adam	1
 gabriel andreæ	1
 gabriel axelsson	1
 gabriel danielis	1
 gabriel de	1
-gabriel eric von	1
 gabriel erici	1
+gabriel eric von	1
 gabriel gabrielsson	1
 gabriel gregorii	1
 gabriel johannes	1
@@ -1596,8 +1595,8 @@ gabriel magnus	1
 gabriel marie jean baptiste	1
 gabriel olai	1
 gaspard de	1
-ge org	1
 gebhard friedrich august	1
+ge org	1
 georg adolph	1
 georg august	1
 georg axel af	1
@@ -1607,12 +1606,17 @@ georg carl ludwig	1
 georg christoph	1
 georg conrad	1
 georg david	1
+george matthew	1
+george savile	1
+georges bernard	1
+georges louis	1
 georg gottlieb	1
 georg günther	1
 georg hartmann	1
 georg henric	1
-georg leonh ard	1
+georgius von hattingen	1
 georg leonhard	1
+georg leonh ard	1
 georg matthias	1
 georg nathanael	1
 georg philipp ludwig leonhard	1
@@ -1620,11 +1624,6 @@ georg samuel	1
 georg von waltershausen	1
 georg wolffgang	1
 georg wolfgang	1
-george matthew	1
-george savile	1
-georges bernard	1
-georges louis	1
-georgius von hattingen	1
 gerhard johan	1
 gerhard ulrich anton	1
 gio vanni antonio	1
@@ -1641,21 +1640,21 @@ gregers otto bruun	1
 guillaume emmanuel joseph guilhem de clermont-lodève de	1
 guillaume latrille de	1
 gunnar elof	1
-gust af gottf rid	1
 gustaf andreas	1
 gustaf carl af	1
 gustaf daniel von	1
 gustaf fredrik af	1
+gust af gottf rid	1
 gustaf jacob af	1
 gustaf johan af	1
+g ustaf philip adam	1
 gustaf philip adam	1
 gustav adolph	1
 gustav adolph wilhelm von	1
-h ans g abriel trolle	1
-h p de	1
 hans christoff von	1
 hans christopher	1
 hans fredrik von	1
+h ans g abriel trolle	1
 hans jonss on	1
 hans jörgen christian	1
 haqvin cornelius	1
@@ -1673,32 +1672,29 @@ hendrich friedrich von	1
 henning adolph von	1
 henning paul	1
 henning von	1
+henric christopher	1
+henrich von	1
+henric von	1
 henri de	1
 henri françois	1
 henri jacques guillaume de feltre	1
-henri philippe de	1
-henric christopher	1
-henric von	1
-henrich von	1
 henrik christian	1
 henrik gustaf von	1
+henri philippe de	1
 herman af	1
 herman heinrich von	1
 hindr ic	1
+h p de	1
 hugo herman von	1
 ignatz von	1
 ingram	1
 isak martin	1
 isodore de	1
 ivo	1
-j acob g abriel	1
-j christ	1
-j h af	1
-j oh an werner	1
-j ohann karl august	1
 jac ob	1
 jacob abraham	1
 jacob daniel	1
+j acob g abriel	1
 jacob leonard	1
 jacob martin	1
 jacob philip von	1
@@ -1715,6 +1711,7 @@ jakob albrecht von	1
 jakob albrekt von	1
 jakob johan	1
 jakob otto	1
+j christ	1
 jean antoine	1
 jean baptiste barthélemy de	1
 jean baptiste cant hanet de	1
@@ -1727,47 +1724,43 @@ jean claude mien	1
 jean claude richard de	1
 jean élie bédéno	1
 jean eric	1
+jean-françois de	1
 jean françois mussot	1
+jean-galbert de	1
 jean georges	1
 jean grossaint	1
 jean joseph	1
 jean joseph thérèse	1
+jean-louis guez de	1
 jean marie jérome fleuriot marquis de	1
 jean marie théodore	1
+jeannette von	1
+jean-paul de	1
 jean raymond auguste	1
 jean rodolphe	1
 jean rodolphe d'	1
 jean royer de	1
 jean ulric	1
-jean-françois de	1
-jean-galbert de	1
-jean-louis guez de	1
-jean-paul de	1
 jean-yrieix beaupoil de	1
-jeannette von	1
 jens christian	1
 jeremy	1
 jerome	1
-jo hann georg	1
-jo nas	1
+j h af	1
 joachim de	1
 joachim von	1
 joel jonae	1
-joh an carl	1
-joh an christoph er	1
-joh ann georg pet e r	1
-joh ann val entin	1
-joh christian	1
 johan abrahamsson	1
 johan albrekt	1
 johan alexander	1
-johan august von	1
 johan augustin	1
+johan august von	1
 johan birger	1
+joh an carl	1
 johan carl wilhelm	1
 johan caspar	1
 johan christoffer	1
 johan christoph	1
+joh an christoph er	1
 johan christopher von	1
 johan claesson	1
 johan clemens	1
@@ -1792,22 +1785,6 @@ johan ludvig von	1
 johan magnus af	1
 johan melchior	1
 johan mikael	1
-johan olai	1
-johan patrik	1
-johan paul immanuel	1
-johan peder	1
-johan pet	1
-johan peter von	1
-johan petrus	1
-johan petter af	1
-johan splinter	1
-johan storm	1
-johan theophil	1
-johan thore	1
-johan ulrik	1
-johan ulrik sebastian	1
-johan wedick	1
-johan wilhelm von	1
 johann adam gotthard	1
 johann anastasius	1
 johann anton arnold	1
@@ -1830,19 +1807,24 @@ johann daniel	1
 johann daniel bernhard	1
 johann daniel timotheus	1
 johann eberhard ludwig	1
+johanne caroline amalie	1
 johann elias	1
+johannes magni	1
 johann franz	1
 johann friedrich ferdinand	1
 johann friedrich theodor	1
 johann gangholf wilhelm	1
 johann gaudenz	1
 johann gaudenz von	1
+jo hann georg	1
 johann georg filius	1
 johann georg jonathan	1
+joh ann georg pet e r	1
 johann gustav gottlieb	1
 johann heinrich bernhard	1
 johann heinrich gottlieb	1
 johann jobst	1
+j ohann karl august	1
 johann karl august	1
 johann liborius	1
 johann ludolf	1
@@ -1854,14 +1836,31 @@ johann reinhold	1
 johann sigmund	1
 johann stephan	1
 johann tobias	1
+joh ann val entin	1
 johann wendel	1
-johanne caroline amalie	1
-johannes magni	1
+johan olai	1
+johan patrik	1
+johan paul immanuel	1
+johan peder	1
+johan pet	1
+johan peter von	1
+johan petrus	1
+johan petter af	1
+johan splinter	1
+johan storm	1
+johan theophil	1
+johan thore	1
+johan ulrik	1
+johan ulrik sebastian	1
+johan wedick	1
+j oh an werner	1
+johan wilhelm von	1
+joh christian	1
 john gabriel	1
 john gregory	1
 john gustaf von	1
 john richard	1
-jon ulrik	1
+jo nas	1
 jonas adolph	1
 jonas de	1
 jonas erik	1
@@ -1869,12 +1868,13 @@ jonas magni	1
 jonas pauli	1
 jonas von	1
 jonne	1
+jon ulrik	1
+joseph-alexandre de	1
 joseph anton von	1
 joseph auguste	1
 joseph gaspard	1
 joseph louis	1
 joseph louis d'	1
-joseph-alexandre de	1
 juan	1
 jules louis melchior	1
 julien	1
@@ -1891,10 +1891,10 @@ karl dietrich	1
 karl friedrich august	1
 karl friedrich von	1
 karl gustaf von	1
+karl-heinrich von	1
 karl johann von	1
 karl theodor maria hubert von	1
 karl von	1
-karl-heinrich von	1
 karoline auguste	1
 konung af preussen	1
 lars af	1
@@ -1910,8 +1910,8 @@ léonce de	1
 leonh ard magnus	1
 léonor jean christine soulas d'	1
 levin august gottlieb von	1
-lion el	1
 lionel	1
+lion el	1
 lisa	1
 louis alexandre	1
 louis alexandre de	1
@@ -1919,6 +1919,7 @@ louis carrogis	1
 louis charles fredrik de	1
 louis charles marie de lombard de	1
 louis d'	1
+louise françois marie	1
 louis emmanuel félicité charles mercier	1
 louis françois	1
 louis françois comte de	1
@@ -1928,7 +1929,6 @@ louis jean marie	1
 louis mayeul	1
 louis pierre édouard	1
 louis sébastien	1
-louise françois marie	1
 ludvic von	1
 luise	1
 madame de	1
@@ -1970,8 +1970,8 @@ michael von	1
 michel caspar	1
 michel david de	1
 michele	1
-n athaniel william	1
 nathanaël gerhard af	1
+n athaniel william	1
 nathaniel william	1
 nicolas françois joseph	1
 nicolas germain	1
@@ -1986,11 +1986,11 @@ nils leonard	1
 nils otto	1
 noach georg	1
 noël antoine	1
-o le j ohan	1
 odert reinhold von	1
 ola	1
 olaus simonis	1
 olavus magni	1
+o le j ohan	1
 olivier de	1
 olof erik	1
 olof gabriel	1
@@ -2007,12 +2007,10 @@ otto heinrich von	1
 otto martin	1
 otto von	1
 ove emmerich höegh	1
-p aul d etlev christian	1
-p er erik waldemar	1
-p eter a dam	1
 pär anton	1
 pär aron	1
 paul ange louis de	1
+p aul d etlev christian	1
 paul friedrich achat	1
 paul gawilowitsch	1
 paul henri	1
@@ -2026,22 +2024,24 @@ peder adami	1
 pehr adolf von	1
 pehr erik	1
 pehr georg	1
+p er erik waldemar	1
 per prost	1
 pesme de	1
-pet er h inrik	1
-pet er hinr ik	1
-pet schv	1
+p eter a dam	1
 peter andreas	1
 peter fredrik von	1
+pet er h inrik	1
+pet er hinr ik	1
 petr us	1
 petrus adolphus von	1
 petrus benedicti	1
 petrus conrad von	1
 petrus van	1
-phil nik	1
+pet schv	1
 philip adam	1
 philip dormer stanhope	1
 philipp crusius von	1
+phil nik	1
 pier angelo	1
 pierce balthasar von	1
 pierre carlet de chamblain de	1
@@ -2066,10 +2066,9 @@ rené charles guilbert de	1
 richard abraham	1
 richard colt	1
 robbert victor	1
-robert wilhelm	1
 robertus paschasii	1
+robert wilhelm	1
 rudolf heinrich bernhard von	1
-s ven	1
 saint	1
 salomon martin	1
 samuel andreas	1
@@ -2094,6 +2093,7 @@ sophia johanna	1
 sophie de	1
 sten abraham	1
 sueno johannis	1
+s ven	1
 sven adolph	1
 teresa	1
 theodor von	1
@@ -2105,15 +2105,15 @@ ulrik johan	1
 valentin carl	1
 victor de riquetti	1
 vital d'	1
-w r jun	1
 wilhelm carl	1
 wilhelm christian	1
-wilhelm martin leberecht	1
 wilhelmine christine von f von klencke	1
+wilhelm martin leberecht	1
 william daniel	1
 william george	1
 william pulteney	1
 william rae	1
+w r jun	1
 xavier de	1
 zacharias david	1
 zacharias von	1

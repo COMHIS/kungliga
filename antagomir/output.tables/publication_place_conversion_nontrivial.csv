@@ -1,5 +1,5 @@
 original	polished	Count
-Total count: 	26988	
+Total count: 	26963	
 [Stockholm]	Stockholm	3599
 Göteborg	Gothenburg	1927
 Jönköping	Jönnköping	 747
@@ -585,7 +585,7 @@ Stockholm, å nyo tryckt i Kongl. tryckeriet, 1797.	Stockholm	   3
 Stockholm, å nyo Tryckt i Kongl. Tryckeriet, 1786.	Stockholm	   3
 Stockholmisa, Präntätty Kuning:sesa Suomalaisesa Präntisä, Direktörin Johan A. Carlbohmin tykönä, 1805.	Stockholm	   3
 Tryckt i Kongl. Fält-Tryckeriet, hos Peter Sohm.	Kongl fält tryckeriet peter sohm	   3
-Tukusa, Prändätty Frenckellin Kirjan-Prändisä.	Tukusa frenckellin kirjan prändisä	   3
+Tukusa, Prändätty Frenckellin Kirjan-Prändisä.	Tukusa kirjan prändisä	   3
 Stockholmisa, Präntätty Kuning:sesa Suomalaisesa Präntisä, Direktörin Johan A. Carlbohmin tykönä, 1802.	Stockholm	   3
 Turusa, Prändätty Frenckellin Krijan-Prändisä.	Turku	   3
 Stokholmisa, Präntätty Kuningallisesa Suomalaisesa Präntisä, Wuonna 1779.	Stockholm	   3
@@ -792,7 +792,7 @@ Stockholm, tryckt hos Peter Hesselberg, 1768.	Stockholm	   3
 Skara ;;Stockholm	Skara stockholm	   3
 Stockholm, tryckt af A. Biörkman, kongl. acad. boktr. i Åbo.	Stockholm	   3
 Stockholm, tryckt hos kongl. acad. boktr. i Åbo, sal. Andr. Biörkmans enckia.	Stockholm	   3
-Tryckt hos directeuren Carl Gustav Berling.	Directeuren carl gustav berling	   3
+Tryckt hos directeuren Carl Gustav Berling.	Carl gustav berling	   3
 Stockholm, tryckt hos Peter Hesselberg, 1765.	Stockholm	   3
 Stockholm ;;Örebro	Stockholm örebro	   3
 Lundæ MDCCCXVII. Litteris Berlingianis.	Lund	   3
@@ -1314,8 +1314,6 @@ Holmiæ, ex Typographia Regia, MDCCLXXXVI.	Stockholm	   2
 Strängnäs, tryckt aff Jöns Rönberg.	Strängnäs	   2
 Stockholm, tryckt uti det kongl. tryckeriet	Stockholm	   2
 Mitau	Jelgava	   2
-Tryckt i åhr.	åhr	   2
-Tryckt i år.	år	   2
 Gävle ;;Stockholm	Stockholm	   2
 Stockholm, trykt uti Langeska tryckeriet, år 1796.	Stockholm	   2
 Götheborg, trykt hos Immanuel Smitt, k.g.b.	Gothenburg	   2
@@ -1464,9 +1462,7 @@ Gothoburgi, a. M. DCC. XIV. Imprimebat Zacharias Hagemann.	Gothenburg	   1
 Leipzig verlegts Johann Gottfried Dyck. 1760.	Leipzig	   1
 [S.n.] Amsterdam 1743.	Amsterdam	   1
 Gefle, tryckt hos E. P. Sundqwist 1789.	Gefle e p sundqwist	   1
-Tryckt åhr 1711.	åhr	   1
 Tryckt i Gefle, 1783.	Gefle	   1
-Tryckt år 1783.	år	   1
 Tryckt i Gefle 1783, och kostar en half schill.	Gefle kostar half schill	   1
 A Stocholm, chez Jean Pleyn de Courage, LXXVII.	Stockholm	   1
 Tryckt i Gefle, 1782.	Gefle	   1
@@ -1618,7 +1614,6 @@ Upsaliæ, litteris Joh. Fr. Edman reg. acad. typogr.	Uppsala	   1
 Holmiæ, typis Grefingianis.	Stockholm	   1
 Gryphiae, litteris Ant. Ferd. Röse, reg. acad. typogr.	Greifswald	   1
 Upsaliæ Typis Wernerianis.	Uppsala	   1
-Tryckt åhr 1701.	åhr	   1
 Upsala, tryckt hos direct. Johan Edman, K:gl. acad. boktr.	Uppsala	   1
 Upsala, tryckt hos L. M. Höjer, Kongl. acad. boktr.	Uppsala	   1
 Upsaliæ., excud. L. M. Höjer, reg. acad. typogr.	Uppsala	   1
@@ -1887,7 +1882,7 @@ Gedruckt zu Stettin, im Jahr Christi 1645.	Szczecin	   1
 Stockholm, Tryckt aff Henrich Keyser, Kongl. Booktryckiare.	Stockholm	   1
 Tryckt i Stockholm hoos Henrich Kyeser [!].	Stockholm	   1
 Sockholm [!] Tryckt aff Peter Van Selow	Sockholm peter van selow	   1
-Tryckt, Åhr M DC XXX IX.	åhr m dc xxx ix	   1
+Tryckt, Åhr M DC XXX IX.	M dc xxx ix	   1
 Stockholm, Tryckt af Henrich Keyser.	Stockholm	   1
 Im Jahr M. DC. XXXVII.	Jahr m dc xxxvii	   1
 Stockholm, Tryckt Hoos Henrich Keyser, åhr 1643.	Stockholm	   1
@@ -1901,7 +1896,6 @@ Tryckt i Åbo aff Johan Winter, Kongl. Booktr. vthi Stoorförstendömet Finland,
 Linköping, tryckt hoos Christopher Gynter.	Linköping	   1
 Åbo, tryckt aff Johan Winter Kongl. Booktr. i Stoor-furstendömmet Finland.	Turku	   1
 Stockholm, Tryckt aff Heinrich Kayser, åhr 1636.	Stockholm	   1
-Tryckt Åhr 1636.	åhr	   1
 Stockholm, typis Schroderianis åhr 1635.	Stockholm	   1
 Stockholm, Tryckt hoos Niclas Wankijff, Kongl. Booktr. 1694.	Stockholm	   1
 Gedrukkt [!] durch Caspar Holwein, Königl. Schwed. Buchdrukker [!].	Durch caspar holwein königl schwed buchdrukker	   1
@@ -2097,7 +2091,6 @@ Tryckt i Åbo, aff Johan Winter.	Turku	   1
 Tryckt i Åbo, af Johan Winter, Kongl. Booktryckiare.	Turku	   1
 Stockholm, Tryckt uti Kongl. Boktr. hos Sal. Wankijfs Änkia.	Stockholm	   1
 Stockholm, Tryckt uti Kongl. Booktryckerijet, hoos Sahl. Wankijfs Änckia.	Stockholm	   1
-Tryckt Åhr 1678.	åhr	   1
 Stockholm, å nyo tryckt i Kongl. Tryckeriet, 1786.	Stockholm	   1
 Åbo, Tryckt af Johan Winter.	Turku	   1
 Åbo, Tryckt aff Johann Winter, Åhr 1677.	Turku	   1
@@ -2185,7 +2178,7 @@ Tryckt i Linköping aff Daniel Kämpe, Åhr 1665. och finnes hoos honom til Kiö
 Tryckt i Stockholm hoos Henrich Keyser Kongl. Booktryckiare.	Stockholm	   1
 Åbo, Tryckt aff Johan Winter, Kongl. Booktr. Anno 1683.	Turku	   1
 Åbo, Tryckt aff Petter Hanszon, Åhr 1666.	Turku	   1
-Gedruckt bey Ignatius Meurer	Bey ignatius meurer	   1
+Gedruckt bey Ignatius Meurer	Ignatius meurer	   1
 Gedruckt tot Stockholm, by Ignatius Meurer, Konincklycke Boeckdrucker, Int' Iaer 1665	Stockholm	   1
 Stockholm, tryckt i kongl. tryckeriet, 1796.	Stockholm	   1
 Stockholm, tryckt i kongl. tryckeriet, 1795.	Stockholm	   1
@@ -3209,7 +3202,6 @@ Stockholm, uti Kongl. Boktryckeriet uplagdt Hos Johan Henrich Werner, Directeur 
 Stockholm, uti det Kongl. Boktryckeriet uplagdt, Hos Johan Henrich Werner, Directeur öfwer alla Tryckerien i Riket.	Stockholm	   1
 Stockholm, uti Kongl. Boktryckeriet uplagdt, Hos Johan Henrrich Werner, Directeur öfwer alla Tryckerien i Riket, [!]	Stockholm	   1
 Stockholm, uti det Kongl. Boktryckeriet uplagdt, Hos Johan Henrich Werner, Directeur Öfwer alla Tryckerien i Riket.	Stockholm	   1
-Tryckt Åhr 1723.	åhr	   1
 Stockholm, uti det Kongl. Tryckeriet, Åhr 1723.	Stockholm	   1
 Stockholm, Tryckt uti det Kongl. Tryckeriet 1723.	Stockholm	   1
 Stockholm, Uti det Kongl. Boktryckeriet.	Stockholm	   1
@@ -3334,7 +3326,6 @@ Stockholm, Gedruckt in der Königlichen Druckerey bey Directeur Pet. Momma. 1739
 Stockholm, tryckt uti thet Kongl. tryckeriet hos direct. Pet. Momma.	Stockholm	   1
 Stockholm, Chez Pierre Momma, imprimeur du Roi MDCCXXXIX	Stockholm	   1
 Stockholm, Gedrucht in der Königl. Buchdruckery Bey dem Directeur Pet. Momma.	Stockholm	   1
-Tryckt år 1777.	år	   1
 Stockholm, tryckt uti thet Kongl. tryckeriet. MDCCLX	Stockholm	   1
 Stockholm, tryckt uti thet Kongl. tryckeriet, å nyo uplagd 1771.	Stockholm	   1
 Stockholm, Tryckt hos Joh. Laur. Horrn, Kongl. Antiqvit. Archiv. Boktr.	Stockholm	   1
@@ -3349,7 +3340,7 @@ Stockholm, uti thet Kongl. boktryckeriet, 1769.	Stockholm	   1
 Stockholm, Tryckt uti det Kongl. Boktryckeriet, [!]	Stockholm	   1
 Greifswald, Gedruckt beym Königlichen Universitäts Buchdrucker, Carl Höpfner.	Greifswald	   1
 Stockholm, uti det Kongl. tryckeriet, hos Joh. Henr. Werner, directeur öfwer alla tryckerien i riket. åhr 1735.	Stockholm	   1
-Gedrucht bey Joh. Conrad Peetz.	Bey joh conrad peetz	   1
+Gedrucht bey Joh. Conrad Peetz.	Joh conrad peetz	   1
 Stockholm, uti det Kongl. Tryckeriet, Hos Joh. Henr. Werner, Directeur öfwer alla Tryckerien i Riket, Åhr 1726. [!]	Stockholm	   1
 Stockholm, uti det Kongl. Tryckeriet, Hos Joh. Henr. Werner, Directeur öfwer alla Tryckerien i Riket. Åhr 1723.	Stockholm	   1
 Stockholm, 1776. Å. nyo trykt hos Henr. Fougt, Ridd. af K:gl W. O. K:gl. Boktr.	Stockholm	   1
@@ -3374,7 +3365,6 @@ Tryckt i Stockholm År 1728.	Stockholm	   1
 Stockholm. Tryckt hos Joh. Laur. Horrn, Kong. Antiq. Arciv. Boktr. Anno 1729.	Stockholm	   1
 Stockholm, uti Kongl. Boktryckeriet uplagdt, Hos Johan Henrich Werner, Directeur öfwer alla Tryckerien i Riket, Åhr 1729.	Stockholm	   1
 Stockholm, Tryckt uti Kongl. Tryckeriet hos Directeuren Pet. Momma.	Stockholm	   1
-Tryckt åhr 1725.	åhr	   1
 Å nyo tryckt år 1747. Stockholm, uti Kongl. Tryckeriet, Hos Directeur Pet. Momma.	Stockholm	   1
 Stockholm, med egen bekostnad af directeuren Joh. H. Werner, åhr 1726.	Stockholm	   1
 Stockholm, tryckt uti det Kongl. tryckeriet hos Joh. H. Werner, directeur öfwer alla tryckerien i riket 1726.	Stockholm	   1
@@ -3757,7 +3747,7 @@ A Paris. Chez Buisson, ..., 1792.	Paris	   1
 A Paris. Chez Buisson, ..., 1790.	Paris	   1
 Havniæ typis Aug. Frid. Steinii.	Havniae aug frid steinii	   1
 Braunschweig in der Schulbuchhandlung. 1790.	Braunschweig schulbuchhandlung	   1
-Stadæ apud Henricum Brummerum, bibliopol. Typis Holweinianis, anno M DCC VII.	Stadae henricum brummerum bibliopol holweinianis anno m dcc vii	   1
+Stadæ apud Henricum Brummerum, bibliopol. Typis Holweinianis, anno M DCC VII.	Stadae henricum brummerum bibliopol anno m dcc vii	   1
 Stockholm, tryckt i kongl. finska boktryckeriet, hos Johan Arvid Carlbohm, år 1769.	Stockholm	   1
 Linköping ...	Linköping	   1
 Aboæ, excudebant J. C. Frenckell & fil.	Turku	   1
@@ -4023,7 +4013,6 @@ Skara, tryckt 1788, efter tryckt exemplar ifrån Stockholm.	Skara stockholm	   1
 Götheborg, tryckt hos Johan Georg Lange, jun. 1746	Gothenburg	   1
 Skara, tryckt efter tryckt exemplar ifrån Stockholm	Skara stockholm	   1
 Skara, tryckt 1788 [Cöln].	Skara	   1
-[S.l] Tryckt åhr 1687.	åhr	   1
 Anno. M D L III.	Anno m d l iii	   1
 Kjøbenhavn, 1803. Trykt paa L. Reistrups forlag, hos Z. Breum.	Copenhagen	   1
 Stockholm, tryckt af Peter Jöranszon Nyström.	Stockholm	   1
@@ -4187,7 +4176,7 @@ Schwabach..	Schwabach	   1
 [SPB]	Spb	   1
 Pečatana v Moskvě u F. Gippiusa 1790 goda.	Pečatana v moskvě u f gippiusa goda	   1
 [Norembergae]	Norembergae	   1
-Havniæ, ex calcographéo B. Joachimi Schmidtgen. Ao. 1733.	Havniae calcographeo b joachimi schmidtgen ao	   1
+Havniæ, ex calcographéo B. Joachimi Schmidtgen. Ao. 1733.	Havniae calcographeo b ao	   1
 Oxoniæ, e Theatro Seldoniano. An. Dom. MDCCXVI.	Oxford	   1
 Stockholm tryckt i Kumblinska tryckeriet 1782. Säljes i boklådan wid Storkyrko-brinken snedt emot gaml. banqven för 16 sz. häftadt.	Stockholm	   1
 Upsaliæ impressa	Uppsala	   1
@@ -4752,7 +4741,6 @@ Tryckt i Stockholm, aff Ignatio Meurer, åhr 1626.	Stockholm	   1
 Tryckt i Stockholm af Henrich Keyser.	Stockholm	   1
 Lond. Scan. excudebat David Kempe.	London	   1
 Dorpati Livonorum, literis Acad. Anno M DC XL	Tartu	   1
-Tryck åhr 1644. [s.l.]	åhr	   1
 Dorpati,Lit. Acad. Anno M. DC. XL.	Tartu	   1
 Dorpati Livonorum, typis Acad. Anno M. DC. XXXIX.	Tartu	   1
 Upsaliæ, jmprimebat Eschillus Matthiæ, An. M. DC. L.	Uppsala	   1
@@ -4996,7 +4984,6 @@ Lundini Gothorum	London	   1
 Prentat i Rostock aff Christoff Reusner, anno M DC V.	Rostock	   1
 Tryckt och vplagdt i Stockholm, aff Ignatio Meurer, 1621.	Stockholm	   1
 Tryckt i Vpsala, af Johan Pauli åhr, 1658.	Uppsala	   1
-Tryckt åhr 1690.	åhr	   1
 Stockholm, tryckt uti Kongl. Booktr. hoos Sal. Wankijfs Änckia, åhr 1699.	Stockholm	   1
 Tryckt i Vpsala, aff Eskil Matzson, anno M. DC. XLII.	Uppsala	   1
 Dorpati typis Acad. anno 1639.	Tartu	   1
@@ -5107,7 +5094,7 @@ Linköping, tryckt hoos Christopher Günther, åhr 1641.	Linköping	   1
 Tryckt i Strengnes, typis Paulinianis, vtaff Joh. L. Barkenio. Anno p.p.p. M. DC. XXXI.	Strängnäs	   1
 Amstelædami, excudit Gerardus Borstius. MDCXCI.	Amsterdam	   1
 Stokholmiæ typis Gvttervitzianis. Anmno salvtis 1604.	Stockholm	   1
-Excudebat Æschillus Matthiæ acad typog.	Aeschillus matthiae acad typog	   1
+Excudebat Æschillus Matthiæ acad typog.	Acad typog	   1
 Strengnesi[i], typis & impensis authoris; excudebat Johannes L. Barkenius. Anno, M DC XXXVI.	Strängnäs	   1
 Tryckt i Strengnes typis Paulinianis, vtaff Johanne L. Barkenio, anno Christi, M. DC. XXX.	Strängnäs	   1
 Tryckt i Strengnes, typis Paulinianis, vtaff Johanne L. Barkenio, anno Christi, M. DC. XXIX.	Strängnäs	   1
@@ -5128,7 +5115,7 @@ Stockholm, tryckt aff Joh. G. Eberdt, 1686.	Stockholm	   1
 Stockholm, tryckt hoos Ignatium Meurer, åhr 1642.	Stockholm	   1
 Stockholm, tryckt aff Ignatio Meurer, 1653.	Stockholm	   1
 Tryckt aff Zach. Asp, capit. bookt.	Zach asp capit bookt	   1
-Tryckt åhr 1683. den 2. junij af Zacharia Asp capitels booktryckiare ibid.	åhr den junij zacharia asp capitels booktryckiare ibid	   1
+Tryckt åhr 1683. den 2. junij af Zacharia Asp capitels booktryckiare ibid.	Den junij zacharia asp capitels booktryckiare ibid	   1
 Tryckt i Stockholm aff Chr. Reusner: anno MDXIII. [dvs 1613]	Stockholm	   1
 Stocholmiæ,tryckt aff Johann Georg Eberdt, anno Christi, 1674.	Stockholm	   1
 Holmiæ, typis Ignatij Meureri, 1614.	Stockholm	   1
@@ -5137,7 +5124,7 @@ In regia Holmia	Regia holmia	   1
 Holmiæ Sveonum. Anno 1638. [Schroderus]	Stockholm	   1
 Holmiæ, typis Heinrici Kaysers. Anno 1638.	Stockholm	   1
 Holmiæ Sveonum ab Henrico Keyser, typog. reg. anno 1638.	Stockholm	   1
-In regià Holmia typis Schröderianis anno 1637	Regià holmia schröderianis anno	   1
+In regià Holmia typis Schröderianis anno 1637	Regià holmia anno	   1
 Stockholmiæ, excudebat Heinricus Kayser typogr. regius anno 1638.	Stockholm	   1
 Holmiæ, typis Ignatii Meureri, anno M. DC. XXXVII.	Stockholm	   1
 Holmiæ Sueonum, anno 1637. [Heinricus Käyser]	Stockholm	   1
@@ -5289,7 +5276,7 @@ Tryckt i Vpsala, aff Eskil Matzson. Åhr, 1627.	Uppsala	   1
 Strengnesiæ, typis consistorii, & operâ Zachariæ Brockenii ...	Strängnäs	   1
 Strengnesiæ apud Zachariam Brockenium anno 1656.	Strängnäs	   1
 Holmiæ. MDCIIC. Ex officinæ Burchardiana.	Stockholm	   1
-Lvgd. Bat. Ex Officina Guilielmi Christiani. M D CL.	Lvgd bat officina guilielmi christiani m d cl	   1
+Lvgd. Bat. Ex Officina Guilielmi Christiani. M D CL.	Lvgd bat officina m d cl	   1
 U. o. tr. å. ;;[Strängnäs]	Strängnäs	   1
 Strengnesiæ, typis capituli, excudebat Zackarias Brockenius, anno MDCXLVI.	Strängnäs	   1
 Holmiæ, anno, M. DC. LXI.	Stockholm	   1
@@ -5361,9 +5348,7 @@ Stockholm tryckt hoos Niclas Wankijff Kongl. Booktr	Stockholm	   1
 Stockholm, tryckt vti G. G. Burchardi tryckerij. 1699.	Stockholm	   1
 Holmiæ Svecorvm	Stockholm	   1
 U. o. tr .	U o tr	   1
-Tryckt, åhr 1631.	åhr	   1
 Dorpati Livonorum imprimebat Johannes Vogelius, Academiæ typogr. Anno M D CXLVIII.	Tartu	   1
-Tryckt åhr 1650.	åhr	   1
 Stockholm, tryckt af Henrich Keyser,...	Stockholm	   1
 Francofurti & Lipsiæ, sumptibus Christiani Wolffii, bibliopol. Anno M Dc LXXIII.	Francofurti lipsiae	   1
 Amstelodami, apud Ioannem Ianßonium 1644.	Amsterdam	   1
@@ -5858,7 +5843,6 @@ Stockholm, tryckt af Niclas Wankijff, Kongl. Booktr. med egen bekostnad, åhr 16
 Stockholm, aff Henrich Keyser, kongl. booktryckiare, åhr 1683.	Stockholm	   1
 Stockholmiæ, literis Enæanis a. Chr. M.DC.XCIX.	Stockholm	   1
 Lincopiæ, excudebat Christophorus Güntherus, gymn. typogr. Anno M. DC. LI.	Linköping	   1
-Tryckt åhr 1674.	åhr	   1
 Stockholm, tryckt aff Johann Georg Eberdt, åhr 1690.	Stockholm	   1
 I Götheborg, hoos Jöns Rahm, åhr 1689.	Gothenburg	   1
 Upsaliæ, typis Wallianis, excudebat Petrus E. Waldius. Anno 1634.	Uppsala	   1
@@ -5914,7 +5898,6 @@ Tryckt i Vpsala, aff Eskill Matzson, åhr 1646.	Uppsala	   1
 Trÿckt i Elbingen aff Wendel Bodenhausen, anno M. DC. XXIX.	Lbingen wendel bodenhausen anno m dc xxix	   1
 U. o. tr. å. ;;[Lund:]	Lund	   1
 Stockholm, Tryckt uti Kongl. B. hoos Sal. Wankijfs Änckia.	Stockholm	   1
-Tryckt åhr 1683.	åhr	   1
 U. o. tr. å. ;;[Stockho1m:]	U o tr å stockho m	   1
 Tryckt i Vpsala hoos Eskil Matzson, åhr M. DC. XXXIII.	Uppsala	   1
 Tryckt i Stockholm, hoos Ignatium Meurer, åhr M. DC. XXVI.	Stockholm	   1
@@ -5972,7 +5955,6 @@ Hamburgi, ex officina Gothofredi Schultzen, anno M. DC. LXXII.	Hamburg	   1
 Amsterodami, apud Ludouicum Elzeuirium. Ao. M DC XL.	Amsterdam	   1
 Lincopiæ, excudebat Daniel Kempe. Anno. M. DC. LVI.	Linköping	   1
 Arosia, excudebat Olaus Olai H., anno 1622.	Västerås	   1
-Tryckt åhr 1697.	åhr	   1
 Douay	Douai	   1
 Genvæ	Genvae	   1
 Liége	Liège	   1
@@ -6063,7 +6045,6 @@ Arosiæ, excudit Boëtius Hagenius, anno M DC XCII	Västerås	   1
 Holmiæ, literis Joh. G. Eberdt.	Stockholm	   1
 Tryckt i Stockholm hoos Heinrich Keyser, åhr 1645.	Stockholm	   1
 Holmiæ, typis Olai Enæi, anno M DC XCVI.	Stockholm	   1
-Tryckt åhr, 1642.	åhr	   1
 Tryckt i Strengnäs aff Zacharias Brocken, capitlers booktryckiare, åhr 1651.	Strängnäs	   1
 Upsaliæ cvm regio privilegio excudit Henricus Curio s.r.m. & academiæ Upsaliensis bibliopola. Anno MDCLXIV.	Uppsala	   1
 Uti Upsala hos Henrich Keyser, kongl. may:tz och acad: boktryckiare. Anno 1691.	Uppsala	   1
@@ -6446,7 +6427,6 @@ Stockholm, tryckt hos Joh. Christ. Holmberg, den 20 januarii 1790.	Stockholm	   
 Stockholm, tryckt och uplagd med Joh. L. Horrns, kongl. antiq. archivi boktr. bekostnad. Anno 1732.	Stockholm	   1
 Stockholm, tryckt hos Julius Georg Matthiæ, år 1713.	Stockholm	   1
 Printed at Upsal by John Edman, printer to the Royal Academie, 1783.	Uppsala	   1
-Tryckt åhr 1722.	åhr	   1
 Tryckt i Lund, 1785.	Lund	   1
 Stockholm, tryckt hos Carl Stolpe 1771.	Stockholm	   1
 Upsaliæ, MDCCLXXIII. E typographeo Edmanniano.	Uppsala	   1
@@ -6485,7 +6465,6 @@ Stockholm, tryckt hos Lars Salvius. År 1753.	Stockholm	   1
 Stockholm, tryckt hos Lars Salvius. År 1752.	Stockholm	   1
 Götheborg, tryckte hos Lars Wahlström, 1795.	Gothenburg	   1
 Stockholm, tryckt hos Joh. L. Horrn, kgl. ant. arch. boktr. 1736.	Stockholm	   1
-Tryckt åhr 1727.	åhr	   1
 Stockholm, tryckt af And. Biörkman, kongl. acad. boktr. i Åbo, 1723.	Stockholm	   1
 Stockholm, tryckt hos Lorentz Ludwig Grefing, på des egen bekåstnad. År 1750.	Stockholm	   1
 Stockholm ... tryckt vti historiographi regni tryckerij, af Hartwig Gercken. 1732.	Stockholm	   1
@@ -6627,7 +6606,7 @@ På bokhandl. Joh. Christoph. Holmbergs bekostnad. Stockholm, tryckt hos And. Ja
 Nyköping, tryckt hos E. Hasselrot, 1776.	Nyköping e hasselrot	   1
 På bokhandlaren Magni Swederi bekostnad. Upsala, tryckt hos Johan Edman, kongl. acad. boktr. 1776.	Uppsala	   1
 Nyköping, tryckt hos E. Hasselrot, 1775.	Nyköping e hasselrot	   1
-År 1774. Nyköping, tryckt hos E. Hasselrot. 1774.	år nyköping e hasselrot	   1
+År 1774. Nyköping, tryckt hos E. Hasselrot. 1774.	Nyköping e hasselrot	   1
 År 1774. Norrköping, tryckt hos Joh. B. Blume, 1774. På auctors egen bekostnad.	Norrköping	   1
 År 1773. Norrköping tryckt hos Joh. Benj. Blume, 1773. På auctors egen bekostnad.	Norrköping	   1
 Stockholmisa, präntätty kuningallisesa suomalaisesa pränttisä, 1786.	Stockholm	   1
@@ -7283,7 +7262,6 @@ Stockholm tryckt hos P. Hesselberg. 1778.	Stockholm	   1
 Stockholm, 1776. Hos bokhandlaren D. Segerdahl. För auctorens räkning, tryckt hos Lars Wennberg.	Stockholm	   1
 Stockholm tryckt hos A. Nordström 1781.	Stockholm	   1
 Stockholm, tryckt hos Carl Fr. Marquard, 1807.	Stockholm	   1
-Tryckt åhr 1731.	åhr	   1
 Stockholm, med egen bekostnadt uplagdt, af Johan Henrich Werner, directeur öfwer alla tryckerien i riket, åhr 1731.	Stockholm	   1
 Stockholm, tryckt uti Kongl. Finska boktryckeriet, hos Joh. Arv. Carlbohm, 1769.	Stockholm	   1
 Stockholm, tryckt uti kongl. finska boktryckeriet, 1767. För auctorns räkning.	Stockholm	   1
@@ -7372,7 +7350,6 @@ Stockholm, tryckt af Andr. Biörkman, kongl. acad. boktr. 1728.	Stockholm	   1
 Skara, tryckt hos Herm. Arnold Möller, kongl. gymnas. boktryckiare.	Skara	   1
 Götheborg, 1776. Trykt hos Immanuel Smitt, k.g.b.	Gothenburg	   1
 Stockholm, tryckt hos A. Gadelius, 1816.	Stockholm	   1
-Tryckt år 1762.	år	   1
 Nyköping, tryckt af Carl Haszelrot, 1782.	Nyköping carl haszelrot	   1
 Stockholm, tryckt hos J.C. Holmberg, 1788.	Stockholm	   1
 Tryckt hos Samuel Norberg, 1788.	Samuel norberg	   1

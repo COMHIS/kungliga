@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-06-22"
+date: "2016-06-23"
 output: markdown_document
 ---
 
@@ -58,8 +58,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |650y                                         |        99.4|           0.6|           453|         95|
 |440a                                         |        99.3|           0.7|           482|        289|
 |publisher                                    |        99.2|           0.8|           586|        262|
-|latitude                                     |        98.9|           1.1|           798|         13|
-|longitude                                    |        98.9|           1.1|           798|         13|
+|latitude                                     |        98.9|           1.1|           821|         13|
+|longitude                                    |        98.9|           1.1|           821|         13|
 |publication_year_till                        |        98.0|           2.0|          1431|        226|
 |title_uniform                                |        98.0|           2.0|          1467|        872|
 |260e                                         |        97.9|           2.1|          1513|         72|
@@ -97,11 +97,11 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |area                                         |        18.5|          81.5|         59652|         32|
 |obl                                          |        18.5|          81.5|         59658|          3|
 |note_general                                 |        13.6|          86.4|         63227|      33433|
-|country                                      |         7.7|          92.3|         67569|         23|
+|country                                      |         6.7|          93.3|         68241|         25|
 |language                                     |         6.0|          94.0|         68770|         32|
 |dissertation                                 |         2.5|          97.5|         71347|          3|
 |synodal                                      |         2.5|          97.5|         71347|          2|
-|publication_place                            |         0.0|         100.0|         73143|        934|
+|publication_place                            |         0.0|         100.0|         73143|        626|
 |publication_year_from                        |         0.0|         100.0|         73173|        322|
 |language.Swedish                             |         0.0|         100.0|         73176|          2|
 |language.English                             |         0.0|         100.0|         73176|          2|

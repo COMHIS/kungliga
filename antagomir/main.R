@@ -12,7 +12,7 @@ output.folder <- "output.tables/"
 catalog <- "kungliga"
 
 # Remove selected fields
-# ignore.fields <- c() 
+ignore.fields <- c("publisher") 
 
 # —--------------------------------------------
 
@@ -45,7 +45,7 @@ saveRDS(df.preprocessed, file = "df.Rds", compress = TRUE)
 
 # --------------------------------------------------
 
-# Analyze the preprocessed data
+print("Analyze the preprocessed data")
 source("analysis.R")
 
 date()

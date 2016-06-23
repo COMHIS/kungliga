@@ -53,13 +53,11 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |publication_interval                         |        99.7|           0.3|           222|        208|
 |440v                                         |        99.6|           0.4|           272|        211|
 |note_source                                  |        99.6|           0.4|           288|        231|
-|self_published                               |        99.6|           0.4|           303|          3|
 |physical_details                             |        99.6|           0.4|           305|         59|
 |650y                                         |        99.4|           0.6|           453|         95|
 |440a                                         |        99.3|           0.7|           482|        289|
-|latitude                                     |        98.9|           1.1|           824|         13|
-|longitude                                    |        98.9|           1.1|           824|         13|
-|publisher                                    |        98.8|           1.2|           842|        259|
+|latitude                                     |        98.9|           1.1|           818|         13|
+|longitude                                    |        98.9|           1.1|           818|         13|
 |publication_year_till                        |        98.0|           2.0|          1431|        226|
 |title_uniform                                |        98.0|           2.0|          1467|        872|
 |260e                                         |        97.9|           2.1|          1513|         72|
@@ -97,9 +95,9 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |area                                         |        18.5|          81.5|         59652|         32|
 |obl                                          |        18.5|          81.5|         59658|          3|
 |note_general                                 |        13.6|          86.4|         63227|      33433|
-|country                                      |         7.4|          92.6|         67783|         25|
+|country                                      |         7.4|          92.6|         67797|         25|
 |language                                     |         6.0|          94.0|         68770|         32|
-|publication_place                            |         3.2|          96.8|         70801|        421|
+|publication_place                            |         3.3|          96.7|         70783|        370|
 |dissertation                                 |         2.5|          97.5|         71347|          3|
 |synodal                                      |         2.5|          97.5|         71347|          2|
 |publication_year_from                        |         0.0|         100.0|         73173|        322|

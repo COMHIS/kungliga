@@ -451,6 +451,7 @@ Lund, 1822-1823	 4
 Mariefred, 1827-1828	 4
 Norrköping, 1734	 4
 Norrköping, 1813	 4
+Örebro : Lindh, 1806-1807	 4
 Örebro, 1802	 4
 Örebro, 1808	 4
 Örebro, 1808-1811	 4
@@ -458,7 +459,6 @@ Norrköping, 1813	 4
 Örebro, 1817	 4
 Örebro, 1818	 4
 Örebro, 1821-1826	 4
-Örebro : Lindh, 1806-1807	 4
 Skara, 1795	 4
 Skara, 1810-1812	 4
 Skara, 1813-1817	 4
@@ -617,6 +617,7 @@ Nyköping, 1828	 3
 Örebro, 1827-1828	 3
 Skara, 1808-1813	 3
 Skara, 1811-1814	 3
+Stockholm : Rumstedt, 1826-1828	 3
 Stockholm, 1721-1724	 3
 Stockholm, 1726-1727	 3
 Stockholm, 1733	 3
@@ -679,7 +680,6 @@ Stockholm, 1816-1819	 3
 Stockholm, 1821-1823	 3
 Stockholm, 1823-1828	 3
 Stockholm, 1824-1828	 3
-Stockholm : Rumstedt, 1826-1828	 3
 Strängnäs, 1798	 3
 Strängnäs, 1798-1799	 3
 Strängnäs, 1802-1803	 3
@@ -738,8 +738,8 @@ Göteborg, 1797-1798	 2
 Göteborg, 1802-1803	 2
 Göteborg, 1810-1811	 2
 Göteborg, 1818	 2
-Göteborg, 1820-1821	 2
 Göteborg, 1820 1821-1822	 2
+Göteborg, 1820-1821	 2
 Göteborg, 1824-1825	 2
 Göteborg, 1825	 2
 Göteborg, 1826	 2
@@ -791,10 +791,10 @@ Linköping, 1810	 2
 Linköping, 1810-1811	 2
 Linköping, 1813	 2
 Linköping, 1818	 2
-Linköping;, 1819	 2
 Linköping, 1819-1821	 2
-Linköping;, 1821-1822	 2
 Linköping, 1821-1823	 2
+Linköping;, 1819	 2
+Linköping;, 1821-1822	 2
 Linköping;, 1823	 2
 Linköping;, 1824	 2
 London, 1802	 2
@@ -869,6 +869,7 @@ Skara, 1808	 2
 Skara, 1810	 2
 Skara, 1815	 2
 Skara, 1820	 2
+Stockholm : Johan Georg Lange, 1767-1768	 2
 Stockholm, 1702-1706	 2
 Stockholm, 1706	 2
 Stockholm, 1707	 2
@@ -944,7 +945,6 @@ Stockholm, 1822-1823	 2
 Stockholm, 1822-1824	 2
 Stockholm, 1822-1828	 2
 Stockholm, 1823-1829	 2
-Stockholm : Johan Georg Lange, 1767-1768	 2
 Stockholmm, 1825-1826	 2
 Strängnäs, 1800-1801	 2
 Strängnäs, 1801	 2
@@ -1025,6 +1025,7 @@ Västerås, 1811	 2
 Västerås, 1827-1828	 2
 Visby, 1827	 2
 Visby, 1828	 2
+[Stockholm] : [Kongl. tryckeriet], [1742]	 1
 1742-1829	 1
 1750-1751	 1
 1753-1754	 1
@@ -1084,8 +1085,8 @@ Karlstad, 1819	 1
 Kristianstad, 1814	 1
 Kristianstad, 1827	 1
 Leipzig, 1823-1824	 1
-Linköping;, 1821	 1
 Linköping, 1827-1829	 1
+Linköping;, 1821	 1
 Lund, 1739	 1
 Lund, 1748	 1
 Lund, 1781-1786	 1
@@ -1120,6 +1121,8 @@ Nyköping, 1820	 1
 Örebro, Stockholm, 1812-1813	 1
 Skara, 1762	 1
 Skara, 1802	 1
+Stockholm : aux dépens de J. C. Holmberg, 1795-1807	 1
+Stockholm : Wiborg & Comp., 1828-	 1
 Stockholm, 1690-1695	 1
 Stockholm, 1697-1723	 1
 Stockholm, 1728	 1
@@ -1140,9 +1143,6 @@ Stockholm, 1827-1877	 1
 Stockholm, 1828-1830	 1
 Stockholm, 1828-1836	 1
 Stockholm, 1828-1838	 1
-Stockholm : aux dépens de J. C. Holmberg, 1795-1807	 1
-[Stockholm] : [Kongl. tryckeriet], [1742]	 1
-Stockholm : Wiborg & Comp., 1828-	 1
 Strängnäs, 1713	 1
 Strängnäs, 1770	 1
 Strängnäs, 1809-1810	 1

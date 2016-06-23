@@ -7,11 +7,11 @@ output: markdown_document
 
 ### Publication places
 
- * 421 [publication places](output.tables/publication_place_accepted.csv)
+ * 370 [publication places](output.tables/publication_place_accepted.csv)
  * 25 [publication countries](output.tables/country_accepted.csv) 
- * Publication place is identified for 70801 documents (97%). 
- * Publication country is identified for 67783 documents (93%).
- * 1.1% of the documents could be matched to geographic coordinates (based on the [Geonames](http://download.geonames.org/export/dump/) database). See the [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv). Altogether ``98.87``% of the documents have missing geocoordinates.
+ * Publication place is identified for 70783 documents (97%). 
+ * Publication country is identified for 67797 documents (93%).
+ * 1.1% of the documents could be matched to geographic coordinates (based on the [Geonames](http://download.geonames.org/export/dump/) database). See the [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv). Altogether ``98.88``% of the documents have missing geocoordinates.
  * [Places with unknown publication country](output.tables/publication_place_missingcountry.csv) (can be added to [country mappings](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/reg2country.csv))
  * [Ambiguous publication places](output.tables/publication_place_ambiguous.csv)
  * [Potentially ambiguous region-country mappings](output.tables/publication_country_ambiguous.csv) (these may occur in the data in various synonymes and the country is not always clear when multiple countries have a similar place name; the default country is listed first)
@@ -29,10 +29,10 @@ Top-20 publication places are shown together with the number of documents.
 
 |Country | Documents (n)| Fraction (%)|
 |:-------|-------------:|------------:|
-|Sweden  |         62376|         85.2|
+|Sweden  |         62388|         85.3|
 |Finland |          1796|          2.5|
-|Germany |          1331|          1.8|
-|Denmark |           654|          0.9|
-|England |           483|          0.7|
+|Germany |          1325|          1.8|
+|Denmark |           659|          0.9|
+|England |           477|          0.7|
 |France  |           245|          0.3|
 

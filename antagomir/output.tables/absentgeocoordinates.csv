@@ -1,30 +1,30 @@
 name	count
 Stockholm	45108
-Uppsala	4987
+Uppsala	4988
 Gothenburg	2397
-Lund	2210
+Lund	2216
 Turku	1593
-Linköping	1287
+Linköping	1289
 Västeras	1119
 Örebro	1090
 Strängnäs	1014
 Norrköping	880
 Jönnköping	832
-Copenhagen	638
+Copenhagen	643
 Karlskrona	600
 Skara	558
 Gävle	441
-Falun	438
+Falun	439
 Kalmar	395
 Nyköping	356
-Karlstad	344
+Karlstad	345
 Växjö	255
 Greifswald	242
 Leipzig	176
 Tartu	148
 Härnösand	140
 Mariefred	136
-Stralsund	122
+Stralsund	121
 Rostock	117
 Malmö	102
 Berlin	99
@@ -40,36 +40,36 @@ Mariehamn	50
 Nürnberg	40
 Lybeck	33
 Venice	32
+Pecatana moskve f gippiusa	32
 Haunia	32
+Karlshamn	31
 Szczecin	30
 Helsinki	30
-Karlshamn	29
 Göttingen	29
+The Hague	28
 Mariestad	27
-The Hague	26
 Rome	26
+Leiden	25
 Cologne	25
 Wittenberg	24
 Kiel	24
 Halmstad	24
-Leiden	23
 Helsingborg	23
 Strasbourg	22
 Oslo	22
-Halle	21
-Halden	21
+Halle	22
+Halden	22
 Boras	17
+Vienna	16
 Jena	16
-Vienna	14
-Stade	14
+Stade	15
 Basel	14
+Wijsingzborg	13
 Königsberg	13
 Breslau	13
 Zerbst	12
-Wijsingzborg	12
 Madrid	12
 Lyon	11
-Hannover	11
 Geneve	11
 Altona	11
 Vyborg	10
@@ -85,6 +85,7 @@ Wismar	8
 Potsdam	8
 Genoa	8
 Ratzeburg	7
+Poznań	7
 Milano	7
 Lisbon	7
 Jelgava	7
@@ -92,7 +93,6 @@ Firenze	7
 Weimar	6
 Ulm	6
 Uddevalla	6
-Peter	6
 Naples	6
 Marburg	6
 Lüneburg	6
@@ -105,9 +105,9 @@ Dresden	6
 Antwerp	6
 Zürich	5
 Prague	5
-Posnaniae	5
 Oranienburg	5
 Narva	5
+Hannover	5
 Gusum	5
 Erlangen	5
 Dantzig	5
@@ -116,10 +116,10 @@ Bremen	5
 Boizenburg	5
 Altefähr	5
 Aarhus	5
-Thet	4
 Stuttgart	4
 Pisa	4
 Pärnu	4
+Moscow	4
 Magdeburg	4
 Helsingør	4
 Haarlem	4
@@ -135,19 +135,17 @@ Altdorf	4
 Aalborg	4
 Żary	3
 Valladolid	3
-Utgivningsort	3
+Typis	3
 Treuenbrietzen	3
 Strömstad	3
 Saarmund	3
 Rotterdam	3
-Reg	3
+Rädigke	3
 Padova	3
 Odense	3
 München	3
-Moscow	3
 Meinz	3
 Kaupmannahöfn	3
-Kaupmannahafn	3
 Kassel	3
 Heidelberg	3
 Gotha	3
@@ -155,8 +153,7 @@ Giessen	3
 Freystadt	3
 Franzburg	3
 Florence	3
-Fält peter	3
-Directeuren	3
+Durch	3
 Deux	3
 Cksteinska	3
 Braunschweig	3
@@ -165,12 +162,11 @@ Barcelona	3
 Arnstadt	3
 Zamosc	2
 Villefranche	2
-Viennae austriae	2
 Versailles	2
-Typis	2
+Utgivningsort	2
 Turin	2
 Tübingen	2
-Soröe	2
+Sorø	2
 Sedini	2
 Schwerin	2
 Schwabach	2
@@ -178,8 +174,6 @@ Rudolfstadt	2
 Rouen	2
 Revall	2
 Regensburg	2
-Rädigke	2
-Poznań	2
 Perth	2
 Pernaja	2
 New York NY	2
@@ -187,12 +181,10 @@ Neuchatel	2
 N ar	2
 Mühlhausen	2
 Milan	2
-Lvgd batav elzeviriana	2
 Lugano	2
 Lucca	2
 Lübeck	2
 Linz	2
-Linkiöpingh	2
 Legnica	2
 Lausanne	2
 Karlsruhe	2
@@ -201,13 +193,14 @@ Huset no	2
 Heylbronn	2
 Hamm	2
 Groeningen	2
+Grätz	2
 Glückstadt	2
 Flensburg	2
 Dijon	2
 Deventer	2
 Coswig	2
 Buxtehude	2
-Buetzow	2
+Bützow	2
 Brussels	2
 Brunswick Ma	2
 Bordeaux	2
@@ -222,18 +215,17 @@ Yverdon-les-Bains	1
 Worcester Ma	1
 Winterthur	1
 Wilmington De	1
-Wijsingzborg rikz	1
-Westerahrs	1
-Werneriana	1
 Weißenfels	1
-Weiiö	1
 Warrington	1
 Wainajan	1
-Vthgangen	1
 Vilna	1
-Veronae germanorum	1
+Vesterås	1
+Verona	1
 Växlande	1
-Ulyssipone	1
+Västerås	1
+Univers	1
+Typographus	1
+Tryckeri	1
 Troyes	1
 Tripoli	1
 Trier	1
@@ -241,71 +233,55 @@ Tribsees	1
 Tours	1
 Tönning	1
 Tønder	1
-Thersammestädhes	1
 Tanger	1
 Tampere	1
-Sumtu	1
 Sulzbach	1
 Suisse	1
 Strömsholm	1
 Straubing	1
-Stergnäs	1
+Stralsundi	1
 Stendal	1
-Stadae	1
 Spb	1
 Sondershausen	1
 Smolensk	1
 Siena	1
-Schwed buchdrukker	1
 Schnepfenthal	1
 Schleswig	1
-Schill	1
 San	1
 Samtens	1
 Säljes kiesevetters boklador	1
 Saalfeld	1
 Roßlau	1
 Rom	1
-Rödigke sachsen	1
-Rintelii literis enax	1
+Rinteln	1
 Rimini	1
 Ribnitz	1
 Rhodopoli	1
 Revel	1
 Reva	1
 Reutlingen	1
-Reg typographus	1
 Refwell	1
-Recvsa	1
 Quedlinburg	1
 Pyrmont	1
-Prof pa	1
-Preuss	1
 Poschiavo	1
 Pomerania	1
 Polen	1
 Plymouth	1
 Pirna	1
-Peter ar	1
-Pecatana moskve f gippiusa	1
 Parma	1
 Palermo	1
 Orleans	1
 Onoldi	1
 Oliva	1
-Nytorp fält p	1
-Nplagd	1
-Nissae	1
+Nytorp p	1
+Nysa	1
 Nijmegen	1
-N freudenstatt jubeljahr	1
 Newry	1
 Neutra	1
 Neisz	1
 Nantes	1
-Moskve teatre ch klaudija	1
 Morpeth	1
 Montpellier	1
-Monachii joannis	1
 Monachii	1
 Metz	1
 Mannheim	1
@@ -315,95 +291,68 @@ Lorens	1
 Litteris	1
 Literis	1
 Limoges	1
-Licencia	1
+Lieshout boeckverkooper	1
 Libros	1
 Leeds	1
 Krakau	1
-Kopenhague grande place	1
 Koningsberg	1
 Kognl	1
 Koblenz	1
-Kavpmannahavfn	1
 Jun	1
+Joannis	1
 Jihlava	1
-Januario	1
-Ignatius	1
-Ignatium	1
-Ibid	1
 Hrafnsey	1
 Historiographi regni	1
 Hildburghausen	1
 Harlem	1
-Hardervici	1
+Harderwijk	1
 Hanau	1
 Hämeenlinna	1
-Halae magdeburgicae	1
 Greiz	1
-Gravenhage	1
-Grätz	1
-Graecii haeredum widmanstadii	1
-Graavenhaage	1
-Geschehen	1
 Germanien	1
 Genève	1
 Friedrichstadt	1
-Freybergk	1
+Freyburg	1
+Freudenstadt	1
+Freistadt	1
 Freiburg	1
-Frederikshald	1
-Francoys ginele	1
+Franeker	1
 Forssa	1
 Filipstad	1
-Falunae	1
 Excudit	1
 Excudebat	1
-Enckia	1
-Eleuteropoli eg freistadt	1
-Durch	1
 Dunkirk	1
-Dryckt	1
 Douai	1
 Dordrecht	1
-Directeur	1
 Diesem ten	1
-Depens lauteur	1
 Cum gratia sacr sveciae rjga	1
 Cum gratia privilegio	1
 Cosmopoli	1
 Constantz	1
+Cons	1
 Conimbricae	1
 Coburg	1
 Chra	1
 Chemnitz	1
 Celle	1
-Cederholm	1
 Catania	1
-Carolsadii	1
+Casa de	1
 Caroli	1
-Carlstad horrn	1
-Carlshamn pa	1
-Carlshamn	1
 Caes	1
 Caen	1
-Buchdr	1
-Brunae	1
+Brno	1
 Brest	1
 Braniewo	1
-Borghare wästerahrs	1
-Boetio	1
 Bielefeld	1
 Bern	1
-Berlingska	1
 Barhöft	1
 Baltijsk	1
 Avignon	1
-Atrebati	1
 Artern	1
-Ar säljes exemplaret för dal kopp mt	1
+Arras	1
 Are	1
+Ar säljes exemplaret för dal kopp mt	1
 Anhalt	1
 Amberg	1
 Altenburg	1
-Alla franechera	1
 Albona	1
-Abr habereger gub car	1
-Abr habereegr gub car	1

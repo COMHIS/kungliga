@@ -1,56 +1,203 @@
 original	polished	Count
-Total count: 	73176	
-swe	Swedish	58016
-lat	Latin	 5896
-und	NA	 4208
-ger	German	 1888
-fre	French	 1310
-fin	Finnish	  403
-eng	English	  376
-dan	Danish	  261
-0 s	NA	  125
-grc	Greek, Ancient (to 1453)	  114
-dut	Dutch	  109
-ita	Italian	  107
-smi	Sami	   71
-rus	Russian	   40
-nor	Norwegian	   40
-heb	Hebrew	   29
-0ds	NA	   26
-spa	Spanish	   21
-non	Old Norse	   20
-mul	Multiple languages	   14
-0dg	NA	   13
-pol	Polish	   11
-ice	Icelandic	    9
-por	Portuguese	    9
-ara	Arabic	    9
-s	NA	    8
-gre	Greek, Modern (1453-)	    6
-b0s	NA	    4
-got	Gothic	    3
-0 l	NA	    2
-l	NA	    2
-0s	NA	    2
-0 g	NA	    2
-0 f	NA	    2
-i	NA	    1
-0 d	NA	    1
-ins	NA	    1
-NA	NA	    1
-i z	NA	    1
-002	NA	    1
-syr	Syriac, Modern	    1
-lit	Lithuanian	    1
-est	Estonian	    1
-alg	Algonquian (Other)	    1
-zxx	No linguistic content	    1
-sw	NA	    1
-9fs	NA	    1
-lav	Latvian	    1
-ty	NA	    1
-nds	Low German	    1
-da	NA	    1
-d s	NA	    1
-d f	NA	    1
-alb	Albanian	    1
+Total count: 	371321	
+swe	Swedish	203959
+0 s	NA	104291
+ger	German	 12130
+eng	English	  7389
+lat	Latin	  7101
+und	NA	  5388
+fre	French	  5181
+fin	Finnish	  4390
+dan	Danish	  4219
+0 e	NA	  3266
+nor	Norwegian	  2048
+0 g	NA	  1734
+dut	Dutch	  1117
+zxx	No linguistic content	   890
+ita	Italian	   774
+rus	Russian	   695
+0 f	NA	   647
+spa	Spanish	   383
+0,s	NA	   365
+b0s	NA	   328
+f s	NA	   305
+cze	Czech	   299
+pol	Polish	   290
+ice	Icelandic	   288
+mul	Multiple languages	   259
+---	NA	   215
+0 l	NA	   215
+1 s	NA	   207
+est	Estonian	   190
+hun	Hungarian	   188
+p s	NA	   169
+0s	NA	   168
+grc	Greek, Ancient (to 1453)	   144
+s	NA	   140
+non	Old Norse	   137
+lav	Latvian	   129
+por	Portuguese	   112
+0ds	NA	    89
+smi	Sami	    83
+j s	NA	    82
+0bs	NA	    77
+hrv	Croatian	    67
+jpn	Japanese	    67
+bul	Bulgarian	    61
+d s	NA	    58
+0 n	NA	    55
+0 d	NA	    51
+0as	NA	    46
+heb	Hebrew	    42
+0 u	NA	    38
+tur	Turkish	    37
+ara	Arabic	    32
+gre	Greek, Modern (1453-)	    31
+0 m	NA	    29
+epo	Esperanto	    25
+0 i	NA	    24
+rum	Romanian	    21
+yid	Yiddish	    20
+0 p	NA	    19
+0m	NA	    19
+0cs	NA	    19
+slo	Slovak	    18
+tir	Tigrinya	    18
+0 r	NA	    18
+chi	Chinese	    15
+tig	Tigré	    14
+fao	Faroese	    14
+0dg	NA	    14
+ukr	Ukrainian	    13
+b0m	NA	    12
+0be	NA	    11
+0u	NA	    11
+bnt	Bantu (Other)	    10
+NA	NA	    10
+amh	Amharic	    10
+kon	Kongo	     9
+slv	Slovenian	     9
+f,s	NA	     9
+0e	NA	     9
+srp	Serbian	     8
+b0e	NA	     7
+pli	Pali	     7
+lit	Lithuanian	     6
+nds	Low German	     6
+nno	Norwegian (Nynorsk)	     6
+0ae	NA	     6
+arm	Armenian	     5
+afr	Afrikaans	     5
+1,s	NA	     5
+f e	NA	     5
+swa	Swahili	     4
+zul	Zulu	     4
+syr	Syriac, Modern	     4
+9fs	NA	     4
+got	Gothic	     4
+1 e	NA	     4
+0 c	NA	     4
+d,s	NA	     4
+l	NA	     3
+nic	Niger-Kordofanian (Other)	     3
+fry	Frisian	     3
+ido	Ido	     3
+san	Sanskrit	     3
+cat	Catalan	     3
+fro	French, Old (ca. 842-1300)	     3
+gez	Ethiopic	     3
+b0g	NA	     3
+0f	NA	     3
+h s	NA	     3
+u,s	NA	     3
+m s	NA	     3
+i,s	NA	     2
+b0f	NA	     2
+jas	NA	     2
+per	Persian	     2
+sme	Northern Sami	     2
+mlg	Malagasy	     2
+wel	Welsh	     2
+ind	Indonesian	     2
+fiu	Finno-Ugrian (Other)	     2
+orm	Oromo	     2
+frm	French, Middle (ca. 1300-1600)	     2
+enm	English, Middle (1100-1500)	     2
+arc	Aramaic	     2
+ssa	Nilo-Saharan (Other)	     2
+uig	Uighur	     2
+hin	Hindi	     2
+smj	Lule Sami	     2
+9fd	NA	     2
+geo	Georgian	     2
+roh	Raeto-Romance	     2
+z	NA	     2
+d f	NA	     2
+alb	Albanian	     2
+0 h	NA	     2
+0,e	NA	     2
+0 a	NA	     2
+0ce	NA	     2
+p m	NA	     2
+c s	NA	     1
+e	NA	     1
+i	NA	     1
+b0d	NA	     1
+ins	NA	     1
+d	NA	     1
+i z	NA	     1
+b,s	NA	     1
+b1s	NA	     1
+006	NA	     1
+00	NA	     1
+9ft	NA	     1
+9mk	NA	     1
+kua	Kuanyama	     1
+0	NA	     1
+b0n	NA	     1
+ber	Berber (Other)	     1
+mal	Malayalam	     1
+002	NA	     1
+rom	Romani	     1
+b0h	NA	     1
+som	Somali	     1
+hil	Hiligaynon	     1
+cus	Cushitic (Other)	     1
+sma	Southern Sami	     1
+mac	Macedonian	     1
+art	Artificial (Other)	     1
+kin	Kinyarwanda	     1
+gmh	German, Middle High (ca. 1050-1500)	     1
+kor	Korean	     1
+ori	Oriya	     1
+kal	Kalâtdlisut	     1
+wen	Sorbian (Other)	     1
+pro	Provençal (to 1500)	     1
+alg	Algonquian (Other)	     1
+kho	Khotanese	     1
+0 o	NA	     1
+0bd	NA	     1
+mu	NA	     1
+0d	NA	     1
+sw	NA	     1
+ty	NA	     1
+da	NA	     1
+tre	NA	     1
+sp	NA	     1
+0 z	NA	     1
+1ds	NA	     1
+p,s	NA	     1
+e,s	NA	     1
+0,p	NA	     1
+j e	NA	     1
+d l	NA	     1
+0df	NA	     1
+f g	NA	     1
+0 y	NA	     1
+0,f	NA	     1
+0de	NA	     1
+g	NA	     1
+0,g	NA	     1
+j,s	NA	     1
+p e	NA	     1
+1as	NA	     1

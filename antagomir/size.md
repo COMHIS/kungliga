@@ -1,7 +1,7 @@
 ---
 title: "Document dimension preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-06-23"
+date: "2016-06-24"
 output: markdown_document
 ---
 
@@ -35,7 +35,7 @@ These include estimates that are based on auxiliary information sheets:
   
 <!--[Discarded dimension info](output.tables/dimensions_discarded.csv)-->
 
-Document size (area) info in area is available for 59652 documents (82%). Estimates of document size (area) info in gatherings system are available for 73176 documents (100%). 
+Document size (area) info in area is available for 71684 documents (19%). Estimates of document size (area) info in gatherings system are available for 371321 documents (100%). 
 
 ![plot of chunk summarysize](figure/summarysize-1.png)
 
@@ -49,7 +49,7 @@ Document dimension histogram (surface area). Few document sizes dominate publish
 ![plot of chunk summary-surfacearea](figure/summary-surfacearea-1.png)
 
 
-Compare gatherings and page counts. Page count information is originally missing but subsequently estimated for 56 documents and updated (changed) for 0 documents. 
+Compare gatherings and page counts. Page count information is originally missing but subsequently estimated for 2019 documents and updated (changed) for 0 documents. 
 
 
 ![plot of chunk summarypagecomp](figure/summarypagecomp-1.png)
@@ -73,20 +73,21 @@ Multi-volume documents average page counts are given per volume.
 
 |doc.dimension |mean.pages.singlevol |median.pages.singlevol | n.singlevol| mean.pages.multivol| median.pages.multivol| n.multivol| mean.pages.issue| median.pages.issue| n.issue|
 |:-------------|:--------------------|:----------------------|-----------:|-------------------:|---------------------:|----------:|----------------:|------------------:|-------:|
-|2fo           |NA                   |NA                     |        1791|                  NA|                    NA|         NA|               NA|                 NA|      72|
-|4to           |NA                   |NA                     |       30561|                  NA|                    NA|         NA|               NA|                 NA|   30572|
-|6to           |NA                   |NA                     |          18|                  NA|                    NA|         NA|               NA|                 NA|       1|
-|8long         |NA                   |NA                     |           1|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|8vo           |NA                   |NA                     |       21436|                   1|                     1|         23|                1|                  1|       9|
-|12mo          |NA                   |NA                     |        2991|                 NaN|                    NA|          4|              NaN|                 NA|       1|
-|16mo          |NA                   |NA                     |        1296|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|18mo          |NA                   |NA                     |          86|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|24mo          |NA                   |NA                     |         163|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|32mo          |NA                   |NA                     |          30|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|2fo           |NA                   |NA                     |        1824|                  NA|                    NA|         NA|               NA|                 NA|      92|
+|4to           |NA                   |NA                     |       31861|                  NA|                    NA|         NA|               NA|                 NA|   31874|
+|6to           |NA                   |NA                     |          27|                  NA|                    NA|         NA|               NA|                 NA|       1|
+|8long         |NA                   |NA                     |          13|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|8vo           |NA                   |NA                     |       24877|                   1|                     1|         94|                1|                  1|      30|
+|12long        |NA                   |NA                     |           1|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|12mo          |NA                   |NA                     |        3269|                 NaN|                    NA|         20|              NaN|                 NA|       3|
+|16mo          |NA                   |NA                     |        1593|                 NaN|                    NA|          6|               NA|                 NA|      NA|
+|18mo          |NA                   |NA                     |          94|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|24mo          |NA                   |NA                     |         169|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|32mo          |NA                   |NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |48mo          |NA                   |NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|64mo          |NA                   |NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|NA            |NA                   |NA                     |       13482|                   1|                     1|         33|                1|                  1|      18|
-|1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1134|
+|64mo          |NA                   |NA                     |          35|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|NA            |NA                   |NA                     |      304078|                   1|                     1|       1930|                1|                  1|    2482|
+|1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1175|
 
 
 ![plot of chunk summarypagecountsmulti2](figure/summarypagecountsmulti2-1.png)
@@ -106,7 +107,7 @@ Only the most frequently occurring gatherings are listed here:
 
 |gatherings.original |mean.width |median.width | mean.height| median.height|  n|
 |:-------------------|:----------|:------------|-----------:|-------------:|--:|
-|4to                 |NA         |NA           |          20|            20|  2|
-|8vo                 |NA         |NA           |          16|            16|  3|
+|4to                 |NA         |NA           |       23.57|         23.57|  7|
+|8vo                 |NA         |NA           |       20.65|         20.65| 31|
 
 -->

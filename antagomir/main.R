@@ -9,6 +9,7 @@ library(bibliographica)
 # I/O definitions
 fs <- list.files("~/data/Kungliga/preprocessed", full.names = TRUE, pattern = ".csv.gz")
 output.folder <- "output.tables/"
+catalog <- "kungliga"
 
 # Remove selected fields
 # ignore.fields <- c() 

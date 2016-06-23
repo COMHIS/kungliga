@@ -1,1087 +1,409 @@
 name	count
-Stockholm	44743
-Uppsala	4898
-Gothenburg	2381
-Lund	2176
-Turku	1581
-Linköping	1252
-Västerås	1099
-Örebro	1066
-Strängnäs	980
-Norrköping	861
-Jönnköping	823
-Kongl tryckeriet	640
-Karlskrona	598
-Skara	552
+Stockholm	45108
+Uppsala	4987
+Gothenburg	2397
+Lund	2210
+Turku	1593
+Linköping	1287
+Västeras	1119
+Örebro	1090
+Strängnäs	1014
+Norrköping	880
+Jönnköping	832
+Copenhagen	638
+Karlskrona	600
+Skara	558
+Gävle	441
 Falun	438
-Gävle	421
-Copenhagen	348
-Nyköping	327
-Kalmar	326
-Karlstad	305
-Kristianstad	237
-Greifswald	226
-Växjö	210
-U o tr	172
-Leipzig	172
-Tartu	146
-Härnösand	143
-Mariefred	115
-Stralsund	109
-Rostock	108
-Malmö	94
-Vänersborg	87
-Vaasa	84
+Kalmar	395
+Nyköping	356
+Karlstad	344
+Växjö	255
+Greifswald	242
+Leipzig	176
+Tartu	148
+Härnösand	140
+Mariefred	136
+Stralsund	122
+Rostock	117
+Malmö	102
+Berlin	99
+Vänersborg	98
+Frankfurt	96
+Hamburg	90
+Vaasa	86
 Riga	80
-Hamburg	76
-Berlin	76
-Frankfurt	74
-Stockholm strängnäs	66
-Stockholm uppsala	64
-<s l >	63
-U o tr å	58
 Tallinn	55
-åland	50
-Visby	49
-St Petersburg	45
-Calmar	39
-Stockholm wasa	36
-Nürnberg	36
-Lybeck	32
-Venice	31
-Stockholm upsal	31
-Szczecin	29
+Visby	52
+St Petersburg	52
+Mariehamn	50
+Nürnberg	40
+Lybeck	33
+Venice	32
+Haunia	32
+Szczecin	30
+Helsinki	30
 Karlshamn	29
-Helsinki	27
-Uppsala stockholm	26
+Göttingen	29
+Mariestad	27
+The Hague	26
 Rome	26
-Mariestad	26
-Göttingen	26
-The Hague	24
+Cologne	25
+Wittenberg	24
+Kiel	24
 Halmstad	24
-Wittenberg	23
+Leiden	23
 Helsingborg	23
+Strasbourg	22
 Oslo	22
-Kiel	22
-Gefle	22
-Mariefred norrköping	20
-Fredrikshald	20
-Strasbourg	19
-Stockholm norrköping	19
-Carlstad	19
-Wexiö	18
-Halle	18
-Cologne	18
-Borås	17
-Leiden	16
+Halle	21
+Halden	21
+Boras	17
 Jena	16
-Havniae	16
-Carlstad wallencrona	16
-Strängnäs stockholm	15
-Kopenhagen	13
-Basel	13
+Vienna	14
+Stade	14
+Basel	14
+Königsberg	13
+Breslau	13
 Zerbst	12
-Vienna	12
-örebro stockholm	12
+Wijsingzborg	12
 Madrid	12
-Breslau	12
 Lyon	11
-Jahr	11
+Hannover	11
+Geneve	11
+Altona	11
 Vyborg	10
 Visingsborg	10
 Vilnius	10
-Königsberg	10
-Sthlm	9
-Stade	9
-Hoos henrich keyser	9
-Geneve	9
-Altona	9
-Vbsala	8
-Utrecht	8
-Stockholm bern	8
+Utrecht	10
+Krakow	10
+Helmstedt	10
+Anno	10
+Warsaw	9
+Augsburg	9
+Wismar	8
 Potsdam	8
-Lund stockholm	8
-Cracoviae	8
-Warsaw	7
-Vesterås	7
-Stregnäs	7
-Stockholm linköping	7
+Genoa	8
 Ratzeburg	7
-Norrköping stockholm	7
+Milano	7
 Lisbon	7
-Khvn	7
-Hoos niclas wankijff kongl booktr	7
-Göteborg stockholm	7
-Cassel	7
+Jelgava	7
+Firenze	7
 Weimar	6
-Växjö stockholm linköping	6
-Upsalae upsal	6
-Uppsaliae	6
+Ulm	6
 Uddevalla	6
-Tyskland	6
-Stockholm köln	6
+Peter	6
 Naples	6
-Lueneburg	6
-Londini lund	6
-Linköping stockholm	6
-Linkjöping	6
+Marburg	6
+Lüneburg	6
+Liège	6
 Leeuwarden	6
-Jueterbog	6
-Henrich keyser	6
-Haunia	6
+Jüterbog	6
 Fredrikstad	6
-Förr detta grefingska tryckeriet	6
-Firenze	6
+Erfurt	6
+Dresden	6
 Antwerp	6
 Zürich	5
-Västerås strängnäs	5
-Ulm	5
-Stockholm gusum	5
-Spandau	5
-Skara stockholm	5
-Rinteln	5
+Prague	5
 Posnaniae	5
-örebro uppsala	5
 Oranienburg	5
-Norrköping linköping	5
 Narva	5
-Lmens granbergs tryckeri	5
-Liège	5
-Helmstedt	5
 Gusum	5
-Gefle ernst pet sundqvist	5
-Franckfurt leipzig	5
-Förr thetta grefingska tryckeriet	5
 Erlangen	5
+Dantzig	5
+Cassel	5
 Bremen	5
 Boizenburg	5
-Berolini	5
-Augsburg	5
-Anno	5
 Altefähr	5
-Westeråås	4
-Wenersborg	4
-Vexiö	4
-Uppsala strängnäs stockholm	4
-Turusa pietari	4
-Sverige	4
-Stockholm vpsala	4
-Stockholm greifswald	4
+Aarhus	5
+Thet	4
+Stuttgart	4
 Pisa	4
 Pärnu	4
-Orebroae	4
-Nyköping e hasselrot	4
 Magdeburg	4
-Linköpingh	4
-Jelgava	4
-Hannover	4
-Hamburgi amsterodami	4
+Helsingør	4
+Haarlem	4
 Görliz	4
-Genova	4
-Gefle ernst peter sundqvist	4
-Gefle e p sundqwist	4
-Francofurti lipsiae	4
-Erfurt	4
-Dresden	4
+Freyberg	4
+Elbingen	4
 Dessau	4
-Charlottenburg	4
+Danzig	4
+Brunsberg	4
 Augusta	4
-Augspurg	4
+Altenstein	4
+Altdorf	4
 Aalborg	4
-Wismar	3
-Wexjö	3
-Wexiö kongl gymnasii boktryckar johan christopher merckell	3
-Venersborg	3
+Żary	3
 Valladolid	3
-Upsaliae upsal	3
-Uppsala stockholm skara	3
-Uppsala örebro	3
-U o o å	3
-Tyskland im jahr	3
-Tukusa kirjan prändisä	3
+Utgivningsort	3
 Treuenbrietzen	3
-Thet kongl tryckeriet	3
-Stuttgart	3
 Strömstad	3
-Stregnesii	3
-Strängnäs mariefred norrköping	3
-Stokkholm peter hesselberg	3
-Stokgolʹm pečatan v korolevskoj tipografii	3
-Stockholm skara	3
-Stockholm örebro	3
-Stockholm kobenhavn	3
-Stockholm karlstad	3
-Stockholm härnösand	3
-Stockholm göteborg	3
-Stockholm frankfurt	3
 Saarmund	3
 Rotterdam	3
-Prag	3
+Reg	3
 Padova	3
-örebro jönköping	3
 Odense	3
-Nyköping p e winge	3
-Nyköping joh p hammarin	3
-Muenchen	3
+München	3
 Moscow	3
-Milano	3
-Mediolani	3
-Marburg	3
-Malmoe	3
-Kongl fält tryckeriet peter sohm	3
+Meinz	3
 Kaupmannahöfn	3
 Kaupmannahafn	3
 Kassel	3
-Jönkjöping	3
-Joh h werner kongl boktr	3
-Jahr christi	3
-Helsingo/r	3
-Helsingfors åbo	3
 Heidelberg	3
-Hamburg leipzig	3
-Haarlem	3
+Gotha	3
 Giessen	3
 Freystadt	3
-Freyberg	3
 Franzburg	3
-Franckfurth leipzig	3
-Elbingen	3
+Florence	3
+Fält peter	3
+Directeuren	3
 Deux	3
-De l imprimerie royale	3
-Danzig	3
-Carl gustav berling	3
-Calmariae	3
+Cksteinska	3
 Braunschweig	3
 Bonn	3
-Berlin stettin	3
 Barcelona	3
 Arnstadt	3
-Altenstein	3
-Wisby	2
-Wiesingsburg	2
-Vpsalae	2
+Zamosc	2
 Villefranche	2
 Viennae austriae	2
 Versailles	2
-Vasasa	2
-Utgivningsort okänd	2
-Upsaliae holmiae	2
-Uppsala västerås	2
-Uppsala leipzig	2
-Ubsala	2
-Turusa åbo	2
+Typis	2
 Turin	2
 Tübingen	2
-Trajecti rhenum	2
-Sverige år	2
-Sverige anno	2
-Sverige åhr	2
-Strengnesij	2
-Stralsund leipzig	2
-Stockholm västerås	2
-Stockholm upsala westerås örebro	2
-Stockholm paris	2
-Stockholmm	2
-Stockholm hamburg	2
-Stockholmae	2
-Stockholm abo	2
-Sthlm tr l salvius	2
-Ståkkholm	2
-Stade bey caspar holwein	2
 Soröe	2
 Sedini	2
 Schwerin	2
 Schwabach	2
+Rudolfstadt	2
 Rouen	2
-Rödigke	2
 Revall	2
-Reg typogr	2
 Regensburg	2
-Nyköping johan peter hammarin	2
-Nyköping e haszelrot	2
-Norrköping uppsala örebro	2
+Rädigke	2
+Poznań	2
+Perth	2
+Pernaja	2
 New York NY	2
-Muehlhausen	2
+Neuchatel	2
+N ar	2
+Mühlhausen	2
 Milan	2
-Mietau bey jacob friedrich hinz	2
-Mdccxvi	2
-Lvgd batav officina elzeviriana	2
+Lvgd batav elzeviriana	2
 Lugano	2
 Lucca	2
+Lübeck	2
 Linz	2
-Linköping norrköping	2
-Linköpingh hoos daniel kämpe åhr	2
-Linköpingh daniel kämpe	2
 Linkiöpingh	2
-Liegnitz	2
-Leipzig stockholm	2
-Leipsick	2
-Leijden	2
+Legnica	2
 Lausanne	2
-Königl druckerey	2
-Kongl tryckeriet henr fougt stora nygatan huset no	2
-Kongl tryckeriet å nyo	2
-Kongl boktryckerj hoos sal wankifs enkia joh hen werner	2
-Köln stockholm	2
-Kiöbenhaffn	2
-Karlstad strängnäs	2
 Karlsruhe	2
-Jönköping norrköping	2
-Ignatio meurer åhr	2
-Hoos henrich keyser kongl booktryckiare	2
-Holmiae hamburgi	2
-Hernoesandiae	2
-Henrich käyser	2
-Helmestadii	2
-Heiligenstadt	2
-Havniae augusti friderici steinii	2
-Hamburg holmiae	2
-Gryphisw	2
-Gryhiswaldiae	2
-Gotha	2
-Georg hantsch åhr	2
-Genoa	2
-Genes	2
-Gefle eric gustaf löf	2
-Gävle stockholm	2
-Florentiae	2
-Flensburg leipzig	2
-Euchario lauringer åhr	2
-Dresde	2
+Kalisz	2
+Huset no	2
+Heylbronn	2
+Hamm	2
+Groeningen	2
+Glückstadt	2
+Flensburg	2
 Dijon	2
 Deventer	2
-Dantzig	2
 Coswig	2
-Copenhagen leipzig	2
-Cölln	2
-Cksteinska boktryckeriet	2
-Calissii	2
 Buxtehude	2
 Buetzow	2
+Brussels	2
 Brunswick Ma	2
-Brunsbergae	2
-Brunsberg	2
 Bordeaux	2
-Boktryckeriet	2
+Bologna	2
+Boktryckerj hen	2
 Bergen	2
-Belitz	2
-Amsterdam paris	2
-Altdorfii	2
-þryckt hoolum i hialltadal halldore eriks syne anno m dcc lvi	1
-þryckter hoolum i hialltadal halldore eriks syne anno mdcclvi	1
-Zweybruecken druckts georg nicolai königl gouvernem buchdr anno mdccviii	1
+Aachen	2
+Zweibrücken	1
 Zeitz	1
-Zamosci	1
-Zach asp capit bookt	1
+Zach capit	1
 Yverdon-les-Bains	1
-Xxx	1
-W zamosciu	1
-Wÿsingzborg	1
-W wilnie	1
-W warszawie	1
 Worcester Ma	1
-Wittebergae aerae	1
-Wiszmar bey joachim georg rheten	1
-Wiszmar	1
-Wissmar und straalsund im verlag samuel gottlieb lochmanns buchhändlers bey johann zander	1
-Wissmar bey jochim georg rheten im jahr	1
-Wisingsborgh hans höggrefl nådhes rickz drotzens booktryckiare thersammestädes johann kankel anno	1
-Wisby jonas nyberg	1
 Winterthur	1
 Wilmington De	1
-Wijsinzgborg hans höggrefl nåd booktr johann kankel åhr m dc l xxiv	1
-Wijsingzöö johann kankel anno m dc lxxxv	1
-Wijsingzborg hans hög grefl nådes hr rikz drotzetens booktryckiare thersammastädes johan kankel anno m dc lxxiv	1
-Wijsingzborg hans hög grefl nådes hr rijkzdråtzetens boocktryckare johann kankel åhr	1
-Wijsingzborg hans höggrefl nåd booktr johann kankel åhr	1
-Wijsingzborg hans höggreffl nådes rijks drotzens booketryckiare johann kankel m dc lxxii	1
-Wijsingzborg hans hög greffl nådes herr rijkz drotzetens booketryckare johann kankel anno m dc lxxv	1
-Wijsindzborg hans höggrefl nåd riijkz drotzens booktryckare johann kankel anno m dc lxxiv	1
-Wexiö wrigseen thetzell	1
-Wexiö til förmån för fattig skolan där hon ock endast hålles til köps år directeuren sv rask	1
-Wexiö swen rasks enka	1
-Wexiö kongl privil gymn boktryck wrigseen thetzell	1
-Wexiö kongl priv gymn boktr wrigseen thetzell	1
-Wexiö kongl priv gymn boktr anders wrigsen	1
-Wexiö kongl gymn bokt c merckell	1
-Wexiö kongl gymnasii boktryckaren johan christopher merckell	1
-Wexiö kongl gymnasii boktryckaren c merckell	1
-Wexiö kongl gymnasii bokt c merckell	1
-Wexiö carl fr berg	1
-Westerårs oluff olson hel	1
-Westeråhrs	1
-Westeråås euchario lauringer consistorij gymnasij booktryckiare	1
-Westeråås åhr euchario lauringer	1
-Wennersborg	1
-Wennberg nordström	1
-Wenersborg siguard swanholm kongl privil boktr	1
-Wenersborg qvist	1
-Wenersborg johan qwist	1
-Weissenfels	1
-Weiiö kongl privil gymn boktr anders wrigsen	1
-Warszawie	1
+Wijsingzborg rikz	1
+Westerahrs	1
+Werneriana	1
+Weißenfels	1
+Weiiö	1
 Warrington	1
-Vthgången publicerat translatoris eghen typographia an m dc xxxviii	1
-V sanktpeterburgě pri morskom slachetnom kadetskom korpusě goda	1
-V sanktpeterburgě pečatano v tipografii f drechslera goda	1
-Vratislaviae	1
-Vpsalis literis wernerianis	1
-Vpsalis	1
-Vpsaliae hamburg	1
-Vpsal bey eschil matzson anno	1
-Vpsala stockholm	1
-V moskvě v tipogr pri teatrě u ch klaudija goda	1
-Vinegia appresso francesco bindoni m d lxi	1
+Wainajan	1
+Vthgangen	1
+Vilna	1
 Veronae germanorum	1
-Vbsala hoos eskild matzson	1
-Vbsala eskil matzson åhr	1
-Vbsala eskel matzon	1
-Växlande orter	1
-Västerås wästerås	1
-U tr å	1
-Utgivningsort okänd #b utgivare okänd	1
-Usaliae	1
-Upsalieae	1
-Upsalia	1
-Upsale chez l imprimeur de l academ jean fr edman	1
-Upsala stockholm	1
-Uppsaliae l m höjer reg acad typogr	1
-Uppsaliae litteris joh edman	1
-Uppsala rostock	1
-Upps	1
-Uppala	1
-U o tr krakau	1
-U o tr å stockho m	1
-U o o tr	1
-U o å	1
+Växlande	1
 Ulyssipone	1
-Ultrajecti officina guilielmi van de water mdccii	1
-Ultrajecti johannem ribbium m dc lxxxvi	1
-Ulmae	1
-Udi malmoe vitus haberegger gouvernam bogtr	1
-Ubsaliae upsal	1
-Typographeo caroli hoepfneri reg acad typogr	1
-Typ acad p wald	1
-Ttockholm hoos niclas wankijff kongl bookt	1
-Tryet udi malmo vitus haberegger gouvernaments bogtrycker	1
 Troyes	1
 Tripoli	1
-Tr i gefle	1
 Trier	1
 Tribsees	1
 Tours	1
 Tönning	1
-Tondern	1
-Thorn und zu finden bey joh nicolai e e raths und des gymn buchdrucker	1
-Thersammestädhes andrea gutterwitz	1
-Thersammastädes år gabriel biörckegren linköpings läns stichts boktryckare	1
-Tangeri	1
-Tamrereella	1
-Sumtu joh casp meyeri bibliop lips m dc lxxxv	1
+Tønder	1
+Thersammestädhes	1
+Tanger	1
+Tampere	1
+Sumtu	1
 Sulzbach	1
 Suisse	1
-Stuttgardt auf kosten des authoris	1
 Strömsholm	1
-Strengnesi	1
-Strengnääs	1
-Stregn zacharia brockenio	1
-Stregnesii zacharias asp anno	1
 Straubing	1
-Straszburg verlegung caspar dietzels buchhändlers m dc xliv	1
-Strassburg basel	1
-Strassbourg	1
-St rängnäs	1
-Stralsundt von augustino ferbern vnd verlegt im jahr christi	1
-Stralsundt	1
-Stralsund rostock leipzig	1
-Stralsund örebro	1
-Stralsundi literis joachimi reumanni anno m dc lxiii	1
-Stralsundiae anno m dc lxxvii	1
-Stralsund greifswald	1
-Strahlsundt jm monat junii	1
-Strahlsundt	1
-Strahlsund bey sel meders erben	1
-Strahlsund	1
-St petersbourg de l imprimerie de l academie imperiale des sciences	1
-St petersb	1
-Stokkholm trykkte lars salvius år	1
-Stocolme chez jean jeansson anno m dc lii	1
-Stocolme	1
-Stockhoplm then augusti anno c	1
-Stockho m	1
-Stockholm wien	1
-Stockholm utrecht	1
-Stockholm upsala westerås	1
-Stockholm uppsala greifswald	1
-Stockholm uppsala åbo	1
-Stockholm strasbourg	1
-Stockholm stralsund	1
-Stockholm stocholm	1
-Stockholm reval	1
-Stockholm petersburg åbo	1
-Stockholm pernau	1
-Stockholm nuernberg	1
-Stockholm/ niclas wankijff/ kongl booktryckiare	1
-Stockholm lyon	1
-Stockholm linköping lund	1
-Stockholm karlskrona regensburg	1
-Stockholm karlskrona	1
-Stockholmiae upsal	1
-Stockholm/ hoos henr c merckell	1
-Stockholm halle	1
-Stockholmesn trykketum lars salviusen ludne	1
-Stockholm erfurt	1
-Stockholm berlin	1
-Stockholmb	1
-Stocholm westerås	1
-Stocholmo	1
-Stocholme chez henry kayser mdcli	1
-Stocholm åbo	1
-Stochholm joh christ holmberg	1
-Sthlm tr kongl	1
-Stettini	1
-Stetin	1
 Stergnäs	1
 Stendal	1
-Stekholm controlleuren c cronland	1
-Ståkkholm johann eberdt åhr	1
-Stade kongl booktr caspar holwein	1
-Stade bey elias holwein sel nachgel wittibe	1
-Stadae henricum brummerum bibliopol anno m dcc vii	1
-Ståckhålm kongl bookt sal wankijfs änckia åhr	1
+Stadae	1
 Spb	1
-Soroe jonas lindgren det ridderlige akademies bogtrykker	1
-Sorau druckts joh gottlieb rothe	1
-Sorau druckts johann gottlieb rothe	1
 Sondershausen	1
-Sockholm peter van selow	1
 Smolensk	1
 Siena	1
-S gravenhage	1
-S graavenhaage	1
+Schwed buchdrukker	1
 Schnepfenthal	1
 Schleswig	1
-Scara	1
-San sebastian	1
-Sanktpiterburg	1
-Sanktpiterburch	1
-Sanktpeterburge	1
-Samuel norberg kongl gymn boktr	1
-Samuel norberg	1
-Säljes i kiesevetters boklådor	1
+Schill	1
+San	1
+Samtens	1
+Säljes kiesevetters boklador	1
 Saalfeld	1
-Rudolstadt	1
-Rudolfstadt	1
-Roszlau kongl fält tryckeriet directeuren p sohm	1
-Rostokii	1
-Rostock wismar	1
-Rostock leipzig	1
-Rostochi lipsiae	1
-Rostochii rostock	1
-Rostochii lipsiae	1
-Rödigke i sachsen	1
-Rinteln d weser	1
-Rintelii literis ioh godofr enax mdccxxxvi	1
+Roßlau	1
+Rom	1
+Rödigke sachsen	1
+Rintelii literis enax	1
 Rimini	1
 Ribnitz	1
 Rhodopoli	1
 Revel	1
 Reva	1
 Reutlingen	1
-Regiomonti borussiae laurentij segebadij anno m dc xxix d iunij	1
-Regiomonti borussiae laurentii segebadii	1
-Regimonti	1
-Regia holmia heinricus käyser maij	1
-Regià holmia anno	1
-Regia holmia	1
-Recvsa mdccxxxv	1
-Que ningun impressor la pueda imrpimir sino es con permission de pedro coello mercader de libros	1
+Reg typographus	1
+Refwell	1
+Recvsa	1
 Quedlinburg	1
 Pyrmont	1
-Prof johan lundblad desz egit förlag	1
-Prentod i kavpmannahavfn arid johann rúdolph thiele	1
-Prentet i kiobenhaffn peter hake paa jorgen holsts bogh bekostning anno	1
-Prentet i kiobenhaffn georg lamprecht paa joachim moltkens bekostning oc findis hannem til kiobs aar m dc liii	1
-Prelo lundensi	1
-Präntäjain directörin joh h wernerin tykönä	1
-Präntaijain directörin h wernerin tykönä	1
-Präntaijäin directörin h wernerin tyfönä	1
-Prage	1
-Prag bey wolfgang gerle	1
-Praelo reusneriano	1
-Pozsony komarom	1
-Posen	1
+Prof pa	1
+Preuss	1
 Poschiavo	1
-Pommern	1
+Pomerania	1
 Polen	1
 Plymouth	1
-Plueggenthin	1
 Pirna	1
-Pillau	1
-P horrebow	1
-Philadelphia london	1
-Petrus hansonius acad typogr	1
-Peter hesselberg år	1
-Peter hesselberg	1
-Perth edinburgh london	1
-Perth	1
-Pernau lund	1
-Pernaja	1
-Pečatana v moskvě u f gippiusa goda	1
+Peter ar	1
+Pecatana moskve f gippiusa	1
 Parma	1
-Paris stockholm	1
-Paris anuers	1
 Palermo	1
 Orleans	1
 Onoldi	1
 Oliva	1
-Officina werneriana	1
-Nytorp kongl fält tryckeriet directeuren p sohm	1
-Nyköping p winge	1
-Nyköping p hammarin å nyo	1
-Nyköping petter winge	1
-Nyköping joh p hammarin efter original	1
-Nyköping hoos amund nilszon grefwe hans typographia åhr	1
-Nyköping carl haszelrot	1
-Nyköping begäran efter origin uplagdt	1
-Nyköping amund n grefwe åhr	1
-Nyköping åhr amnund n grefwe	1
-Nyköping åhr	1
-Nuernberg frankfurt leipzig	1
-Nueremberg	1
-Norrköping hamburg stockholm	1
-Norrköping götheborg	1
-Norrkjöping joh benj blume	1
-Noribergae upsaliae	1
-Norembergae	1
-Norcopiae	1
+Nytorp fält p	1
+Nplagd	1
 Nissae	1
-Nicolaus wankifwin wainajan tryckisä	1
-Niclas wankijff kongl booktryck åhr	1
-Niclas wankijff kongl booktr åhr	1
+Nijmegen	1
+N freudenstatt jubeljahr	1
 Newry	1
 Neutra	1
-Neufchatel	1
-Neuchatel	1
 Neisz	1
 Nantes	1
+Moskve teatre ch klaudija	1
 Morpeth	1
 Montpellier	1
-Monat januario	1
-Monachii sumptibus joannis wagneri joannis hermanni gelder bibliopolarum monacensium sebastian rauch anno m dc lxxx	1
+Monachii joannis	1
 Monachii	1
-Milano mdcclxxx nell imperial monistero di s ambrogio maggiore con approvazione	1
-Mietau bey jacob friederich hinz	1
-Meyntz durch hermann meres im jahr christi	1
 Metz	1
-M dc xxx ix	1
-M dc xcv	1
-Mdccxxi	1
-Mdccxcix	1
-Mäyntz	1
-Marpurgi hassorum	1
-Mariefred uppsala	1
-Mariaestad	1
-Marburgi cattorum	1
-Marburgi	1
 Mannheim	1
 Manchester	1
-Malmogiae viti haberegger gn gv typogr	1
-Malmogiae	1
-Mallmö anno	1
-Lybec	1
-Lvndini scanorum literis viti haberegger gouvern acad carol typographi	1
-Lvndae berlingianis	1
-Lvgdvni lugduni	1
-Lvgd bat officina m d cl	1
-Lvgd batavorvm officina adriani wijngaerdem	1
-Lvgd batavorvm elzevirios anno	1
-Lund malmö	1
-Lund hamburg	1
-Lund frankfurt	1
-Lundensibus	1
-Lundae lund	1
-Lunda	1
-Lugd bat	1
-Luettich	1
-Luebeck lybeck	1
-Luebeck leipzig	1
-Lorens ludvig grefing	1
-Londres paris providence	1
-London stockholm	1
-London lyon	1
-Londoni lund	1
-London holborn	1
-London exeter york	1
-London dublin edinburgh	1
-Lmens gransbergs tryckeri	1
-Litteris berlingianis	1
-Literis höjerianis	1
-Lipsiae rostochii	1
-Lipsiae dessaviae	1
-Linlöping	1
-Linköpng hoos daniel kämpe åhr	1
-Linköpingh daniel kämpe finnes hoos honom til kiöps	1
-Linköpingh daniel kämpe åhr	1
-Linkopiae	1
-Linkiöpng	1
-Lincöping	1
-Lincopen	1
-Lincii	1
+Lviv	1
+Lorens	1
+Litteris	1
+Literis	1
 Limoges	1
-Likiöping hoos sahl ephraim kämpes änckia	1
-Lijnköping hoos christopher guenter anno m dc xlvi	1
-Lijnköping christopher guenter anno	1
-Leopoli	1
-Leipzig weimar	1
-Leipzig strengnäs	1
-Leipzig stralsund	1
-Leipzig nuernberg	1
-Leipzig altenburg	1
+Licencia	1
+Libros	1
 Leeds	1
-Lbingen wendel bodenhausen anno m dc xxix	1
-La haie ches adrien moetjens m dcc xli	1
-Laage	1
-Krakow	1
-Köthen	1
-Kopenhague chez pierre steimann libraire grande place royale m dcc xcv	1
-Kopenhagen im jahr mdccxv	1
-Kopenhagen gyldendalschen buchhandlung	1
-Kopenhagen dero königl majest und universit privilegirten buchdruckeren	1
-Kopenhagen bey peter morsing	1
-Kopenhagen bey christ gottlob prost universitäts buchhändlern	1
+Krakau	1
+Kopenhague grande place	1
 Koningsberg	1
-Königl buckdruckerey	1
-Kongl tryckeriet jun	1
-Kongl tryckeriet år	1
-Kongl tryckeriet å nyo nplagd	1
-Kongl booktryckerijet hoos sahl niclas wankifs enckia	1
-Kongl booktr hoos sal wankifs änckia	1
-Kongl booktr hoos sahl wankifs änckia	1
-Kongl boktryckerjet sal wankifs änkia joh henr werner	1
-Kongl boktryckerjet sahl wankifs änckia h werner	1
-Kongl boktr hoos sal wankijfs änkia	1
-Kongl amiralitets boktryckaren joan winqwist	1
-Koburg	1
-Ko/benhavn	1
-Kiobenhamn	1
-Kiöbenhafn	1
-Kiobenhabn kongl majests priv bogtr paa amager torf	1
-Kiobenh	1
-Kiloni joachimi reumanni acad typogr anno	1
-Kilonii	1
-Keyserianis	1
-Kbhvn	1
-Karlskrona stockholm	1
-Jönkjöping sal falcks änkia bekostnad år	1
-Jönkjöping petter hultman åhr	1
-Jönkjöping åhr	1
-Jönekjöpjng petter hultman åhr	1
-Joh h werner kongl boktryckiare	1
-Joh conrad peetz	1
-Johannes brendeken reg acad typographus	1
-Johannes billingsley	1
-Johan carlbohm	1
-Jm jahr	1
-Jahr m dc xxxvii	1
-Jahr m dc xxxi	1
-Jahr m dc xxx	1
-Jahr m dc xliv	1
-Jahre	1
-Jaer m d c lxxv	1
-I vbsala eskil matzson åhr	1
-Istockholm chr reusner anno	1
-Inn disem jahre stade bey caspar holwein königl schwed buchdrucker	1
-I kiobenhaffn georg lamprecht anno paa joachim moltkens boghandlers bekostning	1
-Ignatius meurer	1
-Ignatio meurer	1
-Iglau	1
-I gefle	1
-Hrappsey magnúsi moberg	1
-Hoos nicolaum wankijff kongl booktryckiare	1
-Hoos niclas wankijff kongl booktrycki are	1
-Hoos niclas wankijff kongl booktr åhr mdclxxxi	1
-Hoos lars wall	1
-Hoos ignatium meurer	1
-Hoos henrich keyser kognl booktryckiare	1
-Hoos henrich keyser åhr	1
-Holmii anno m dc xvi	1
-Holmii anno m dc xv	1
-Holmiae wasae	1
-Holmiae vbsaliae	1
-Holmiae lipsiae	1
-Holmiae hanoviae	1
-Holmiae bruxellis	1
-Holmia	1
-Historiographi regni tryckerij hartwig gercken	1
-Hindrich käyser åhr	1
+Kognl	1
+Koblenz	1
+Kavpmannahavfn	1
+Jun	1
+Jihlava	1
+Januario	1
+Ignatius	1
+Ignatium	1
+Ibid	1
+Hrafnsey	1
+Historiographi regni	1
 Hildburghausen	1
-Heylbrunn	1
-Heylbronn	1
-Henricus curio s r m acad upsaliensis bibliopola m dc lxxiii	1
-Helsingor	1
-Helmstädt zu finden bey salomon schnorzn anno	1
-Helmaestadi heredum iacobi lvci m d cxiix	1
-Helmaestadi heredum iacobi lucij anno m d cxiix	1
-Havniae typographeo regiae majest universit anno mdccvii	1
-Havniae sumtibus legati arna magnaeani librariae gyldendalianae hartvigi friderici popp	1
-Havniae sumtibus legati arnaemagnaeani librariae gyldendalianae jani hostrup schultz aulae universitatis typographi	1
-Havniae mdccxcix literis directoris joh frid schultzii aulae universitatis typographi	1
-Havniae calcographeo b ao	1
-Havniae augusti friderici steinii m dcc lxxvii	1
-Havniae aug frid steinii	1
-Hauniae köpenhamn	1
-Harlemi	1
+Harlem	1
 Hardervici	1
-Harderovici haered joh rampen academiae ducatus gelriae comit zutphaniae typograph ord m d ccxxxv	1
-Hannoverae svmtibvs nicolai foersteri bibliopolae avlici sacrae regiae maiestatis britannicae mdccxx	1
 Hanau	1
-Hammone libraria schulziana mdcccxxviii	1
-Hamm	1
 Hämeenlinna	1
-Hamburg stockholm	1
-Hamburg kiel	1
-Hamburgi holmiae	1
-Hamburg franckfurt leipzig	1
-Hambourg stockholm	1
-Halle zerbst	1
-Halae svevor	1
-Halae magdebvrgicae io gottl bierwirth m d ccxxxxvii	1
 Halae magdeburgicae	1
-Hafniae lipsiae	1
-Haerlem vincent casteleyn stadts drucker op de marckt de druckery anno	1
-Gustavia saint barthelemy	1
-Gryphisw caroli höpfneri reg acad typogr	1
-Gryphiswaliae caroli höpfneri	1
-Gryphiswaldij ferberi	1
-Gryphisvvaldiae litteris danielis benjaminis starckii reg acad tybogr	1
-Gryphisvaldiae	1
-Gryphisbaldia	1
-Gryhiswaldi	1
-Gryhiae	1
-Groningae officina johannis velsen	1
-Groeningen	1
-Greyffswaldt	1
-Greyffswald	1
 Greiz	1
-Greifswald lund	1
-Greiffswald stralsund	1
+Gravenhage	1
 Grätz	1
 Graecii haeredum widmanstadii	1
-Gottingae lipsiae	1
-Göttingae impensis vandenhöck ruprecht	1
-Göttingae	1
-Gothoburgensis	1
-Gothenborg	1
-Götheborg upsala	1
-Götheborgh translat amund nilsson grefwe åhr	1
-Gotheborg	1
-Gothae	1
-Göteborg greifswald	1
-Göhteborg samuel norberg k boktr	1
-Glueckstadt	1
-Giötheborg åhr	1
-Giötebårg	1
-Gevaliae	1
-Geschehen im monat martio im jahre m dc xxxi	1
+Graavenhaage	1
+Geschehen	1
 Germanien	1
-Genvae	1
-Genuae	1
-Genom kongl tryckeriet nyköping	1
-Genom kongl tryckeriet i nyköping	1
-Gefle sundqvist axmar	1
-Gefle kostar half schill	1
-Gefle ernst petter sundqwist	1
-Gefle ernst pet sundqwist	1
-Gefle eric gustaf löfs enka	1
-Gefle e p sundqvist	1
-Gefle carl gustaf sundqwist	1
-Gedani	1
-Garoli gustavi berling	1
-Friederichsstadt	1
-Friburgi brisgoiae	1
-Freybergk bey vnd verlegung georg beuthers	1
-Freyberg bey craz und gerlach	1
-Freudenstatt im jubeljahr	1
-Fredrikshall	1
+Genève	1
+Friedrichstadt	1
+Freybergk	1
+Freiburg	1
 Frederikshald	1
-Frankenthal	1
-Franeqverae impensis johannis arceri bibliopolae anno m dc xlix idzardi alberti typographi	1
-Franekerae sumptibus johannes arcerii	1
-Franekerae johannem dhviringh bibliopolam anno	1
-Franekerae idzardus alberti typograph acad franekerana	1
-Francoys lieshout boeckverkooper tr ginele hoochduytse	1
-Francofvrti lipsiae	1
-Francof	1
-Franckofurti	1
-Franckfurt leipzig riga	1
-Franckfourt chez frideric knoch m dc lxxxix	1
-Fracofurti moenum sumptibus friderici knochii anno mdccvi	1
+Francoys ginele	1
 Forssa	1
-Förr detta grefinska tryckeriet	1
-Folgends abgesetzet des seligen hinterlassenen druckerey	1
-Florence	1
-Firenzi	1
-Finland	1
 Filipstad	1
 Falunae	1
-Eschillus matthiae	1
-Erfordiae heringii acad typogr	1
-Erffurdt bey georg hertzen im m dc xxxii jahr	1
-Enka år säljes exemplaret för dal kopp mt	1
+Excudit	1
+Excudebat	1
+Enckia	1
 Eleuteropoli eg freistadt	1
-Durch georg hantsch königl buchdr	1
-Durch georg hantsch	1
-Durch caspar holwein königl schwed buchdrukker	1
-Dunkerque	1
+Durch	1
+Dunkirk	1
+Dryckt	1
 Douai	1
-Dorpatu	1
-Dörpath liefflandt durch vnd verlegung jacob beckern	1
 Dordrecht	1
-Directeur carl gustav berling	1
-Diesem ten jahr	1
-Deutschland	1
-Den junij zacharia asp capitels booktryckiare ibid	1
-De l imprimerie royale mdcclxii	1
-De l imprimerie de charles rue de thionville n⁰	1
-Daselbst durch chr reusner den eltern anno m dc xxxi	1
-Daselbst durch chr reusner	1
-Daselbst ben johann franz struck königl preuss privil buchdrucker	1
-Danzic	1
-Dantisci molybdographia guillemothanae anno mdiix	1
-Dantisci	1
-Dalarö	1
-Cum gratia privil sacr regiae majest sveciae rjga verlegung georg matth möller	1
-Cum gratia privilegio christoff reusner	1
-Cristianstad	1
-Cracoviae officina typographica lazari anno domini	1
+Directeur	1
+Diesem ten	1
+Depens lauteur	1
+Cum gratia sacr sveciae rjga	1
+Cum gratia privilegio	1
 Cosmopoli	1
-Copenhague geneve	1
 Constantz	1
-Con licencia casa de domingo de lago	1
 Conimbricae	1
-Cöln	1
-Cölln verlag vnd truckerey wilhelm friessems buchhändlers im ertz engel gabriel tranckgassen anno m dc lxiv	1
-Cölln bey peter marteau	1
-Coblentz se trouvent dans toutes les capitales de l europe m dcc xcii	1
-Cksteinska tryckeriet	1
-Christianiae	1
+Coburg	1
 Chra	1
 Chemnitz	1
 Celle	1
-Cederholm elmens granbergs tryckeri	1
+Cederholm	1
 Catania	1
-Carolsadii caroli diderici schmidt	1
+Carolsadii	1
 Caroli	1
-Carlstad l horrn	1
-Carlstad e wallencrona	1
-Carlstad e höijer	1
-Carlshamn söderströms boktryckeri förlag torpare i asarums socken	1
+Carlstad horrn	1
+Carlshamn pa	1
 Carlshamn	1
-Carls crona kongl amiralitets boktryckeriet	1
-Carls crona kongl amiralitets boktryckaren sal joan winqwists änckia	1
-Carls crona kongl amiralitets boktryckaren joan winqwist	1
-Carls crona georg törn	1
-Calmar magnus petersson år	1
-Calmar magnus petersson	1
-Calmar l lindeblad år kongl priviligierad boktryckare	1
-Calmar lars lindeblad bekostnad	1
-Calmar lars lindeblad år	1
-Calmar kongl gymn boktryckeriet	1
-Calmariae exscripsit christopherus gunther anno m dc xxvii	1
-Calmariae exscripsit christopherus gunther anno m dc xxvi	1
-Calmariae christophorus guentherus d aug	1
-Calmariae christophori gûntheri d julij	1
-Calmariae christophori gûntheri anno d julij	1
-Calmariae christoph guentheri anno m dc xxvii	1
-Calmar hoos christoph guenther anno	1
-Calmar hoos christopher guenther anno m dc xxvii	1
-Calmar efter original magnus petersson	1
-Calmar christophero guenther	1
-Calmar christopher guenther anno m dc xxxii	1
-Calmar christopher guenther anno m dc xxxi	1
-Calmar christopher guenther anno	1
-Calmar christopher guenther	1
-Calmar christopher guenter anno m dc xxxv	1
-Calmar christoff guenther	1
-Calmar c f bergs boktryckeri	1
-Calmar c f berg år	1
-Calmar carl fredr bergs boktryckeri	1
-Calmar år lorentz lindeblads änka	1
-Calmara christoffer guenter anno m dc xxxii	1
-Caes aug	1
+Caes	1
 Caen	1
-Brussel	1
+Buchdr	1
 Brunae	1
-Bruessel	1
 Brest	1
 Braniewo	1
-Brandenburg bey lebrecht fromm jm jahr	1
-Bologne	1
-Bologna	1
-Boetio hagen cons gymn booktr	1
-Boëtio hagen anno	1
-Boëthio hagen cons typ anno m dc lxxii	1
+Borghare wästerahrs	1
+Boetio	1
 Bielefeld	1
-Berolini ge reimerum mdcccxxv	1
 Bern	1
-Berlin stralsund greifswald	1
-Berlin stralsund	1
-Berlingska boktryckeriet	1
-Berlin greifswald	1
-Bekostat claes depken borghare wästeråhrs wästeråhrs oluff oluffszon anno	1
-Bataviae	1
-Basilea spese di giov rod mdccxlvii	1
+Berlingska	1
 Barhöft	1
+Baltijsk	1
 Avignon	1
-Aux depens de l auteur sa	1
-Aureliae allobrogum	1
-Auf verlangen des herrn obrist göertz gedruckkt anno	1
-Auf kosten des auctoris zu finden bey jacob lœfflern königl universitaet buchhändler bey hieronymus johann struck univers buchdr	1
-Auff wiesingsburg von johann kankel anno m dc lxxviiii	1
 Atrebati	1
 Artern	1
-Arosia västerås	1
-Arosiae arosiensis	1
-Arosia arosiensis	1
-Aros	1
-Arhusiaeq	1
-å nyo uplagt i kongl tryckeriet	1
-å nyo uplagt gefle ernst peter sundqvist	1
-å nyo thet kongl tryckeriet	1
-å nyo k b sal niclas wankijffs tryckerij åhr	1
-ånyo gefle	1
-å nyo åhr	1
-Anno m d l iii	1
-Anno m dc xxxi stettini rhetianis	1
-Anno m dc lv	1
-Anno m dcc xxxiv	1
-Anno m d ccvii	1
-Anno mdccii	1
-Anno den september	1
-Anno christi m dc xvi	1
-Amundi grefwe	1
-Amsterodami hamburgi	1
-Amsterdam upsala	1
-Amsterdam rotterdam	1
-Amsterdam haye stockholm	1
-Amsteld	1
+Ar säljes exemplaret för dal kopp mt	1
+Are	1
+Anhalt	1
 Amberg	1
-Altona bey jobst heinrich baack wohnet bey lutherischen kirchen	1
-Altonà	1
 Altenburg	1
-Altdorffii iod gvil kohlesii acad typogr r s mdccxviii	1
-Altdorf	1
-Alla franechera appresso giouanni d arcerio	1
+Alla franechera	1
 Albona	1
-Aes gravenhage	1
-Adolph simon gymn bookd anno	1
-Acad typog	1
-Abr habereger gub acad car bokt	1
-Abr habereegr gub car bokt	1
-Ab olao olaj anno	1
-Aboae åbo	1
-Aboae abo	1
-Aachen liege	1
-Aachen	1
-Aàbo chez jean chret frenckell	1
+Abr habereger gub car	1
+Abr habereegr gub car	1

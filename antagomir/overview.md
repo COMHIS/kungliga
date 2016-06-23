@@ -95,9 +95,9 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |area                                         |        18.5|          81.5|         59652|         32|
 |obl                                          |        18.5|          81.5|         59658|          3|
 |note_general                                 |        13.6|          86.4|         63227|      33433|
-|country                                      |         7.4|          92.6|         67797|         25|
+|country                                      |         7.4|          92.6|         67787|         25|
 |language                                     |         6.0|          94.0|         68770|         32|
-|publication_place                            |         3.3|          96.7|         70783|        370|
+|publication_place                            |         3.4|          96.6|         70683|        319|
 |dissertation                                 |         2.5|          97.5|         71347|          3|
 |synodal                                      |         2.5|          97.5|         71347|          2|
 |publication_year_from                        |         0.0|         100.0|         73173|        322|

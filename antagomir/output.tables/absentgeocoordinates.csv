@@ -10,11 +10,11 @@ Västeras	1119
 Strängnäs	1014
 Norrköping	880
 Jönnköping	832
-Copenhagen	643
+Copenhagen	640
 Karlskrona	600
 Skara	558
-Gävle	441
 Falun	439
+Gävle	424
 Kalmar	395
 Nyköping	356
 Karlstad	345
@@ -38,13 +38,13 @@ Visby	52
 St Petersburg	52
 Mariehamn	50
 Nürnberg	40
+Pecatana moskve f gippiusa	33
 Lybeck	33
 Venice	32
-Pecatana moskve f gippiusa	32
 Haunia	32
 Karlshamn	31
-Szczecin	30
 Helsinki	30
+Szczecin	29
 Göttingen	29
 The Hague	28
 Mariestad	27
@@ -78,7 +78,6 @@ Vilnius	10
 Utrecht	10
 Krakow	10
 Helmstedt	10
-Anno	10
 Warsaw	9
 Augsburg	9
 Wismar	8
@@ -111,7 +110,6 @@ Hannover	5
 Gusum	5
 Erlangen	5
 Dantzig	5
-Cassel	5
 Bremen	5
 Boizenburg	5
 Altefähr	5
@@ -135,7 +133,6 @@ Altdorf	4
 Aalborg	4
 Żary	3
 Valladolid	3
-Typis	3
 Treuenbrietzen	3
 Strömstad	3
 Saarmund	3
@@ -145,7 +142,6 @@ Padova	3
 Odense	3
 München	3
 Meinz	3
-Kaupmannahöfn	3
 Kassel	3
 Heidelberg	3
 Gotha	3
@@ -153,9 +149,6 @@ Giessen	3
 Freystadt	3
 Franzburg	3
 Florence	3
-Durch	3
-Deux	3
-Cksteinska	3
 Braunschweig	3
 Bonn	3
 Barcelona	3
@@ -163,7 +156,6 @@ Arnstadt	3
 Zamosc	2
 Villefranche	2
 Versailles	2
-Utgivningsort	2
 Turin	2
 Tübingen	2
 Sorø	2
@@ -172,13 +164,11 @@ Schwerin	2
 Schwabach	2
 Rudolfstadt	2
 Rouen	2
-Revall	2
 Regensburg	2
 Perth	2
 Pernaja	2
 New York NY	2
 Neuchatel	2
-N ar	2
 Mühlhausen	2
 Milan	2
 Lugano	2
@@ -189,7 +179,6 @@ Legnica	2
 Lausanne	2
 Karlsruhe	2
 Kalisz	2
-Huset no	2
 Heylbronn	2
 Hamm	2
 Groeningen	2
@@ -200,34 +189,25 @@ Dijon	2
 Deventer	2
 Coswig	2
 Buxtehude	2
-Bützow	2
 Brussels	2
 Brunswick Ma	2
 Bordeaux	2
 Bologna	2
-Boktryckerj hen	2
 Bergen	2
 Aachen	2
 Zweibrücken	1
 Zeitz	1
-Zach capit	1
 Yverdon-les-Bains	1
 Worcester Ma	1
 Winterthur	1
 Wilmington De	1
 Weißenfels	1
 Warrington	1
-Wainajan	1
 Vilna	1
 Vesterås	1
 Verona	1
-Växlande	1
 Västerås	1
-Univers	1
-Typographus	1
-Tryckeri	1
 Troyes	1
-Tripoli	1
 Trier	1
 Tribsees	1
 Tours	1
@@ -241,15 +221,12 @@ Strömsholm	1
 Straubing	1
 Stralsundi	1
 Stendal	1
-Spb	1
 Sondershausen	1
 Smolensk	1
 Siena	1
 Schnepfenthal	1
 Schleswig	1
-San	1
 Samtens	1
-Säljes kiesevetters boklador	1
 Saalfeld	1
 Roßlau	1
 Rom	1
@@ -258,14 +235,11 @@ Rimini	1
 Ribnitz	1
 Rhodopoli	1
 Revel	1
-Reva	1
 Reutlingen	1
-Refwell	1
 Quedlinburg	1
 Pyrmont	1
 Poschiavo	1
 Pomerania	1
-Polen	1
 Plymouth	1
 Pirna	1
 Parma	1
@@ -277,39 +251,28 @@ Nytorp p	1
 Nysa	1
 Nijmegen	1
 Newry	1
-Neutra	1
-Neisz	1
 Nantes	1
 Morpeth	1
 Montpellier	1
-Monachii	1
 Metz	1
 Mannheim	1
 Manchester	1
 Lviv	1
-Lorens	1
-Litteris	1
-Literis	1
 Limoges	1
-Lieshout boeckverkooper	1
 Libros	1
 Leeds	1
 Krakau	1
 Koningsberg	1
-Kognl	1
 Koblenz	1
 Jun	1
 Joannis	1
 Jihlava	1
 Hrafnsey	1
-Historiographi regni	1
 Hildburghausen	1
 Harlem	1
-Harderwijk	1
 Hanau	1
 Hämeenlinna	1
 Greiz	1
-Germanien	1
 Genève	1
 Friedrichstadt	1
 Freyburg	1
@@ -319,25 +282,14 @@ Freiburg	1
 Franeker	1
 Forssa	1
 Filipstad	1
-Excudit	1
-Excudebat	1
 Dunkirk	1
 Douai	1
 Dordrecht	1
-Diesem ten	1
-Cum gratia sacr sveciae rjga	1
-Cum gratia privilegio	1
-Cosmopoli	1
-Constantz	1
-Cons	1
 Conimbricae	1
 Coburg	1
-Chra	1
 Chemnitz	1
 Celle	1
 Catania	1
-Casa de	1
-Caroli	1
 Caes	1
 Caen	1
 Brno	1
@@ -350,9 +302,6 @@ Baltijsk	1
 Avignon	1
 Artern	1
 Arras	1
-Are	1
-Ar säljes exemplaret för dal kopp mt	1
 Anhalt	1
 Amberg	1
 Altenburg	1
-Albona	1

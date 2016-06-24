@@ -95,11 +95,11 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language                                     |        31.8|          68.2|        253061|         99|
 |author_name                                  |        26.0|          74.0|        274667|      86891|
 |author                                       |        26.0|          74.0|        274667|      88146|
-|country                                      |        10.4|          89.6|        332694|         37|
+|country                                      |        10.4|          89.6|        332695|         37|
 |852j                                         |         8.3|          91.7|        340640|     127373|
 |dissertation                                 |         1.9|          98.1|        364409|          3|
 |synodal                                      |         1.9|          98.1|        364409|          2|
-|publication_place                            |         1.5|          98.5|        365928|       3279|
+|publication_place                            |         1.5|          98.5|        365928|       3277|
 |publication_year_from                        |         0.0|         100.0|        371298|        523|
 |title                                        |         0.0|         100.0|        371313|     326282|
 |language.Swedish                             |         0.0|         100.0|        371321|          2|

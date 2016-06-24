@@ -12,7 +12,7 @@ output.folder <- "output.tables/"
 catalog <- "kungliga"
 
 # Remove selected fields
-ignore.fields <- c("publisher") 
+#ignore.fields <- c("publisher") 
 
 # —--------------------------------------------
 

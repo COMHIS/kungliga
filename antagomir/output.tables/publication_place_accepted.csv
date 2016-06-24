@@ -1068,7 +1068,7 @@ H älsing b or g	NA	     1
 H borg	NA	     1
 Haaparanta	Finland	    59
 Haapsalu	NA	     1
-Haarlem	Netherlands	    68
+Haarlem	Netherlands	    70
 Habana	NA	     2
 Habo	NA	    23
 Hackas	NA	     3
@@ -1131,7 +1131,7 @@ Hanger	NA	     1
 Hanko	Finland	    39
 Hankow	NA	     1
 Hannoi	NA	     1
-Hannover	Germany	    16
+Hannover	Germany	    24
 Hanoi	NA	     3
 Hanover NH	USA	     1
 Harbor Oh	USA	     3
@@ -1139,7 +1139,6 @@ Hardeberga	NA	     1
 Hardemo	NA	    34
 Hardemo överhörnäs	NA	     1
 Harestad	NA	     1
-Harlem	NA	     2
 Harlösa	NA	     2
 Harmanger	NA	     4
 Harmondsworth	NA	     2
@@ -1514,11 +1513,9 @@ Kongsb	NA	     1
 Kongsbacka	NA	     3
 Kongsberg	NA	     1
 Kongsvinger	NA	     1
-Königsberg	NA	    26
-Königsberg pr	NA	     6
 Königstein	NA	     1
 Königstein taunus	NA	     1
-Koningsberg	Germany	     1
+Koningsberg	Germany	    33
 Konstanz	NA	     7
 Koöbenhavn	NA	     2
 Köoing	NA	     1
@@ -1892,8 +1889,7 @@ Metz	NA	     1
 Mexico	NA	    27
 Middelfart	NA	     1
 Mikkeli	Finland	    26
-Milan	Italy	     5
-Milano	NA	   154
+Milan	Italy	   162
 Millesvik	NA	     1
 Milwaukee Wi	USA	     9
 Minden	NA	     2
@@ -2255,7 +2251,7 @@ Paul	NA	    30
 Paulo	NA	     1
 Pavia	NA	     1
 Pawtucket ri	NA	     1
-Pecatana moskve f gippiusa	NA	    40
+Pecatana moskve u	NA	     1
 Pedersöre	NA	     3
 Pegau	NA	     1
 Peiping	NA	     4
@@ -2415,7 +2411,6 @@ Ringamala	NA	     1
 Ringerige	NA	     1
 Ringkjöbing	NA	     1
 Ringsten	NA	     1
-Rinteln	NA	     1
 Rio	NA	    13
 Risinge	NA	     1
 Rixheim	NA	     1
@@ -2432,7 +2427,7 @@ Rodez	NA	     1
 Rögle	NA	     3
 Röke	NA	     3
 Rom	NA	     6
-Rome	Italy	   216
+Rome	Italy	   213
 Rönnäng	NA	     1
 Ronne	NA	     5
 Rönne	NA	     8
@@ -3112,8 +3107,7 @@ Viksjöfors	NA	     5
 Vilhelmina	NA	     5
 Villa bosgard nya varvet	NA	     1
 Villefranche	NA	     3
-Vilna	Lithuania	     2
-Vilnius	Lithuania	    17
+Vilnius	Lithuania	    19
 Vilno	NA	     1
 Vilshult	NA	     1
 Vimmerby	NA	    61
@@ -3126,7 +3120,7 @@ Virkby	NA	     1
 Virserum	NA	     3
 Visbuae	NA	     1
 Visby	NA	   711
-Visingsborg	Sweden	    10
+Visingsborg	Sweden	    59
 Visingsö	NA	    10
 Viskafors	NA	     4
 Vislanda	NA	     3
@@ -3204,7 +3198,8 @@ Widstrand	NA	     1
 Wiebelsheim	NA	     1
 Wiesbaden	Germany	    69
 Wiestaden	NA	     1
-Wijsingzborg	NA	    13
+Wijsingzöö	NA	     1
+Wijsinzgborg	NA	     1
 Wilhelmsro	NA	     1
 Willie rydsgard	NA	     1
 Willmar minn	NA	     4
@@ -3216,6 +3211,7 @@ Winslöf	NA	     1
 Winterthur	Switzerland	     4
 Wis	NA	     5
 Wisbyae	NA	     1
+Wisingsborgh nadhes rickz	NA	     1
 Wismar	Germany	    16
 Witten	NA	     7
 Wittenberg	Germany	    26
@@ -3276,4 +3272,4 @@ Zweibrücken	Germany	     2
 Zwickau	NA	     2
 Zwittau	NA	     1
 Zwolle	NA	     3
-NA	NA	  5393
+NA	NA	  5386

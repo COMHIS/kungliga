@@ -75,8 +75,8 @@ Tartu	227
 Alingsas	221
 Norrtälje	219
 Trelleborg	218
-Rome	216
 Arvika	214
+Rome	213
 Hudiksvall	211
 Solleftea	207
 Oskarshamn	207
@@ -94,10 +94,10 @@ Washington DC	171
 Riga	166
 Trollhättan	164
 Hedemora	164
+Milan	162
 Sköfde	160
 Hämeenlinna	160
 The Hague	158
-Milano	154
 Enköping	153
 Vadstena	151
 Ulricehamn	151
@@ -163,15 +163,16 @@ Cologne	72
 Buenos aires	72
 Kiel	71
 Askersund	71
+Haarlem	70
 Wiesbaden	69
 Breslau	69
-Haarlem	68
 Pori	65
 Ludvika	63
 Huskvarna	63
 Svedala	62
 Vimmerby	61
 Mora	61
+Visingsborg	59
 Krakow	59
 Haaparanta	59
 Oulu	58
@@ -215,7 +216,6 @@ Säter	41
 Leksand	41
 Bremen	41
 Ängelholm	41
-Pecatana moskve f gippiusa	40
 Lausanne	40
 Hjo	40
 Weimar	39
@@ -238,6 +238,7 @@ Haunia	35
 Torino	34
 Hardemo	34
 Guetersloh	34
+Koningsberg	33
 Drammen	33
 New Haven Ct	32
 Naples	32
@@ -282,7 +283,6 @@ Tomelilla	26
 Tandsbyn	26
 Oscarshamn	26
 Mikkeli	26
-Königsberg	26
 Enskede	26
 Danzig	26
 Warberg	25
@@ -291,6 +291,7 @@ Höör	25
 Poznan	24
 Kiruna	24
 Karlberg	24
+Hannover	24
 Bordeaux	24
 Berkeley	24
 Beograd	24
@@ -328,6 +329,7 @@ Gränna	20
 Gaseberg	20
 Bologna	20
 Augsburg	20
+Vilnius	19
 Skillingaryd	19
 Kungsgard	19
 Fagersta	19
@@ -339,7 +341,6 @@ Rotterdam	18
 Nancy	18
 Kungsbacka	18
 Aalborg	18
-Vilnius	17
 Skeninge	17
 Rouen	17
 Manchester	17
@@ -359,7 +360,6 @@ Lahti	16
 Karlsruhe	16
 Kallinge	16
 Hyltebruk	16
-Hannover	16
 Graasten	16
 Götabro	16
 Fjälkestad	16
@@ -401,7 +401,6 @@ Bishop hill ill	14
 Astorp	14
 Altona	14
 Zutphen	13
-Wijsingzborg	13
 Töreboda	13
 Saltsjöbaden	13
 Rio	13
@@ -459,7 +458,6 @@ Zeist	10
 Wurzen	10
 Weltevreden	10
 Visingsö	10
-Visingsborg	10
 Verona	10
 Torp	10
 Strömsbro	10
@@ -626,7 +624,6 @@ Lindsborg kan	6
 Lierre	6
 Lappeenranta	6
 Landin	6
-Königsberg pr	6
 Kashgar	6
 Kaschgar	6
 Kärrgruvan	6
@@ -699,7 +696,6 @@ Norrbo	5
 Neudamm	5
 Mölnlycke	5
 Möklinta	5
-Milan	5
 Luzern	5
 Luetzen	5
 Lönsboda	5
@@ -1119,7 +1115,6 @@ Wadstena p tollstorp	2
 Vretstorp	2
 Voorhout	2
 Vittsjö	2
-Vilna	2
 Veize	2
 Vättersnäs	2
 Västgärde	2
@@ -1370,7 +1365,6 @@ Hbg	2
 Hässelby	2
 Harmondsworth	2
 Harlösa	2
-Harlem	2
 Hamneda	2
 Hammarö	2
 Hamm	2
@@ -1572,10 +1566,13 @@ Wollishofen	1
 Wolfshagen scharbeutz	1
 Wloclawek	1
 Wittsjö	1
+Wisingsborgh nadhes rickz	1
 Wisbyae	1
 Winslöf	1
 Willie rydsgard	1
 Wilhelmsro	1
+Wijsinzgborg	1
+Wijsingzöö	1
 Wiestaden	1
 Wiebelsheim	1
 Widstrand	1
@@ -1995,7 +1992,6 @@ Rocca casciano	1
 Robertsfors	1
 Rixheim	1
 Risinge	1
-Rinteln	1
 Ringsten	1
 Ringkjöbing	1
 Ringerige	1
@@ -2075,6 +2071,7 @@ Perleberg	1
 Peoria ill	1
 Pendle hill wallingford pa	1
 Pegau	1
+Pecatana moskve u	1
 Pawtucket ri	1
 Pavia	1
 Paulo	1
@@ -2462,7 +2459,6 @@ Kornsjö	1
 Köpnehamn	1
 Köpmanholmen	1
 Köoing	1
-Koningsberg	1
 Königstein taunus	1
 Königstein	1
 Kongsvinger	1

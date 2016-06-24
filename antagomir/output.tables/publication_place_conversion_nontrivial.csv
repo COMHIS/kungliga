@@ -1,5 +1,5 @@
 original	polished	Count
-Total count: 	92797	
+Total count: 	92967	
 Göteborg	Gothenburg	12540
 Helsingfors	Helsinki	 8409
 [Stockholm]	Stockholm	 6893
@@ -61,6 +61,7 @@ Fahlun	Falun	  148
 [Helsingborg]	Helsingborg	  147
 [Hfors]	Helsinki	  147
 [Nyköping]	Nyköping	  144
+Milano	Milan	  144
 Ekenäs	Tammisaari	  142
 Lundæ	Lund	  141
 Washington	Washington DC	  141
@@ -362,6 +363,7 @@ Typis Ludovici Decreaux, directoris officinæ typographicæ Londini Gothorum.	Lo
 [Upsala ]	Uppsala	   17
 Wästeråhs	Västeras	   17
 Hafniae	Copenhagen	   17
+Königsberg	Koningsberg	   17
 México	Mexico	   17
 [Sundsvall]	Sundsvall	   17
 [Härnösand]	Härnösand	   17
@@ -757,7 +759,7 @@ Aboæ, impressit Joh. Christoph. Frenckell.	Turku	    6
 Londini Gothorum, literis Berlingianis.	Lund	    6
 Sthlm, London & Paris	Stockholm	    6
 Romae	Rome	    6
-[Königsberg]	Königsberg	    6
+[Königsberg]	Koningsberg	    6
 London & New York	London	    6
 Upsaliæ, litteris viduæ direct. Johann. Edman.	Uppsala	    6
 Santiago de Chile	Santiago	    6
@@ -776,6 +778,7 @@ U. o. tr. å. ;;[Åbo:]	Turku	    6
 [Uppsala ]	Uppsala	    6
 Åboæ	Turku	    6
 U. o. tr. å. ;;[Stockholm]	Stockholm	    6
+Rinteln	Hannover	    6
 Stetini	Szczecin	    6
 Venetiis	Venice	    6
 Vpsaliæ	Uppsala	    6
@@ -1371,7 +1374,7 @@ Upsala 1848, P. Hanselli.	Uppsala	    3
 [Kiöbenhavn]	Copenhagen	    3
 S.- Peterburg	St Petersburg	    3
 Kašgar	Kasgar	    3
-Mediolani	Milano	    3
+Mediolani	Milan	    3
 [Porvoo]	Porvoo	    3
 Londini Gothorum, ex officina Berlingiana, MDCCCXXVI.	London	    3
 [Strömstad]	Strömstad	    3
@@ -1410,7 +1413,7 @@ Hfors..	Helsinki	    3
 Leipzig & Berlin	Leipzig	    3
 Cöln	Cologne	    3
 London ;;New York	London	    3
-[Milano]	Milano	    3
+[Milano]	Milan	    3
 Berlin/Dresden	Berlin	    3
 Berlin-Leipzig	Berlin	    3
 Berlin-Friedenau	Berlin	    3
@@ -2059,7 +2062,7 @@ Stockholm : B. Wahlström	Stockholm	    2
 Detroit, Mich	Detroit Mi	    2
 Rock Island, Ill..	Rock Island IL	    2
 [USA]	USA	    2
-Königsberg Pr.	Königsberg pr	    2
+Königsberg Pr.	Koningsberg	    2
 Lund, 1811. Tryckt uti Berlingska boktryckeriet.	Lund	    2
 Londini Gothorum litteris Berlingianis.	Lund	    2
 Leipsick	Leipzig	    2
@@ -2179,7 +2182,7 @@ Leipzig ;;Bern	Leipzig	    2
 Målilla	Malilla	    2
 [Sofia]	Sofia	    2
 Peremisl'	Peremisl	    2
-L'viv	Pecatana moskve f gippiusa	    2
+L'viv	Visingsborg	    2
 Tucumán	Tucuman	    2
 Strassbourg	Strasbourg	    2
 Upsaliæ, apud Joh. Edman, Reg. Acad. Typogr.	Uppsala	    2
@@ -2222,7 +2225,7 @@ Stockholm : Harrier	Stockholm	    2
 Hambourg	Hamburg	    2
 Gênes	Geneve	    2
 göteborg	Gothenburg	    2
-Harlemi	Harlem	    2
+Harlemi	Haarlem	    2
 Lyon & Paris	Lyon	    2
 Edinburgh and London	Edinburgh	    2
 Berlin-Tempelhof	Berlin	    2
@@ -2407,7 +2410,7 @@ Dorpati Liv.	Tartu	    2
 Stockholm Tryckt aff Henrich Keyser.	Stockholm	    2
 Tryckt i Vpsala hoos Eskil Matzson.	Uppsala	    2
 Götheborg, tryckt hoos Zacharias Hagemann.	Gothenburg	    2
-Wiesingsburg	Wijsingzborg	    2
+Wiesingsburg	Visingsborg	    2
 Wijsingsborg	Visingsborg	    2
 Tryckt j Stockholm, af Andrea Gutterwitz. Anno Christi 1609.	Stockholm	    2
 Viennæ Austriæ	Vienna	    2
@@ -2848,7 +2851,7 @@ Leipzig verlegts Johann Gottfried Dyck. 1760.	Leipzig	    1
 A Stocholm, chez Jean Pleyn de Courage, LXXVII.	Stockholm	    1
 Götheborg, tryckte hos Samuel Norberg. 1832.	Gothenburg	    1
 Trckt i Westeråhs.	Västeras	    1
-Tryckte i Gefle, 1783.	Pecatana moskve f gippiusa	    1
+Tryckte i Gefle, 1783.	Visingsborg	    1
 Götheborg, 1814, tryckt hos Sam. Norberg.	Gothenburg	    1
 Tryckt i Wexiö, 1828.	Växjö	    1
 Hackås	Hackas	    1
@@ -2962,9 +2965,9 @@ Linköping, Tryckt hoos Christopher Günter.	Linköping	    1
 Tryckt i Linköping hoos Christopher Günter, Anno M. DC. XLVIII.	Linköping	    1
 Tryckt i Strengnäs aff Zacharia Brockenio, Capitletz Booktr. åhr 1645.	Strängnäs	    1
 Tryckt j Calmar aff Christopher Günther, anno M. DC. XXXI.	Kalmar	    1
-Gedruckt im Jahr, M. DC. XXX.	Pecatana moskve f gippiusa	    1
-Geschehen im Monat Martio im Jahre M. DC. XXXI.	Pecatana moskve f gippiusa	    1
-Gedruckt im Jahr M. DC. XXXI.	Pecatana moskve f gippiusa	    1
+Gedruckt im Jahr, M. DC. XXX.	Visingsborg	    1
+Geschehen im Monat Martio im Jahre M. DC. XXXI.	Visingsborg	    1
+Gedruckt im Jahr M. DC. XXXI.	Visingsborg	    1
 In 's Graven-hage, by Ludolph Breeckevelt, boeck-drucker, woonende op't Speuy naest het Zout-huys, anno 1631.	The Hague	    1
 Bielefeld;Leipzig	Bielefeld	    1
 Gedruckt zu Erffurdt, bey Georg Hertzen, im M. DC. XXXII. Jahr.	Erfurt	    1
@@ -3066,7 +3069,7 @@ Leipzig ;;Berlin ;;Wien	Leipzig	    1
 Upsaliæ, litteris Johan. Fred. Edmann. reg. acad. typogr.	Uppsala	    1
 Gefle ;;Stockholm	Stockholm	    1
 A Paris, Chez Benoît Dandré, ... Garnery, ... Obré, ... an IV. [1796.]	Paris	    1
-Harderovici apud Hæred. Joh. Rampen. Academiæ ducatus Gelriæ & comit. Zutphaniæ typograph. ord. M. D. CCXXXV.	Pecatana moskve f gippiusa	    1
+Harderovici apud Hæred. Joh. Rampen. Academiæ ducatus Gelriæ & comit. Zutphaniæ typograph. ord. M. D. CCXXXV.	Visingsborg	    1
 London: printed for William Richardson, Cornhill; and John Egerton, Whitehall	London	    1
 London: Printed for F. and C. Rivington, ...	London	    1
 [Cologne	Cologne	    1
@@ -3200,7 +3203,7 @@ Stockholm, tryckt af Peter Jöranßon Nyström	Stockholm	    1
 Stockholm. Tryckt hos J. Hörberg, 1830.	Stockholm	    1
 Linköping. Axel Petre, 1837.	Linköping	    1
 Omtryckt i Norrköping hos Adolf Fredric Raam, efter tryckt original från Götheborg år 1788	Norrköping	    1
-L und	Pecatana moskve f gippiusa	    1
+L und	Visingsborg	    1
 Kiøbenhavn. Trykt hos directeur Johan Frederik Schultz, kongelig og universitets-bogtrykker.	Copenhagen	    1
 Norrköping, år 1800. Ad. Fr. Raam. Tryckt på auctores eget förlag	Norrköping	    1
 Stockholm, tryckt hos J. C. Holmberg, 1790.	Stockholm	    1
@@ -3625,14 +3628,14 @@ Tryckt i Stockholm, hoos Ignatium Meurer, anno M. DC. XXXXIX.	Stockholm	    1
 Ulvsunda :;Ulvsunda :;Stockholm	Stockholm	    1
 Gedruckt zu Stockholm, bey Ignatio Meurer, Anno 1657.	Stockholm	    1
 Gedruckt zu Reval, durch Adolph Simon, Gymnasij Buchdruckern, Im M.DC.L.V. Jahre.	Tallinn	    1
-Anno M. DC. LV.	Pecatana moskve f gippiusa	    1
+Anno M. DC. LV.	Visingsborg	    1
 verteutschet vnd gedrucket, in Reval, Anno 1651.	Tallinn	    1
 Tryckt i Strengnäs aff Zacharia Brockenio, Åhr 1651.	Strängnäs	    1
 Tryckt i Wästeråås aff Euchario Lauringer, Anno M D C I [!].	Västeras	    1
 Stockholm, Tryckt aff Henrich Keyser.	Stockholm	    1
 Linköping, Tryckt hoos Christopher Gynter.	Linköping	    1
 Stockholm, Tryckt hoos Henrich Keyser, Anno 1651 [!].	Stockholm	    1
-Gedruckt im Jahr, M. DC. XLIV.	Pecatana moskve f gippiusa	    1
+Gedruckt im Jahr, M. DC. XLIV.	Visingsborg	    1
 Stockholm, tryckt af Henrich Keyser, Åhr 1644.	Stockholm	    1
 Stockholm, Tryckt af Henrich Keyser, åhr 1644.	Stockholm	    1
 Stockholm, tryckt af Henrich Käyser, konglige booktryckiare.	Stockholm	    1
@@ -3650,9 +3653,9 @@ Stockholm, Tryckt aff Henrich Keyser, Kongl. Booktryckiare.	Stockholm	    1
 Tryckt i Stockholm hoos Henrich Kyeser [!].	Stockholm	    1
 Stockholm :;Paul U. Bergström AB	Stockholm	    1
 Sockholm [!] Tryckt aff Peter Van Selow	Stockholm	    1
-Tryckt, Åhr M DC XXX IX.	Pecatana moskve f gippiusa	    1
+Tryckt, Åhr M DC XXX IX.	Visingsborg	    1
 Stockholm, Tryckt af Henrich Keyser.	Stockholm	    1
-Im Jahr M. DC. XXXVII.	Pecatana moskve f gippiusa	    1
+Im Jahr M. DC. XXXVII.	Visingsborg	    1
 Stockholm, Tryckt Hoos Henrich Keyser, åhr 1643.	Stockholm	    1
 Tryckt i Stockholm hoos Hindrich Keyser, Anno M. DC. XXXVIII.	Stockholm	    1
 Śṭoḳholm	Stockholm	    1
@@ -3797,7 +3800,7 @@ Wästeråhs, Tryckt af Boëtio Hagen, Kongl. Consist. och Gymn Booktryckare. Ann
 Linkiöping, Tryckt hoos Daniel Kämpe Anno 1686.	Linköping	    1
 Stockholm, Tryckt å nyo, uti Kongl. Booktryckerijet, hos Sal. Wankijfs Änckia Anno 1698.	Stockholm	    1
 Wästeråhs, Tryckt af Boëtio Hagen, Kongl. Cons. och Gymn. Booktr.	Västeras	    1
-Tryckt på Wijsingzöö aff Johann Kankel. Anno M DC LXXXV.	Wijsingzborg	    1
+Tryckt på Wijsingzöö aff Johann Kankel. Anno M DC LXXXV.	Wijsingzöö	    1
 Turusa Prändätty, Johan Winterildä Cuning:da Booktr:dä Suures Ruhtinan Maasa Suomes, Wuonna 1681.	Turku	    1
 Tryckt i Stockholm hoos Niclas Wankijff, Kongl. Booktr.	Stockholm	    1
 Turusa, Prändätty Johan Winterildä Cuning.da Booktr.dä Wuonna 1685.	Turku	    1
@@ -3873,7 +3876,7 @@ Riga, Drukkts Heinrich Bessemesser. Anno 1675.	Riga	    1
 Nu aff nyo vplagt vthi Götheborg, åhr 1682. Tryckt hoos Larsz Lönbohm.	Gothenburg	    1
 Stockholm, Tryckt, hos Henr. Fougt, 1772. Huset N:o 104. på Stora Nygatan.	Stockholm	    1
 Stockholm, Gedruckt bey Henrich Keyser, Königl. Buchtrucker.	Stockholm	    1
-Gedruckt in 't Jaer M. D. C. LXXV.	Pecatana moskve f gippiusa	    1
+Gedruckt in 't Jaer M. D. C. LXXV.	Visingsborg	    1
 Tryckt i Stockholm aff Nicolao Wankijff, Kongl. Booktr.	Stockholm	    1
 Stockholm, Tryckt hoos Nicolaum Wankijff, Konigl [!]. Booktr. Åhr 1673.	Stockholm	    1
 Stockholm, Tryckt hoos Niclas Wankijff, Kongl. Booktr. åhr 1674.	Stockholm	    1
@@ -4469,7 +4472,7 @@ Stockholm, Tryckt hos Nyström och Stolpe 1762.	Stockholm	    1
 Stockholm, å nyo tryckt i Kongl. tryckeriet, 1799.	Stockholm	    1
 Stockholmisa. Prändätty Directeurildä ja Cuning:da Kirjan präntäjäldä Jacob Merckellildä.	Stockholm	    1
 Stockholm, Tryckt hos Lorens Ludvig Grefing, 1766.	Stockholm	    1
-De l'imprimerie royale, MDCCLXII.	Pecatana moskve f gippiusa	    1
+De l'imprimerie royale, MDCCLXII.	Visingsborg	    1
 Stockholm, å nyo Tryckt i Kongl. Tryckeriet 1780.	Stockholm	    1
 Stockholm, tryckt hos direct. Lars Salvius. 1758.	Stockholm	    1
 Stockholm å nyo Tryckt i Kongl. Tryckeriet, 1782.	Stockholm	    1
@@ -4487,7 +4490,7 @@ Stockholm, å nyo Tryckt i Kongl. Tryckeriet, 1782.	Stockholm	    1
 Stockholmisa, Prändätty Directeurilda ja Cuning:selda Kirjan-Präntäjäldä Suuren-Ruhtinan-Maasa Suomesa, Jacob Merckellilda.	Stockholm	    1
 Stockholm, å nyo tryckt uti Kongl. tryckeriet år 1770.	Stockholm	    1
 Stockholm,Tryckt hos Joh. Laur. Horrn, Kongl. Antiq. Arichiv. Boktr.	Stockholm	    1
-Å nyo uplagt i Kongl. tryckeriet, 1777.	Pecatana moskve f gippiusa	    1
+Å nyo uplagt i Kongl. tryckeriet, 1777.	Visingsborg	    1
 Stockholm, 1835, tryckt hos Bernh. M. Bredberg.	Stockholm	    1
 Upsala, Tryckt hos Joh. Edman, Kongl. Acad. Boktryckare, År 1769.	Uppsala	    1
 Gothenburg, at the Printing-office of Wahlström, 1825.	Gothenburg	    1
@@ -5277,7 +5280,7 @@ Götheborg Tryckt hos Samuel Norberg 1811.	Gothenburg	    1
 Stockholm, Tryckt hos Peter Hesselberg 1770.	Stockholm	    1
 I Stockholm, uti det Kongl. Tryckeriet uplagd, Hos Joh. Henr. Werner, Directeur öfwer alla Tryckerien i Riket.	Stockholm	    1
 Efter befalning Tryckt, i Skara hos K:gl. Gymnas. Boktr. Herm. A. Möller, Åhr 1723.	Skara	    1
-Uddewalla, tryckt hos A. M. Hallgren 1836.	Pecatana moskve f gippiusa	    1
+Uddewalla, tryckt hos A. M. Hallgren 1836.	Visingsborg	    1
 Stockholm, uti Kongl Boktryckeriet uplagdt, Hos Johan Henrich Werner, Directeur öfwer alla Tryckerien i Riket, Åhr 1724.	Stockholm	    1
 Stockholm, uti Kongl. Boktryckeriet, Hos Johan Henr. Werner, Directeur öfwer alla Tryckerien i Riket. Åhr 1724.	Stockholm	    1
 Stockholm, uti det kongl. boktryckeriet, åhr 1721.	Stockholm	    1
@@ -5466,7 +5469,7 @@ Washington,D.C.	Washington DC	    1
 Wasa :b W.S.F.	Vaasa	    1
 [Gamlakarleby]	Kokkola	    1
 Turku ...	Turku	    1
-Milano ...	Milano	    1
+Milano ...	Milan	    1
 Stockholm, tryckt år 1772	Stockholm	    1
 Upsala, Tryckt hos Leffler och Sebell	Uppsala	    1
 [Stuttgart ...]	Stuttgart	    1
@@ -5529,7 +5532,7 @@ Stockholm Elmén & Granbergs tryckeri 1848.	Stockholm	    1
 Turusa, prändätty Kuningallisen acad. kirjan prättäjäldä, J. C. Frenckellildä. Wuonna 1779.	Turku	    1
 Helsingfors, hos J. C. Frenckell & son.	Helsinki	    1
 Kjöbenhavn 1839. Trykt paa Forfatterens Forlag, i Bianco Luno's Bogtrykkeri. I Commission hos Fritze & Bagge i Stockholm ... .	Copenhagen	    1
-S.l. [tr.utomlands]	Pecatana moskve f gippiusa	    1
+S.l. [tr.utomlands]	Visingsborg	    1
 Upsala Palmblad & C:o 1830.	Uppsala	    1
 Madison, Wis.	Madison	    1
 [Uppsla]	Uppsla	    1
@@ -5556,6 +5559,7 @@ Lundæ 1812, litteris Berlingianis.	Lund	    1
 Stovkholm	Stockholm	    1
 Khvn ...	Copenhagen	    1
 Stockholm. Tryckt hos P. G. Berg. 1844	Stockholm	    1
+Vilna	Vilnius	    1
 Lundæ, MDCCCXVI. Litteris Berlingianis.	Lund	    1
 Francofvrti, ex officina typog. Wolffgangi Richteri, sumtibus Nicolai Steinij. Anno M. DCV.	Frankfurt	    1
 Francofvrti, ex officina typog. Wolfgangi Richteri, sumptibus Nicolai Steinii. Anno M. DC. V.	Frankfurt	    1
@@ -5621,7 +5625,7 @@ Gottingae, apvd Iohann. Christian. Dieterich 1799.	Göttingen	    1
 Upsaliæ, excudebant Palmblad et C	Uppsala	    1
 Upsaliæ excudebant Stenhammar et Palmblad Regiæ Academiæ Typographi.	Uppsala	    1
 Jena ;;Leipzig	Jena	    1
-[S.l.] MDCCXCIX	Pecatana moskve f gippiusa	    1
+[S.l.] MDCCXCIX	Visingsborg	    1
 Upsaliae, C. A. Leffler, MDCCCLV.	Uppsala	    1
 [Salem]	Salem	    1
 ['s Gravenhage]	The Hague	    1
@@ -5661,8 +5665,8 @@ S.l. Södertälje	Södertälje	    1
 Fahlun, tryckt hos Carl Richard Roselli, 1837.	Falun	    1
 Stockholm :;Thore Ericsson	Stockholm	    1
 Searæ	Searae	    1
-Þryckter a Hoolum i Hialltadal af Halldore Eriks Syne anno MDCCLVI.	Pecatana moskve f gippiusa	    1
-Þryckt a Hoolum i Hialltadal af Halldore Eriks-Syne. Anno M. DCC. LVI.	Pecatana moskve f gippiusa	    1
+Þryckter a Hoolum i Hialltadal af Halldore Eriks Syne anno MDCCLVI.	Visingsborg	    1
+Þryckt a Hoolum i Hialltadal af Halldore Eriks-Syne. Anno M. DCC. LVI.	Visingsborg	    1
 Lund, Tryckt på C. W. K. Gleerups förlag, uti Berlingska boktryckeriet, 1842.	Lund	    1
 Uppsala, C. J. Wensters förlag. [Titelbladets baksida:] Upsala. Tryckt hos P. Hanselli, 1860.	Uppsala	    1
 Upsaliæ, excudebant reg. acad. typographi	Uppsala	    1
@@ -5868,7 +5872,7 @@ Tierp ...	Tierp	    1
 Salssjö-Järla	Salssjö järla	    1
 S.l. Stockholm	Stockholm	    1
 [Ithaca ...]	Ithaca	    1
-W Wilnie	Vilna	    1
+W Wilnie	Vilnius	    1
 Helsingfors ;;Wasa	Helsinki	    1
 Upsala Wahlström & Låstbom.	Uppsala	    1
 S.l. [Seattle,Wash.]	Seattle WA	    1
@@ -6026,7 +6030,7 @@ Aboæ, exc. r. ac. typ. Joh. Kiämpe.	Turku	    1
 Åbo, tr. [1:]J. Kiæmpe, [2:]J. Merckell	Turku	    1
 Aboæ, excud. Joh. Kæmpe. reg. ac. typ.	Turku	    1
 Stockholm, 1825. Tryckt i Ecksteinska Tryckeriet.	Stockholm	    1
-S.l. [Gefle]	Pecatana moskve f gippiusa	    1
+S.l. [Gefle]	Visingsborg	    1
 Eisfeld i.Thür	Eisfeld thuer	    1
 Kiøbenhavn 1779. Trykt i det kongel. universit. bogtrykkerie, paa A. H. Godiches efterleverske forlag.	Copenhagen	    1
 Luton ...	Luton	    1
@@ -6037,7 +6041,7 @@ Madras ...	Madras India	    1
 [Jönköping	Jönnköping	    1
 Paris Liège	Paris	    1
 Praha-Karlína	Prague	    1
-Tr. i Gefle	Pecatana moskve f gippiusa	    1
+Tr. i Gefle	Visingsborg	    1
 Jurjew	Tartu	    1
 Rostock ...	Rostock	    1
 Mitau ...	Jelgava	    1
@@ -6102,7 +6106,7 @@ Stockholm, Elmèns & Granbergs Tryckeri, 1830.	Stockholm	    1
 Upsaliæ, typis Joh. Henr. Werneri, s:æ r:æ m:tis & Ups. acad. typogr.	Uppsala	    1
 Upsaliæ, per J. H. Werner reg. acad. typogr.	Uppsala	    1
 Upsalae, typis Wernerianis.	Uppsala	    1
-Milano. MDCCLXXX. Nell' Imperial Monistero di s. Ambrogio Maggiore con approvazione.	Milano	    1
+Milano. MDCCLXXX. Nell' Imperial Monistero di s. Ambrogio Maggiore con approvazione.	Milan	    1
 Holmiæ, Typis Laurentii Salvii.	Stockholm	    1
 Saalfeld ...	Saalfeld	    1
 Wismar i. Meckl.	Wismar	    1
@@ -6120,7 +6124,7 @@ London: Printed for Tim. Goodwin at the Qeen's Head, against St. Dunstan's Churc
 Neu-Ruppin	Neuruppin	    1
 A Amsterdam. Chez Pierre Brunel sur le Dam. M. DCC. XX.	Amsterdam	    1
 [Caen]	Caen	    1
-Rintelii literis Ioh. Godofr. Enax. MDCCXXXVI.	Rinteln	    1
+Rintelii literis Ioh. Godofr. Enax. MDCCXXXVI.	Hannover	    1
 Vratislaviæ	Breslau	    1
 London: printed for Elizabeth Harlow, no. 76, St. James's Street. M.DCC.XC.	London	    1
 A Paris. Chez Buisson, ..., 1792.	Paris	    1
@@ -6241,7 +6245,7 @@ Grand Rapids, Mich	Grand Rapids Mi	    1
 Norrköping..	Norrköping	    1
 Nurnberg	Nürnberg	    1
 [Ryssby]	Ryssby	    1
-A Cassel, chez Jerfmie Estienne. MDCCLIV.	Pecatana moskve f gippiusa	    1
+A Cassel, chez Jerfmie Estienne. MDCCLIV.	Visingsborg	    1
 [Solothurn]	Solothurn	    1
 Valenii-de-Munte	Valenii munte	    1
 Stockholmiæ, in typ. reg.	Stockholm	    1
@@ -6388,7 +6392,7 @@ Uppsala .	Uppsala	    1
 Mellgård ...	Mellgard	    1
 Grimnäs ...	Grimnäs	    1
 [Inhambane]	Inhambane	    1
-[S.l.] Excud. Johannes Brendeken, reg. acad. typographus.	Pecatana moskve f gippiusa	    1
+[S.l.] Excud. Johannes Brendeken, reg. acad. typographus.	Visingsborg	    1
 Örebro, N. M. Lindhs boktryckeri, 1838.	Örebro	    1
 Roma ...	Rome	    1
 Lisboa ...	Lisbon	    1
@@ -6402,7 +6406,7 @@ Saõ Paulo	Sao paulo	    1
 Stockholm : Svenska uppfinnare-föreningen	Stockholm	    1
 L'vôv	Lvov	    1
 Athēnai	Athens	    1
-Milano-Roma	Rome	    1
+Milano-Roma	Milan	    1
 Verona ...	Verona	    1
 Gedruckt in 1701. Und zu finden in Leipzig bey Joh. Grossens Erben.	Leipzig	    1
 Stockholm, tryckt hos Johan C. Holmberg, 1791.	Stockholm	    1
@@ -6460,7 +6464,7 @@ Buenos Aires ...	Buenos aires	    1
 Stockholm, Hörbergska boktryckeriet, 1846.	Stockholm	    1
 Linlöping	Linköping	    1
 Londini Gothorum, ex officina directoris Caroli Gustavi Berling. Reg. Acad. Carol. typograph.	London	    1
-Regimonti	Königsberg	    1
+Regimonti	Koningsberg	    1
 Tukholmassa [Stockholm]	Stockholm	    1
 [Nyland]	Nyland	    1
 Jysväskylä	Jyväskylä	    1
@@ -6566,7 +6570,7 @@ Upsaliæ, impressæ.	Uppsala	    1
 Madrid ;;Barcelona	Madrid	    1
 Madrid ;;Barcelona ; Buenos Aires	Madrid	    1
 [București]	București	    1
-Milano ;;Roma	Rome	    1
+Milano ;;Roma	Milan	    1
 Porvo	Porvoo	    1
 Stockholm, tryckt hos N. Marcus, 1864.	Stockholm	    1
 Landskrona :bÖsterberg	Landskrona	    1
@@ -6649,7 +6653,7 @@ London:, Printed for T. Cox ; C. Davis ; J. and P. Knapton ; and A. Millar, MDCC
 Minneapolis,Minn	Minneapolis Mn	    1
 At his academy for illustrating and painting natural history no. 10 Great Malborough street London: MDCCXCIII.	London	    1
 Købvenhavn	Copenhagen	    1
-Wÿsingzborg	Wijsingzborg	    1
+Wÿsingzborg	Visingsborg	    1
 [Stuttgart)	Stuttgart	    1
 [Bogotá]	Bogota	    1
 Wissmar und Leipzig, Verlegts Johann Christian Schmidt, 1706.	Wismar	    1
@@ -6739,9 +6743,9 @@ Skara, tryckt 1788, efter tryckt exemplar ifrån Stockholm.	Skara	    1
 Götheborg, tryckt hos Johan Georg Lange, jun. 1746	Gothenburg	    1
 Skara, tryckt efter tryckt exemplar ifrån Stockholm	Skara	    1
 Skara, tryckt 1788 [Cöln].	Skara	    1
-[S.l] Tryckt åhr 1687.	Pecatana moskve f gippiusa	    1
+[S.l] Tryckt åhr 1687.	Visingsborg	    1
 Breslau;Reval	Breslau	    1
-Anno. M D L III.	Pecatana moskve f gippiusa	    1
+Anno. M D L III.	Visingsborg	    1
 Kjøbenhavn, 1803. Trykt paa L. Reistrups forlag, hos Z. Breum.	Copenhagen	    1
 Stockholm, tryckt af Peter Jöranszon Nyström.	Stockholm	    1
 Stockholm, 1817, hos Zacharias Haeggström	Stockholm	    1
@@ -6855,7 +6859,7 @@ Aboæ, impressit Joh. Christoph. Frenkell.	Turku	    1
 Méjico	Mejico	    1
 KÖbenhavn	Copenhagen	    1
 [Rock Island, Ill]	Rock Island IL	    1
-Milano..	Milano	    1
+Milano..	Milan	    1
 U Kyïvi	Kyivi	    1
 Leipzig & Meissen	Leipzig	    1
 Kallmünz	Kallmuenz	    1
@@ -6946,7 +6950,7 @@ Stuttgart-Cannstatt	Stuttgart	    1
 Kilonii	Kiel	    1
 Stockholm : N. Marcus	Stockholm	    1
 Hess-Oldendorf	Hess oldendorf	    1
-Recvsa MDCCXXXV.	Pecatana moskve f gippiusa	    1
+Recvsa MDCCXXXV.	Visingsborg	    1
 Stockholm, tryckt i Kongl. finska boktryckeriet, hos J.A. Carlbohm.	Stockholm	    1
 Stockholm, tryckt hos Isaac Marcus	Stockholm	    1
 Stockholm, L. J. Hiertas förlag	Stockholm	    1
@@ -7028,7 +7032,7 @@ Hildburghausen, bei Johann Gottfried Hanisch, 1793.	Hildburghausen	    1
 Barcelona, Buenos Aires	Barcelona	    1
 's Hage	The Hague	    1
 Dorpati Livonorum literis Acad. Anno M. DC. XXXVII.	Tartu	    1
-Königsberg in Pr	Königsberg pr	    1
+Königsberg in Pr	Koningsberg	    1
 Brooklyn-New York	New York NY	    1
 [Lipsiæ]	Leipzig	    1
 Lipsiæ, apud Jo. Fridericum Gleditsch. A. M.DCC.IV.	Leipzig	    1
@@ -7106,12 +7110,12 @@ Upsala, tryckt hos Johan Fredr. Edman, kongl. acad. boktryckare.	Uppsala	    1
 Gedrucket zu Hamburg, bey Paul Langen, in verlegung Michael Herings, im Jahr 1619..	Hamburg	    1
 [Moskva...]	Moscow	    1
 [Bottnaryd]	Bottnaryd	    1
-Königsberg i Pr	Königsberg pr	    1
+Königsberg i Pr	Koningsberg	    1
 Wien/Stuttgart	Vienna	    1
 Schwabach..	Schwabach	    1
 Dundee..	Dundee	    1
 St Petersburg..	St Petersburg	    1
-Pečatana v Moskvě u F. Gippiusa 1790 goda.	Pecatana moskve f gippiusa	    1
+Pečatana v Moskvě u F. Gippiusa 1790 goda.	Pecatana moskve u	    1
 Archangel'sk	Archangelsk	    1
 [Norembergae]	Nürnberg	    1
 Ronshausen bei Bebra	Ronshausen bebra	    1
@@ -7225,7 +7229,7 @@ Berlin, bei Friedrich Maurer, 1784.	Berlin	    1
 Lübeck, gedruckt von Joh. Nicol. Green, E. Edl. Hochw. Raths Buchdr.	Lybeck	    1
 [Denver, Colo]	Denver	    1
 University, Ala	Ala	    1
-Anno M. DC. XXXI. Stettini, typis Rhetianis.	Pecatana moskve f gippiusa	    1
+Anno M. DC. XXXI. Stettini, typis Rhetianis.	Visingsborg	    1
 [Sköfde]	Sköfde	    1
 Helsingfors .	Helsinki	    1
 [Karlsruhe]	Karlsruhe	    1
@@ -7400,7 +7404,7 @@ Upsaliae, Typis direct. Johan Edman.	Uppsala	    1
 Eutin (Hostein)	Eutin hostein	    1
 Dallas, Texas	Dallas texas	    1
 [Bâle]	Bale	    1
-Lʾviv	Pecatana moskve f gippiusa	    1
+Lʾviv	Visingsborg	    1
 Warszawa ;;Kraków	Warsaw	    1
 Uppsaliæ Excudebant Regiæ Academiæ typographi.	Uppsala	    1
 Grenoble..	Grenoble	    1
@@ -7558,7 +7562,7 @@ Wien, Leipzig, München	Vienna	    1
 Florence & Paris	Florence	    1
 Wien, Berlin	Vienna	    1
 Südstapel	Suedstapel	    1
-Typis Keyserianis. [s.l.]	Pecatana moskve f gippiusa	    1
+Typis Keyserianis. [s.l.]	Visingsborg	    1
 Aboæ, impensis Frenckellianis MDCCXCII.	Turku	    1
 Addis-Abeba	Addis Abeba	    1
 [Eisenach]	Eisenach	    1
@@ -7734,7 +7738,7 @@ Holmiae..	Stockholm	    1
 Upsaliæ excudebant Regiæ Akadeniæ typographi	Uppsala	    1
 Stockholm, Tryckt hos C. M. Thimgren, 1865.	Stockholm	    1
 Caldwell, Idaho	Caldwell idaho	    1
-[s.l.] Aux dépens de l'auteur [s.a.]	Pecatana moskve f gippiusa	    1
+[s.l.] Aux dépens de l'auteur [s.a.]	Visingsborg	    1
 Upsalis. Typis Keyserianis.	Uppsala	    1
 (Stockholm)	Stockholm	    1
 Württemberg	Wuerttemberg	    1
@@ -7753,7 +7757,7 @@ Helsinki-Hfors	Helsinki	    1
 Revaliae	Tallinn	    1
 Witten-Ruhr	Witten	    1
 Paris, Strasbourg	Paris	    1
-Königsberg i. Pr	Königsberg pr	    1
+Königsberg i. Pr	Koningsberg	    1
 New Jersey	Newark NJ	    1
 Liege ;;Paris	Liège	    1
 Poughkeepsie	Poughkeepsie NY	    1
@@ -7867,6 +7871,7 @@ Oldenburg i Gr	Oldenburg	    1
 Upsaliae, excudebant reg. acad. typographi.	Uppsala	    1
 Stockholm, L. Gust. Rylander. Bazarn å Norrbro. [Kolofon:] Stockholm, Hörbergska boktryckeriet, 1849.	Stockholm	    1
 Stockholm :b[s. n.]	Stockholm	    1
+Rinteln a.d. Weser	Hannover	    1
 Hall in Sachsen	Halle	    1
 Noumea, New Caledonia	New	    1
 Imprimebatur Gryphisuualdiæ, per Augustinum Ferberum [kolofon:] Gryphisvvaldiæ typis Augustini Ferberi. Anno 1582.	Greifswald	    1
@@ -7880,7 +7885,7 @@ Upsaliæ, excud. Reg. acad. typographi.	Uppsala	    1
 Upsaliæ, excudebant Regiæ academiæ typographi. MDCCCL.	Uppsala	    1
 Glendale, Calif	Glendale	    1
 Helsingborg..	Helsingborg	    1
-Milano, Roma	Rome	    1
+Milano, Roma	Milan	    1
 Upsaliæ excudebant Zeipel et Palmblad reg. acad. typographi.	Uppsala	    1
 Sthlm, Landskrona	Stockholm	    1
 Göttingen : Vandenhoeck & Ruprecht	Göttingen	    1
@@ -8152,6 +8157,7 @@ Upsaliæ, excudebant regiae academiae typograph.	Uppsala	    1
 Borgå, Helsingfors	Porvoo	    1
 Londini Gothorum, ex officina Berlingiana. MDCCCXXII.	London	    1
 Londini Gothorum, MDCCCXXIV. Ex officina Berlingiana.	London	    1
+Königsberg Pr	Koningsberg	    1
 Lundæ, MDCCCXIII, litteris Berlingianis.	Lund	    1
 Stockholm, Georg Scheutz, 1833.	Stockholm	    1
 Attica, Ind	Attica ind	    1
@@ -8223,7 +8229,7 @@ Tryckt i Stockholm, aff Ignatio Meurer, åhr 1626.	Stockholm	    1
 Tryckt i Stockholm af Henrich Keyser.	Stockholm	    1
 Lond. Scan. excudebat David Kempe.	London	    1
 Dorpati Livonorum, literis Acad. Anno M DC XL	Tartu	    1
-Tryck åhr 1644. [s.l.]	Pecatana moskve f gippiusa	    1
+Tryck åhr 1644. [s.l.]	Visingsborg	    1
 Dorpati,Lit. Acad. Anno M. DC. XL.	Tartu	    1
 Dorpati Livonorum, typis Acad. Anno M. DC. XXXIX.	Tartu	    1
 Upsaliæ, jmprimebat Eschillus Matthiæ, An. M. DC. L.	Uppsala	    1
@@ -8295,7 +8301,7 @@ Ulmæ	Ulm	    1
 Stockholm, tryckt aff J. Georg Eberdt, åhr 1684.	Stockholm	    1
 Götheborgh, på translat. egen bekostnadt. Tryckt aff Amund Nilßon Grefwe, åhr 1650.	Gothenburg	    1
 Ubsaliæ, imprimebat, Eschillus Matthiæ.	Uppsala	    1
-Tryckt hoos Niclas Wankijff, kongl. booktr. åhr MDCLXXXI.	Pecatana moskve f gippiusa	    1
+Tryckt hoos Niclas Wankijff, kongl. booktr. åhr MDCLXXXI.	Visingsborg	    1
 Ab Henrico Keyser ... Upsaliæ Anno Christi M. DC. XCII.	Uppsala	    1
 Stockholm, tryckt af Niclas Wankijf, kongl. booktr.	Stockholm	    1
 Lincopiæ, excudebat Daniel Kempe, anno M. DC. LXIX.	Linköping	    1
@@ -8332,7 +8338,7 @@ Holmiæ, typis Nicolai Wankifvii, reg. typogr. 1676.	Stockholm	    1
 Aboæ, depicta â Iohanne Winter, anno 1671.	Turku	    1
 Arosiæ, excudit Boëtius Hagen, anno 1686.	Västeras	    1
 ock i Stockholm tryckt	Stockholm	    1
-Tryckt på Wijsingzborg, aff hans hög-greffl: nådes herr rijkz drotzetens booketryckare Johann Kankel. Anno M DC LXXV.	Wijsingzborg	    1
+Tryckt på Wijsingzborg, aff hans hög-greffl: nådes herr rijkz drotzetens booketryckare Johann Kankel. Anno M DC LXXV.	Visingsborg	    1
 Stockholm. Tryckt uti Kongl. booktryckerij, hoos sahl. Wankifz änckia, åhr 1693.	Stockholm	    1
 Stockholm, tryckt uti K. B. Sal. Niclas Wankijfs Tryckerij.	Stockholm	    1
 Tryckt i Stockholm, åhr 1696.	Stockholm	    1
@@ -8428,7 +8434,7 @@ Upsalæ excudit Henricus Curio S. R. M. & acad. Upsal. bibliopola. Anno 1689.	Up
 Upsalæ excudit Henricus Curio S. R. M. & academiæ Upsal. bibliopola a. 1679.	Uppsala	    1
 Upsalæ excudit Henricus Curio S. R. M. & academiæ Upsal. bibliopola a. 1675.	Uppsala	    1
 Upsalæ excudit Henricus Curio S. R. M. & academiæ Upsal. bibliopola.	Uppsala	    1
-Daselbst gedruckt durch Chr. Reusner den eltern. Anno M DC XXXI.	Pecatana moskve f gippiusa	    1
+Daselbst gedruckt durch Chr. Reusner den eltern. Anno M DC XXXI.	Visingsborg	    1
 Gissæ Hessorum, typis exscribebat, Petrus Lucius. M DC XX.	Giessen	    1
 Tryckt i Abo [!] aff Peder Wald, Acad. Typog. 1645.	Turku	    1
 Aboæ, excudebat Petrus Wald, acad. typogr. 1645.	Turku	    1
@@ -8645,8 +8651,8 @@ Holmiæ excudebat Christ. Reusnerus senior, 1629	Stockholm	    1
 Calmariæ, excudebat Christophorus Güntherus, d. 27. Aug.	Kalmar	    1
 Calmariæ, typis Christophori Gûntheri, d. 13. julij	Kalmar	    1
 Calmariæ, typis Christophori Gûntheri, anno 1629. d. 3. julij	Kalmar	    1
-Regiomonti Borussiæ, typis Laurentii Segebadii	Königsberg	    1
-Regiomonti Borussiæ, typis Laurentij Segebadij, anno M DC XXIX. d. 7. Iunij	Königsberg	    1
+Regiomonti Borussiæ, typis Laurentii Segebadii	Koningsberg	    1
+Regiomonti Borussiæ, typis Laurentij Segebadij, anno M DC XXIX. d. 7. Iunij	Koningsberg	    1
 Upsaliæ. Cum regio privilegio excudit Henricus Curio ... M DC LXVIII.	Uppsala	    1
 Holmiæ, ex officina Ianssoniana M.D.C.LI.	Stockholm	    1
 Printed in Stockholm	Stockholm	    1
@@ -8731,7 +8737,7 @@ Holmiæ ex calchographia Gutterviciana. Anno M. DC. IX.	Stockholm	    1
 Dantisci, ex molybdographia viduæ Guillemothanæ, anno MDIIX.	Dantzig	    1
 Holmiae typis Reusnerianis, anno MDCX.	Stockholm	    1
 [Brunsberg]	Brunsberg	    1
-Sumtu Joh. Casp. Meyeri bibliop. Lips. M. DC. LXXXV.	Pecatana moskve f gippiusa	    1
+Sumtu Joh. Casp. Meyeri bibliop. Lips. M. DC. LXXXV.	Visingsborg	    1
 Stockholmiæ ex typographia viduæ Gutterwicianæ. Anno M DC XI.	Stockholm	    1
 Holmiæ, ex calchographiâ Guttervicianâ anno salutis MDCX.	Stockholm	    1
 På nytt tryckt j Westerårs aff Oluff Olson Hel, 1624.	Västeras	    1
@@ -8759,7 +8765,7 @@ Strengnesiæ, anno 1652	Strängnäs	    1
 Stockholm, tryckt hoos Henrich Keyser, kongl booktryckiare.	Stockholm	    1
 Aboæ, excusus â Johanne Laurentii Wallio, a. 1686.	Turku	    1
 Holmiæ excusus ab Joh. Georg Eberdt. Anno M DC LXXXIX.	Stockholm	    1
-Tryckt på Wijsinzgborg aff hans höggrefl: nåd: booktr: Johan[n] Kankel. Åhr M DC L XXIV.	Wijsingzborg	    1
+Tryckt på Wijsinzgborg aff hans höggrefl: nåd: booktr: Johan[n] Kankel. Åhr M DC L XXIV.	Wijsinzgborg	    1
 Prentat i Stockholm, aff Oloff Oloffson. Åår 1620.	Stockholm	    1
 Tryckt i Stockholm, aff Anund Oluffson.	Stockholm	    1
 Stockholmiæ excudebat Christoph. Reusnerus. Anno M DC XV.	Stockholm	    1
@@ -8842,7 +8848,7 @@ Holmiæ, typis & impensis Henrici Keiser, Regii Typographi.	Stockholm	    1
 Holmiæ, apud Joh. Janssonium 1649.	Stockholm	    1
 Aboæ, excusa â Petro Hansonio Acad. Typ.	Turku	    1
 Stockholm, tryckt af Henrjch Keyser, kongl: may:tz: och Ups: acad: boktryckjare, åhr 1695.	Stockholm	    1
-Tryckt på Wijsingzborg, aff hans höggrefl: nåd: booktr: Johann Kankel, åhr 1675.	Wijsingzborg	    1
+Tryckt på Wijsingzborg, aff hans höggrefl: nåd: booktr: Johann Kankel, åhr 1675.	Visingsborg	    1
 Stockholm, ahr 1697. uti thet Kongl: Privil: Burchardi tryckerij, af J. J. Genath F.	Stockholm	    1
 Holmiæ, excudit Joh. Georg. Eberdt.	Stockholm	    1
 Stockholm, tryckt hoos Hindrick Keyser kongl. booktr. Anno 1686	Stockholm	    1
@@ -8958,8 +8964,8 @@ Gothoburgi, imprimebat Amundus Grefwe, anno M. DC. LI.	Gothenburg	    1
 Götheborg, tryckt hoos Amund Grefwe, åhr 1676. Medh egen bekostnat.	Gothenburg	    1
 Tryckt i Stettin, på autoris eghen bekostnadt, aff Georg Rhete, åhr 1645.	Szczecin	    1
 Stockholm, tryckt af Joh. Billingsley, med egen bekostnad, åhr 1691.	Stockholm	    1
-Tryckt på Wijsindzborg, aff hans höggrefl: nåd: riijkz drotzens booktryckare Johann Kankel. Anno M DC LXXIV.	Wijsingzborg	    1
-Tryckt på Wisingsborgh, aff hans höggrefl: nådhes rickz drotzens egen booktryckiare thersammestädes Johann Kankel, anno 1667.	Wijsingzborg	    1
+Tryckt på Wijsindzborg, aff hans höggrefl: nåd: riijkz drotzens booktryckare Johann Kankel. Anno M DC LXXIV.	Visingsborg	    1
+Tryckt på Wisingsborgh, aff hans höggrefl: nådhes rickz drotzens egen booktryckiare thersammestädes Johann Kankel, anno 1667.	Wisingsborgh nadhes rickz	    1
 [Uppsala : Henrik Curio] Tryckt i Villa Franca 1669.	Uppsala	    1
 [Strängnäs], Tryckt åhr 1632	Strängnäs	    1
 Aboæ, excusus â Petro Hansonio acad. typ.	Turku	    1
@@ -9038,7 +9044,7 @@ Holmiæ, typis Henrici Käysers, anno 1641.	Stockholm	    1
 Holmiæ, typis Heinrici Käyser, an. 1640.	Stockholm	    1
 Holmiæ, typis Heinrici Käysers, anno 1640.	Stockholm	    1
 Tryckt i Stockholm, aff Andrea Gutterwitz. Anno 1608.	Stockholm	    1
-På Wijsingzborg, aff hans hög-grefl: nådes hr: rikz-drotzetens booktryckiare thersammastädes, Johan Kankel. Anno M DC LXXIV.	Wijsingzborg	    1
+På Wijsingzborg, aff hans hög-grefl: nådes hr: rikz-drotzetens booktryckiare thersammastädes, Johan Kankel. Anno M DC LXXIV.	Visingsborg	    1
 Zu Stockholm gedruckt bey Niclas Wankijff königl. Buchdrucker.	Stockholm	    1
 Reval, gedruckt bey Christoff Brendeken, des königl. gymnasij Buchdrucker, 1678.	Tallinn	    1
 Olim Noribergæ, nunc Upsaliæ recusus,literis Henrici Keysers,... 1694.	Nürnberg	    1
@@ -9047,7 +9053,7 @@ Rostochii, excusus apud Christophorum Reusnerum. Anno 1603	Rostock	    1
 Lvgdvni Batavorum	Lyon	    1
 Götheborg, tryckt hoos Amund Grefwe, åhr 1674.	Gothenburg	    1
 Stockholmiæ, literis Wankiwianis, anno christiano M.DC XCVII.	Stockholm	    1
-Tryckt på Wijsingzborg, aff Hans Hög=Grefl : Nådes Hr. RijkzDråtzetens Boocktryckare Johann Kankel. åhr 1670.	Wijsingzborg	    1
+Tryckt på Wijsingzborg, aff Hans Hög=Grefl : Nådes Hr. RijkzDråtzetens Boocktryckare Johann Kankel. åhr 1670.	Visingsborg	    1
 Rostock, anno 1607.	Rostock	    1
 Lvgdvni Batavorum, ex officina Wilhelmi Christiani Boxii. Sumptibus auctoris. 1643.	Lyon	    1
 U. o. tr. å. ;;[Rostock]	Rostock	    1
@@ -9464,7 +9470,7 @@ Tryckt i Lübeck, aff Samuel Jauchs bekostning, anno Christi M. DC. XX. II. [Kol
 [På sista sidan ] Stockholm	Stockholm	    1
 Gedruckt zu Stockholm, bey Ignatio Meurer, anno 1650.	Stockholm	    1
 Stockholm, gedruckt bey Heinrich Käyser, königl. Buchdr.	Stockholm	    1
-Gedruckt auff Wiesingsburg von Johann Kankel, anno M DC LXXVIIII	Wijsingzborg	    1
+Gedruckt auff Wiesingsburg von Johann Kankel, anno M DC LXXVIIII	Visingsborg	    1
 [Visingsborg : Johan Kankel] Anno M DCLXXV.	Visingsborg	    1
 Stockholm, anno M DC XIX.	Stockholm	    1
 Linkiöping, tryckt hoos Daniel Kämpe.	Linköping	    1
@@ -9481,7 +9487,7 @@ Tryckt medh Kongl. May.tz räntemästares ... Jacob Sneckenbergs wälmente bekos
 Stockholm, uti thet af r. m. privilegierade Burchardi tryckeri, af J. J. Genath, fact. åhr 1695.	Stockholm	    1
 Ubsaliæ, typis Eschilii Matthiæ, 1625.	Uppsala	    1
 Ubsaliæ, typis Eschilli Mtthiæ, 1625.	Uppsala	    1
-Tryckt af Boëthio Hagen, cons. typ. anno M DC LXXII.	Pecatana moskve f gippiusa	    1
+Tryckt af Boëthio Hagen, cons. typ. anno M DC LXXII.	Visingsborg	    1
 Stockholm gedruckt bey Heinrich kaiser. 1678.	Stockholm	    1
 I Stockholm, tryckte af Niclas Wankijf, kongl. booktr. med egen kostnad, åhr 1685.	Stockholm	    1
 Franeqveræ, impensis Johannis Arceri bibliopolæ, anno M DC XLIX. Typis Idzardi Alberti typographi.	Frankfurt	    1
@@ -9532,10 +9538,10 @@ Arosiæ excudebat Petrus Waldius consistorij typis ejusdemq; typographus, an. 16
 Londini Goth., literis Abrah. Habereger ...	London	    1
 Stockholm :;Stockholm: : (Niclas Wankijff,)	Stockholm	    1
 Upsalæ, excudit Henricus Keyseri S.R.M. & academia typographus.	Uppsala	    1
-Tryckt på Wijsingzborg, aff hans höggreffl : nådes Rijks Drotzens booketryckiare, Johann Kankel. M DC LXXII.	Wijsingzborg	    1
+Tryckt på Wijsingzborg, aff hans höggreffl : nådes Rijks Drotzens booketryckiare, Johann Kankel. M DC LXXII.	Visingsborg	    1
 Götheborg, tryckt aff Amund Grefwe, åhr 1654.	Gothenburg	    1
 [Stockholm : Amund Grefwe] Aff translatoris egen typographia. Anno 1645.	Stockholm	    1
-Vthgången och publicerat af translatoris eghen typographia. An. M.DC.XXXVIII.	Pecatana moskve f gippiusa	    1
+Vthgången och publicerat af translatoris eghen typographia. An. M.DC.XXXVIII.	Visingsborg	    1
 Tryckt i Westeråås åhr 1663. aff Euchario Lauringer.	Västeras	    1
 Aboæ, excudebat Petrus Wald Acad. Typogr. 1645.	Turku	    1
 I Stockholm tryckt aff Henrich Keyser, kongl. booktryckiare, med egen bekostnat, åhr 1683. Och finnes hoos honom til köps.	Stockholm	    1
@@ -9636,7 +9642,7 @@ Köbh	Copenhagen	    1
 Glückstadt und Leipzig, bey Gotthilff Lehmann, Königl. provil. Buchhändler. 1712.	Glückstadt	    1
 [Aix-en-Provence]	Aix-en-Provence	    1
 Santiago [de Compostela]	Santiago	    1
-A Hesse-Cassel, M. DCC. XVIII.	Pecatana moskve f gippiusa	    1
+A Hesse-Cassel, M. DCC. XVIII.	Visingsborg	    1
 Hille, Strömsbro	Hille	    1
 Rock Island Ill	Rock Island IL	    1
 Sthlm, London, Paris	Stockholm	    1
@@ -10657,7 +10663,7 @@ Holmiæ, sumtu & literis direct. Laurentii Salvii 1759.	Stockholm	    1
 Holmiæ, sumtu & literis Laurentii Salvii 1756.	Stockholm	    1
 Holmiæ, apud Laurentium Salvium. MDCCLI.	Stockholm	    1
 Holmiæ et Lipsiæ apud Godfredum Kiesewetter. M DCC XLIX.	Stockholm	    1
-Tryckt 1750. Säljes i Kiesevetters boklådor.	Pecatana moskve f gippiusa	    1
+Tryckt 1750. Säljes i Kiesevetters boklådor.	Visingsborg	    1
 Stockholm ;;Wien	Stockholm	    1
 Linköping, tryckt hos sal. Biörckegrens enka, år 1758.	Linköping	    1
 Stockholm, tryckt uti k. ordens-tryckeriet, 1778.	Stockholm	    1
@@ -11283,7 +11289,7 @@ Offenbach/Main	Offenbach main	    1
 [Brugge	Brugge	    1
 [Baltimore?]	Baltimore Md	    1
 Garden City ;;New York	New York NY	    1
-Milano]	Milano	    1
+Milano]	Milan	    1
 [Suistamo]	Suistamo	    1
 Práce	Prace	    1
 Heilbronn ;;Stuttgart	Heilbronn	    1

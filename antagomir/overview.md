@@ -51,8 +51,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |772c                                         |        99.1|           0.9|          3415|       1023|
 |publication_interval                         |        99.0|           1.0|          3643|       3201|
 |650y                                         |        98.9|           1.1|          4051|        951|
-|latitude                                     |        98.5|           1.5|          5635|         18|
-|longitude                                    |        98.5|           1.5|          5635|         18|
+|latitude                                     |        98.5|           1.5|          5654|         18|
+|longitude                                    |        98.5|           1.5|          5654|         18|
 |height.original                              |        98.2|           1.8|          6545|         88|
 |subject_geography                            |        98.2|           1.8|          6550|       2207|
 |650x                                         |        97.8|           2.2|          8261|       2099|
@@ -95,11 +95,11 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language                                     |        31.8|          68.2|        253061|         99|
 |author_name                                  |        26.0|          74.0|        274667|      86891|
 |author                                       |        26.0|          74.0|        274667|      88146|
-|country                                      |        10.4|          89.6|        332730|         37|
+|country                                      |        10.4|          89.6|        332694|         37|
 |852j                                         |         8.3|          91.7|        340640|     127373|
 |dissertation                                 |         1.9|          98.1|        364409|          3|
 |synodal                                      |         1.9|          98.1|        364409|          2|
-|publication_place                            |         1.5|          98.5|        365928|       3341|
+|publication_place                            |         1.5|          98.5|        365928|       3279|
 |publication_year_from                        |         0.0|         100.0|        371298|        523|
 |title                                        |         0.0|         100.0|        371313|     326282|
 |language.Swedish                             |         0.0|         100.0|        371321|          2|

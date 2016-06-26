@@ -8,16 +8,16 @@ output: markdown_document
 
 ### Publishers
 
-[Publishers accepted](output.tables/publisher_accepted.csv)
+ * 19037 [unique publishers](output.tables/publisher_accepted.csv)
 
-[Publishers discarded](output.tables/publisher_discarded.csv)
+ * 371322 documents have unambiguous publisher information (100%). 
 
-[Publishers discarded](output.tables/publisher_nontrivial_conversions.csv)
+ * [Discarded publisher entries](output.tables/publisher_discarded.csv)
+
+ * [Conversions from original to final names](output.tables/publisher_nontrivial_conversions.csv) (only non-trivial conversions shown)
 
 
-
-The 20 most common publishers are shown with the number of documents. Publisher information is available for 371322 documents (100%). There are 19884 unique publisher names (some may be synonymes, though).
-
+The 20 most common publishers are shown with the number of documents. 
 
 ![plot of chunk summarypublisher2](figure/summarypublisher2-1.png)
 
@@ -33,10 +33,15 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher         | titles|     paper|
-|:-----------------|------:|---------:|
-|                  | 192348| 34.874615|
-|Bonnier           |  13585|  1.210050|
-|Kongl. tryckeriet |   5063|  0.510958|
-|Norstedt          |   6817|  1.007038|
-|Sverige           |  11627|  2.839109|
+|publisher             | titles| paper|
+|:---------------------|------:|-----:|
+|                      | 192348| 34.87|
+|Bonnier               |  13585|  1.21|
+|Förf                  |   2912|  0.08|
+|Geber                 |   2425|  0.17|
+|Gleerup               |   2684|  0.13|
+|Kongl. tryckeriet     |   5063|  0.51|
+|Natur & Coultur       |   2308|  0.19|
+|Norstedt              |   6817|  1.01|
+|Sverige               |  11627|  2.84|
+|Wahlström & Widstrand |   3204|  0.23|

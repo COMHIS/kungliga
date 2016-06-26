@@ -38,6 +38,9 @@ source(system.file("extdata/validation.R", package = "bibliographica"))
 source(system.file("extdata/enrich.R", package = "bibliographica"))
 write.table(dim.estimates, sep = ",", row.names = F, file = paste(output.folder, "sheetsize_means.csv", sep = "/"), quote = FALSE)
 
+
+source("validation.kungliga.R") # Year checks: must come after enrich
+
 # -------------------------------------------------
 
 print("Saving preprocessed data")

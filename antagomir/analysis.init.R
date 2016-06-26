@@ -16,14 +16,17 @@ library(knitr)
 #timespan <- c(1470, Inf)
 timespan <- c(-Inf, Inf)
 datafile <- "df.Rds"
+datafile.orig <- "df.raw.Rds"
 ntop <- 20
 author <- "Lahti, Marjanen, Roivainen, Tolonen"
 output.folder <- "output.tables/"
 
+# Read the preprocessed data
+df0 <- readRDS(datafile)
+df.orig <- readRDS(datafile.orig)
+
 print("Prepare the final data set")
-# Read preprocessed data
-df <- readRDS(datafile)
 # Year limits
-df.preprocessed <- filter(df, publication_year >=  min(timespan) & publication_year <= max(timespan))
+df <- df.preprocessed <- filter(df0, publication_year >=  min(timespan) & publication_year <= max(timespan))
 rm(df)
 

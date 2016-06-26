@@ -1,7 +1,7 @@
 ---
 title: "Subject topic preprocessing summaries"
 author: "Leo Lahti"
-date: "2016-06-24"
+date: "2016-06-26"
 output: markdown_document
 ---
 

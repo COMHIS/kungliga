@@ -1,16 +1,16 @@
 Name	Count
-Total count: 	103719
+Total count: 	103711
 Hc.01	2496
 Lz	2041
 Cia	1567
 Hc.03	1552
-Hc	1209
+Hc	1208
 Hcg	 987
 Hcee.01	 769
 Ci	 734
 Hc.016	 669
 Hc.01;Hc.01	 652
-Hocm	 635
+Hocm	 634
 Lz;Lz	 600
 Hc.03;Hc.03	 508
 Qz	 494
@@ -96,8 +96,8 @@ Gz	 112
 Ncbdz	 111
 Pmbbc	 110
 Dbz	 107
-Occ.06z	 107
 C	 106
+Occ.06z	 106
 Ced	 105
 Ohia-c	 104
 U	 104
@@ -112,7 +112,7 @@ Lm-c.od(p);Uafa	  99
 Hoc	  97
 Ijz	  97
 Bkz	  96
-Hce	  95
+Hce	  94
 Pmbaac	  92
 Bb;Bb	  91
 Hcbb.01;Hc.01	  90
@@ -296,7 +296,6 @@ Xxpb;Xxpb	  40
 Ad-c	  39
 Hcbb.03;Hc.03	  39
 Hccda	  39
-Lm-c.c	  39
 O:d	  39
 Obb	  39
 Qaeb-cz	  39
@@ -310,6 +309,7 @@ Hcee.016	  38
 Kb	  38
 Kc.425	  38
 Kv-c	  38
+Lm-c.c	  38
 Uccb	  38
 Vd	  38
 Foc.01	  37
@@ -841,7 +841,6 @@ Oer-cz;Kc.442	  15
 P.06-c:bf	  15
 Pdba	  15
 Qafa	  15
-Qcc(p)	  15
 Qcca	  15
 Qdea	  15
 Qdf;Qdfk	  15
@@ -907,6 +906,7 @@ Phi	  14
 Ppbca	  14
 Prcd-cz;Qz	  14
 Qaa	  14
+Qcc(p)	  14
 Qd-c:k	  14
 Qdda	  14
 Qdf;Qdfe	  14
@@ -19841,7 +19841,6 @@ Nb.07;J;Nb.07;Jb;Mb	   1
 Nb.07;Nb.07;Nbc.07	   1
 Nb.07;Nbc.07	   1
 Nb.07;Ndb.07	   1
-Nb.08	   1
 Nbaz;Nbaz	   1
 Nbc;Nbc	   1
 Nbc.07;Nbc.07	   1
@@ -24312,7 +24311,6 @@ Ppad;Ppcf;Ppacd.01	   1
 Ppadd;Sb	   1
 Ppadö	   1
 Ppadö;Ppb	   1
-Ppb	   1
 Ppb-c(p)	   1
 Ppb;Odgd-c;Oeab-c	   1
 Ppb;Ppacö;Ppadö	   1

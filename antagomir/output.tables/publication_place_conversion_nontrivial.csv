@@ -1,12 +1,12 @@
 original	polished	Count
-Total count: 	92969	
-Göteborg	Gothenburg	12540
+Total count: 	92962	
+Göteborg	Gothenburg	12539
 Helsingfors	Helsinki	 8409
 [Stockholm]	Stockholm	 6893
 Upsala	Uppsala	 3013
 Jönköping	Jönnköping	 2944
 Hfors	Helsinki	 2813
-København	Copenhagen	 1839
+København	Copenhagen	 1838
 Åbo	Turku	 1693
 Västerås	Västeras	 1528
 Kristianstad	Copenhagen	 1414
@@ -44,7 +44,7 @@ Alingsås	Alingsas	  214
 Moskva	Moscow	  214
 [Helsingfors]	Helsinki	  214
 Praha	Prague	  210
-Aboæ	Turku	  205
+Aboæ	Turku	  204
 Uppsala ;;Stockholm	Uppsala	  203
 Reykjavík	Reykjavik	  202
 Stockholm, Tryckt uti Kongl. Tryckeriet, Hos Directeuren Pet. Momma.	Stockholm	  195
@@ -665,7 +665,6 @@ Upsaliæ, [s.n.]	Uppsala	    7
 [San Francisco]	Francisco	    7
 Upsaliæ, litteris Joh. Fredr. Edman, reg. acad. typogr.	Uppsala	    7
 Gryphiæ	Greifswald	    7
-Lpz & Wien	Vienna	    7
 Khvn & Kra	Copenhagen	    7
 Bremen-Horn	Bremen	    7
 [Peking]	Peking	    7
@@ -753,6 +752,7 @@ Upsaliæ, litteris viduæ direct. Johan. Edman.	Uppsala	    6
 [Riga]	Riga	    6
 Uppsala..	Uppsala	    6
 Neumünster	Neumuenster	    6
+Lpz & Wien	Vienna	    6
 Basle	Basel	    6
 Hernoesandiæ	Härnösand	    6
 Aboæ, impressit Joh. Christoph. Frenckell.	Turku	    6
@@ -810,7 +810,6 @@ Wäxjö	Växjö	    6
 [Tranås]	Tranas	    6
 [Eksjö]	Eksjö	    6
 [Roma]	Rome	    6
-[Arlöv]	Arlöv	    6
 [Kiruna]	Kiruna	    6
 Stuttgart ;;Berlin	Stuttgart	    6
 [Skövde]	Skövde	    6
@@ -955,6 +954,7 @@ Stockholm;Stockholm	Stockholm	    5
 [Köping]	Köping	    5
 Uddevalla ;;Stockholm	Uddevalla	    5
 [Bromma]	Bromma	    5
+[Arlöv]	Arlöv	    5
 [Höganäs]	Höganäs	    5
 [Ulricehamn]	Ulricehamn	    5
 [Sundbyberg]	Sundbyberg	    5
@@ -2097,7 +2097,6 @@ Närpes	Närpiö	    2
 Upsaliæ, litteris Johann. Fredr. Edman, reg. acad. typogr.	Uppsala	    2
 [Güstrow]	Guestrow	    2
 Jacobstad	Pietarsaari	    2
-Neapel	Naples	    2
 Win ...	Win	    2
 [Wästerås]	Västeras	    2
 Lubeck	Lybeck	    2
@@ -3236,6 +3235,7 @@ Tryckt i Stockholm, hoos Ignatium Meurer, åhr 1649.	Stockholm	    1
 [Strassburg :;[Basel	Strasbourg	    1
 Luleå :;[Stockholm	Lulea	    1
 Gravenhage	The Hague	    1
+Neapel	Naples	    1
 Stockholm:;Flodin	Stockholm	    1
 Stockholm. Philipp. J. Meijer.	Stockholm	    1
 Örebro & Stockholm	Örebro	    1
@@ -5895,7 +5895,6 @@ Mikkeli [Finland]	Mikkeli	    1
 [Detroit, Mich.]	Detroit Mi	    1
 Hamburg-Berlin	Hamburg	    1
 Paris;Bruxelles	Paris	    1
-Kalikātā	Kalikata	    1
 Stockholm, 1832, hos Zacharias Haeggström.	Stockholm	    1
 Berlin ;;Hamburg	Berlin	    1
 Chichester ...	Chichester	    1

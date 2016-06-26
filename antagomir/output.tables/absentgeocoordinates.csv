@@ -1,21 +1,21 @@
 name	count
-Stockholm	200408
-Uppsala	20955
+Stockholm	200394
+Uppsala	20954
 Helsinki	14705
-Gothenburg	13681
-Lund	13219
-Copenhagen	6378
+Gothenburg	13680
+Lund	13217
+Copenhagen	6377
 Malmö	5584
 Örebro	4503
 Linköping	3233
 Jönnköping	3091
 Norrköping	3008
-Turku	2855
+Turku	2854
 Oslo	2840
 Falun	2324
 Västeras	2076
 Berlin	1958
-Leipzig	1529
+Leipzig	1528
 Karlskrona	1517
 Karlstad	1495
 Strängnäs	1383
@@ -47,7 +47,7 @@ Landskrona	437
 Södertälje	427
 St Petersburg	421
 Lulea	409
-Vienna	378
+Vienna	377
 Kristiinankaupunki	375
 Köping	369
 Ystad	365
@@ -106,7 +106,7 @@ Eslöv	149
 Falkenberg	147
 Stralsund	146
 Tammisaari	145
-Arlöv	144
+Arlöv	143
 Tranas	142
 Sölvesborg	142
 Leiden	142
@@ -116,7 +116,7 @@ Tallinn	133
 Skelleftea	133
 Katrineholm	133
 Amal	133
-Arboga	132
+Arboga	131
 Nora	126
 Klippan	124
 Vyborg	122
@@ -201,8 +201,8 @@ Odense	48
 Venice	47
 Säffle	47
 Höganäs	47
-Strömstad	46
 Nynäshamn	46
+Strömstad	45
 Lisbon	45
 Sunne	44
 Skurup	44
@@ -241,10 +241,10 @@ Guetersloh	34
 Koningsberg	33
 Drammen	33
 New Haven Ct	32
-Naples	32
 Malung	32
 Lwow	32
 Borgholm	32
+Naples	31
 Flen	31
 Eslöf	31
 Ronneby	30
@@ -1331,7 +1331,6 @@ Kävlinge	2
 Katowice	2
 Kampala	2
 Kalisz	2
-Kalikata	2
 Kageröd	2
 Kaapstad	2
 Jurev	2
@@ -2533,6 +2532,7 @@ Kalltorp	1
 Kallmuenz opf	1
 Kallmuenz	1
 Kallered	1
+Kalikata	1
 Kalb ill	1
 Kälarne	1
 Kalamazoo michigan	1

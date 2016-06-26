@@ -1,16 +1,16 @@
 original	pagecount	volnumber	volcount	Count
-NA	NA	NA	NA	122323
+NA	NA	NA	NA	122306
 [4] s.	    4	NA	NA	  7185
 [04] s.	    4	NA	NA	  4810
 16 s.	   16	NA	NA	  4418
 [08] s.	    8	NA	NA	  3381
 32 s.	   32	NA	NA	  2955
 s.	NA	NA	NA	  2951
-24 s.	   24	NA	NA	  2498
+24 s.	   24	NA	NA	  2497
 [8] s.	    8	NA	NA	  1944
 20 s.	   20	NA	NA	  1695
 48 s.	   48	NA	NA	  1624
-[02] s.	    2	NA	NA	  1579
+[02] s.	    2	NA	NA	  1578
 12 s.	   12	NA	NA	  1548
 [16] s.	   16	NA	NA	  1420
 8 s.	    8	NA	NA	  1373
@@ -23,7 +23,7 @@ s.	NA	NA	NA	  2951
 2 vol.	    2	NA	  2	  1092
 32s	   32	NA	NA	  1050
 96 s.	   96	NA	NA	  1010
-31 s.	   31	NA	NA	  1004
+31 s.	   31	NA	NA	  1003
 28 s.	   28	NA	NA	   993
 [1] bl.	    2	NA	NA	   974
 36 s.	   36	NA	NA	   974
@@ -53,7 +53,7 @@ s.	NA	NA	NA	  2951
 20s	   20	NA	NA	   556
 15s	   15	NA	NA	   555
 52 s.	   52	NA	NA	   538
-1 bl.	    2	NA	NA	   534
+1 bl.	    2	NA	NA	   533
 46 s.	   46	NA	NA	   527
 12s	   12	NA	NA	   519
 29 s.	   29	NA	NA	   518
@@ -64,7 +64,7 @@ s.	NA	NA	NA	  2951
 60 s.	   60	NA	NA	   491
 96s	   96	NA	NA	   484
 48s	   48	NA	NA	   475
-11 s.	   11	NA	NA	   475
+11 s.	   11	NA	NA	   474
 88 s.	   88	NA	NA	   466
 10 s.	   10	NA	NA	   465
 176 s.	  176	NA	NA	   460
@@ -75,8 +75,8 @@ s.	NA	NA	NA	  2951
 3 s.	    3	NA	NA	   441
 224 s.	  224	NA	NA	   440
 79 s.	   79	NA	NA	   438
-120 s.	  120	NA	NA	   434
 31s	   31	NA	NA	   433
+120 s.	  120	NA	NA	   433
 159 s.	  159	NA	NA	   426
 104 s.	  104	NA	NA	   426
 84 s.	   84	NA	NA	   420
@@ -216,8 +216,8 @@ s.	NA	NA	NA	  2951
 18s	   18	NA	NA	   204
 69 s.	   69	NA	NA	   204
 147 s.	  147	NA	NA	   202
-109 s.	  109	NA	NA	   202
 166 s.	  166	NA	NA	   201
+109 s.	  109	NA	NA	   201
 173 s.	  173	NA	NA	   201
 4 vol.	    4	NA	  4	   200
 238 s.	  238	NA	NA	   199
@@ -243,7 +243,7 @@ s.	NA	NA	NA	  2951
 89 s.	   89	NA	NA	   182
 252 s.	  252	NA	NA	   182
 29s	   29	NA	NA	   181
-182 s.	  182	NA	NA	   181
+182 s.	  182	NA	NA	   180
 04 s.	    4	NA	NA	   179
 320 s.	  320	NA	NA	   179
 214 s.	  214	NA	NA	   175
@@ -365,10 +365,10 @@ A4-B4.	NA	NA	NA	   127
 261 s.	  261	NA	NA	   115
 97 s.	   97	NA	NA	   115
 311 s.	  311	NA	NA	   114
-384 s.	  384	NA	NA	   114
 266 s.	  266	NA	NA	   114
 112s	  112	NA	NA	   113
 192s	  192	NA	NA	   113
+384 s.	  384	NA	NA	   113
 298 s.	  298	NA	NA	   113
 217 s.	  217	NA	NA	   113
 16 s. =(s. 15/16 blank).=	NA	NA	NA	   112
@@ -591,11 +591,11 @@ A4.	NA	NA	NA	    60
 223, [1] s.	  224	NA	NA	    48
 398 s.	  398	NA	NA	    48
 [02] , 22 s.	   24	NA	NA	    47
-379 s.	  379	NA	NA	    47
 10,(1)s	   10	NA	NA	    47
 157, [1] s.	  158	NA	NA	    47
 370 s.	  370	NA	NA	    47
 396 s.	  396	NA	NA	    46
+379 s.	  379	NA	NA	    46
 29,(1)s	   29	NA	NA	    46
 66s	   66	NA	NA	    46
 11, [1] s.	   12	NA	NA	    46
@@ -750,7 +750,6 @@ A4-C4D2.	NA	NA	NA	    33
 174s	  174	NA	NA	    32
 29, [1] s.	   30	NA	NA	    32
 93, [1] s.	   94	NA	NA	    32
-388 s.	  388	NA	NA	    32
 [2] bl.	    4	NA	NA	    31
 A8-B8.	NA	NA	NA	    31
 [02] , 26 s.	   28	NA	NA	    31
@@ -772,6 +771,7 @@ A8-B8.	NA	NA	NA	    31
 14, [1] s.	   15	NA	NA	    31
 471 s.	  471	NA	NA	    31
 106, [1] s.	  107	NA	NA	    31
+388 s.	  388	NA	NA	    31
 8 vol.	    8	NA	  8	    31
 410 s.	  410	NA	NA	    31
 397 s.	  397	NA	NA	    31
@@ -862,7 +862,6 @@ A4-D4.	NA	NA	NA	    29
 38,(1)s	   38	NA	NA	    27
 405 s.	  405	NA	NA	    27
 438 s.	  438	NA	NA	    27
-215, [1] s.	  216	NA	NA	    27
 70, [1] s.	   71	NA	NA	    27
 85, [1] s.	   86	NA	NA	    27
 67, [1] s.	   68	NA	NA	    27
@@ -882,6 +881,7 @@ A4-D4.	NA	NA	NA	    29
 428 s.	  428	NA	NA	    26
 73s	   73	NA	NA	    26
 479 s.	  479	NA	NA	    26
+215, [1] s.	  216	NA	NA	    26
 91, [1] s.	   92	NA	NA	    26
 163, [1] s.	  164	NA	NA	    26
 389 s.	  389	NA	NA	    26
@@ -9313,7 +9313,6 @@ viii, 80 s., 11 pl.-s.	   88	NA	NA	     1
 74 s. och 1 portr.	NA	NA	NA	     1
 xii, 620 s.	  632	NA	NA	     1
 276 s. och 2 pl.	NA	NA	NA	     1
-31 s. och 1 portr.	NA	NA	NA	     1
 viii, 464 s., [4] pl.-bl. (i färg)	  472	NA	NA	     1
 xviii, 446 s.	  464	NA	NA	     1
 xlv, 334 s.	  379	NA	NA	     1
@@ -15998,7 +15997,6 @@ S. 61-140	   80	NA	NA	     1
 [2], 53 s., [1] tab.	   57	NA	NA	     1
 xii, 114 s.	  126	NA	NA	     1
 163 p.	  163	NA	NA	     1
-lxviii, 404 s.	  472	NA	NA	     1
 432, iv s.	  436	NA	NA	     1
 S. 228-239.	   12	NA	NA	     1
 x, 712 s.	  722	NA	NA	     1
@@ -23133,7 +23131,6 @@ S. 839-1019.	  181	NA	NA	     1
 425, (6) s.	  425	NA	NA	     1
 A4 -Z4Aa4-Ee4Ff2.	NA	NA	NA	     1
 (1) 2-164 (3) bl.	NA	NA	NA	     1
-A4-Z4Aa4-Gg4.	NA	NA	NA	     1
 1-152 s.	  152	NA	NA	     1
 A4-Z4Aa4-Vv4Xx3.	NA	NA	NA	     1
 (2) 3-174 s.	  174	NA	NA	     1
@@ -23218,7 +23215,6 @@ Sign. P4Qij.	NA	NA	NA	     1
 [28], 112, [2] s., frontespis, [1] vikt pl.-bl.	  142	NA	NA	     1
 [2], 3-215, [1] s.	  216	NA	NA	     1
 (25) 2-143 (1); (1) 2-22 (2) s.	NA	NA	NA	     1
-A8 -C8.	NA	NA	NA	     1
 (4) A4-F4G2.	NA	NA	NA	     1
 (4) s. A4-D4	    4	NA	NA	     1
 A2B4-C4.	NA	NA	NA	     1
@@ -23687,7 +23683,6 @@ A4-B2.	NA	NA	NA	     1
 [9], 2-160 s.	  168	NA	NA	     1
 [8], 59[7] s.	    8	NA	NA	     1
 (17) 2-340 (eg. 370) (4) s.	NA	NA	NA	     1
-(4) s. A4C4.	NA	NA	NA	     1
 ):(4 1-199 (1) s.	NA	NA	NA	     1
 (2) 1-29 (1) s.	NA	NA	NA	     1
 [20] pl.-bl. +	NA	NA	NA	     1
@@ -32856,7 +32851,6 @@ xvi, 440 s.	  456	NA	NA	     1
 74 s. =(s. 45-74 opag.)=; [1] rättelsebl.	NA	NA	NA	     1
 [02] , 70 s. =(s. 39-70 opag.)=.	    2	NA	NA	     1
 80 s. =(s. 76-80 opag.)=; [1] rättelsebl.	NA	NA	NA	     1
-[02], 56 s. (s. 51-56 opag.)	    2	NA	NA	     1
 186 s. =(s. 183-86 opag.)=.	NA	NA	NA	     1
 184 s. =(s. 180-84 opag.)=.	NA	NA	NA	     1
 328 s. =(s. 324-28 opag.)=.	NA	NA	NA	     1

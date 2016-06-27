@@ -8,9 +8,9 @@ output: markdown_document
 
 ### Publishers
 
- * 22857 [unique publishers](output.tables/publisher_accepted.csv)
+ * 810 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 151163 documents have unambiguous publisher information (41%). 
+ * 73176 documents have unambiguous publisher information (100%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -33,15 +33,15 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher           | titles| paper|
-|:-------------------|------:|-----:|
-|ahlen akerlund      |   2088|  0.09|
-|almqvist wiksell    |   1862|  0.18|
-|bonnier             |  13217|  1.17|
-|b wahlström         |   1893|  0.01|
-|geber               |   2347|  0.17|
-|gleerup             |   2585|  0.12|
-|lindblad            |   2137|  0.10|
-|natur kultur        |   2308|  0.19|
-|norstedt            |   6583|  0.97|
-|wahlström widstrand |   3140|  0.22|
+|publisher         | titles| paper|
+|:-----------------|------:|-----:|
+|                  |  50243| 30.34|
+|tryckeriet        |    252|  0.14|
+|Berling           |    445|  0.39|
+|Edman             |    491|  0.40|
+|Frenckell         |    236|  0.19|
+|Kongl. tryckeriet |   4935|  0.51|
+|Mattsson          |    328|  0.25|
+|s.n               |    247|  0.07|
+|Sverige           |  10394|  2.58|
+|Werner            |    268|  0.34|

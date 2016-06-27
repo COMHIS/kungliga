@@ -12,9 +12,9 @@ library(knitr)
 # ---------------------------------
 
 # Set global parameters
-#timespan <- c(1470, 1828)
+timespan <- c(1470, 1828)
 #timespan <- c(1470, Inf)
-timespan <- c(-Inf, Inf)
+#timespan <- c(-Inf, Inf)
 datafile <- "df.Rds"
 datafile.orig <- "df.raw.Rds"
 ntop <- 20
@@ -32,5 +32,10 @@ if (exists("timespan")) {
   df <- filter(df,
         publication_year >=  min(timespan) & publication_year <= max(timespan))
 }
+
+
+# Store
+df.preprocessed <- df.preprocessed.orig <- df
+
 rm(df)
 

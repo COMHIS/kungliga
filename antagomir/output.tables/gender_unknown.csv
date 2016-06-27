@@ -1,9 +1,9 @@
 Name	Count
-sven	2830
+sven	2831
 anders	2580
 axel	2530
 john	2384
-karl	2072
+karl	2073
 olof	1988
 ernst	1633
 gösta	1416
@@ -33,7 +33,7 @@ birger	601
 emanuel	588
 sigurd	567
 rudolf	560
-sten	537
+sten	538
 jonas	532
 arthur	515
 sigfrid	461
@@ -154,8 +154,8 @@ hildur	83
 valfrid	83
 erich	82
 jesper	82
+frida	81
 hannes	81
-frida	80
 laurentius	80
 patrik	79
 petter	79
@@ -436,8 +436,8 @@ björn-erik	22
 bob	22
 gaius	22
 j arvid	22
-j onas	22
 joh rich	22
+j onas	22
 karl albert	22
 morten	22
 olof herman	22
@@ -467,8 +467,8 @@ archibald	20
 donald	20
 edgar rice	20
 erle stanley	20
-g einar	20
 gallie	20
+g einar	20
 gretha	20
 helmut	20
 jacobus	20
@@ -569,9 +569,9 @@ aulis	15
 axel emil	15
 britta	15
 claudius	15
-e rik	15
 elias emanuel	15
 eliza	15
+e rik	15
 ernst ivar	15
 ferd	15
 gerhart	15
@@ -599,12 +599,12 @@ aline	14
 anders lorentz	14
 arturo	14
 axel lorentz	14
+carl-einar	14
 c arl f redrik	14
 c arl n iklas	14
-carl-einar	14
-e stanley	14
 elsbeth	14
 ernst c:son	14
+e stanley	14
 félix	14
 gottfried wilhelm	14
 jacob philip	14
@@ -667,10 +667,10 @@ anders jacob	12
 anders severin	12
 ane	12
 arthur b	12
-b rudolf	12
 béla	12
 bjørn	12
 booth	12
+b rudolf	12
 c arl m agnus	12
 egil	12
 elfred	12
@@ -679,8 +679,8 @@ evy	12
 fridolf nathanael	12
 gaetano	12
 giacomo	12
-h d'a	12
 hans emil	12
+h d'a	12
 hellen	12
 herbert n	12
 hertha	12
@@ -702,8 +702,8 @@ samuel marcus herman	12
 sofia	12
 stanley john	12
 sylvanus	12
-t hilding	12
 theophilus	12
+t hilding	12
 vicente	12
 vjačeslav michajlovič	12
 alfred h	11
@@ -715,8 +715,8 @@ asta	11
 cesare	11
 edison	11
 eugénie	11
-f redrik w ilhelm	11
 fernand	11
+f redrik w ilhelm	11
 fridolf vladimir	11
 grete	11
 gunlög	11
@@ -749,8 +749,8 @@ sven sture	11
 v ilhelm t eodor	11
 ville	11
 w ilhelm	11
-a lfred	10
 akke	10
+a lfred	10
 anders ebbe ragnar	10
 anders jacobsson	10
 axel p	10
@@ -783,8 +783,8 @@ john boynton	10
 jonas j:son	10
 jonas samuel	10
 julius efraim	10
-karl olof	10
 karl-aage	10
+karl olof	10
 kjeld	10
 kyösti	10
 lars jacob	10
@@ -793,8 +793,8 @@ linda	10
 lucas	10
 mattias	10
 milton	10
-n ils	10
 nicolai	10
+n ils	10
 oscar e	10
 paschal	10
 per axel	10
@@ -815,10 +815,10 @@ valton	10
 waloddi	10
 wenzel	10
 willi	10
-a xel	9
 ågot	9
 aleksander	9
 antonius	9
+a xel	9
 carl-adam	9
 claus	9
 einar j:son	9
@@ -832,13 +832,13 @@ g hilding	9
 günther	9
 imber	9
 ivar w	9
-j osef a	9
 jacob oscar	9
 john f	9
 john l	9
+j osef a	9
+karl-åke	9
 karl algot	9
 karl j a	9
-karl-åke	9
 kristmann	9
 lloyd	9
 monika	9
@@ -855,8 +855,8 @@ rudolf hans	9
 senta	9
 stig-lennart	9
 sven erland	9
-sven wilhelm	9
 svenfredrik	9
+sven wilhelm	9
 thomas babington	9
 tiburtz	9
 vittorio	9
@@ -872,26 +872,26 @@ beda	8
 bengt anders	8
 bengt jakobsson	8
 burton e	8
+caldwell	8
 c arl a ugust	8
 c arl a xel	8
-caldwell	8
 carl-gösta	8
 carlos	8
 catharina	8
-e lis	8
 einar wilhelm	8
+e lis	8
 elsi	8
 ernst emil	8
 fakir	8
 guglielmo	8
-h spencer	8
 hans birger	8
 henrika	8
+h spencer	8
 inglis	8
 james h	8
-joh s	8
 john einar	8
 john h	8
+joh s	8
 jonas ulrik	8
 jörgen nielsen	8
 kärstin	8
@@ -916,8 +916,8 @@ omar	8
 osborne	8
 per h	8
 ragna	8
-s olof	8
 skogekär	8
+s olof	8
 sven o	8
 uno lorentz	8
 vilgot	8
@@ -925,7 +925,6 @@ wade	8
 wäinö	8
 willem	8
 woodrow	8
-a werner	7
 aaron	7
 adalbert	7
 alf eugène	7
@@ -940,6 +939,7 @@ anna-maja	7
 arndt	7
 arnold j	7
 arveds	7
+a werner	7
 axel olai	7
 axel r	7
 axel sigfrid	7
@@ -959,11 +959,11 @@ e hoffman	7
 ernst g	7
 étienne	7
 eugène napoleon	7
-g w:son	7
 giorgio	7
 gösta a	7
 gunni	7
 gustav d:son	7
+g w:son	7
 hans axel	7
 hans-krister	7
 hilde	7
@@ -977,17 +977,17 @@ ivar o	7
 jarl a	7
 jonas peter	7
 jos	7
-k urt r einhold	7
 kaare	7
 kalju	7
 karl anders axel	7
 karl f	7
+kārlis	7
 karl robertsson	7
 karl rudolf	7
 karl selim	7
 karl uno	7
-kārlis	7
 karsten	7
+k urt r einhold	7
 léonie	7
 lothar	7
 louis-joseph	7
@@ -995,16 +995,16 @@ mabel	7
 martinus	7
 mathias jacob	7
 mihály	7
+napoleon	7
 n ils f redrik	7
 n ils g ustaf	7
-napoleon	7
 ole roger	7
 olof philip	7
 paulsson	7
 pehr-gösta	7
+per-axel	7
 per hugo	7
 per sigurd	7
-per-axel	7
 philip r	7
 reinerus	7
 sallie	7
@@ -1020,8 +1020,6 @@ wilhelm julius	7
 willibald	7
 yrjö wilhelm	7
 zander	7
-a ugust f redrik	6
-a xel v ilhelm	6
 aleksandra	6
 alfred emanuel	6
 anders jeremias	6
@@ -1033,11 +1031,13 @@ armas immanuel	6
 armas j	6
 armstrong	6
 auda	6
+a ugust f redrik	6
 aurore	6
 axel gustav	6
 axel h	6
 axel julius	6
 axel orion immanuel	6
+a xel v ilhelm	6
 bon	6
 c arl a lfred	6
 c arl h erman	6
@@ -1051,26 +1051,24 @@ elieser	6
 emil valfrid	6
 emy	6
 ernst anders	6
-g herbert	6
 galeazzo	6
+g herbert	6
 gösta per engelbert	6
 gusten	6
-h erman g	6
 hamilton	6
 hans herman wilhelm	6
 hans j	6
 hans valdemar	6
 henning o	6
 herman albert	6
+h erman g	6
 hilbert	6
 igor	6
 ingegärd	6
-j ohann h einrich f riedrich	6
-j osef	6
-j pseud	6
 jaan	6
 jeanne-louise-henriette	6
 joachim christoph	6
+j ohann h einrich f riedrich	6
 john anders	6
 john b	6
 john harvey	6
@@ -1079,6 +1077,8 @@ jonas petri	6
 jöran m	6
 jöran wilhelm	6
 jörn	6
+j osef	6
+j pseud	6
 käringen	6
 karl felix	6
 karl o	6
@@ -1137,7 +1137,6 @@ václav	6
 valev	6
 walfr	6
 władysław	6
-a stephen	5
 ain	5
 åke w	5
 åke w:son	5
@@ -1150,11 +1149,10 @@ arthur james	5
 arthur w	5
 artur gustav	5
 arvid emanuel	5
-axel l:son	5
+a stephen	5
 axel linus	5
+axel l:son	5
 axel roland	5
-b m f sheppard	5
-b ror g eorg	5
 benedikt	5
 bengt j	5
 bengt jacob	5
@@ -1162,17 +1160,18 @@ bengt o	5
 bengt s	5
 berge	5
 birger-magnus	5
+b m f sheppard	5
+b ror g eorg	5
 bulstrode	5
-c arl w ilhelm	5
-c g l:son	5
 calla	5
 carlton	5
+c arl w ilhelm	5
+c g l:son	5
 christiaan	5
 clément	5
 compton	5
 daisy	5
 duke	5
-e rik g ustaf	5
 edita	5
 eeli	5
 eino e	5
@@ -1181,6 +1180,7 @@ else mokli	5
 elsie-marie	5
 emanuel mathias	5
 emelie	5
+e rik g ustaf	5
 ernest a	5
 esbjörn	5
 eschill	5
@@ -1191,7 +1191,6 @@ frans oscar	5
 franz ragnar	5
 frederick l	5
 fridolf wilhelm	5
-g ustav	5
 gabriela	5
 geraldine	5
 gösta gideon	5
@@ -1199,11 +1198,12 @@ gösta m	5
 gunda	5
 günter	5
 gustaf-otto	5
+g ustav	5
 h åkan	5
-h enry w illiam	5
 hans a j:son	5
 hans heinrich	5
 harold j	5
+h enry w illiam	5
 herman g	5
 hugo karl albert	5
 ilmar	5
@@ -1212,8 +1212,6 @@ inèz	5
 ingo	5
 ivar d aniel	5
 ivar j:son	5
-j emil	5
-j g c c	5
 jacob d	5
 jacob israel	5
 jacob michael	5
@@ -1223,17 +1221,18 @@ james finlay weir	5
 james g	5
 jean-françois	5
 jean-henri	5
+j emil	5
 jérôme	5
-joh p	5
+j g c c	5
 john albert	5
 john ballantine	5
 john d	5
 john helmer	5
 john paulus	5
+joh p	5
 jolán	5
 jöran ulrik	5
 josiah	5
-k -g	5
 karl bertil	5
 karl e rik	5
 karl hilding	5
@@ -1241,10 +1240,10 @@ karl t	5
 kasper	5
 käte	5
 kelvin	5
+k -g	5
 kjeld nicolai gotthard	5
 klaës	5
 kyösti valfrid	5
-l patrick	5
 lars albin	5
 lars axel alfred	5
 lars ivar	5
@@ -1253,6 +1252,7 @@ leck	5
 lorens münter	5
 lorenz peter	5
 lotte	5
+l patrick	5
 madelon	5
 magne	5
 martinus erici	5
@@ -1262,8 +1262,8 @@ narcisse achille	5
 neil	5
 nelson	5
 norman a	5
-o gustav	5
 oddur	5
+o gustav	5
 olallo	5
 olof bidenius	5
 olof immanuel	5
@@ -1271,8 +1271,8 @@ oluf	5
 owen	5
 p aul	5
 per olov	5
-per ulrik	5
 per-olov	5
+per ulrik	5
 per-uno	5
 peter isaac	5
 peter sven	5
@@ -1301,24 +1301,22 @@ thyde	5
 tor birger	5
 ulrik emanuel	5
 umberto	5
-v iljo	5
 väinö t	5
 valentin ernst	5
 vilhjálmur	5
+v iljo	5
 virgilio	5
-a edwin	4
-a g nath	4
-a stef	4
-a xel w ilhelm	4
 abbé	4
 acke	4
+a edwin	4
+a g nath	4
 agneta	4
 åke hugo	4
 åke jonas igelström	4
 albert g	4
-albert wilhelm	4
 albertine	4
 albertus	4
+albert wilhelm	4
 albin g:n	4
 alfred e	4
 alfred frisör	4
@@ -1337,12 +1335,14 @@ armande	4
 arthur t	4
 artur gustav gideon	4
 arvid ragnar	4
+a stef	4
 aune	4
 axel emil journalist	4
 axel g	4
 axel torgny	4
-b engt	4
+a xel w ilhelm	4
 benedetto	4
+b engt	4
 bengt h	4
 benkt-erik	4
 bertel eino	4
@@ -1361,12 +1361,11 @@ célie	4
 celina	4
 chet	4
 christoph heinrich	4
-claës julius	4
 claes-göran	4
+claës julius	4
 clark	4
 crosbie	4
 dashiell	4
-e mil	4
 earl	4
 edith m	4
 edward john	4
@@ -1374,6 +1373,7 @@ elias arnold	4
 elias petri	4
 eliza fowler	4
 elvir	4
+e mil	4
 emil a	4
 enrico	4
 ernestus	4
@@ -1390,12 +1390,12 @@ eugène françois	4
 eugenius	4
 evangeline	4
 ève	4
-f erdinand	4
-f riedrich m oritz	4
 feodor	4
+f erdinand	4
 flora	4
 frantinšek	4
 franz jacob	4
+f riedrich m oritz	4
 g eorg	4
 ģirts	4
 gladys	4
@@ -1407,20 +1407,20 @@ guillaume-hyacinthe	4
 guillaume-thomas	4
 gunder	4
 gust a	4
+gustav albert	4
 gust g	4
 gust o	4
-gustav albert	4
 györgy	4
-h ermann	4
 hanna g	4
 hans e	4
+hans-eric	4
 hans gideon benedikt	4
 hans joachim	4
 hans karl	4
-hans-eric	4
 haquinus	4
 hedvig sofia	4
 henrietta eliza	4
+h ermann	4
 hesketh	4
 hilder	4
 horst	4
@@ -1429,17 +1429,16 @@ irène	4
 ivar alphons	4
 ivar m	4
 iwan w	4
-j akob a ndersen	4
-j ames r ussel	4
-j levin	4
-j sigfrid	4
 jacinto	4
 jacob axel	4
 jacob b	4
 jacob heinrich	4
+j akob a ndersen	4
 james k	4
+j ames r ussel	4
 jehuda	4
 jeremias wilhelm	4
+j levin	4
 joh e	4
 joh f	4
 john nevins	4
@@ -1448,22 +1447,22 @@ jonas laurentii	4
 jonas oscar	4
 josé maría	4
 józsef	4
+j sigfrid	4
+karl anders	4
 k arl a ugust	4
 k arl a xel	4
-karl anders	4
 karl axel lichnowsky	4
 karl eberhard	4
 karl emanuel	4
 karl h	4
 karl heinrich	4
+karlis	4
 karl joh	4
 karl l	4
-karl w	4
 karl-vilhelm	4
-karlis	4
+karl w	4
 katharine	4
 knut-olof	4
-l udvig f rithiof	4
 laila	4
 lars arvid	4
 lars emil	4
@@ -1478,11 +1477,13 @@ linné	4
 liv	4
 lloyd c	4
 löb	4
+l orentz g ottfrid	4
 lowell	4
-m årten	4
+l udvig f rithiof	4
 maia	4
 marcus junianus	4
 marja	4
+m årten	4
 marthe	4
 mārtiņ̦s	4
 matts a	4
@@ -1491,14 +1492,13 @@ mois-david	4
 mór	4
 mr	4
 murdoch	4
-n ils a xel	4
 nels	4
 nenne	4
 niccolò	4
 nils-arvid	4
+n ils a xel	4
 nils-bertil	4
 noël	4
-o stellan	4
 ólafur	4
 oldřich	4
 olof petter	4
@@ -1509,15 +1509,16 @@ oscar albert	4
 oscar emanuel	4
 oscar m	4
 oscar w	4
+o stellan	4
 osvaldo	4
-p etrus	4
 patrik constantin	4
 penčo petkov	4
 per åke	4
 per g unnar	4
-per m	4
 per-håkan	4
+per m	4
 peter wilhelm	4
+p etrus	4
 petter jonas	4
 philipp karl	4
 ramón	4
@@ -1549,34 +1550,31 @@ tolchard	4
 tomas	4
 tor h	4
 v äinö	4
-v walfrid	4
 violet	4
 vita	4
 volodja	4
-w gordon	4
-w:m	4
+v walfrid	4
 wacław	4
 waldemar j	4
 walle	4
 warberg	4
+w gordon	4
 wilhelm peter	4
 willard	4
+w:m	4
 þorvaldur	4
 a birger c	3
-a den	3
-a frey	3
-a lbin	3
-a ntti	3
-a ukusti j uhana	3
-a xel m auritz	3
 achille	3
 adeline	3
+a den	3
+a frey	3
 agatha m	3
 ahmed	3
 aimée	3
 albert e	3
 albert emil	3
 alberth	3
+a lbin	3
 alfred b	3
 alfred c	3
 alfredo	3
@@ -1589,8 +1587,8 @@ anders birger	3
 anders efraim	3
 anders erici	3
 anders ivar	3
-anders o:son	3
 anders oscar	3
+anders o:son	3
 anders sandøe	3
 andrä heinrich	3
 andras	3
@@ -1600,6 +1598,7 @@ angus	3
 ann-margret	3
 antonín	3
 antonine françois	3
+a ntti	3
 anya	3
 arne sohlman-	3
 arngrímur	3
@@ -1614,15 +1613,15 @@ arvid t	3
 åse gruda	3
 astley	3
 atte	3
+a ukusti j uhana	3
 axel edvin	3
 axel einar	3
 axel j	3
 axel laurentius	3
+axel-magnus	3
+a xel m auritz	3
 axel morris	3
 axel valdemar	3
-axel-magnus	3
-b erthold	3
-b gösta	3
 barnaby	3
 barthélemi	3
 bartholomaeus	3
@@ -1630,18 +1629,20 @@ beatrix	3
 bengt a	3
 bengt ivar	3
 bengt olof	3
+b erthold	3
 bertita	3
+b gösta	3
 boris leontʹevič	3
 börje erland	3
 budd	3
 buddy	3
-c -e	3
-c -g stellan	3
+carin valborg	3
 c arl b enedict	3
 c arl f erdinand	3
-carin valborg	3
 carl-otto	3
+c -e	3
 césar m	3
+c -g stellan	3
 christoph ernst	3
 cicely	3
 claës e	3
@@ -1652,17 +1653,12 @@ concha	3
 curt h	3
 curtis	3
 d aniel a ugust	3
-d:r	3
 dawid	3
 dicte	3
 dina	3
+d:r	3
 dudley	3
 e bertil	3
-e gustav	3
-e john	3
-e mil s alomon	3
-e rik r oland	3
-e wilhelm	3
 edgar f	3
 edith maude	3
 edmund clerihew	3
@@ -1677,8 +1673,10 @@ edward hallett	3
 edwin a	3
 edwin efraim	3
 edwin l	3
+e gustav	3
 einar immanuel	3
 eiríkr	3
+e john	3
 elam	3
 eleonore	3
 élie	3
@@ -1687,9 +1685,11 @@ elio	3
 elisée	3
 emanuel wilhelm	3
 emil finneve	3
+e mil s alomon	3
 emmerich	3
 emmi	3
 ephraim	3
+e rik r oland	3
 erland axel	3
 erland julius	3
 ernst b	3
@@ -1709,9 +1709,8 @@ eustace	3
 évariste régis	3
 evert willem	3
 evgenij nikolaevič	3
+e wilhelm	3
 exlibrisföreningen	3
-f redrik	3
-f riedrich	3
 fattig	3
 ferdinando	3
 françois hédelin d'	3
@@ -1721,11 +1720,9 @@ frans peter edvin	3
 frans w	3
 franz rolf	3
 frederick m	3
+f redrik	3
+f riedrich	3
 g d:son	3
-g östa	3
-g unnar	3
-g ustaf u lric	3
-g ustaf w ilhelm	3
 gerda sofia	3
 gereon	3
 gerrit	3
@@ -1733,31 +1730,35 @@ giōrgos	3
 gísli	3
 göran olof	3
 görel	3
+g östa	3
+göstaf	3
 gösta valdemar	3
 gösta waldemar	3
-göstaf	3
 gottfried immanuel	3
 grethe	3
 gull	3
+g unnar	3
+g ustaf u lric	3
+g ustaf w ilhelm	3
 gustav emil	3
 gustav peter	3
 gustav v	3
-h erman	3
 hank	3
 hans a	3
 hans åke	3
+hans-åke	3
 hans b	3
+hanserik	3
 hans lassen	3
 hans nielsen	3
 hans samuel	3
 hans t	3
-hans-åke	3
-hanserik	3
 harold f	3
 harrison	3
 heinrich wilhelm	3
 hella	3
 helmer a	3
+h erman	3
 herman alfred	3
 herman axel wilhelm	3
 herman sigban	3
@@ -1780,17 +1781,11 @@ isabella	3
 israël	3
 israel j	3
 italo	3
-j akob	3
-j edwin	3
-j irvin	3
-j öns n ilsson	3
-j paulus	3
-j rusell	3
-j tobias	3
 jackson	3
 jacob jacobsson	3
 jacques-marie	3
 jahan	3
+j akob	3
 james branch	3
 james i	3
 james justinian	3
@@ -1799,9 +1794,10 @@ james r	3
 james s	3
 jānis	3
 jános	3
+j edwin	3
 jeffery	3
 jens peter	3
-joh w	3
+j irvin	3
 jóhann	3
 john albin	3
 john emil	3
@@ -1814,24 +1810,26 @@ john stephen	3
 john strange	3
 john v	3
 john watts	3
+joh w	3
 jonas arvid	3
 jonas friedrichsson	3
 jonas hugo	3
 jonas p	3
 jonas p:son	3
+j öns n ilsson	3
 joosep	3
 josephus	3
 józef ignacy	3
+j paulus	3
+j rusell	3
+j tobias	3
 judit	3
 juliane	3
 julius lorens	3
 jüri	3
-k arl	3
-k arl henning	3
-k arl m agnus	3
-k arl w ilhelm	3
 kåge	3
 kaleb	3
+k arl	3
 karl arne	3
 karl axel erland	3
 karl axel napoleon	3
@@ -1839,25 +1837,28 @@ karl einar	3
 karl evert	3
 karl fridolf	3
 karl gösta wilhelm	3
+karl-hampus	3
+k arl henning	3
 karl henning	3
+karl-herman	3
 karl i	3
+kārlis	3
 karl lorenz	3
 karl m	3
+k arl m agnus	3
+k arl w ilhelm	3
 karl w ilhelm	3
 karl wilhelm astley	3
-karl-hampus	3
-karl-herman	3
-kārlis	3
 klas-bertil	3
 konsten	3
 kurt valdemar	3
-l orentz g ottfrid	3
 laina	3
 lakshmisvar	3
+lakshmiswar	3
 lars e	3
 lars edward	3
-lars gustav	3
 lars-göran	3
+lars gustav	3
 lars-levi	3
 lars-magnus	3
 laurentius g	3
@@ -1867,10 +1868,6 @@ lilla	3
 lincoln	3
 louise andrews	3
 ludovico	3
-m arius	3
-m artin g ottfrid	3
-m artin olof	3
-m oritz jacob	3
 maggie	3
 maire	3
 maj-stina	3
@@ -1880,17 +1877,21 @@ mansfield	3
 marc-antoine	3
 marie-catherine d'	3
 marit	3
+m arius	3
+m artin g ottfrid	3
+m artin olof	3
 martti e	3
 mathias wilhelm	3
 matts emanuel	3
 matts olof	3
 migg	3
 miguel	3
+m oritz jacob	3
 morris	3
 myron	3
-n edvin	3
 nan	3
 nanna albertina	3
+n edvin	3
 nellie	3
 newton n	3
 nial	3
@@ -1911,7 +1912,6 @@ oscar hugo berndt	3
 oscar n	3
 oscar ragnar	3
 oscar wilhelm	3
-p joh	3
 pål roland	3
 pantelejmon sergeevič	3
 paolo d'	3
@@ -1929,18 +1929,19 @@ petter jöransson	3
 phoebe atwood	3
 pieter	3
 pío	3
+p joh	3
 pompeo	3
 poultney	3
-r jörgen	3
-r tønder	3
 ragnar eugen	3
 ragnvi	3
 rakel	3
 rasmus björn	3
 regine	3
 rex ellingwood	3
+r jörgen	3
 roine	3
 rolf m aximilian	3
+r tønder	3
 rudolf karl	3
 rudolf wilhelm	3
 rufus m	3
@@ -1958,8 +1959,8 @@ stanislas	3
 sten olof	3
 sten sture	3
 stockholms	3
-sture a ugust	3
 sture anders ragnar	3
+sture a ugust	3
 sture constantin	3
 svasse	3
 sven alfred	3
@@ -1969,13 +1970,13 @@ sven emanuel	3
 sven hilding	3
 sven hugo	3
 sven j:son	3
+sven-olov	3
 sven paulus	3
 sven r	3
 sven thure hildebrand	3
 sven v	3
 sven walfrid	3
 sven x-et	3
-sven-olov	3
 thames	3
 therèse	3
 thomas p	3
@@ -2000,54 +2001,51 @@ vitalij valentinovič	3
 vladimír	3
 vladimir michajlovič	3
 vladimir vladimirovič	3
-w ilhelm t ancred	3
-w stanley	3
 waldyr	3
 wera	3
 wilfrid	3
 wilhelm anders	3
 wilhelm bernim	3
+w ilhelm t ancred	3
 wiljo-kustaa	3
 witold	3
 wladyslaw	3
 władysław stanisław	3
+w stanley	3
 yutang	3
 zenaida	3
 zez	3
 zoë	3
-a ernest	2
-å g	2
-å ke	2
-a larik	2
-a lfred m auritz	2
-a ragnar	2
-a rvid e mil	2
-a ugust	2
-a:lfr-d	2
 adele	2
 aeneas	2
+a ernest	2
 æschillus	2
+å g	2
 åge	2
 agnes newton	2
 agustín	2
 aina gustava	2
 aina johanna	2
+å ke	2
 åke a	2
 åke h	2
 åke herman olof	2
 åke j:son	2
 aläqa	2
+a larik	2
 albert erich	2
 albert evald	2
 albert julius	2
 albert v	2
 albert w	2
 alf b	2
+a:lfr-d	2
 alfred julius	2
+a lfred m auritz	2
 alfred o	2
 alfred r	2
-alfred wilhelm	2
 alfrēds	2
+alfred wilhelm	2
 algot e	2
 alida	2
 alvar henning	2
@@ -2073,9 +2071,9 @@ anders rudolf	2
 anders s	2
 anders severinsson	2
 anders waldemar	2
-andré oscar	2
-andré-jean	2
 andrée	2
+andré-jean	2
+andré oscar	2
 andrew a	2
 andrew j	2
 angelica	2
@@ -2085,6 +2083,7 @@ anne-jean-marie-rené	2
 anny v	2
 antonina	2
 aonio	2
+a ragnar	2
 archibald gordon	2
 argye m	2
 armgaard karl	2
@@ -2100,6 +2099,7 @@ arthur g	2
 arthur gustav g	2
 arthur léon	2
 arthur stanley	2
+a rvid e mil	2
 arvid g:son	2
 arvid napoleon	2
 arvid wilhelm	2
@@ -2109,6 +2109,7 @@ arvid wilhelm	2
 aslaug	2
 åsta	2
 athos	2
+a ugust	2
 aulis j	2
 aura	2
 auseklis	2
@@ -2128,10 +2129,6 @@ axel o:son	2
 axel per	2
 axel ragnar	2
 azpo	2
-b enoit	2
-b erndt a xel	2
-b john f	2
-b runo	2
 bärbi	2
 barthélemy	2
 beale	2
@@ -2141,9 +2138,11 @@ bengt arne	2
 bengt avellan	2
 bengt erland	2
 bengt gabrielsson	2
+b enoit	2
 benoît	2
 bente	2
 bento	2
+b erndt a xel	2
 berndt joachim	2
 berndt peter	2
 berndt wilhelm	2
@@ -2158,6 +2157,7 @@ biondo	2
 birger jörgen	2
 birgerus	2
 bj	2
+b john f	2
 björg	2
 bodil	2
 boëthius	2
@@ -2168,25 +2168,22 @@ bragi	2
 britt-lis	2
 bröderna	2
 bronislaw	2
+b runo	2
 brūno	2
 burton egbert	2
-c -j	2
-c -r	2
+camilo josé	2
 c arl g	2
+carl-georg	2
+carl-göran	2
+carlita	2
 c arl j onas	2
 c arl l udvig	2
 c arl m artin	2
-c arl r ickard	2
-c arl w illiam	2
-c nathanael	2
-c ornelius a ugust	2
-camilo josé	2
-carl-georg	2
-carl-göran	2
-carl-ola	2
-carl-teodor	2
-carlita	2
 carlo h	2
+carl-ola	2
+c arl r ickard	2
+carl-teodor	2
+c arl w illiam	2
 carolus nicolai	2
 catharina margareta	2
 célia	2
@@ -2195,19 +2192,23 @@ chester	2
 chetvan	2
 chick	2
 christer ivarsson	2
+c -j	2
 claës lorenz	2
 clarisse	2
 clas albert	2
 clas e	2
+clas-erik	2
 clas gottfried wilhelm	2
 clas olof	2
-clas-erik	2
 clayton	2
 clyde	2
+c nathanael	2
 cor	2
+c ornelius a ugust	2
 corwin d	2
-curt i	2
+c -r	2
 curt-henry	2
+curt i	2
 daga	2
 dahris	2
 damon	2
@@ -2221,12 +2222,9 @@ donald d	2
 dorotea	2
 dorothy m	2
 dwight v	2
-e lise c	2
-e rik u lrik	2
 edgar b	2
 editha m	2
 edvarts	2
-edw l	2
 edward c	2
 edward e	2
 edward fitz-gerald	2
@@ -2236,6 +2234,7 @@ edward s	2
 edwin erich	2
 edwin f	2
 edwin j	2
+edw l	2
 edzard	2
 eero e	2
 ehrenhold	2
@@ -2247,6 +2246,7 @@ eino i	2
 eino r	2
 eiríkur	2
 elfie	2
+e lise c	2
 elizabet	2
 emanuele	2
 emil a g	2
@@ -2255,6 +2255,7 @@ emil nestor	2
 endre	2
 enni	2
 enoch arnold	2
+e rik u lrik	2
 erla	2
 erland j	2
 ernest j	2
@@ -2264,8 +2265,8 @@ erno	2
 ernst bertil	2
 ernst ebbe julius	2
 ernst h	2
-ernst h ermann	2
 ernst heinrich	2
+ernst h ermann	2
 ernst israel	2
 ernst m	2
 ernst selim	2
@@ -2280,15 +2281,12 @@ evald j	2
 even	2
 everett t	2
 evgenij samuilovič	2
-f oscar	2
-f redrik s alomon	2
-f rithiof	2
-f tennyson	2
 faddej venediktovič	2
 fenton	2
 fergus w	2
 filemon	2
 flynn	2
+f oscar	2
 franciscus	2
 franciscus davidis	2
 franck	2
@@ -2299,33 +2297,27 @@ frans herman	2
 frans julius	2
 frans samuel	2
 frans waldemar	2
-františek	2
 františek	2
+františek	2
 franz albin	2
 franz christoph	2
 franz werner	2
-frederic s	2
 frederick a	2
+frederic s	2
+f redrik s alomon	2
 fredy	2
 fridolin	2
-g emil	2
-g eorg b enno	2
-g eorg elias	2
-g otthelf f rithiof a madeus	2
-g unnar f redrik	2
-g unnar maximilian	2
-g ustaf a ssaf	2
-g ustaf m artin	2
-g ustaf m aurits	2
-g ustaf m auritz	2
-g ustaf r einhold	2
-g ustav w ilhelm	2
+f rithiof	2
+f tennyson	2
 ǧalāladdīn	2
 gamaliel	2
 gärda	2
 garlieb	2
 gebhardus	2
+g emil	2
 geneviève	2
+g eorg b enno	2
+g eorg elias	2
 gil	2
 gisela	2
 gödert	2
@@ -2335,6 +2327,7 @@ gösta gustafsson	2
 gösta zetterberg	2
 göta	2
 gottfried a f	2
+g otthelf f rithiof a madeus	2
 gregorios	2
 greta f norrbin	2
 greta margareta	2
@@ -2343,6 +2336,13 @@ gubben	2
 guðlaugur	2
 guðni	2
 gunde	2
+g unnar f redrik	2
+g unnar maximilian	2
+g ustaf a ssaf	2
+g ustaf m artin	2
+g ustaf m aurits	2
+g ustaf m auritz	2
+g ustaf r einhold	2
 gustav axelsson	2
 gustav e	2
 gustav g	2
@@ -2352,24 +2352,17 @@ gustav o	2
 gustav samuel	2
 gustav t	2
 gustav ture	2
-gustav wilhelm	2
 gustavus	2
 gustavus erici	2
+g ustav w ilhelm	2
+gustav wilhelm	2
 gusti	2
-h åkan s vensson	2
-h c bering	2
-h einrich f riedrich a ugust	2
-h enry	2
-h erman l udvig	2
-h i f c	2
-h jalmar f redrik	2
-h orace a nnesley	2
-h pimm	2
-h u g o	2
 haanpää;	2
 hagmund	2
+h åkan s vensson	2
 halliwell	2
 hanne	2
+hans-gösta	2
 hans l	2
 hans m	2
 hans marcussen	2
@@ -2377,7 +2370,6 @@ hans ostenfeldt	2
 hans r	2
 hans rudolf	2
 hans s	2
-hans-gösta	2
 haralds	2
 härold	2
 harold augustin	2
@@ -2387,8 +2379,10 @@ harrison b	2
 hartzell	2
 harve spencer	2
 harvey	2
+h c bering	2
 hedvig e	2
 heinar	2
+h einrich f riedrich a ugust	2
 heinrich maximilian	2
 heinrich melchior	2
 heinricus martini	2
@@ -2399,21 +2393,27 @@ helmer v	2
 hemmingus	2
 henning emanuel	2
 henri-louis	2
+h enry	2
 herbert g	2
 herbert o	2
 herman g eorg	2
+h erman l udvig	2
+hermann franz	2
 herman ragnar	2
 herman wilhelm	2
-hermann franz	2
 herta	2
+h i f c	2
 hilarion	2
 hildebrand	2
 hilko wiardo	2
 hilmer emanuel	2
 hilmer j	2
+h jalmar f redrik	2
+h orace a nnesley	2
+h pimm	2
+h u g o	2
 hugo albert	2
 hugo olof	2
-ʻizz al-dīn	2
 ida b	2
 ignacy	2
 ignácz	2
@@ -2432,17 +2432,7 @@ isse-reinhold	2
 istván	2
 ivar alfred	2
 ivar enoch	2
-j acobus h enricus	2
-j albert	2
-j e algot	2
-j ean h enri	2
-j einar	2
-j ivar	2
-j ohann f riedrich	2
-j ohn-fredrik	2
-j öns o hlsson	2
-j sigvard a	2
-j ulio n athanael	2
+ʻizz al-dīn	2
 jack,;london	2
 jacob a	2
 jacob alvar	2
@@ -2450,8 +2440,10 @@ jacob breda	2
 jacob efraim	2
 jacob matthiae	2
 jacob rudolf	2
+j acobus h enricus	2
 jacobus zachariae	2
 jagaren	2
+j albert	2
 james a	2
 james eberhard	2
 james gould	2
@@ -2467,79 +2459,84 @@ james willard	2
 jan-axel	2
 jan-otto	2
 jaquette	2
+j e algot	2
 jean-baptiste-claude	2
+j ean h enri	2
+j einar	2
 jenő	2
 jens l	2
 jens lassen	2
 jens lorenz	2
 jeoorj	2
 jeuns	2
+j ivar	2
 joachim michael	2
 joachim petter	2
-joh l	2
-joh r	2
 johanna carolina	2
 johanna catharina	2
-john a ugust	2
+j ohann f riedrich	2
+joh l	2
 john alfred	2
 john ames	2
+john a ugust	2
+john-bertil	2
 john birger	2
 john croumbie	2
 john duncan	2
 john emanuel	2
 john f c	2
+j ohn-fredrik	2
 john gustavus	2
 john j	2
 john james	2
 john k	2
 john keir	2
+john-lennart	2
 john n	2
 john s c	2
 john t	2
 john thomas	2
 john thure	2
 john valfrid	2
-john-bertil	2
-john-lennart	2
+joh r	2
 jónas	2
 jonas alfred	2
 jonas arthur	2
 jonas erici	2
 jonas olof	2
+j öns o hlsson	2
 jos d mattsson	2
-josé raúl	2
 josepha	2
 josephine a	2
 josephus matthiae	2
+josé raúl	2
+j sigvard a	2
 jules-alexis-bernard	2
+j ulio n athanael	2
 julius e	2
 jully	2
 jupp	2
 juvenito	2
 k -a	2
-k -h	2
-k arl a rvid	2
-k arl a xel hans	2
-k arl f redrik	2
-k ate	2
-k axel	2
-k f u m -kören	2
-k lor	2
-k p:n	2
-k ragnar	2
-k risten j ensen	2
-kaj r	2
 kaja	2
+kaj r	2
 kakuzo	2
 kapten	2
 karl åke	2
+karl-alfred	2
 karl anders wilhelm	2
+k arl a rvid	2
+k arl a xel hans	2
 karl axel walfrid	2
 karl emil valdemar	2
+karl-eric	2
+k arl f redrik	2
+karl-göran	2
 karl gustav ivar samuel	2
 karl h a	2
 karl hans	2
 karl herbert	2
+karl-ivan	2
 karl john albin	2
 karl jonas	2
 karl m agnus	2
@@ -2549,24 +2546,24 @@ karl östen	2
 karl p	2
 karl per	2
 karl philipp	2
+karl siegfried	2
 karl s iegfried	2
 karl s igfrid	2
-karl siegfried	2
 karl sigurd	2
 karl theofron	2
 karl thure	2
 karl v	2
 karl werner	2
-karl-alfred	2
-karl-eric	2
-karl-göran	2
-karl-ivan	2
+k ate	2
+k axel	2
+k f u m -kören	2
+k -h	2
+k lor	2
+k p:n	2
+k ragnar	2
+k risten j ensen	2
 kurt w	2
-l -m	2
 l alfred	2
-l eopold	2
-l udvig	2
-lakshmiswar	2
 lalli	2
 lapp-nils	2
 lars a	2
@@ -2575,15 +2572,15 @@ lars axel gustafsson	2
 lars b	2
 lars bengtson	2
 lars erichsson	2
+lars-gösta	2
 lars g unnar	2
 lars gustav emil	2
+lars-ivar	2
 lars m	2
 lars nicolaus	2
 lars paulus	2
 lars peter samuel	2
 lars samuelsson	2
-lars-gösta	2
-lars-ivar	2
 laur	2
 laurentius andreæ	2
 laurentius ingevaldi	2
@@ -2593,6 +2590,7 @@ laurits	2
 leila	2
 lempi	2
 leonhardus	2
+l eopold	2
 leopoldo	2
 lerik	2
 lettice	2
@@ -2602,26 +2600,21 @@ lilian m	2
 lill-arne	2
 lillster	2
 linnéa	2
+l -m	2
 löjtnant	2
 lorens jacob	2
 lorentz peter	2
-louis-sébastien	2
 louise woods	2
+louis-sébastien	2
 lowell jackson	2
 luc	2
 luciano	2
+l udvig	2
 ludwigtheodor	2
 lujo	2
 lukas	2
 lutz	2
 lysle	2
-m atthias	2
-m attias	2
-m auritz	2
-m barnard	2
-m esther	2
-m mcdonnel	2
-m:r	2
 mads	2
 magna	2
 magnús	2
@@ -2636,17 +2629,22 @@ mårten birger	2
 mårten j	2
 martinus matthaei	2
 márton	2
-martti olavi	2
 marttin	2
+martti olavi	2
 math	2
 matthews	2
+m atthias	2
+m attias	2
 mattias t	2
 mattis	2
 matvej stepanovic	2
 maud churton	2
 maude	2
+m auritz	2
+m barnard	2
 merlda	2
 merriam	2
+m esther	2
 meyer	2
 michaël k	2
 mikaël	2
@@ -2654,15 +2652,11 @@ mikael h	2
 miklós	2
 miles	2
 milton k	2
+m mcdonnel	2
+m:r	2
 musse	2
 mychajlo mychajlovyč	2
 myriam	2
-n icolay	2
-n ils a ugust	2
-n ils edvin	2
-n joh	2
-n jönsson	2
-n karl	2
 nadine	2
 nathanael arvid	2
 ned	2
@@ -2674,19 +2668,25 @@ nicolas françois	2
 nicolaus erici	2
 nicolaus jonae	2
 nicolaus olai	2
+n icolay	2
 nicoló	2
 nils-åke	2
+n ils a ugust	2
 nils-börje	2
+n ils edvin	2
 nini	2
+n joh	2
+n jönsson	2
+n karl	2
 noëlle	2
 norval a	2
-o elstrup	2
 oden	2
+o elstrup	2
 öivind	2
-olʹga vasilʹevna	2
 olavi e	2
 ole bergersen	2
 ole r	2
+olʹga vasilʹevna	2
 oliw m	2
 olof d y	2
 olof einar	2
@@ -2706,27 +2706,25 @@ oscar gustav	2
 othmar	2
 otoman zar-adusht	2
 öyvind	2
-p ehr	2
-p ehr h erman	2
-p ovl	2
-p parley	2
 panait	2
 pär axel	2
 paul-jacques	2
 påve	2
 peggy	2
+p ehr	2
+p ehr h erman	2
+per-åke	2
 per b:son	2
 per efraim	2
+per-elof	2
 per gösta	2
 per hilding	2
+pericle	2
+pericles	2
 per ivar	2
 per j	2
 per k	2
-per-åke	2
-per-elof	2
 per-magnus	2
-pericle	2
-pericles	2
 peter f	2
 peter julius	2
 peter outzen	2
@@ -2740,18 +2738,20 @@ philip jacobus	2
 philipp ernst	2
 philoxenus	2
 pi	2
-pierre philippe	2
 pierre-louis	2
+pierre philippe	2
 pipaluk	2
 pola	2
+p ovl	2
+p parley	2
 ragnar artur	2
 raphaël	2
 raul	2
 red	2
 reginald aldworth	2
 rhys	2
-rich j:son	2
 richards	2
+rich j:son	2
 roberto	2
 roël f a	2
 rolf ane	2
@@ -2761,10 +2761,6 @@ rómulo	2
 rudolf jeremias	2
 rudolf s	2
 rutgerus	2
-s gordon	2
-s igurd	2
-s woods	2
-s:t	2
 saimi	2
 samfundet	2
 samuel erici	2
@@ -2773,17 +2769,20 @@ sante	2
 saul	2
 sébastien	2
 severa	2
+s gordon	2
 she	2
 siffer	2
 sig	2
 sigge eugen	2
 sigge olof	2
 sigism	2
+s igurd	2
 sigurd gustav	2
 sigvardus olai	2
 silvio	2
 soame	2
 sofʹja andreevna	2
+s:t	2
 stanislas d'	2
 stanley h	2
 steen	2
@@ -2799,6 +2798,7 @@ sture m	2
 sture w	2
 sulo	2
 sune h	2
+sven-arne	2
 sven a:son	2
 sven carlson	2
 sven curt alfred	2
@@ -2806,22 +2806,22 @@ sven d	2
 sven d'	2
 sven edward julius	2
 sven f ritiof	2
+sven-gösta	2
 sven g:son	2
 sven henning	2
-sven j r	2
 sven jonas	2
+sven j r	2
 sven k h	2
 sven n	2
 sven olov	2
-sven w	2
-sven-arne	2
-sven-gösta	2
 sven-otto	2
 svenska	2
-t eodor teutold	2
+sven w	2
+s woods	2
 tamás	2
 tatʹjana vasilʹevna	2
 teo	2
+t eodor teutold	2
 terje	2
 thalia	2
 theodosius	2
@@ -2835,8 +2835,8 @@ thomas w	2
 thomas whitfield	2
 thorne	2
 thure albert	2
-thure p:son	2
 thure peter	2
+thure p:son	2
 tönnes helmut	2
 tor g	2
 truman	2
@@ -2846,13 +2846,13 @@ ture m	2
 turo	2
 ulli	2
 urbain	2
-v hugo	2
 väinö v	2
 valde	2
 valdemars	2
 vallis	2
 valter sigvard	2
 varg	2
+v hugo	2
 víctor	2
 vilhelmus	2
 viljo-kustaa	2
@@ -2866,22 +2866,22 @@ vladimir ivanovič	2
 vladimir lʹvovič	2
 vladimir petrovič	2
 vladimir sergeevič	2
-w béran	2
-w ilhelm t eodor	2
-w illiam	2
-w illiam a	2
-w illiam f b	2
-w:m e	2
 warner	2
+w béran	2
 wendell	2
 wendell l	2
 werner n	2
 wict	2
 wiktoria	2
 wilhelm elias	2
+w ilhelm t eodor	2
 willard c	2
+w illiam	2
+w illiam a	2
+w illiam f b	2
 willibrord	2
 wilner	2
+w:m e	2
 woldemar v	2
 wurm	2
 yrjö e	2
@@ -2889,78 +2889,25 @@ zdeněk	2
 zenon	2
 zoltán	2
 þorleifr guðmundsson	2
-- eskil	1
-- nanna	1
--t	1
-:e tillök o omarb uppl	1
-'obeidallāh	1
->>bunny>>	1
->>rösten	1
-a -b	1
-a -f	1
-a age	1
-a byggmästare	1
-a c eugène	1
-a c:son	1
-a chester	1
-a d'	1
-a e:son	1
-a emil	1
-a engelbert	1
-a esther	1
-a f astron observator	1
-a frederick	1
-a fridlew	1
-a g hilding	1
-a hamilton	1
-a harvey	1
-a herbert	1
-a i hammenhög	1
-å j	1
-a j mounteney	1
-a jens jeremiin	1
-a josé	1
-a leksandr petrovič	1
-a leksanteri	1
-a lfred arthur	1
-a m c clive	1
-a maccallum	1
-a nna	1
-å rad s:son	1
-a rtur m ikael	1
-a rvid	1
-a rvid c arl	1
-a rvid emanuel	1
-a schweizare	1
-a småbrukare	1
-a symonds	1
-å t	1
-a ugust v ilho	1
-a ukusti v ilho	1
-a wilhelm	1
-a xel a lbin	1
-a xel a ugust	1
-a xel d avid	1
-a xel e mil	1
-a xel h ilding	1
-a xel j akob	1
-a xel l udvig	1
-a xel n icolaus	1
-a xel t eodor	1
-a xel u lrik	1
 a-a	1
-a-e v	1
+a age	1
 aagot	1
 aarne n	1
 aarón	1
+a -b	1
 abanindranath	1
 abdülbaki	1
 abe	1
 abiel	1
+abū ʻabd allāh muḥammad	1
 abū al-ḥasan ʻalī	1
 abū bakr al-quṭbī	1
-abū ʻabd allāh muḥammad	1
+a byggmästare	1
+a c eugène	1
+a chester	1
 achille-guillaume	1
+a c:son	1
+a d'	1
 adamaria	1
 adéle	1
 adelma	1
@@ -2970,20 +2917,38 @@ adolfine	1
 adolphe frédéric théodore	1
 adrew herbert	1
 ægydius	1
+a emil	1
+a engelbert	1
 aeschill	1
+a e:son	1
+a esther	1
+a-e v	1
+a -f	1
+a f astron observator	1
 afred	1
+a frederick	1
+a fridlew	1
 ag athon	1
 agénor	1
+a g hilding	1
 agnes d	1
+agnese	1
 agnes e	1
 agnes stanley	1
-agnese	1
 agronom	1
 agustin	1
+a hamilton	1
+a harvey	1
+a herbert	1
+a i hammenhög	1
 aili m	1
 aimé	1
 aimé felix	1
 aîné	1
+å j	1
+a jens jeremiin	1
+a j mounteney	1
+a josé	1
 akdes nimet	1
 ake	1
 åke b v	1
@@ -2996,15 +2961,15 @@ ake	1
 åke n g	1
 åke valter	1
 aktiebolaget svenska	1
-al-bashīr	1
 aladár	1
 alanus	1
+al-bashīr	1
 alberic	1
 albert anderson	1
 albert d	1
-albert e f	1
 albert edvin	1
 albert edward	1
+albert e f	1
 albert ernest	1
 albert hans	1
 albert j	1
@@ -3016,26 +2981,28 @@ albert mart	1
 albert mejerikonsulent	1
 albert roland	1
 albert samuel	1
+albina	1
 albin e:son	1
 albin gottfried	1
 albin helmfrid	1
 albin n	1
 albin orsa	1
 albin severin	1
-albina	1
 aldwell	1
 alekdandr dmitievic	1
 aleksandra lʹvovna	1
+a leksandr petrovič	1
+a leksanteri	1
 alertus	1
 aleski	1
 alf g	1
 alf gösta	1
+alfhilda	1
 alf pahlow	1
 alf red	1
-alf wilhelm a:son	1
-alfhilda	1
 alfréd	1
 alfred a	1
+a lfred arthur	1
 alfred barton	1
 alfred étienne	1
 alfred f	1
@@ -3043,10 +3010,11 @@ alfred hamilton	1
 alfred herman	1
 alfred ragnar	1
 alfred rudolf	1
+alfrēds	1
 alfred wilhelm erland fridericia	1
 alfred yngve	1
-alfrēds	1
 alfrida	1
+alf wilhelm a:son	1
 algernon	1
 algot j	1
 algot stylvig	1
@@ -3062,18 +3030,19 @@ alta	1
 alvari	1
 alyce	1
 alyse	1
+a maccallum	1
 amand	1
 amaury	1
 ambjörn	1
 ambroise j	1
+a m c clive	1
 amedeo	1
 ammon	1
 anacleto	1
 ananias	1
 ander j	1
-ander willehelm	1
-anders a:son	1
 anders alfred	1
+anders a:son	1
 anders bernhardsson	1
 anders brodersson	1
 anders christer	1
@@ -3083,22 +3052,22 @@ anders emil oscar	1
 anders f	1
 anders f olke sigfrid	1
 anders frerdrik	1
-anders g unnar	1
 anders gösta carlson	1
+anders g unnar	1
 anders håkan	1
 anders håkansson	1
 anders hermann	1
 anders hilding	1
-anders j:son	1
 anders jacob d	1
 anders jacob danielsson	1
 anders jonas	1
 anders jönsson	1
+anders j:son	1
 anders julius	1
 anders k	1
 anders l	1
-anders l:son	1
 anders lektor	1
+anders l:son	1
 anders m	1
 anders matthisen	1
 anders nicolai	1
@@ -3109,6 +3078,7 @@ anders sture ragnar	1
 anders thorbjörn	1
 anders tybjaerg	1
 anders valfrid	1
+ander willehelm	1
 andrʹe	1
 andré-frank	1
 andrew corvin	1
@@ -3119,15 +3089,16 @@ andrew peter	1
 andries h d	1
 anke	1
 anli	1
-ann-cecilia	1
-ann-lisa	1
+a nna	1
+annabelle	1
+annagreta	1
 anna-lise	1
 anna-margit	1
 anna-tora	1
-annabelle	1
-annagreta	1
+ann-cecilia	1
 anne-margrete	1
 annette hawkins	1
+ann-lisa	1
 anny k	1
 anonymus	1
 anselme	1
@@ -3145,6 +3116,7 @@ anželika	1
 apolonia	1
 apostolo	1
 årad	1
+å rad s:son	1
 årad s:son	1
 aratos	1
 archibald bruce	1
@@ -3202,13 +3174,17 @@ arthur stuart menteth	1
 arthur thomas	1
 artur gideon	1
 artur h	1
+arturi i lmari	1
 artur j	1
+a rtur m ikael	1
 artur torgny	1
 artur wilhelm	1
-arturi i lmari	1
 arvède	1
+a rvid	1
+a rvid c arl	1
 arvid c arl	1
 arvid edmund	1
+a rvid emanuel	1
 arvid j	1
 arvid j m	1
 arvid julius	1
@@ -3220,67 +3196,74 @@ arvid sture	1
 arvid waldemar	1
 asbjörn	1
 asbjørn	1
+a schweizare	1
+a småbrukare	1
 asmodeus	1
 asser	1
 asta graah	1
 astvaldur	1
+a symonds	1
+å t	1
 atanasij	1
 athol	1
 augustin françois	1
+a ugust v ilho	1
 aukustin	1
+a ukusti v ilho	1
 aune elina	1
 automobilturer	1
 avd	1
 avraam sergeevic	1
+a wilhelm	1
+a xel a lbin	1
 axel a-n	1
 axel a:son	1
+a xel a ugust	1
 axel ax:son	1
 axel b o	1
 axel börje	1
 axel c:son	1
+a xel d avid	1
+a xel e mil	1
 axel fridolf	1
 axel g ustaf	1
+a xel h ilding	1
 axel hilding	1
 axel i	1
 axel iii	1
+axel-ivar	1
+a xel j akob	1
 axel jonas julius	1
 axel journalist	1
 axel k	1
 axel karl e rik	1
 axel lorentz lars	1
+a xel l udvig	1
 axel m	1
 axel m agnus	1
+a xel n icolaus	1
 axel n icolaus	1
 axel oscar	1
 axel patrik	1
 axel rudolf	1
+a xel t eodor	1
 axel theofron	1
+a xel u lrik	1
 axel uno valdemar	1
 axel väinö	1
 axel waldemar	1
-axel wilhelm aulis	1
-axel-ivar	1
 axel-werner	1
+axel wilhelm aulis	1
 axionne	1
 ayoë	1
+bakht	1
 b albert	1
+baldwin	1
 b alfred	1
 b altzar	1
-b arend	1
-b axel	1
-b enedict a ndreae	1
-b erndt axel	1
-b joh	1
-b jörn g ustaf	1
-b lemvig	1
-b n:son	1
-b o g ustaf	1
-b ror a dam	1
-b seebohm	1
-bakht	1
-baldwin	1
 banca	1
 barði	1
+b arend	1
 bärnh	1
 baron d'	1
 baron r	1
@@ -3291,12 +3274,14 @@ bartolomé	1
 basanta koomar	1
 bashiruddin mahmud	1
 basil f c	1
+b axel	1
 beate	1
 béatrix	1
 behandling	1
 bélisaire	1
 belmore	1
 benct jeansson	1
+b enedict a ndreae	1
 benedikt constantin	1
 bengt åke	1
 bengt arvid	1
@@ -3306,22 +3291,24 @@ bengt göran	1
 bengt karl	1
 bengt olof albert	1
 bengt olov	1
+bengt-olov	1
 bengt p	1
 bengt per olof	1
 bengt samuel	1
-bengt-olov	1
+bengt unosson	1
 benigno	1
 benkt-sune	1
 berg	1
 bering	1
 bernal	1
 bernardo	1
+b erndt axel	1
+berndt-david	1
 berndt j	1
 berndt jonas	1
 berndt sune	1
 berndt tage	1
 berndt yngve	1
-berndt-david	1
 berta m	1
 berta säffle	1
 bertha m	1
@@ -3330,6 +3317,7 @@ bertha s	1
 bertha s urtees	1
 berthe	1
 bertil a	1
+bertil-anders	1
 bertil bertil	1
 bertil eino	1
 bertil j o	1
@@ -3337,7 +3325,6 @@ bertil j:son	1
 bertil l	1
 bertil sigurd	1
 bertil t d	1
-bertil-anders	1
 bertram dybwad	1
 bertram grosvenor	1
 bessie porter	1
@@ -3353,20 +3340,25 @@ birger gustav peter	1
 birger k	1
 birger kyrkoherde	1
 birgit louise	1
+b joh	1
+björn-eric	1
 björn e w	1
+b jörn g ustaf	1
 björn o	1
 björn ragnar	1
-björn-eric	1
 blanche	1
 blanche c	1
 blända	1
+b lemvig	1
 bloch	1
-bo-jungar	1
+b n:son	1
 bödvar	1
 boethius	1
 boetius birgeri	1
 bogi	1
 bogusław	1
+b o g ustaf	1
+bo-jungar	1
 bomullsteknikerföreningen	1
 booker t	1
 boris aleksandrovič	1
@@ -3385,6 +3377,7 @@ brenton	1
 brita m	1
 brita m e	1
 bronisław	1
+b ror a dam	1
 bror-axel	1
 bror-magnus	1
 brownlow	1
@@ -3393,94 +3386,66 @@ brummell	1
 brygida	1
 bryngei	1
 brynhild	1
+b seebohm	1
 buck	1
 bume	1
+>>bunny>>	1
 buren r	1
 byron	1
-c -f	1
-c -l	1
-c -p	1
-c åke	1
-c anderson	1
-c arl -e ric	1
-c arl -e rik	1
-c arl a	1
-c arl a ugust evald	1
-c arl a xel berthold	1
-c arl d aniel	1
-c arl d avid	1
-c arl e rik	1
-c arl f erdinand immanuel	1
-c arl f rederik	1
-c arl f riedrich	1
-c arl f rithiof	1
-c arl g eorg	1
-c arl g öran	1
-c arl g ustaf m athias	1
-c arl g ustaf p:son	1
-c arl g ustaf w ilhelm	1
-c arl gösta	1
-c arl j	1
-c arl j onas g ustaf	1
-c arl n athanael	1
-c arl olof	1
-c arl r einhold	1
-c arl samuel	1
-c arl- g ustaf	1
-c axel	1
-c barker	1
-c curt e	1
-c dudley	1
-c e w e	1
-c e:son	1
-c f a:son	1
-c f l w	1
-c h j:sen	1
-c h w d'	1
-c hristin l odewijk	1
-c hristoph	1
-c j e h d'	1
-c joh	1
-c jos	1
-c laudius rytgert	1
-c malcolm	1
-c mathias	1
-c packham	1
-c r wilhelm	1
-c silvester	1
-c thom	1
-c thore	1
-c thurley	1
-c urt	1
-c-e	1
-c:ia t	1
 cacka	1
 cag	1
 cag pseud	1
 cajs	1
+c åke	1
 caleb	1
 caleb j	1
 cally	1
+c anderson	1
 candido augusto	1
 canon j t	1
 canutus	1
 carbonari	1
 carin margareta	1
+c arl a	1
 carl-aug ust	1
+c arl a ugust evald	1
+c arl a xel berthold	1
 carl-bertil	1
+c arl d aniel	1
+c arl d avid	1
 carl-dieter	1
 carl-edvard	1
 carl-edvin	1
+c arl -e ric	1
+c arl -e rik	1
+c arl e rik	1
 carl-ernfrid	1
 carl-ewald	1
+c arl f erdinand immanuel	1
 carl-filip	1
+c arl f rederik	1
+c arl f riedrich	1
+c arl f rithiof	1
+c arl g eorg	1
+c arl g öran	1
+c arl gösta	1
+c arl- g ustaf	1
+c arl g ustaf m athias	1
+c arl g ustaf p:son	1
+c arl g ustaf w ilhelm	1
 carl-helge	1
 carl-hugo	1
 carl-ivar	1
+c arl j	1
+c arl j onas g ustaf	1
 carl-julius	1
+c arl n athanael	1
+c arl olof	1
 carl-olov	1
-carl-sture	1
 carlos constantino	1
+c arl r einhold	1
+c arl samuel	1
+carl-sture	1
 carlwilhelm	1
 carolina f schough	1
 carolina wilhelmina f isakson	1
@@ -3494,7 +3459,12 @@ cathleen	1
 catholic	1
 cathrine-marie	1
 cato	1
+c axel	1
 cayetano	1
+c barker	1
+c curt e	1
+c dudley	1
+c-e	1
 cecilia m	1
 célestin	1
 céléstin	1
@@ -3504,6 +3474,11 @@ čeněk	1
 cennino	1
 cermonensis	1
 cesar v	1
+c e:son	1
+c e w e	1
+c -f	1
+c f a:son	1
+c f l w	1
 chapman	1
 charles-augustin	1
 charles-édouard	1
@@ -3514,12 +3489,21 @@ chauncey	1
 cheng-en	1
 cheyne	1
 chickering	1
+c h j:sen	1
 chrisse	1
 christabel	1
 christer valdemar oscar	1
+c hristin l odewijk	1
+c hristoph	1
 chrysante ovide	1
 chung-chien	1
 chung-li	1
+c h w d'	1
+c:ia t	1
+c j e h d'	1
+c joh	1
+c jos	1
+c -l	1
 claës a xel	1
 cläes joh	1
 clärenore	1
@@ -3532,8 +3516,11 @@ claude-joseph	1
 claude-marie	1
 claudius israelis	1
 claudius olai	1
+c laudius rytgert	1
 clay	1
 clifton	1
+c malcolm	1
+c mathias	1
 côlas	1
 coleman	1
 concepción	1
@@ -3548,39 +3535,44 @@ cornelis jacobus	1
 cornelis pieter	1
 cottrell	1
 coupé	1
+c -p	1
+c packham	1
 crick	1
+c r wilhelm	1
+c silvester	1
+c thom	1
+c thore	1
+c thurley	1
+c urt	1
+curth	1
+curtis arnoux	1
 curt l	1
 curt lorentz arvid ossiansson	1
 curt olof	1
 curt roland	1
 curt valdemar	1
-curth	1
-curtis arnoux	1
 cut	1
-d aniel e hrenfried	1
-d antonio	1
-d avid	1
-d avid c hristie	1
-d avid emanuel	1
-d avid h einrich	1
-d etlof h erman	1
-d julius	1
-d mitrij f edorovič	1
-d olof	1
 d'	1
 dahly	1
 daisy corinna	1
 daisy hugh	1
 danbury	1
 dániel	1
+d aniel e hrenfried	1
 dannfelt	1
+d antonio	1
 darío	1
+d avid	1
+d avid c hristie	1
+d avid emanuel	1
+d avid h einrich	1
 della	1
 demetrius c	1
 denes franz	1
 dénes v	1
 deneys	1
 derrick	1
+d etlof h erman	1
 dewan	1
 dezső	1
 dezydery	1
@@ -3594,10 +3586,13 @@ dimităr	1
 dinshah k	1
 dirck volckertsz	1
 direktör	1
+d julius	1
+d mitrij f edorovič	1
 do	1
 docenten	1
 dodie	1
 dokt	1
+d olof	1
 donald clayton	1
 donald culross	1
 donald e	1
@@ -3625,42 +3620,12 @@ dverg	1
 dwight d	1
 dylan	1
 dyson	1
-é d	1
-e h k:son	1
-e h:son	1
-e håkanson	1
-e helmer l	1
-e iler tage	1
-e inar- c arl d etlef	1
-e j:or	1
-e julius	1
-e l:son	1
-e lias	1
-e mabel f	1
-e mil a dolph	1
-e mil a rvid	1
-e mil v ilhelm	1
-e mile	1
-e n pseud	1
-e ngelbert	1
-e rentoul	1
-e ric	1
-e ric g ustaf	1
-e rik a gabus	1
-e rik a ugust	1
-e rik b rynolf	1
-e rik j onas	1
-e rik w	1
-e rkki	1
-e saias	1
-e tobias	1
-e ugène	1
-e v c:son	1
 earl herbert	1
 ebbe emanuel	1
 ebe	1
 eberhard werner	1
 ebon	1
+é d	1
 edélestand	1
 édélestand	1
 edgar a	1
@@ -3673,20 +3638,18 @@ edith överlärare	1
 edith porter	1
 edla c	1
 edla f vinberg	1
-edme-théodore	1
 edmée	1
+edme-théodore	1
 edmund ware	1
 edric a	1
 edvardas	1
 edvin valdemar	1
 edvin way	1
-edw j	1
-edw s	1
 edward albert	1
 edward b agnall	1
-edward b urnett	1
 edward baldwin	1
 edward bradford	1
+edward b urnett	1
 edward c j	1
 edward everett	1
 edward greene	1
@@ -3705,6 +3668,8 @@ edwin harrison	1
 edwin m	1
 edwin r a	1
 edwin samuel	1
+edw j	1
+edw s	1
 eernst	1
 eero a	1
 eero a kseli	1
@@ -3713,8 +3678,14 @@ egbert	1
 egbert v	1
 egil eiken	1
 eglanton	1
+e håkanson	1
+e helmer l	1
+e h k:son	1
 ehm	1
+e h:son	1
+e iler tage	1
 eilhard	1
+e inar- c arl d etlef	1
 einar civilekonom	1
 einar g s	1
 einar h	1
@@ -3728,11 +3699,13 @@ eino e nsio	1
 eino h	1
 eino herman	1
 eje	1
-ėlʹmar	1
+e j:or	1
+e julius	1
 elbert r	1
 elene	1
 elenore	1
 elfried	1
+e lias	1
 ēlias	1
 elias andreæ	1
 elias martini	1
@@ -3747,42 +3720,53 @@ eline	1
 elissa	1
 eliza m	1
 eller upptäckten i hemliga domstolen	1
+ėlʹmar	1
 elmer e	1
 elo	1
 elsa-britt	1
-elsa-kajsa	1
 elsaf maartman	1
+elsa-kajsa	1
+e l:son	1
+e mabel f	1
 emanuel frederic	1
 emanuel jacob	1
 emelʹjan michajlovič	1
+e mil a dolph	1
 emil alfred	1
 emil äng	1
+e mil a rvid	1
 emil arvid	1
 emil d j	1
+e mile	1
 emil e	1
+emile-antoine	1
+émile théodore léon	1
 emil heine sigvard	1
 emil henning	1
 emil herman	1
+émilie	1
 emil j	1
 emil o	1
 emil s alomon	1
 emil sture valfrid	1
+e mil v ilhelm	1
 emil wilhelm	1
-émile théodore léon	1
-emile-antoine	1
-émilie	1
 ėmmanuil michajlovič	1
 emmett	1
+e ngelbert	1
 engelbertus	1
 enn	1
 ennio	1
 enno	1
 enoch haqvini	1
 enoch israelis	1
+e n pseud	1
 enriqueta	1
 eobald w	1
 episcopus reiensis	1
-eric-samuel	1
+e rentoul	1
+e ric	1
+e ric g ustaf	1
 erich j m	1
 erich l g	1
 erich rudolf	1
@@ -3790,11 +3774,18 @@ erich v d	1
 erick olof	1
 erico	1
 erico gust	1
+eric-samuel	1
+e rik a gabus	1
+e rik a ugust	1
 erik-axel	1
+e rik b rynolf	1
 erik-henrik	1
-erik-wilhelm	1
+e rik j onas	1
 eriks	1
+e rik w	1
+erik-wilhelm	1
 erk	1
+e rkki	1
 erland albert	1
 erland nicolai	1
 erland o	1
@@ -3806,13 +3797,13 @@ ernest addenbrooke	1
 ernest darwin	1
 ernest edwin	1
 ernest h	1
+ernestine	1
 ernest l	1
 ernest lloyd	1
 ernest m	1
 ernest s	1
 ernest sackville	1
 ernest w	1
-ernestine	1
 ernfrid hilding valdemar	1
 ernst a lbin	1
 ernst alfred	1
@@ -3824,6 +3815,7 @@ ernst felix furchtegott	1
 ernst g a	1
 ernst g h	1
 ernst gustav	1
+ernst-heinz	1
 ernst herman	1
 ernst hilmer	1
 ernst k	1
@@ -3835,11 +3827,12 @@ ernst s	1
 ernst sigfrid	1
 ernst ture	1
 ernst uno	1
-ernst-heinz	1
 errol	1
+e saias	1
 esaias engelbert	1
 esaias gregorii	1
 esdras heinrich	1
+- eskil	1
 eskil a	1
 eskil karl wilhelm	1
 esko k	1
@@ -3847,28 +3840,32 @@ essad	1
 estelle barnes	1
 esten	1
 esther lucile	1
+étienne-denis	1
 étienne félix	1
 étienne léon	1
-étienne-denis	1
+:e tillök o omarb uppl	1
+e tobias	1
 eugèn	1
-eugen j	1
-eugen v	1
+e ugène	1
 eugène d'	1
 eugéne françois	1
-eugéne napoleon	1
 eugène-melchior	1
+eugéne napoleon	1
 eugenia	1
 eugenie andruss	1
+eugen j	1
+eugen v	1
 euminaga	1
 eusèbe	1
 eusebi	1
 eustachius	1
 éva	1
 evald /	1
-evald e:son	1
 evald ernfrid	1
+evald e:son	1
 evalds	1
 evarjste	1
+e v c:son	1
 evdokija apollonovna	1
 everard	1
 everett	1
@@ -3886,26 +3883,14 @@ eyvin	1
 ezio	1
 ezra	1
 ezra h	1
-f a mitchell	1
-f arnold	1
-f f:son	1
-f harold	1
-f rederik	1
-f redrik m eltzer	1
-f redrik n ikolaus	1
-f redrik wilhelm	1
-f riderik	1
-f riedrich a ugust l udwig	1
-f ritjof	1
-f rudolf	1
-f spencer	1
-f stanley	1
 faderus arvidi	1
 fagervik	1
+f a mitchell	1
 fan	1
 fanja	1
 farbror pseud	1
 farīd ad-dīn	1
+f arnold	1
 fartyget	1
 fastighetsnomenklatur	1
 fay-cooper	1
@@ -3918,6 +3903,8 @@ felix archimède	1
 felix gustav	1
 felix v	1
 feodor pavlovic	1
+f f:son	1
+f harold	1
 fielden	1
 fiskerimöten	1
 fiskhandelsförbundet	1
@@ -3943,21 +3930,21 @@ fraces	1
 francesco domenico	1
 francesco paolo	1
 francesco saverio	1
-francis-seymour	1
 françisco	1
+francis-seymour	1
 franco	1
+françois-auguste	1
 françois benoît	1
+françoise	1
+françoise marguerite	1
 françois gustave	1
 françois joachim	1
 françois nicolas	1
-françois-auguste	1
 françois-régis	1
 françois-yves	1
-françoise	1
-françoise marguerite	1
 frann wilhelm	1
-frans a lgot	1
 frans albert alexandrovitj	1
+frans a lgot	1
 frans axel	1
 frans edvin	1
 frans edward	1
@@ -3979,13 +3966,13 @@ frans walfrid	1
 franz alfred	1
 franz ambros	1
 franz c	1
+franz-eduard	1
 franz ernst	1
 franz felix adalbert	1
 franz gottfried	1
 franz michael	1
 franz r	1
 franz waldemar	1
-franz-eduard	1
 frasse	1
 frazer	1
 frazier	1
@@ -3995,7 +3982,6 @@ frédéric françois	1
 frederic g	1
 frédéric gustave	1
 frederic h	1
-frederic taber	1
 frederick a l	1
 frederick b	1
 frederick g	1
@@ -4011,50 +3997,31 @@ frederick spencer	1
 frederick w	1
 frederick w allingford	1
 frederick w n	1
+frederic taber	1
+f rederik	1
 fredirk	1
 fredredrik j	1
 fredrick arthur	1
 fredrick j j	1
+f redrik m eltzer	1
+f redrik n ikolaus	1
+f redrik wilhelm	1
 freywid	1
+f riderik	1
 frieda m	1
 friedelind	1
+f riedrich a ugust l udwig	1
 friskyttens	1
+f ritjof	1
 froukje	1
+f rudolf	1
+f spencer	1
+f stanley	1
 fulton	1
 fumiko	1
-g albert	1
-g axel e	1
-g b j:son	1
-g belton	1
-g bertil	1
-g curran	1
-g eorg e	1
-g eorg r einhold w ilhelm	1
-g karl	1
-g mott	1
-g öfverkonduktör	1
-g östa e mil	1
-g otthilf h einrich	1
-g överkonduktör	1
-g storvik	1
-g t:son	1
-g ünter	1
-g ustaf arvid	1
-g ustaf c arl	1
-g ustaf d aniel	1
-g ustaf e riksson	1
-g ustaf edvin	1
-g ustaf eugen	1
-g ustaf f redrik	1
-g ustaf f rithiof	1
-g ustaf m agnus	1
-g ustaf s imeon	1
-g ustaf v ilhelm	1
-g ustaf w	1
-g valter	1
-g waldemar	1
 gabelsberger	1
 gábor	1
+g albert	1
 ganriel	1
 gardner	1
 gärhard	1
@@ -4063,7 +4030,12 @@ garvis	1
 gaston b	1
 gastrik	1
 gawril i	1
+g axel e	1
 gaylord	1
+g belton	1
+g bertil	1
+g b j:son	1
+g curran	1
 gebra	1
 gedaliae	1
 geit	1
@@ -4071,12 +4043,14 @@ gelasio	1
 general	1
 genevieve	1
 gennadij semenovič	1
-georg-fredri	1
-georg-fredrik	1
-georg-maria	1
+g eorg e	1
 george-henri	1
 georges d'	1
+georg-fredri	1
+georg-fredrik	1
 georgios	1
+georg-maria	1
+g eorg r einhold w ilhelm	1
 gerald hugh tyrwhitt-wilson	1
 gérard	1
 gerhoh	1
@@ -4100,10 +4074,13 @@ giosuè	1
 giotto	1
 giuseppi	1
 giuspanio	1
+g karl	1
 gladys f	1
 gladys m	1
+g mott	1
 goblet	1
 godchot	1
+g öfverkonduktör	1
 goodwin norman	1
 göran arvid	1
 göran b	1
@@ -4113,22 +4090,25 @@ gordon p	1
 gordon stifler	1
 gosselin	1
 gösta anders	1
-gösta e:son	1
 gösta einar	1
+g östa e mil	1
 gösta emil	1
+gösta e:son	1
 gösta g	1
 gösta h	1
 gösta jönsson	1
 gösta o l	1
+gösta-sigurd	1
 gösta sture	1
 gösta t	1
-gösta-sigurd	1
 göte germanius	1
 göte i	1
 göthilda	1
 gottfird	1
 gottfried p:son	1
 gotthard wilhelm	1
+g otthilf h einrich	1
+g överkonduktör	1
 grabbe	1
 graeme	1
 gregoire	1
@@ -4140,6 +4120,8 @@ griffith	1
 grimur	1
 grimúr þorgrímsson	1
 grönvald	1
+g storvik	1
+g t:son	1
 guðmundur gíslason	1
 guglielmo della	1
 guilelmus	1
@@ -4149,15 +4131,23 @@ gummitekniska förening	1
 gunborg	1
 gung-hsing	1
 gunnlaugur	1
+g ünter	1
 gunther	1
 gunvor margareta	1
 gurlay	1
 gusstafs a	1
-gust axel	1
-gust e	1
-gust rich	1
-gust w	1
-gust z	1
+g ustaf arvid	1
+g ustaf c arl	1
+g ustaf d aniel	1
+g ustaf edvin	1
+g ustaf e riksson	1
+g ustaf eugen	1
+g ustaf f redrik	1
+g ustaf f rithiof	1
+g ustaf m agnus	1
+g ustaf s imeon	1
+g ustaf v ilhelm	1
+g ustaf w	1
 gustav a	1
 gustav alfred	1
 gustav antonio	1
@@ -4168,55 +4158,31 @@ gustav f	1
 gustav iii	1
 gustav j	1
 gustav moritz	1
-gustav olof	1
-gustav s o	1
-gustav samuel k:son	1
-gustav z	1
 gustavo	1
 gustavo adolfo	1
+gustav olof	1
+gustav samuel k:son	1
+gustav s o	1
 gustavus w	1
+gustav z	1
+gust axel	1
+gust e	1
+gust rich	1
+gust w	1
+gust z	1
 gusztáv	1
 gutmundus	1
+g valter	1
+g waldemar	1
 gwethalyn	1
 gyözö	1
 gypsy rose	1
-h alvar	1
-h antonowitsch	1
-h arnold	1
-h arry	1
-h arry w illiam	1
-h bertil	1
-h c théodore	1
-h dahl	1
-h edwig	1
-h einz g	1
-h enri	1
-h enry a ugust	1
-h enry braem	1
-h enry e nfield	1
-h enry emanuel	1
-h érman	1
-h erman esaias	1
-h g:son	1
-h gordon	1
-h hansen	1
-h hesketh	1
-h ilda	1
-h ingli	1
-h j mispelblom	1
-h john	1
-h jorma	1
-h manzooruddin	1
-h o:son	1
-h p stubbe	1
-h riseborough	1
-h snowden	1
-h tscherning	1
 hakīm	1
 halfdán	1
 halidé	1
 hallberg	1
 hallfreður	1
+h alvar	1
 halvor heyerdahl	1
 häming	1
 hâmit zübeir	1
@@ -4239,6 +4205,7 @@ hans ernst	1
 hans evald	1
 hans f	1
 hans f k	1
+hans-fredrik	1
 hans gram	1
 hans gustav	1
 hans h	1
@@ -4246,14 +4213,17 @@ hans hansson	1
 hans heinrich wilhelm	1
 hans hilding	1
 hans hinrichsen	1
+hans-jochem	1
 hans jôrgen	1
-hans l j	1
+hansjörgen	1
+hans-jørgen	1
 hans läkare	1
 hans leierdahl	1
+hans l j	1
 hans lorenz	1
 hans manfred eugén	1
-hans n:son	1
 hans nicolaus	1
+hans n:son	1
 hans o	1
 hans ottosson	1
 hans pehrsson	1
@@ -4263,16 +4233,14 @@ hans philip	1
 hans red	1
 hans redaktör	1
 hans roger	1
-hans w	1
-hans-fredrik	1
-hans-jochem	1
-hans-jørgen	1
-hansjörgen	1
 hanssonnils	1
+hans w	1
+h antonowitsch	1
 har	1
 härald	1
 härje	1
 harland	1
+h arnold	1
 harold clayton	1
 harold donaldson	1
 harold e	1
@@ -4286,25 +4254,32 @@ harold w	1
 haroun	1
 harriet i	1
 harriet t	1
+h arry	1
+h arry w illiam	1
 harvey o	1
 hassan	1
 hassoldt	1
 hauptmann	1
 havin	1
+h bertil	1
+h c théodore	1
+h dahl	1
 heber f	1
 heðin	1
 hedvig carin	1
+h edwig	1
 hégésippe	1
 hegne	1
 heike	1
 heinrich ambros	1
-heinrich k h	1
 heinrich karl hermann	1
 heinrich karl wilhelm	1
+heinrich k h	1
 heinrich moritz	1
 heinrich oscar günther	1
 heinrich rudolf	1
 heinrich v	1
+h einz g	1
 helga f sörensen	1
 hellen g	1
 helli	1
@@ -4322,9 +4297,14 @@ henning e	1
 henning gösta	1
 henning wilhelm	1
 henning wilhelm mattiesen	1
+h enri	1
 henrietta	1
 henriëtte	1
 henrif	1
+h enry a ugust	1
+h enry braem	1
+h enry emanuel	1
+h enry e nfield	1
 hephata!	1
 herbert edward	1
 herbert j	1
@@ -4334,10 +4314,12 @@ herbert v	1
 herbert werner	1
 herlac	1
 herleiv	1
+h érman	1
 herman alf red	1
 herman d	1
 herman ehrenfest	1
 herman emanuel	1
+h erman esaias	1
 herman f	1
 herman h	1
 herman heinrich	1
@@ -4345,31 +4327,41 @@ herman immanuel	1
 herman j	1
 herman julius	1
 herman m	1
-herman nestor emanuel	1
-herman p a	1
-herman rudolf	1
-herman werner	1
 hermann a	1
 hermann albert	1
 hermann emil	1
+herman nestor emanuel	1
 hermann heinrich	1
 hermann karl	1
 hermann m	1
 hermann s	1
 hermann samuel	1
+herman p a	1
+herman rudolf	1
+herman werner	1
 hertha ernestine	1
 hervé	1
 hezekiah	1
+h gordon	1
+h g:son	1
+h hansen	1
+h hesketh	1
 hi	1
 hijltje albertus	1
+h ilda	1
 hilding emanuel	1
 hilding o	1
 hildur e	1
+h ingli	1
 hippolito	1
 hirsch	1
 hirundo	1
 hisho	1
+h j mispelblom	1
+h john	1
 hjördis	1
+h jorma	1
+h manzooruddin	1
 hocken	1
 hocking	1
 hodder	1
@@ -4384,15 +4376,20 @@ hongming	1
 honoré	1
 horatia	1
 hortense	1
+h o:son	1
+h p stubbe	1
+h riseborough	1
 hsiang-ning	1
 hsiu-chuan	1
+h snowden	1
 hsueh-feng	1
+h tscherning	1
 hugh b c	1
 hugh edward	1
 hugin	1
-hugo e ngelbert	1
 hugo elias	1
 hugo emil	1
+hugo e ngelbert	1
 hugo hansson	1
 hugo immanuel	1
 hugo lj	1
@@ -4406,31 +4403,29 @@ huslälaren	1
 huslig	1
 hy	1
 hyacienthe	1
-ʻumar	1
-i arvid	1
-i f a l	1
-i lilias	1
-i mmanuel	1
-i sraël l udvig	1
 ia	1
+i arvid	1
 ibrāhīm	1
 ida ashwort	1
 ida f nibelius	1
 idelette	1
+i f a l	1
 ifano	1
 ignace	1
 ignatius	1
 ignatius mouradgea	1
 igor a	1
-igor v	1
 igorʹ ėmmanuilovič	1
+igor v	1
 ilari	1
 ildefons	1
 ildeu	1
 ilesmarie	1
+i lilias	1
 ilma	1
-ilse e	1
 ilse-dore	1
+ilse e	1
+i mmanuel	1
 inazo	1
 inéz	1
 influensan	1
@@ -4458,6 +4453,7 @@ isolde	1
 isom c	1
 israël albert	1
 israel jonae	1
+i sraël l udvig	1
 israel m attsson	1
 israel nicolai	1
 iván	1
@@ -4471,8 +4467,8 @@ ivar gösta emanuel	1
 ivar h arry	1
 ivar herman	1
 ivar jonsson	1
-ivar m g	1
 ivar månsson	1
+ivar m g	1
 ivar p:son	1
 ivar s	1
 ivar ulrik	1
@@ -4480,75 +4476,10 @@ ivar v	1
 ivar valfrid	1
 iwarus iwari	1
 iza	1
-j -h	1
-j akob e rik	1
-j akob l aurents	1
-j akob n ilsson	1
-j akob w ilhelm	1
-j alf	1
-j alfred	1
-j ames	1
-j ames r ussell	1
-j arthur	1
-j benthley	1
-j bertil	1
-j bretland	1
-j c:son	1
-j compton	1
-j dorman	1
-j ean p ierre	1
-j edgar	1
-j edmond	1
-j edvin	1
-j edw	1
-j ferd	1
-j g bützow	1
-j gresham	1
-j gust	1
-j h:son	1
-j henning	1
-j herman	1
-j hermann	1
-j hind	1
-j j:son	1
-j jackson	1
-j james	1
-j japetus s	1
-j johnson	1
-j julius	1
-j lilias	1
-j lincoln	1
-j m erich	1
-j malcolm	1
-j manwaring	1
-j mart	1
-j morewood	1
-j oachim f rederik	1
-j oh s	1
-j ohann	1
-j ohann h einrich	1
-j ohann heinrich jacob	1
-j ohanne s	1
-j onas m agnus	1
-j onas o a	1
-j öns	1
-j öns w ilhelm m aurits	1
-j öns w ilhelm m auritz	1
-j osef a ugust	1
-j osef c alasanz	1
-j osef n atanael	1
-j ürgen d etlef	1
-j üri	1
-j valdemar	1
-j valfrid	1
-j van's	1
-j w harvey	1
-j waskom	1
-j wilhelm i	1
 jac g	1
-jac m	1
 jack herbert	1
 jack r	1
+jac m	1
 jacob anders	1
 jacob arndt	1
 jacob baerent	1
@@ -4562,19 +4493,26 @@ jacob nathanael	1
 jacob nathanaël	1
 jacob nicolai	1
 jacob nicolas	1
+jacobo	1
 jacob olesen	1
 jacob peter	1
 jacob s	1
-jacob wittmer	1
-jacobo	1
 jacobus andreæ	1
 jacobus bergeri	1
 jacobus eliæ	1
 jacobus martini	1
 jacobus nicolai	1
+jacob wittmer	1
 jacopone	1
 jacques-yves	1
 jagos	1
+j akob e rik	1
+j akob l aurents	1
+j akob n ilsson	1
+j akob w ilhelm	1
+j alf	1
+j alfred	1
+j ames	1
 james arthur	1
 james bavington	1
 james comper	1
@@ -4596,13 +4534,14 @@ james mace	1
 james n	1
 james patrick	1
 james pyle wickersham	1
+j ames r ussell	1
 james t	1
 james truslow	1
-jan-öjvind	1
 jāna	1
 janette sebring	1
 jānis a	1
 janna	1
+jan-öjvind	1
 japetus	1
 jarl albin	1
 jarl emil	1
@@ -4610,6 +4549,13 @@ jarl l:son	1
 jarl olof h	1
 jarl waldemar	1
 jaromír	1
+j arthur	1
+j benthley	1
+j bertil	1
+j bretland	1
+j compton	1
+j c:son	1
+j dorman	1
 jean-benoît	1
 jean-eugène	1
 jean-georges-henri	1
@@ -4617,10 +4563,15 @@ jean-jaques	1
 jean-joseph	1
 jean-louis d'usson	1
 jean-michel	1
-jean-rené	1
-jean-rodolphe d'	1
 jeannine	1
 jeannot emil v	1
+j ean p ierre	1
+jean-rené	1
+jean-rodolphe d'	1
+j edgar	1
+j edmond	1
+j edvin	1
+j edw	1
 jeff	1
 jeffery e	1
 jemima v	1
@@ -4635,37 +4586,64 @@ jens p	1
 jens rahr	1
 jens sorensen	1
 jeremias jacob	1
-jerôme	1
 jérome	1
+jerôme	1
 jersey-joe	1
 jersy	1
+j ferd	1
+j g bützow	1
+j gresham	1
+j gust	1
+j -h	1
+j henning	1
+j herman	1
+j hermann	1
+j hind	1
+j h:son	1
 ji-po	1
 jirí	1
 jiří	1
+j jackson	1
+j james	1
+j japetus s	1
+j johnson	1
+j j:son	1
+j julius	1
+j lilias	1
+j lincoln	1
+j malcolm	1
+j manwaring	1
+j mart	1
+j m erich	1
+j morewood	1
+j oachim f rederik	1
 joachim g	1
 joachim lorenz	1
 joachim samuel	1
-joachim wilhelm bröms	1
 joachim-ulrich	1
+joachim wilhelm bröms	1
 joaquín	1
 joaquín maría	1
+johangustaf	1
+johanhesselius	1
+j ohann	1
+johanna nanny	1
+johanna w a	1
+j ohanne s	1
+jóhannes	1
+jóhannes b	1
+j ohann h einrich	1
+j ohann heinrich jacob	1
+jóhann j e	1
+johan-olof	1
 joh emil	1
 joh franz	1
 joh h	1
 joh jac	1
 joh m	1
 joh n	1
-joh stuart	1
-joh v	1
-johan-olof	1
-johangustaf	1
-johanhesselius	1
-jóhann j e	1
-johanna nanny	1
-johanna w a	1
-jóhannes	1
-jóhannes b	1
 john a f	1
+john-åke	1
 john andré	1
 john andré wallenberg	1
 john arnold	1
@@ -4679,23 +4657,25 @@ john c	1
 john d ann	1
 john davys	1
 john dunn	1
-john e rik	1
 john edvin	1
 john einar herbert	1
+john-elof	1
 john emil valdemar	1
+john e rik	1
 john ernest	1
 john faulkner	1
 john favata	1
+john-ferdinand	1
 john finspång	1
 john forrest	1
 john foster	1
 john g a	1
 john gibson	1
 john gustav	1
-john h f	1
 john hallet	1
 john hamilton	1
 john haynes	1
+john h f	1
 john hilding	1
 john hill	1
 john hugh	1
@@ -4708,6 +4688,7 @@ john lawson	1
 john linton	1
 john lubbock	1
 john missionär	1
+johnn	1
 john napoleon	1
 john nicholas	1
 john norman	1
@@ -4717,16 +4698,15 @@ john oscar herman	1
 john per	1
 john ragnar valdemar	1
 john sigfrid	1
+johnston	1
 john ture	1
 john v a	1
-john w ilhelm	1
 john werner	1
 john white	1
-john-åke	1
-john-elof	1
-john-ferdinand	1
-johnn	1
-johnston	1
+john w ilhelm	1
+j oh s	1
+joh stuart	1
+joh v	1
 jonas albert	1
 jonas anders	1
 jonas birgeri	1
@@ -4739,50 +4719,58 @@ jonas joachim	1
 jonas jonae	1
 jonas jonæ	1
 jonas leonhardi	1
+j onas m agnus	1
 jonas mattias	1
 jonas nicolai	1
+j onas o a	1
 jonas olai	1
 jonas patrick	1
 jonas patrik	1
 jonas petter	1
 jonn	1
 jonna	1
+j öns	1
 jöns gissel	1
-jöns j:son	1
 jöns jonas	1
+jöns j:son	1
 jöns n	1
 jöns petter	1
 jöns ragnar	1
 jonsson	1
+j öns w ilhelm m aurits	1
+j öns w ilhelm m auritz	1
 jöran m alte	1
 jörg en	1
 jörgen a	1
 jörgen b	1
 jørgen e	1
+jörgen-frantz	1
+jørgen-frantz	1
 jørgen h	1
 jörgen jörgensen	1
 jörgen möller	1
-jörgen-frantz	1
-jørgen-frantz	1
 jorma k	1
 jos e	1
 josé antonio	1
+jósef	1
+josefa	1
+j osef a ugust	1
+j osef c alasanz	1
+jósef joachim	1
+j osef n atanael	1
 josé g	1
 josé h	1
 josé joaquín	1
 josé m	1
 josé m:a	1
-jósef	1
-jósef joachim	1
-josefa	1
 josep	1
 joseph-chěrade	1
 josephine l	1
 josephus albertus	1
 jösta	1
 józa	1
-jr j h	1
 jr james	1
+jr j h	1
 juha	1
 juhana	1
 jules-jacques-toussaint	1
@@ -4795,56 +4783,25 @@ julius herman	1
 julius joachim evald	1
 julius richart	1
 julius severin	1
-jun'ichiro	1
 jungfru	1
+jun'ichiro	1
 jürgen	1
+j ürgen d etlef	1
+j üri	1
 jürl	1
 justino	1
 juyi	1
-k -i	1
-k -m	1
-k -o	1
-k a hugo	1
+j valdemar	1
+j valfrid	1
+j van's	1
+j waskom	1
+j w harvey	1
+j wilhelm i	1
 k aarle	1
-k arl -g ustav	1
-k arl -g ustav erik-lorentz	1
-k arl a	1
-k arl d avid	1
-k arl d avid olivenbaum	1
-k arl e	1
-k arl e hregott	1
-k arl e mil	1
-k arl f rithiof	1
-k arl g eorg	1
-k arl g ustaf w ilhelm	1
-k arl g ustav	1
-k arl ivar	1
-k arl l udvig	1
-k arl m	1
-k arl petter arvid	1
-k arl t	1
-k arl t eodor	1
-k arl w illiam	1
-k arl wilhelm	1
-k arl- e rik	1
-k arvid	1
-k azimierz	1
-k e w j:son	1
-k edvin	1
-k einar	1
-k erland	1
-k helmer	1
-k herman j	1
-k hilding	1
-k j pukavik	1
-k leofas i mmanuel	1
-k o e:son	1
-k oscar samuel	1
-k thor d:é	1
-k-g	1
-kai-shek	1
+k a hugo	1
 kaia	1
 kaiken	1
+kai-shek	1
 kaj b	1
 kaleva	1
 kalliroē i	1
@@ -4852,7 +4809,8 @@ kally	1
 kaptajn	1
 karen-marie	1
 karin-viola	1
-karl a ugust	1
+k arl a	1
+karl-albert	1
 karl albert byron	1
 karl albert julius	1
 karl albin	1
@@ -4861,30 +4819,51 @@ karl aleksander	1
 karl aloys	1
 karl anders ivar	1
 karl anon	1
+karl-arthur	1
+karl-artur	1
+karl a ugust	1
 karl axel folkskollärare	1
 karl axel rudolf	1
 karl b	1
 karl berntovič	1
 karl bertil emanuel	1
 karl birger yngve	1
+k arl d avid	1
+k arl d avid olivenbaum	1
 karl d avid p etrus	1
+k arl e	1
 karl edgar	1
 karl efraim	1
+k arl e hregott	1
+karl-einar	1
 karl eino	1
 karl elfred	1
+karl-elof	1
+k arl e mil	1
 karl emil hildebrand	1
 karl emil ragnar	1
+karl-eric emil	1
+k arl- e rik	1
 karl esbjörn	1
 karl eugen	1
 karl f erdinand	1
+k arl f rithiof	1
 karl f ritiof	1
+k arl g eorg	1
 karl göran axelsson	1
+karl-gösta	1
 karl gösta axel läkare	1
 karl göte	1
 karl gottfried	1
+karlgustaf	1
+k arl g ustaf w ilhelm	1
+k arl -g ustav	1
+k arl g ustav	1
 karl gustav algot	1
 karl gustav arnold	1
+k arl -g ustav erik-lorentz	1
 karl gustav helmer	1
+karl-h	1
 karl heinrich wilhelm	1
 karl helmer	1
 karl henning lützow	1
@@ -4892,57 +4871,72 @@ karl henning m artin	1
 karl hermann	1
 karl hilmer	1
 karl israel	1
+k arl ivar	1
 karl ivar albert	1
-karl j w	1
 karl jacob	1
 karl julius henning	1
+karl j w	1
 karl kristfrid	1
+k arl l udvig	1
+k arl m	1
 karl nicolaus	1
 karl pavlovič	1
 karl petter	1
+k arl petter arvid	1
+karl-rune	1
 karl samuel	1
 karl severin	1
 karl sigfrid	1
+k arl t	1
+k arl t eodor	1
 karl tomas	1
 karl ture	1
-karl v ilhelm	1
 karl valfrid	1
+karl v ilhelm	1
 karl werner edmund	1
 karl werner tjänsteman	1
-karl-albert	1
-karl-arthur	1
-karl-artur	1
-karl-einar	1
-karl-elof	1
-karl-eric emil	1
-karl-gösta	1
-karl-h	1
-karl-rune	1
-karlgustaf	1
+k arl wilhelm	1
+k arl w illiam	1
 karola	1
 károly	1
+k arvid	1
 kate c:son	1
 kate e hesketh	1
 katharine l	1
+k azimierz	1
 kazuchika	1
+k edvin	1
+k einar	1
 kenaston	1
 kent	1
+k erland	1
 kerr b	1
 kewe,;wickman	1
+k e w j:son	1
+k-g	1
+k helmer	1
+k herman j	1
+k hilding	1
+k -i	1
 kin-ling	1
 kinni	1
 kirk	1
 kirre	1
 kjaeld	1
 kjell-åke	1
+k j pukavik	1
 klaës g unnar mattias	1
 klára	1
 klaudija	1
 klaudios	1
 klavdia	1
+k leofas i mmanuel	1
+k -m	1
 knut-erik	1
 knutte	1
+k -o	1
 kocko	1
+k o e:son	1
 komakichi	1
 konrád	1
 konráð	1
@@ -4952,17 +4946,19 @@ konstföreningen	1
 köpman f omkr	1
 korpral	1
 korrt	1
+k oscar samuel	1
 kostʹ	1
 krishnalal	1
 kronprinz	1
+k thor d:é	1
 kun k	1
 kurban	1
 kurck	1
 kurt å	1
 kurt albin	1
 kurt d	1
-kurt e l	1
 kurt edward	1
+kurt e l	1
 kurt hugo	1
 kurt julius	1
 kurt karl wilhelm	1
@@ -4970,24 +4966,6 @@ kurt pseud	1
 kurume	1
 kyösti nestor	1
 kyrkoh i skå	1
-l -e	1
-l amech n icolaus	1
-l enny	1
-l eopold m artin	1
-l g unnar	1
-l gordon	1
-l gösta	1
-l hansen	1
-l hugo	1
-l j ångfartyget	1
-l j sv:son	1
-l j sw:son	1
-l j swensson	1
-l orens münter	1
-l orentz	1
-l udvig f ritiof	1
-l udwig	1
-l wilhelm	1
 l'abbé	1
 ladd	1
 ladislas	1
@@ -4995,31 +4973,36 @@ ladislau	1
 ladislaus	1
 lahja-kyllikki	1
 lali	1
+l amech n icolaus	1
 landtförsvars-departementets	1
 lars albert	1
 lars alfred	1
 lars axel herman	1
-lars b örje	1
 lars bertil	1
+lars b örje	1
+lars-bruno	1
 lars christersson	1
 lars d	1
 lars danielsson	1
-lars e mil	1
 lars einar	1
 lars einar bertil sjukgymanst	1
 lars elias	1
+lars e mil	1
 lars esbjörn	1
 lars eugen	1
 lars evald	1
 lars folkskollärare	1
 lars g	1
-lars g ustaf	1
-lars g:son	1
 lars göran	1
+lars g:son	1
+lars g ustaf	1
+lars-gustaf	1
+lars-h	1
+lars-herman	1
 lars hugo	1
-lars j:son	1
 lars jesper	1
 lars jonas	1
+lars j:son	1
 lars k	1
 lars leonito	1
 lars m agnus	1
@@ -5033,10 +5016,6 @@ lars sven sigge	1
 lars ture	1
 lars v	1
 lars valdemar	1
-lars-bruno	1
-lars-gustaf	1
-lars-h	1
-lars-herman	1
 lárus	1
 lárus h	1
 laskaris	1
@@ -5058,12 +5037,13 @@ laurentius zachariae	1
 lavrentij pavlovič	1
 lawson	1
 lazarʹ moiseevič	1
+l -e	1
 legrand	1
 leif b	1
 leif r	1
 lena g ohlsson	1
 lenard	1
-léon -victor-auguste	1
+l enny	1
 léon d'	1
 leonida	1
 leonidas	1
@@ -5071,13 +5051,20 @@ leonora	1
 leonore	1
 leontine	1
 leontine s e	1
+léon -victor-auguste	1
 léopold	1
+l eopold m artin	1
 lepidus philalethes	1
 leppe	1
 leroy	1
 levin hirsch	1
 levin j ürgen	1
 levin p	1
+l gordon	1
+l gösta	1
+l g unnar	1
+l hansen	1
+l hugo	1
 libor	1
 licurgo do	1
 lief	1
@@ -5099,27 +5086,33 @@ linus artur	1
 linus glasblåsare	1
 lis olof	1
 livio	1
+l j ångfartyget	1
+l j sv:son	1
+l j swensson	1
+l j sw:son	1
 ljubovʹ fedorovna	1
 lloyd cassel	1
 lonhyn	1
 lore	1
 lorens	1
+l orens münter	1
+l orentz	1
 lorentz alfred	1
 lorentz per	1
 lorentz valentin	1
 lorenz philipp gottfried	1
 louis-auguste	1
 louis-charles	1
-louis-jean-marie	1
 louise a	1
 louise adelaide	1
 louise barnes	1
 louise c	1
 louise d'	1
 louise d'osmond	1
-louise m	1
 louise-élisabeth	1
+louise m	1
 louise-marie	1
+louis-jean-marie	1
 lovat	1
 lowell juilliard	1
 loyola m	1
@@ -5130,25 +5123,15 @@ lucienne	1
 lucilla	1
 lucio	1
 ludger	1
-luís guimaraes	1
+l udvig f ritiof	1
+l udwig	1
 luisa	1
+luís guimaraes	1
 luiz furtado	1
 luke vincent	1
+l wilhelm	1
 lydia /pseudonym bärgtora	1
 lyoka	1
-m ads	1
-m åns	1
-m argarethe	1
-m athias	1
-m attias p etter	1
-m aximilian	1
-m emil	1
-m geraldine	1
-m harding	1
-m k einar	1
-m m tabeller	1
-m oritz	1
-m warburton	1
 mabel agnes	1
 mabel e	1
 mabel herbert	1
@@ -5159,6 +5142,7 @@ madeleinex	1
 madelon h szekély	1
 madelon h szekély-	1
 madis	1
+m ads	1
 maharashi devendranath	1
 mahieu	1
 mahomet- beck	1
@@ -5174,16 +5158,17 @@ manley o	1
 manlio	1
 manne karl emanuel	1
 manne t	1
+m åns	1
 måns olof	1
 maran	1
 marcus antonius	1
 marcus elieser	1
 margaretha hedvig	1
 margaretha pseud	1
+m argarethe	1
 marget	1
 marghanita	1
 marguerite f	1
-mari-louis	1
 mária	1
 maría luisa	1
 mariane	1
@@ -5195,6 +5180,7 @@ marie-magdeleine	1
 marie-marthe	1
 marie-réginald a	1
 marie-thérèse	1
+mari-louis	1
 marino	1
 marinus	1
 marjan	1
@@ -5217,16 +5203,18 @@ marussia	1
 mase	1
 massimo	1
 math:a	1
+m athias	1
 mathias sigfrid	1
 matias	1
 matrikel	1
-mats a lfred skogssällskapet	1
 mats alfred	1
+mats a lfred skogssällskapet	1
 mats hugo	1
 mats wilhelm	1
 mattei	1
 matthwes	1
 mattias erici	1
+m attias p etter	1
 mattihas	1
 matts evert	1
 matts mattsson	1
@@ -5234,16 +5222,20 @@ matvej	1
 mátyás	1
 matz	1
 maurine	1
+m aximilian	1
 mayethel	1
 maysie	1
 mcchesney	1
 medard	1
 meier	1
 mela	1
+m emil	1
 memoire	1
 meriel	1
 meurman	1
 meyners d'	1
+m geraldine	1
+m harding	1
 michael k	1
 michaël kolmodin	1
 michael sørensen	1
@@ -5261,8 +5253,8 @@ milena	1
 millen	1
 milli	1
 milorad	1
-milton 'mezz'	1
 milton herbert	1
+milton 'mezz'	1
 milton s	1
 mimi ida	1
 miniatur-bibliothek	1
@@ -5275,6 +5267,8 @@ miraš	1
 mistriss	1
 mita	1
 mitchell	1
+m k einar	1
+m m tabeller	1
 modris	1
 mohammad	1
 moḥammed	1
@@ -5286,6 +5280,7 @@ moore	1
 mora-nisse	1
 mordecai	1
 móric	1
+m oritz	1
 moritz axel	1
 moritz julius	1
 moritz wilhelm	1
@@ -5301,33 +5296,18 @@ mukunda ram	1
 munroe	1
 murasaki	1
 murat	1
+m warburton	1
 myna	1
-n -a -françois	1
-n a møller	1
-n albert	1
-n g unnar	1
-n gust	1
-n hugo	1
-n iels	1
-n ils a dam	1
-n ils e rik	1
-n ils f redrik c laës	1
-n ils k arl	1
-n ils l udvig	1
-n ils olof waldemar	1
-n ils pehrsson	1
-n ils s junne	1
-n ils willdenow	1
-n j o h	1
-n oscar	1
-n wesley	1
-n:o pseud	1
 naany	1
 naéma	1
 naëmi elna joh	1
+n -a -françois	1
 nagida	1
 nahum	1
+n albert	1
+n a møller	1
 nándor	1
+- nanna	1
 nanna albertina f bergström	1
 nanna f sohlman	1
 nanok	1
@@ -5337,13 +5317,16 @@ neil h	1
 neill	1
 nele	1
 nels f s	1
-nels s	1
 nelsie	1
 nelson frederick	1
 nelson n	1
+nels s	1
 nescio	1
 nestor maximilian	1
 newton dick	1
+n g unnar	1
+n gust	1
+n hugo	1
 nicholas patrick stephen	1
 nicholas sergeyevitch	1
 nicolaas frans	1
@@ -5356,63 +5339,74 @@ nicolaus jonæ	1
 nicolaus mathias	1
 nicolaus p	1
 niel	1
+n iels	1
 nik	1
-nik m	1
 nikeforos	1
+nik m	1
 nikolas	1
 nikolas laurent	1
 nilla	1
 nilo	1
+n ils a dam	1
 nils-david	1
+n ils e rik	1
+n ils f redrik c laës	1
 nils-gerhard	1
 nils-göran	1
 nils-gösta	1
 nils-hugo	1
 nils-ivar	1
+n ils k arl	1
+n ils l udvig	1
 nils-ola	1
+n ils olof waldemar	1
+n ils pehrsson	1
+n ils s junne	1
+n ils willdenow	1
 niẓāmī	1
+n j o h	1
 noahk algot	1
+n:o pseud	1
 norman l	1
 norman p	1
 norreina	1
 norrköping harvesters personals	1
 northcote	1
+n oscar	1
+n wesley	1
 nyanatiloka	1
 o arthur	1
-o brukspatron	1
-o g ustaf	1
-o h w griffith	1
-o hilding	1
-o j:son	1
-o lfert hermann	1
-o livia	1
-o luf	1
-o p bagare	1
-o spurgeon	1
-o sune	1
+'obeidallāh	1
 öberg	1
+o brukspatron	1
 oden thor	1
 odhner	1
 ödön	1
 öfverstelöjtnant	1
+o g ustaf	1
+o hilding	1
+o h w griffith	1
 ö̈ije	1
 oiva joh	1
 oiva kyösti	1
+o j:son	1
 oke	1
-ol'ga	1
 olåv	1
 ole c	1
 ole e	1
 ole jacob	1
 ole k	1
 ole w	1
+o lfert hermann	1
+ol'ga	1
 olga e	1
 olga lovisa	1
+o livia	1
 olla	1
 ollegård	1
 olof a m	1
-olof a ndersson	1
 olof anders gottfried	1
+olof a ndersson	1
 olof axel hugo	1
 olof birger	1
 olof c:son	1
@@ -5421,14 +5415,14 @@ olof erland	1
 olof f	1
 olof folkskollärare	1
 olof gustav	1
-olof h jalmar	1
 olof håkan	1
 olof hans	1
+olof h jalmar	1
 olof hugo	1
 olof j	1
 olof l	1
-olof l:son	1
 olof laurentius	1
+olof l:son	1
 olof n	1
 olof o	1
 olof oscar	1
@@ -5438,12 +5432,14 @@ olof stellan	1
 olof valfrid	1
 olov r t	1
 olry	1
+o luf	1
 omeljan	1
 onni a	1
 onni aulis	1
 onni k	1
 onni kurt alfred	1
 onttoni	1
+o p bagare	1
 oreen	1
 orion	1
 orlando	1
@@ -5462,7 +5458,9 @@ oscar o	1
 oscar r	1
 oscar v	1
 osmond p	1
+o spurgeon	1
 ossi	1
+o sune	1
 osvi	1
 ota	1
 otilio	1
@@ -5475,102 +5473,91 @@ owen willans	1
 øyvin	1
 p -a	1
 p å	1
-p albin	1
-p är g ustaf	1
-p är j önson	1
-p aul i lmari	1
-p axel	1
-p edvin	1
-p ehr u lrik f erdinand	1
-p ehr u lrik f redrik	1
-p ernst	1
-p etr p	1
-p etter	1
-p etter w ilhelm	1
-p gonzales	1
-p hilipp c hristoph	1
-p ivar	1
-p olof e	1
-p rudolf	1
-p salteå	1
-p sejlund	1
-p sforza	1
 paco	1
 påhl	1
 pai-shih	1
 päiviö	1
 päivö	1
 pál	1
+p albin	1
 páll	1
 panaït	1
-pär e g	1
 paramhansa	1
+pär e g	1
+p är g ustaf	1
 paride	1
 parie	1
+p är j önson	1
 parus	1
 patience	1
 patrick edward	1
 patrick james	1
 patrik emanuel	1
-paul-émile	1
-paul-jérémie	1
 paule d'	1
+paul-émile	1
+p aul i lmari	1
 paulin	1
 paulinus	1
+paul-jérémie	1
+p axel	1
 pedanius	1
+p edvin	1
 pehr-linus	1
+p ehr u lrik f erdinand	1
+p ehr u lrik f redrik	1
 pei-hung	1
 pelio	1
 penelope	1
 penelope c	1
 per a	1
+per-adolf	1
+perågust	1
 per åke vilehard	1
+per-allan	1
 per anders arvid	1
 per andreasson	1
+per-arne	1
 per artur	1
+per-arvid	1
 per bengtson	1
 per bertil	1
 per e	1
-per e lis	1
-per e n	1
+père	1
 per edmund	1
 per edward	1
 per einar	1
 per einarssön	1
+per e lis	1
 per emil carsten	1
+per e n	1
 per erland	1
 per ernst	1
-per g ottfrid	1
+per-evert	1
 per gösta fridolf	1
+per g ottfrid	1
+per-gustaf	1
 per gustav	1
 per herbert åke	1
 per herman adil	1
 per israel	1
+per-ivar	1
 per john	1
 per julius	1
 per karl	1
 per l	1
-per l orentz	1
 per lorens	1
+per l orentz	1
+per-martin	1
 per nanne	1
+p ernst	1
 per oscar	1
 per p:son	1
 per sigfrid o ssian	1
 per t	1
+per-tore	1
 per vice häradshöfding	1
 per w	1
-per-adolf	1
-per-allan	1
-per-arne	1
-per-arvid	1
-per-evert	1
-per-gustaf	1
-per-ivar	1
-per-martin	1
-per-tore	1
 per-yngve	1
-perågust	1
-père	1
 peter alfred	1
 peter algot	1
 peter arvid	1
@@ -5580,7 +5567,10 @@ peter emil	1
 peter erich	1
 peter gudmundsson	1
 peter hansen	1
+peter-heinz	1
 peter herman	1
+peteris	1
+pēteris	1
 peter j o	1
 peter jonsson	1
 peter lektor	1
@@ -5592,26 +5582,28 @@ peter schvantesson	1
 peter sigfrid	1
 peter tamas	1
 peter treschow	1
-peter-heinz	1
-peteris	1
-pēteris	1
 petr aleksandrovič	1
 petr ivanovič	1
 petr kuzmʹič	1
 petr nikolaevič	1
+p etr p	1
 petr p	1
 petr petrovič	1
 petr sergeevič	1
 petr vasil'evic	1
+p etter	1
 petter j	1
+p etter w ilhelm	1
 pétur	1
 pewee	1
+p gonzales	1
 philangi	1
 philip albin	1
 philip b	1
 philip hugh	1
 philip m	1
 philip m c	1
+p hilipp c hristoph	1
 philippe andré	1
 philippe françois nazaire	1
 phillippa	1
@@ -5621,19 +5613,21 @@ phyllis l	1
 pierce	1
 pierluigi	1
 pierre ambroise françois	1
-pierre émile	1
-pierre herman	1
-pierre s	1
 pierre-barthélemy	1
 pierre-dominique	1
+pierre émile	1
+pierre herman	1
 pierre-jean-baptiste	1
 pierre-joseph	1
 pierre-rené	1
+pierre s	1
 pileus	1
 pinhas	1
+p ivar	1
 plínio	1
 poëta	1
 poetiska	1
+p olof e	1
 poly	1
 pomponius	1
 poppy	1
@@ -5643,29 +5637,22 @@ pravoslav	1
 preuss öfverveterinär	1
 pridbiörn	1
 priedbiörn	1
+p rudolf	1
+p salteå	1
+p sejlund	1
+p sforza	1
 publilius	1
-r afael	1
-r eginald j ames	1
-r einhold m auritz eugène	1
-r eino a ntero	1
-r ernest	1
-r gorell	1
-r o:son	1
-r odolphe a	1
-r odriguez	1
-r oman	1
-r omulus m agnus	1
-r:d	1
 rabindranath,;tagore	1
 radchi pseud	1
+r afael	1
 raffaele	1
 ragnar anders	1
 ragnar anders göran	1
 ragnar d	1
 ragnar e g	1
 ragnar helmer	1
-ragnar p:zon	1
 ragnar per helgasson	1
+ragnar p:zon	1
 ragnar r:son	1
 ragnar ture karl	1
 rainar	1
@@ -5678,24 +5665,30 @@ randolph s	1
 rangel	1
 ranuccio	1
 rao t	1
-rasmus jes skovgaard	1
 rasmusbjörn	1
+rasmus jes skovgaard	1
 raya	1
+r:d	1
 redaktionen	1
 redliga	1
 reg	1
 réginald	1
 reginald h	1
+r eginald j ames	1
 reginald james	1
 reginald m	1
 reginald s	1
 régis	1
 reguel	1
 reijo	1
+r einhold m auritz eugène	1
+r eino a ntero	1
 rejne	1
 rem	1
+r ernest	1
 rewi	1
 rezio	1
+r gorell	1
 rhabanus	1
 ria	1
 ricardus	1
@@ -5711,6 +5704,8 @@ rocco	1
 rochas	1
 rode	1
 rodny	1
+r odolphe a	1
+r odriguez	1
 roger bonnaud	1
 roger g	1
 roger sherman	1
@@ -5719,15 +5714,17 @@ roland herbert	1
 rolf a	1
 rolf axel	1
 rolf bertil	1
+rolf-bertil	1
 rolf evald	1
 rolf m	1
-rolf-bertil	1
 rollo h	1
+r oman	1
 romanos	1
 rombout	1
 romola	1
 romualdo	1
 romulo	1
+r omulus m agnus	1
 ronald charlessutherland	1
 ronald gorell	1
 ronald m	1
@@ -5735,6 +5732,8 @@ roscoe	1
 rosella	1
 rosi	1
 rosie goldschmidt	1
+r o:son	1
+>>rösten	1
 rothay	1
 roualeyn gordon	1
 royal	1
@@ -5756,25 +5755,14 @@ ryotei	1
 rysk storfurste	1
 ryttmästare	1
 s a boisen	1
-s a:son	1
-s åkesson	1
-s albert	1
-s alomon h ermann	1
-s astley	1
-s birger	1
-s fowler	1
-s igfrid	1
-s igtrygg	1
-s j göteborg	1
-s malcolm	1
-s trevena	1
-s ture	1
-s venfredrik	1
 sadhu	1
 saga s	1
 sagnil	1
+s åkesson	1
+s albert	1
 ṣāliḥ	1
 salli	1
+s alomon h ermann	1
 salvador jacinto	1
 samtal	1
 samu	1
@@ -5800,8 +5788,11 @@ sarapion	1
 sarojini	1
 sarra semenovna	1
 sarvepalli	1
+s a:son	1
+s astley	1
 saul isaac	1
 saul kussiel	1
+s birger	1
 schold	1
 sei	1
 séïd	1
@@ -5812,6 +5803,7 @@ selomo	1
 septimus james	1
 sera	1
 séraphin	1
+s fowler	1
 shahinda	1
 shao-chi	1
 shao-kwan	1
@@ -5829,6 +5821,7 @@ sidonie matsner	1
 siegismund philipp	1
 sigbjørn	1
 sigfr	1
+s igfrid	1
 sigfrid anders	1
 sigfrid birger	1
 sigfrid j-son	1
@@ -5839,6 +5832,7 @@ signe elvira	1
 signe h	1
 signe p	1
 signe w	1
+s igtrygg	1
 sigurd olof	1
 sigurd ragnar	1
 sigurd tobias	1
@@ -5852,12 +5846,14 @@ sisley	1
 sitansusekhar	1
 siviä	1
 sixtinus	1
+s j göteborg	1
 sjökapten	1
 släkten	1
+s malcolm	1
 snorri	1
 snyder b	1
-sofʹja vasilʹevna	1
 sofia albertina	1
+sofʹja vasilʹevna	1
 sofo	1
 solomon lʹvovič	1
 sommar	1
@@ -5868,7 +5864,6 @@ sören bloch	1
 spiegel	1
 spiridon	1
 st	1
-st john	1
 stålberg	1
 stamates k	1
 stanisaw	1
@@ -5893,28 +5888,31 @@ sten emil	1
 sten f w	1
 sten g a	1
 sten g:son	1
+stengunnar	1
 sten gustav	1
 sten h elmer theofron	1
 sten henning	1
 sten hugo valfrid	1
+stenka	1
 sten laurentius	1
 sten öjer	1
 sten philip arthur	1
 sten s:son	1
-sten torbjörn	1
 sten-sture	1
-stengunnar	1
-stenka	1
 stenton	1
+sten torbjörn	1
 stepan michajlovič	1
 stephano	1
 stephen h	1
 sterling	1
 sterling andrus	1
 stevan	1
+st john	1
 stockholm	1
 stöt anders	1
+s trevena	1
 stuart j	1
+s ture	1
 sture arnold	1
 sture g	1
 sture helgesson	1
@@ -5930,8 +5928,6 @@ sune v	1
 susy	1
 suzanne-marie	1
 sv albert	1
-sv en j	1
-sv p:n	1
 svän	1
 svantem	1
 svarta	1
@@ -5940,28 +5936,34 @@ svea-greta	1
 sveinbjorn	1
 sveinbjörn	1
 sven a g	1
-sven a lgot	1
 sven albert häradsdomare	1
 sven algot	1
+sven a lgot	1
 sven arnold	1
 sven artur	1
 sven b	1
-sven b h	1
 sven bergsingeniör	1
+sven b h	1
 sven caspar	1
+sven-david	1
 sven dieteric	1
 sven e l	1
 sven ephraim	1
 sven ernst emanuel	1
-sven g udmar	1
+s venfredrik	1
+sven-g	1
 sven grén	1
+sven g udmar	1
 sven gustav ragnar	1
-sven h elmer	1
+sven-harry	1
 sven heinrich	1
 sven helmer	1
+sven h elmer	1
 sven i	1
+sven-ivar	1
 sven iwan	1
 sven iwan kapten	1
+sv en j	1
 sven jacobsson	1
 sven jr	1
 sven julius j:son	1
@@ -5976,30 +5978,16 @@ sven torbjörn	1
 sven ture	1
 sven ture hildebrand	1
 sven yngve	1
-sven-david	1
-sven-g	1
-sven-harry	1
-sven-ivar	1
 sveriges	1
 svipdagr	1
+sv p:n	1
 swedolf albert	1
 swen o	1
 sy	1
 sykkö	1
 sylvi-kyllikki	1
 synnöve v	1
-t brekenridge	1
-t elesforo	1
-t eodor	1
-t eofil d ynamiel	1
-t eppo	1
-t erge	1
-t erje	1
-t héodore a uguste	1
-t horsten wilhelm	1
-t yngve	1
-t'ien	1
-t'ing-yü	1
+-t	1
 tage a	1
 tage bertil	1
 tage civilingenjör	1
@@ -6015,16 +6003,24 @@ tatʹjana lʹvovna	1
 tattu	1
 tauno a	1
 tauno f	1
+t brekenridge	1
 teivo	1
+t elesforo	1
 tell levin	1
 temistocle	1
 tenute all'is m e o	1
+t eodor	1
+t eofil d ynamiel	1
 tepp lars	1
+t eppo	1
 teresia f eneroth	1
+t erge	1
+t erje	1
 terje ulf eugen	1
 terrot reaveley	1
 théo	1
 theodoor willem	1
+t héodore a uguste	1
 theodosios	1
 theofr	1
 theofron	1
@@ -6050,10 +6046,11 @@ thomas walker	1
 thomson	1
 thor axel pettersson	1
 thor b	1
-thor e	1
-thor g	1
 thorbern	1
+thor e	1
 thore l	1
+thor g	1
+t horsten wilhelm	1
 thorvald julius	1
 thorvald nicolai	1
 thure a	1
@@ -6063,11 +6060,13 @@ thure w	1
 thurman w	1
 thyra samter	1
 tichon zacharovič	1
+t'ien	1
 tikovara	1
 tilemann	1
 till	1
 tilly	1
 timothée	1
+t'ing-yü	1
 tito lívio	1
 tobias emanuel	1
 tobias gottfried	1
@@ -6082,10 +6081,10 @@ topo	1
 tor e	1
 tor emanuelsson	1
 tor erland staffan	1
+torerus erici	1
 tor hugo	1
 tor hugo wilhelm	1
 tor j v	1
-torerus erici	1
 tornet	1
 trenchard	1
 trifun	1
@@ -6099,26 +6098,21 @@ ture g	1
 ture w	1
 türk	1
 tydayoshi	1
+t yngve	1
 tyyne	1
 tzane	1
-u uno	1
-u uno u ljas	1
 uldine	1
 ulla johanna	1
 ulla s	1
 ulpio	1
+ʻumar	1
 umset	1
 uno arvid	1
 uno axel	1
 uno b	1
 uno werner	1
-v alentin e mil	1
-v eikko k alervo	1
-v iggo	1
-v ihtori	1
-v ilhelm	1
-v incent l udvig	1
-v ladimir a fanas'evič	1
+u uno	1
+u uno u ljas	1
 vachel	1
 väinö b	1
 väinö i	1
@@ -6126,6 +6120,7 @@ väinö j	1
 väinö k	1
 valborg adelaide	1
 valdemar jörgen	1
+v alentin e mil	1
 valentin emil	1
 valter h	1
 valtýr	1
@@ -6134,6 +6129,7 @@ vash	1
 vasile	1
 vaxholms	1
 vedula	1
+v eikko k alervo	1
 velma swanston	1
 velta	1
 véra	1
@@ -6144,11 +6140,15 @@ vide	1
 vieira	1
 viena	1
 vieno	1
+v iggo	1
+v ihtori	1
 viki	1
 vikki	1
 vilelmus	1
+v ilhelm	1
 vilmar	1
 viña	1
+v incent l udvig	1
 vincent stoltenberg	1
 vinding	1
 vinigi l	1
@@ -6161,6 +6161,7 @@ visvaldis	1
 vito	1
 vjačeslav	1
 vladi	1
+v ladimir a fanas'evič	1
 vladimir aleksandrovič	1
 vladimir dorofeevič	1
 vladimir fedorovič	1
@@ -6173,24 +6174,9 @@ vladimir nikolaevic	1
 vladimir semenovič	1
 vladimir vjačeslavovič	1
 vladislav petrovic	1
-w -k	1
-w a 't	1
-w äinö immanuel	1
-w clark	1
-w diemair	1
-w ilhelm c arl e ppingen	1
-w illiam barnes	1
-w illiam c hristoffer	1
-w illiam h	1
-w illiam m orlay	1
-w illiam s mith	1
-w lockwood	1
-w neill	1
-w roger	1
-w:m f p	1
-w:m ham	1
 wagner	1
 wähä	1
+w äinö immanuel	1
 waldech	1
 waldimir	1
 walker	1
@@ -6198,8 +6184,11 @@ walker a	1
 wallengren	1
 wänne	1
 warder clyde	1
+w a 't	1
 wava	1
 wayne	1
+w clark	1
+w diemair	1
 weijo	1
 weimar	1
 welma swanston	1
@@ -6213,6 +6202,7 @@ wilfrid marston	1
 wilfried	1
 wilh:a	1
 wilhälm	1
+w ilhelm c arl e ppingen	1
 wilhelm f	1
 wilhelm günther	1
 wilhelm h	1
@@ -6229,21 +6219,30 @@ wilhelm t l	1
 willard g	1
 willem e	1
 willem jacob 's	1
+w illiam barnes	1
+w illiam c hristoffer	1
+w illiam h	1
+w illiam m orlay	1
+w illiam s mith	1
 williamwilkie	1
 willmar	1
 windward	1
 winfried	1
 winthrop w	1
 wishar s	1
+w -k	1
 wladysław stanisław	1
+w lockwood	1
+w:m f p	1
+w:m ham	1
 wm h auret	1
+w neill	1
 wolffgang	1
 wollmer	1
 wood	1
+w roger	1
 xenius	1
 y mlle	1
-y rjö h eikki	1
-y rjö w ilhelm	1
 yngve hugo	1
 yngve o	1
 yngve samuel	1
@@ -6251,14 +6250,16 @@ yngve valentin	1
 yoshio	1
 yrjo ̈	1
 yrjö a	1
+y rjö h eikki	1
 yrjö j	1
 yrjö koskinen	1
 yrjö o	1
 yrjö v	1
 yrjö w	1
+y rjö w ilhelm	1
 yün	1
-z achris	1
 zacharij veniaminovič	1
+z achris	1
 zalman	1
 zenaïde a	1
 zhuang	1

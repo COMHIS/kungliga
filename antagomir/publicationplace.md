@@ -7,10 +7,10 @@ output: markdown_document
 
 ### Publication places
 
- * 2751 [publication places](output.tables/publication_place_accepted.csv)
+ * 3471 [publication places](output.tables/publication_place_accepted.csv)
  * 37 [publication countries](output.tables/country_accepted.csv) 
- * Publication place is identified for 365764 documents (99%). 
- * Publication country is identified for 330202 documents (89%).
+ * Publication place is identified for 367426 documents (99%). 
+ * Publication country is identified for 332645 documents (90%).
  * 1.5% of the documents could be matched to geographic coordinates (based on the [Geonames](http://download.geonames.org/export/dump/) database). See the [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv). Altogether ``98.48``% of the documents have missing geocoordinates.
  * [Places with unknown publication country](output.tables/publication_place_missingcountry.csv) (can be added to [country mappings](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/reg2country.csv))
  * [Ambiguous publication places](output.tables/publication_place_ambiguous.csv)
@@ -30,10 +30,10 @@ Top-20 publication places are shown together with the number of documents.
 
 |Country | Documents (n)| Fraction (%)|
 |:-------|-------------:|------------:|
-|Sweden  |        278979|         75.1|
-|Finland |         20814|          5.6|
-|Germany |          8009|          2.2|
-|Denmark |          5117|          1.4|
-|USA     |          3393|          0.9|
-|Norway  |          2971|          0.8|
+|Sweden  |        280022|         75.4|
+|Finland |         21136|          5.7|
+|Germany |          7945|          2.1|
+|Denmark |          6541|          1.8|
+|USA     |          3358|          0.9|
+|Norway  |          2969|          0.8|
 

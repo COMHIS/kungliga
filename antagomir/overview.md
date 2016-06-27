@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-06-26"
+date: "2016-06-27"
 output: markdown_document
 ---
 
@@ -51,8 +51,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |772c                                         |        99.1|           0.9|          3414|       1023|
 |publication_interval                         |        99.0|           1.0|          3642|       3200|
 |650y                                         |        98.9|           1.1|          4051|        951|
-|latitude                                     |        98.5|           1.5|          5652|         18|
-|longitude                                    |        98.5|           1.5|          5652|         18|
+|latitude                                     |        98.5|           1.5|          5660|         18|
+|longitude                                    |        98.5|           1.5|          5660|         18|
 |height.original                              |        98.2|           1.8|          6545|         88|
 |subject_geography                            |        98.2|           1.8|          6549|       2207|
 |650x                                         |        97.8|           2.2|          8261|       2099|
@@ -96,11 +96,11 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |author_name                                  |        26.0|          74.0|        274645|      86889|
 |author                                       |        26.0|          74.0|        274645|      88144|
 |self_published                               |        26.0|          74.0|        274645|          3|
-|country                                      |        10.3|          89.7|        332916|         37|
+|country                                      |        11.1|          88.9|        330202|         37|
 |852j                                         |         8.3|          91.7|        340608|     127357|
 |dissertation                                 |         1.9|          98.1|        364375|          3|
 |synodal                                      |         1.9|          98.1|        364375|          2|
-|publication_place                            |         1.4|          98.6|        365907|       3273|
+|publication_place                            |         1.5|          98.5|        365764|       2751|
 |publication_year_from                        |         0.0|         100.0|        371265|        501|
 |title                                        |         0.0|         100.0|        371279|     326256|
 |language.Swedish                             |         0.0|         100.0|        371287|          2|
@@ -201,7 +201,7 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Northern Sami                       |         0.0|         100.0|        371287|          2|
 |language.Persian                             |         0.0|         100.0|        371287|          2|
 |language.Multiple languages                  |         0.0|         100.0|        371287|          2|
-|publisher                                    |         0.0|         100.0|        371287|      19034|
+|publisher                                    |         0.0|         100.0|        371287|      19042|
 |gatherings.original                          |         0.0|         100.0|        371287|         15|
 |obl.original                                 |         0.0|         100.0|        371287|          2|
 |original_row                                 |         0.0|         100.0|        371287|     371287|

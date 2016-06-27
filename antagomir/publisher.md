@@ -1,16 +1,16 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-06-27"
+date: "2016-06-28"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 810 [unique publishers](output.tables/publisher_accepted.csv)
+ * 19721 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 73176 documents have unambiguous publisher information (100%). 
+ * 384141 documents have unambiguous publisher information (100%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -25,6 +25,11 @@ The 20 most common publishers are shown with the number of documents.
 
 Title count
 
+
+```
+## Warning: Removed 5 rows containing missing values (position_stack).
+```
+
 ![plot of chunk summaryTop10pubtimeline](figure/summaryTop10pubtimeline-1.png)
 
 
@@ -33,15 +38,15 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher         | titles| paper|
-|:-----------------|------:|-----:|
-|                  |  50243| 30.34|
-|tryckeriet        |    252|  0.14|
-|Berling           |    445|  0.39|
-|Edman             |    491|  0.40|
-|Frenckell         |    236|  0.19|
-|Kongl. tryckeriet |   4935|  0.51|
-|Mattsson          |    328|  0.25|
-|s.n               |    247|  0.07|
-|Sverige           |  10394|  2.58|
-|Werner            |    268|  0.34|
+|publisher             | titles| paper|
+|:---------------------|------:|-----:|
+|                      | 201245| 35.25|
+|Bonnier               |  13623|  1.34|
+|Förf                  |   2917|  0.08|
+|Geber                 |   2427|  0.17|
+|Gleerup               |   2696|  0.13|
+|Kongl. tryckeriet     |   5123|  0.51|
+|Norstedt              |   6859|  1.01|
+|Riksdagen             |   3466|  0.00|
+|Sverige               |  11644|  2.85|
+|Wahlström & Widstrand |   3205|  0.23|

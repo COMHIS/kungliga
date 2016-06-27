@@ -1,7 +1,7 @@
 ---
 title: "Document dimension preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-06-27"
+date: "2016-06-28"
 output: markdown_document
 ---
 
@@ -10,9 +10,9 @@ output: markdown_document
 
 ## Page counts
 
-  * Page count missing and estimated for 56 documents (7.6527823 &times; 10<sup>-4</sup>%).
+  * Page count missing and estimated for 2031 documents (0.0052648%).
 
-  * Page count missing and could not be estimated for 20412 documents
+  * Page count missing and could not be estimated for 147279 documents
 
   * Page count updated for 0 documents.
   
@@ -25,7 +25,7 @@ output: markdown_document
   * [Automated tests for page count conversions](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/tests_polish_physical_extent.csv)
 
 
-Visual summary of the estimated page counts per gatherings (shown only for the 56 documents that have missing pagecount info in the original data):
+Visual summary of the estimated page counts per gatherings (shown only for the 2031 documents that have missing pagecount info in the original data):
 
 ![plot of chunk size-estimated](figure/size-size-estimated-1.png)
 
@@ -49,7 +49,7 @@ These include estimates that are based on auxiliary information sheets:
   
 <!--[Discarded dimension info](output.tables/dimensions_discarded.csv)-->
 
-Document size (area) info in area is available for 59652 documents (82%). Estimates of document size (area) info in gatherings system are available for 73176 documents (100%). 
+Document size (area) info in area is available for 73551 documents (19%). Estimates of document size (area) info in gatherings system are available for 385771 documents (100%). 
 
 ![plot of chunk size-summary](figure/size-size-summary-1.png)
 
@@ -74,6 +74,15 @@ Compare original gatherings and original heights where both are available. The p
 
 ### Gatherings timelines
 
+
+```
+## Error: All columns must be named
+```
+
+```
+## Error: All columns must be named
+```
+
 <img src="figure/size-size-compbyformat-1.png" title="plot of chunk size-compbyformat" alt="plot of chunk size-compbyformat" width="430px" /><img src="figure/size-size-compbyformat-2.png" title="plot of chunk size-compbyformat" alt="plot of chunk size-compbyformat" width="430px" />
 
 
@@ -87,20 +96,21 @@ Multi-volume documents average page counts are given per volume.
 
 |doc.dimension |mean.pages.singlevol |median.pages.singlevol | n.singlevol| mean.pages.multivol| median.pages.multivol| n.multivol| mean.pages.issue| median.pages.issue| n.issue|
 |:-------------|:--------------------|:----------------------|-----------:|-------------------:|---------------------:|----------:|----------------:|------------------:|-------:|
-|2fo           |NA                   |NA                     |        1791|                  NA|                    NA|         NA|               NA|                 NA|      72|
-|4to           |NA                   |NA                     |       30560|                  NA|                    NA|         NA|               NA|                 NA|   30571|
-|6to           |NA                   |NA                     |          18|                  NA|                    NA|         NA|               NA|                 NA|       1|
-|8long         |NA                   |NA                     |           1|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|8vo           |NA                   |NA                     |       21437|                   1|                     1|         23|                1|                  1|       9|
-|12mo          |NA                   |NA                     |        2991|                 NaN|                    NA|          4|              NaN|                 NA|       1|
-|16mo          |NA                   |NA                     |        1296|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|18mo          |NA                   |NA                     |          86|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|24mo          |NA                   |NA                     |         163|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|32mo          |NA                   |NA                     |          30|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|2fo           |NA                   |NA                     |        1858|                  NA|                    NA|         NA|               NA|                 NA|      93|
+|4to           |NA                   |NA                     |       32051|                  NA|                    NA|         NA|               NA|                 NA|   32064|
+|6to           |NA                   |NA                     |          28|                  NA|                    NA|         NA|               NA|                 NA|       1|
+|8long         |NA                   |NA                     |          14|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|8vo           |NA                   |NA                     |       25060|                   1|                     1|         95|                1|                  1|      30|
+|12long        |NA                   |NA                     |           1|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|12mo          |NA                   |NA                     |        3288|                 NaN|                    NA|         20|              NaN|                 NA|       3|
+|16mo          |NA                   |NA                     |        1599|                 NaN|                    NA|          6|               NA|                 NA|      NA|
+|18mo          |NA                   |NA                     |          95|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|24mo          |NA                   |NA                     |         171|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|32mo          |NA                   |NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |48mo          |NA                   |NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|64mo          |NA                   |NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|NA            |NA                   |NA                     |       13482|                   1|                     1|         33|                1|                  1|      18|
-|1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1134|
+|64mo          |NA                   |NA                     |          35|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|NA            |NA                   |NA                     |      318072|                   1|                     1|       1941|                1|                  1|    3596|
+|1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1180|
 
 
 ![plot of chunk size-pagecountsmulti2](figure/size-size-pagecountsmulti2-1.png)
@@ -120,7 +130,7 @@ Only the most frequently occurring gatherings are listed here:
 
 |gatherings.original |mean.width |median.width | mean.height| median.height|  n|
 |:-------------------|:----------|:------------|-----------:|-------------:|--:|
-|4to                 |NA         |NA           |          20|            20|  2|
-|8vo                 |NA         |NA           |          16|            16|  3|
+|4to                 |NA         |NA           |       23.57|         23.57|  7|
+|8vo                 |NA         |NA           |       20.59|         20.59| 32|
 
 -->

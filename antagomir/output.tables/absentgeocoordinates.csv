@@ -1,303 +1,2681 @@
 name	count
-Stockholm	45108
-Uppsala	4988
-Gothenburg	2397
-Lund	2216
-Turku	1593
-Linköping	1289
-Västeras	1119
-Örebro	1090
-Strängnäs	1014
-Norrköping	880
-Jönköping	832
-Karlskrona	603
-Skara	558
-Falun	439
-Gävle	424
-Kalmar	395
-Copenhagen	395
-Nyköping	356
-Karlstad	345
-Växjö	255
-Greifswald	242
-Kristianstad	237
-Leipzig	177
-Tartu	148
-Härnösand	145
-Mariefred	136
-Stralsund	122
-Rostock	116
-Malmö	102
-Berlin	99
-Vänersborg	98
-Frankfurt	96
-Hamburg	90
-Vaasa	86
-Riga	80
-Tallinn	55
-Visby	52
-St Petersburg	52
-Mariehamn	50
-Visingsborg	47
-Nürnberg	40
-Lybeck	33
-Venice	32
-Haunia	32
-Karlshamn	31
-Helsinki	30
-Szczecin	29
-Göttingen	29
-The Hague	28
-Mariestad	27
-Rome	26
-Leiden	25
-Cologne	25
-Wittenberg	24
-Kiel	24
-Halmstad	24
-Helsingborg	23
-Strasbourg	22
-Oslo	22
-Halle	22
-Halden	22
-Boras	17
-Vienna	16
-Jena	16
-Stade	15
-Koningsberg	14
-Basel	14
-Breslau	13
-Zerbst	12
-Madrid	12
-Hannover	12
-Vilnius	11
-Lyon	11
-Geneve	11
-Altona	11
-Vyborg	10
-Utrecht	10
-Krakow	10
+Stockholm	201942
+Uppsala	21085
+Helsinki	14765
+Gothenburg	14164
+Lund	13296
+Malmö	5663
+Copenhagen	5009
+Örebro	4533
+Linköping	3315
+Jönköping	3151
+Norrköping	3059
+Turku	2875
+Oslo	2868
+Falun	2335
+Helsingborg	2094
+Berlin	2011
+Västeras	1703
+Leipzig	1583
+Karlskrona	1540
+Karlstad	1515
+Kristianstad	1467
+Strängnäs	1401
+Kalmar	1363
+Växjö	1156
+Porvoo	1154
+Gävle	1112
+Nyköping	1108
+Skara	1093
+New York NY	1081
+Chicago IL	1054
+Uddevalla	791
+Sundsvall	764
+Visby	717
+Härnösand	701
+Halmstad	660
+Eskilstuna	640
+Borås	637
+Stuttgart	581
+Umeå	570
+Rock Island IL	542
+Vaasa	527
+München	517
+Karlshamn	502
+Vänersborg	490
+Landskrona	442
+Södertälje	431
+St Petersburg	424
+Luleå	414
+Skövde	410
+Kristiinankaupunki	400
+Västervik	387
+Västerås	386
+Vienna	381
+Köping	372
+Ystad	366
+Hässleholm	366
+Hamburg	356
+Mariestad	349
+Prague	338
+Lidköping	316
+Greifswald	312
+Vetlanda	299
+Falköping	296
+Filipstad	287
+Trelleborg	274
+Moscow	266
+Sala	264
+Jena	261
+Eksjö	256
+Borlänge	252
+Reykjavik	246
+Oskarshamn	241
+Söderhamn	237
+Örnsköldsvik	236
+Hudiksvall	231
+Tartu	230
+Alingsås	223
+Norrtälje	222
+Rome	221
+Arvika	217
+Minneapolis Mn	216
+Sollefteå	208
+Jyväskylä	205
+Zürich	203
+Halle	203
+Frankfurt	202
+Riga	201
+Mariefred	192
+Vadstena	186
+Budapest	186
+Eslöv	184
+Nässjö	181
+Brussels	179
+The Hague	177
+Varberg	175
+Washington DC	171
+Trollhättan	166
+Milan	166
+Hämeenlinna	165
+Hedemora	164
+Arlöv	162
+Lindesberg	156
+Enköping	154
+Ulricehamn	153
+Leiden	152
+Warsaw	151
+Falkenberg	151
+Ängelholm	148
+Stralsund	147
+Sölvesborg	147
+Tammisaari	146
+Tranås	144
+Bollnäs	143
+Rostock	139
+Katrineholm	138
+Tallinn	134
+Skelleftea	133
+Amal	133
+Arboga	132
+Nora	127
+Klippan	126
+Vyborg	125
+Tierp	118
+Lysekil	118
+Tampere	117
+Madrid	117
+Lidingö	115
+Klinten	113
+Ljusdal	111
+Dresden	109
+Utrecht	106
+Firenze	104
+Värnamo	102
+Kuopio	101
+Mariehamn	98
+Strasbourg	97
+Bergen	97
+Kumla	95
+Karlskoga	95
+Nybro	94
+Geneva	94
+Osby	88
+Heidelberg	88
+Barcelona	88
+Piteå	87
+Basel	86
+Söderköping	85
+Sundbyberg	83
+Lybeck	83
+Braunschweig	83
+Vimmerby	81
+Aarhus	80
+Tokyo	79
+Pietarsaari	79
+Boden	77
+Trosa	75
+Nürnberg	74
+Göttingen	74
+Cologne	74
+Bern	74
+Södertäje	72
+Haarlem	72
+Buenos Aires	72
+Kiel	71
+Askersund	71
+Wiesbaden	70
+Breslau	70
+Visingsborg	68
+Pori	66
+Mora	65
+Ludvika	65
+Huskvarna	65
+Hardemo	63
+Svedala	62
+Sofija	61
+Krakow	61
+Oulu	60
+Haaparanta	59
+Bonn	57
+Grimma	56
+Antwerp	55
+Urbana	54
+Tübingen	54
+Tomteboda	54
+Asmara	54
+Szczecin	53
+Sandviken	53
+Laholm	53
+Potsdam	52
+Tidaholm	50
+Sköllersta	50
+Säffle	50
+Lisbon	50
+Zagreb	49
+Poznań	49
+Odense	49
+Marburg	49
+Freiburg	49
+Vammala	48
+Venice	47
+Simrishamn	47
+Strömstad	46
+Nynäshamn	46
+Sunne	45
+Skurup	44
+Östhammar	44
+Höganäs	44
+Ljungby	43
+Lincoln NE	43
+Kristdala	43
+Battle Creek Mi	43
+Orsa	42
+Leksand	42
+Hörby	42
+Gotha	42
+Bremen	42
+Säter	41
+Lausanne	41
+Hjo	41
+Weimar	39
+Vestervik	39
+Lyon	39
+Lviv	39
+Hanko	39
+Den	39
+Sao Paulo	38
+Peking	38
+Kungsgarden	38
+Mölndal	37
+Torino	36
+Princeton NJ	36
+Haunia	36
+Worcester Ma	35
+Paul	35
+Koningsberg	35
+Gütersloh	34
+New Haven Ct	33
+Malung	33
+Drammen	33
+Athens	33
+Naples	32
+Gränna	32
+Borgholm	32
+Insjön	31
+Flen	31
+Trondheim	30
+Sigtuna	30
+Ronneby	30
+Mjölby	30
+Limhamn	30
+Kokkola	30
+Karlsborg	30
+Istanbul	30
+Halden	30
+Gdańsk	30
+Djursholm	30
+Cambridge Ma	30
+Seattle WA	29
+Moline	29
+Moheda	29
+Mexico	29
+Groningen	29
+Solna	28
+Ousby	28
+Loviisa	28
+Huddinge	28
+Grästorp	28
+Grängesberg	28
+Francisco	28
+Alnarp	28
+Tandsbyn	27
+Sortavala	27
+Skänninge	27
+Höör	27
+Forssa	27
+Enskede	27
+Wittenberg	26
+Tomelilla	26
+Mikkeli	26
+Beograd	26
+Båstad	26
+Warberg	25
+Bryn Athyn PA	25
+Berkeley	25
+Augsburg	25
+Liège	24
+Kiruna	24
+Karlberg	24
+Hannover	24
+Bucharest	24
+Bordeaux	24
+Bishop Hill IL	24
+Bielefeld	24
+Åtvidaberg	24
+Wurzburg	23
+Surahammar	23
+Markaryd	23
+Mainz	23
+Håbo	23
+Genoa	23
+Stavanger	22
+Sjöbo	22
+Shanghai	22
+Magdeburg	22
+Leningrad	22
+Kungsbacka	22
+Hamina	22
+Fors	22
+Kramfors	21
+Kotka	21
+Eksjöhovgård	21
+Edsbyn	21
+Akureyri	21
+Winnipeg	20
+Vilnius	20
+Uusikaarlepyy	20
+Nancy	20
+Langensalza	20
+Gaseberg	20
+Bologna	20
+Torsby	19
+Skillingaryd	19
+Rotterdam	19
+Fagersta	19
+Erlangen	19
+Brno	19
+Krylbo	18
+Duvbo	18
+Amersfoort	18
+Aalborg	18
+Rouen	17
+Manchester	17
+Hallsberg	17
+Gnesta	17
+Erfurt	17
+Assen	17
+Åseda	17
+Älmhult	17
+Wismar	16
+Vansbro	16
+Svalöv	16
+Storvik	16
+Stora Slågarp	16
+Stade	16
+Spanga	16
+Lahti	16
+Karlsruhe	16
+Kallinge	16
+Hyltebruk	16
+Graasten	16
+Gällivare	16
+Fjälkestad	16
+Düsseldorf	16
+Avesta	16
+Valdemarsvik	15
+Strömsund	15
+Stocksund	15
+Lessebo	15
+Kashgar	15
+Jelgava	15
+Helsingør	15
+Gamleby	15
+Florence	15
+Darmstadt	15
+Cleveland Oh	15
+Bodafors	15
+Bjärnum	15
+Älvdalen	15
+Alsten	15
+Zutphen	14
+Torshälla	14
+Tingsryd	14
+Skjern	14
+Rønne	14
+Rio	14
+Paderborn	14
+Ottawa	14
+Oldenburg	14
+Nyland	14
+Norman	14
+Münster	14
+Munkedal	14
+Louvain	14
+Korsnäs	14
+Kisa	14
+Kalix	14
+Finspang	14
+Åstorp	14
+Altona	14
+Zerbst	13
+Vinslöv	13
+Vaxholm	13
+Töreboda	13
+Saltsjöbaden	13
+Reutlingen	13
+Rättvik	13
+Raa-Besenbek	13
+Örkelljunga	13
+Kouvola	13
+Innsbruck	13
+Graz	13
+Emmaboda	13
+Ankara	13
+Viggbyholm	12
+Toruń	12
+Torshavn	12
+Pisa	12
+Padua	12
+Östervåla	12
+Ockelbo	12
+Ljungskile	12
+Ljubljana	12
+Kungsör	12
+Honolulu	12
+Deventer	12
+Cincinnati Oh	12
+Uusikaupunki	11
+Uddeholm	11
+Sävsjö	11
+Santiago	11
+Norra Sandsjö	11
+Leeuwarden	11
+Kruunupyy	11
+Joensuu	11
+Jerusalem	11
+Hellerup	11
+Hällefors	11
+Gislaved	11
+Giessen	11
+Essen	11
+Dundee	11
+Caen	11
+Bussum	11
+Bengtsfors	11
+Bad Wörishofen	11
+Axelfors	11
+Altenburg	11
+Aachen	11
+Zeist	10
+Wurzen	10
+Wrocław	10
+Weltevreden	10
+Visingsö	10
+Verona	10
+Třebechovice pod Orebem	10
+Torp	10
+Regensburg	10
+Palermo	10
+Neuchatel	10
+Narva	10
+Litchfield Ct	10
+Lille	10
+Kolding	10
+Kassel	10
+Karleby	10
+Hofors	10
 Helmstedt	10
-Warsaw	9
-Milan	9
-Augsburg	9
-Wismar	8
-Potsdam	8
-Genoa	8
+Heilbronn	10
+Glimakra	10
+Chapel Hill	10
+Bruges	10
+Bombay	10
+Bergsjö	10
+Bergamo	10
+Arnhem	10
+Älvsjö	10
+Akarp	10
+Aby	10
+Wuppertal	9
+Wilmington De	9
+Ulm	9
+Tumba	9
+Tours	9
+Toronto	9
+Springfield Ma	9
+Smedjebacken	9
+Rauma	9
+Porto	9
+Nijmegen	9
+Milwaukee Wi	9
+Martin	9
+Mariannelund	9
+Lycksele	9
+Louis	9
+Lorch	9
+Lesjöfors	9
+Le Caire	9
+Kvidinge	9
+Hong Kong	9
+Heby	9
+Fränsta	9
+Finspång	9
+Durham	9
+Cape Town	9
+Broby	9
+Besançon	9
+Arbra	9
+Alem	9
+Wageningen	8
+Vingaker	8
+Tibro	8
+Smalandsstenar	8
+Sidensjö	8
+Schwerin	8
+Rudkøbing	8
+Orleans	8
+Olten	8
+Madras India	8
+Madison	8
+Lindsborg ks	8
+Lanciano	8
+Knislinge	8
+Kil	8
+Kiev	8
+Kairo	8
+Järvsö	8
+Görliz	8
+Gemla	8
+Fribourg	8
+Fiskars	8
+Dortmund	8
+Dingle	8
+Dessau	8
+Denver	8
+Cairo	8
+Årjäng	8
+Anhalt	8
+Witten	7
+Tortuna	7
+Tel Aviv	7
+Teheran	7
+Tällberg	7
+Solberga	7
+Skönvik	7
+Savonlinna	7
+Rockford IL	7
 Ratzeburg	7
-Poznań	7
-Lisbon	7
-Jelgava	7
-Firenze	7
-Wijsingzborg	6
-Weimar	6
-Ulm	6
-Uddevalla	6
-Naples	6
-Marburg	6
+Quedlinburg	7
+Portland Or	7
+Poltava	7
+Olofström	7
+Mühlhausen	7
+Mönsterås	7
+Monaco	7
+Mölnlycke	7
+Melbourne	7
+Macon	7
+Leuven	7
+Kungälv	7
+Konstanz	7
+Kajaani	7
+Ironwood Mi	7
+Inhambane	7
+Holmby	7
+Hagalund	7
+Gyoma	7
+Grenoble	7
+Gand	7
+Galesburg IL	7
+Fredrikstad	7
+Fageras	7
+Enebyberg	7
+Dordrecht	7
+Dijon	7
+Cedar Rapids IA	7
+Canberra	7
+Calcutta	7
+Bratislava	7
+Bohus	7
+Baarn	7
+Austin	7
+Ankarsrum	7
+Aneby	7
+Alvesta	7
+Alger	7
+Valencia	6
+Turin	6
+Tuna	6
+Toulouse	6
+Sønderborg	6
+Sollentuna	6
+Sofia	6
+Smoky Hills Ks	6
+Skälderviken	6
+Poitiers	6
+Plzeň	6
+Pau	6
+Påarp	6
+Norstedt	6
+Norrhult	6
+Norrbo	6
+Norden	6
+Neumünster	6
+Montpellier	6
+Mölle	6
+Matadi	6
+Mannheim	6
+Malmköping	6
 Lüneburg	6
-Liège	6
-Leeuwarden	6
+Lierre	6
+Le Mans	6
+Lappeenranta	6
+Kaschgar	6
+Kärrgruvan	6
 Jüterbog	6
-Fredrikstad	6
-Erfurt	6
-Dresden	6
-Antwerp	6
-Zürich	5
-Prague	5
+Järsö	6
+Hemse	6
+Hanau	6
+Hallstahammar	6
+Halberstadt	6
+Gusum	6
+Gustavsberg	6
+Grebbestad	6
+Garden city ny	6
+Gällstad	6
+Frauenfeld	6
+Fellingsbro	6
+Färgelanda	6
+Evanston	6
+Duluth Mn	6
+Degerfors	6
+Columbus	6
+Citta del vaticano	6
+Åsele	6
+Ann Arbor	6
+Alby	6
+Aarau	6
+Wis	5
+Voorburg	5
+Vilhelmina	5
+Viksjöfors	5
+Versailles	5
+Vejle	5
+Vallsta	5
+Vaggeryd	5
+Ulriksdal	5
+Torne	5
+Tenhult	5
+Tärnaby	5
+Storebro	5
+St Gallen	5
+Sörvik	5
+Sorunda	5
+Sioux city ia	5
+Sibbhult	5
+Salt Lake City Ut	5
+Salo	5
+Rüschlikon	5
+Rudolfstadt	5
+Riihimäki	5
+Red Wing MN	5
+Raahe	5
+Providence RI	5
+Portland Me	5
+Perth	5
+Pernaja	5
+Oxelösund	5
+Övre Ullerud	5
+Osnabrück	5
 Oranienburg	5
-Narva	5
-Moscow	5
-Haarlem	5
-Gusum	5
-Erlangen	5
+Odessa	5
+Norrviken	5
+Neuruppin	5
+Neudamm	5
+Möklinta	5
+Modena	5
+Luzern	5
+Luetzen	5
+Lönsboda	5
+Liverpool	5
+Lincoln	5
+Kvarnby	5
+Kronstad	5
+Kopparberg	5
+Kinnared	5
+Kinna	5
+Kerava	5
+Kaunas	5
+Julita	5
+Järpen	5
+Hyvinkää	5
+Hyllinge	5
+Högsby	5
+Herrljunga	5
+Hammenhög	5
+Haderslev	5
+Götene	5
+Görslöv	5
+Gent	5
+Galva	5
+Gagnef	5
+Florens	5
+Flensburg	5
+Fagerstrand	5
+Ektorp	5
+Detmold	5
+Delft	5
+Debrecen	5
 Dantzig	5
-Bremen	5
+Colmar	5
+Cluj-Napoca	5
+Charlottenlund	5
+Charkov	5
+Catania	5
+Braunsberg	5
+Bräcke	5
+Borrby	5
 Boizenburg	5
+Bofors	5
+Barmen	5
+Baden	5
+Angers	5
 Altefähr	5
-Aarhus	5
-Stuttgart	4
-Pisa	4
+Alkmaar	5
+Alfred NY	5
+Zinkgruvan	4
+Żary	4
+Winterthur	4
+Willmar Mn	4
+Viskafors	4
+Vendel	4
+Vedum	4
+Varkaus	4
+Vännäs	4
+Vällingby	4
+Valladolid	4
+USA	4
+Tromsö	4
+Trichinopoly	4
+Torekov	4
+Topeka	4
+Tønder	4
+Timrå	4
+Tärnsjö	4
+Tacoma wa	4
+Täby	4
+Syracuse ny	4
+Sydney	4
+Svanesund	4
+Söderfors	4
+Skellefteå	4
+Skanes fagerhult	4
+San Diego CA	4
+Saltsjö-Järla	4
+Rydboholm	4
+Roslags näsby	4
+Ravensburg	4
+Rathenow	4
+Quebec	4
+Pontoise	4
+Peiping	4
 Pärnu	4
-Magdeburg	4
-Helsingør	4
-Görliz	4
+Omaha Ne	4
+Nördlingen	4
+Neustadt	4
+Nedre Gärdsjö	4
+Naumburg	4
+Moncullo	4
+Molkom	4
+Mjällby	4
+Minnesota	4
+Malmberget	4
+Los Angeles CA	4
+Los Angeles	4
+Lochem	4
+Linz	4
+Limedsforsen	4
+Liepaja	4
+Lerum	4
+Lemvig	4
+Leksberg	4
+Leigh	4
+Käringön	4
+Kampen	4
+Käkisalmi	4
+Junsele	4
+Järna	4
+Ithaca NY	4
+Hyllstofta	4
+Hultsfred	4
+Hjorted	4
+Hildesheim	4
+Hensmala	4
+Heidenau	4
+Harplinge	4
+Harmanger	4
+Hanoi	4
+Hammarstrand	4
+Hallstavik	4
+Hagfors	4
+Hagaberg	4
+Grove city mn	4
+Götlunda	4
+Glückstadt	4
+Glendale	4
+Gießen	4
+Getinge	4
+Frövi	4
+Fristad	4
 Freyberg	4
+Forsvik	4
+Fittja	4
+Eskiltuna	4
+Erikslund	4
 Elbingen	4
-Dessau	4
-Danzig	4
-Brunsberg	4
+Elberfeld	4
+Detroit Mi	4
+Delsbo	4
+Danderyd	4
+Dals Långed	4
+Cremona	4
+Clermont-Ferrand	4
+Chillicothe Oh	4
+Chemnitz	4
+Buffalo	4
+Bryn Athyn	4
+Brunskog	4
+Brunnsberg	4
+Brookfield Ma	4
+Borensberg	4
+Böda	4
+Bayreuth	4
+Bamberg	4
+Baku	4
+Avignon	4
+Aurillac	4
 Augusta	4
+Asker	4
+Ashammar	4
+Asen	4
+Ascona	4
+Arvidsjaur	4
+Arnstadt	4
+Anklam	4
+Alunda	4
 Altenstein	4
 Altdorf	4
-Aalborg	4
-Żary	3
-Valladolid	3
+Alseda	4
+Almeloo	4
+Älgarås	4
+Albuquerque	4
+Albany NY	4
+Zwolle	3
+Wernigerode	3
+Weißenfels	3
+Vretstorp	3
+Vrena	3
+Vittsjö	3
+Vislanda	3
+Virserum	3
+Villefranche	3
+Vienne	3
+Videyar Klaustri	3
+Västanfors	3
+Väse	3
+Varekil	3
+Vallkärra	3
+Uttran	3
+Urshult	3
+Uddebo	3
+Tyringe	3
+Tureberg	3
+Tucson	3
+Troyes	3
+Trollbäcken	3
 Treuenbrietzen	3
-Strömstad	3
+Traneberg	3
+Torsås	3
+Torsaker	3
+Tornio	3
+Tjörn	3
+Syninge	3
+Swedesburg	3
+Stenberga	3
+Stanford	3
+St Chrischona	3
+Sorø	3
+Slagelse	3
+Skultuna	3
+Skive	3
+Skinnskatteberg	3
+Sevilla	3
+Schleswig	3
+Särna	3
+Saltsjö-Duvnäs	3
+Salamanca	3
 Saarmund	3
-Rotterdam	3
+Ryssby	3
+Rosehill	3
+Rönninge	3
+Röke	3
+Rödbo	3
+Rochester	3
+Richmond	3
+Ribe	3
+Rennes	3
+Ratingen	3
+Randers	3
 Rädigke	3
-Padova	3
-Odense	3
-München	3
+Radebeul	3
+Pretoria	3
+Porsgrund	3
+Poona	3
+Plauen	3
+Pieksämäki	3
+Pesth	3
+Perstorp	3
+Pedersöre	3
+Parma	3
+Parainen	3
+Palsboda	3
+Palgard	3
+Oviken	3
+Östra Karup	3
+Örtofta	3
+Opava	3
+Offenbach am Main	3
+Nykvarn	3
+Northfield	3
+Norsjö	3
+Niort	3
+Nimes	3
+Nijkerk	3
+Nice	3
+Nantes	3
+Mustasaari	3
+Munich	3
+Mülheim	3
+Moulins	3
+Messina	3
+Mellgard	3
 Meinz	3
-Kassel	3
-Heidelberg	3
-Gotha	3
-Giessen	3
+Mechelen	3
+Marstrand	3
+Marma	3
+Manila	3
+Manhem	3
+Lysvik	3
+Lugano	3
+Ludwigshafen	3
+Lucca	3
+Ljungsbro	3
+Linn	3
+Linghem	3
+Lima	3
+Lexington KY	3
+Legnica	3
+Leeds	3
+Laxå	3
+Långasjö	3
+Landafors	3
+Kristiansand	3
+Kräklinge	3
+Kosta	3
+Kazan	3
+Kansas city mo	3
+Kaiserswerth	3
+Kaapstad	3
+Johannishus	3
+Johannisberg	3
+Jakobsberg	3
+Isafjördur	3
+Iowa City	3
+Ingolstadt	3
+Iggesund	3
+Husum	3
+Hoting	3
+Hillerod	3
+Helgum	3
+Harmondsworth	3
+Harbor Oh	3
+Hamar	3
+Hällabrottet	3
+Hackas	3
+Groeningen	3
+Grimslöv	3
+Grand Rapids Mi	3
+Gouda	3
+Gnosjö	3
+Gainesville	3
+Frykerud	3
 Freystadt	3
+Freiberg	3
 Franzburg	3
-Florence	3
-Braunschweig	3
-Bonn	3
-Barcelona	3
-Arnstadt	3
+Forshaga	3
+Flyinge	3
+Floda	3
+Flisby	3
+Fjugesta	3
+Esbjerg	3
+Emmaljunga	3
+Eisleben	3
+Edam	3
+Dover NJ	3
+Douala	3
+Djurröd	3
+Coventry	3
+Coimbra	3
+Coburg	3
+Città di Castello	3
+Christiansand	3
+Charlottenberg	3
+Burg	3
+Bunge	3
+Broaryd	3
+Brisbane	3
+Brazzaville	3
+Bogota	3
+Bjuv	3
+Bispgarden	3
+Bishop Hill	3
+Bara	3
+Averbode	3
+Askeröd	3
+Arrie	3
+Arras	3
+äppelviken	3
+Ann Arbor MI	3
+Ängeholm	3
+Aneboda	3
+Amiens	3
+Älvkarleö	3
+Allerum	3
+Allahabad	3
+Älghult	3
+Alfta	3
+Aix-en-Provence	3
+Agnesberg	3
+Adyar	3
+Adolfsberg	3
+Addis Abeba	3
+Zwickau	2
+Zweibrücken	2
+Zilina	2
+Zeitz	2
 Zamosc	2
-Villefranche	2
-Versailles	2
-Turin	2
-Tübingen	2
-Sorø	2
+Woodstock	2
+Wolfenbüttel	2
+White plains ny	2
+Wenona Il	2
+Wedel	2
+Waterbury ct	2
+Voorhout	2
+Vätternäs	2
+Västgärde	2
+Västerlanda	2
+Västerfärnebo	2
+Varsa	2
+Varnhem	2
+Värmdö	2
+Vårgårda	2
+Vänga	2
+Våmhus	2
+Valparaiso	2
+Valbo	2
+Vadensjö	2
+Unnaryd	2
+Undenäs	2
+Überlingen	2
+Tystberga	2
+Turnov	2
+Turki	2
+Tunis	2
+Tucuman	2
+Trönödal	2
+Trieste	2
+Trani	2
+Tossene	2
+Tonbridge	2
+Tofteryd	2
+Tofta	2
+Tiflis	2
+Thun	2
+Tharangampadi	2
+Tegelsmora	2
+Teckomatorp	2
+Svenstavik	2
+Svenshögen	2
+Svenarum	2
+Surte	2
+Strövelstorp	2
+Strömtorp	2
+Strömsholm	2
+Straubing	2
+Stråtjära	2
+Strägnäs	2
+Stora Skedv	2
+Stora Klefva	2
+Stöde	2
+Stjärnhov	2
+Stirling	2
+Stendal	2
+Stamford	2
+Spöland	2
+Speyer	2
+Sparrsätra	2
+Spa	2
+Solothurn	2
+Söderala	2
+Sneek	2
+Smedby	2
+Skohalvön	2
+Skavböke	2
+Skälderhus	2
+Silkeborg	2
+Seglora	2
 Sedini	2
-Schwerin	2
 Schwabach	2
-Rudolfstadt	2
-Rouen	2
-Regensburg	2
-Perth	2
-Pernaja	2
-New York NY	2
-Neuchatel	2
-Mühlhausen	2
-Lugano	2
-Lucca	2
+Schiedam	2
+Schellenberg	2
+Sceaux	2
+Sävedalen	2
+Savannah Ga	2
+Santpoort-Zuid	2
+Sandared	2
+Salzburg	2
+Runemo	2
+Rothenburg ob der Tauber	2
+Roskilde	2
+Rödelheim	2
+Rijswijk	2
+Richmond Va	2
+Revel	2
+Reims	2
+Refsund	2
+Ransta	2
+Rangedala	2
+Ramvik	2
+Ramsele	2
+Ramnäs	2
+Rämmen	2
+Ramfall	2
+Ragunda	2
+Pyrmont	2
+Purmerend	2
+Przemyśl	2
+Prenzlau	2
+Poughkeepsie NY	2
+Poissy	2
+Plovdiv	2
+Pittsburgh Pa	2
+Pisek	2
+Pforzheim	2
+Perugia	2
+Pekin	2
+Passau	2
+Paisley	2
+Oviedo	2
+Övertornea	2
+Överklinten	2
+Österbybruk	2
+Österås	2
+Oskarström	2
+Orrefors	2
+Oppenheim	2
+Olomouc	2
+Oklahoma City OK	2
+Öhringen	2
+Obbola	2
+Nyskoga	2
+Nyhamnsläge	2
+Nösund	2
+Nossebro	2
+Norrahammar	2
+Nordmaling	2
+Nordingra	2
+Nordhausen	2
+Nockeby	2
+Nieuwediep	2
+Newark NJ	2
+Neuwied	2
+Neubrandenburg	2
+Nebraska	2
+Nashville TN	2
+Näsåker	2
+Narvik	2
+Närpiö	2
+Naestved	2
+Nacka	2
+Myjava	2
+Munsö	2
+Munktorp	2
+Munkfors	2
+Mulhouse	2
+Mukimbungu	2
+Moss	2
+Mörbylånga	2
+Mörarp	2
+Montreuil	2
+Montreal	2
+Montevideo	2
+Mons	2
+Monmouth	2
+Moliden	2
+Molde	2
+Minden	2
+Metz	2
+Merseburg	2
+Meppel	2
+Menasha wi	2
+Mellansel	2
+Meissen	2
+Matfors	2
+Mantorp	2
+Mansasen	2
+Mamers	2
+Malilla	2
+Maastricht	2
+Lyckeby	2
+Luela	2
+Lucksta	2
+Lucknow	2
 Lübeck	2
-Linz	2
-Legnica	2
-Lausanne	2
-Karlsruhe	2
+Luanda	2
+Lowry MN	2
+Lövestad	2
+Lönneberga	2
+Lommaryd	2
+Locarno	2
+Löberöd	2
+Linderöd	2
+Limoges	2
+Lillsved	2
+Lillan	2
+Lilla Edet	2
+Liljeholmen	2
+Laxsjö	2
+Lästringe	2
+Langshyttan	2
+Langebro	2
+Landsbro	2
+Landsberg	2
+Lancaster Pa	2
+Kvistbro	2
+Kvevlax	2
+Krakau	2
+Königstein	2
+Kolsva	2
+Klockrike	2
+Klintehamn	2
+Klemensnäs	2
+Kirchhain	2
+Kemi	2
+Kävlinge	2
+Katowice	2
+Karlholmsbruk	2
+Kampala	2
+Kallmünz	2
 Kalisz	2
+Kalikata	2
+Kågeröd	2
+Jihlava	2
+Jamestown ny	2
+Jakarta	2
+Jafo	2
+Ishpeming Mi	2
+Indianapolis	2
+Igelstorp	2
+Huvudsta	2
+Hradec Kralove	2
+Hovmantorp	2
+Hoverberg	2
+Horda	2
+Holsbybrunn	2
+Holbaek	2
+Högsjö	2
+Högbyn	2
+Hofva	2
+Hille	2
+Hildburghausen	2
 Heylbronn	2
+Hestra	2
+Hertogenbosch	2
+Herborn	2
+Hemsjö	2
+Heinola	2
+Hässelby	2
+Harlösa	2
+Hamneda	2
+Hammarö	2
 Hamm	2
-Groeningen	2
+Hällestad	2
+Hälleforsnäs	2
+Halifax	2
+Habana	2
+Güstrow	2
+Gunnarskog	2
+Grythyttan	2
+Grundsunda	2
+Grönskåra	2
+Grimstorp	2
+Grimnäs	2
 Grätz	2
-Glückstadt	2
-Flensburg	2
-Dijon	2
-Deventer	2
+Gräsmark	2
+Grankulla	2
+Grangärde	2
+Gräfsnäs	2
+Gowrie IA	2
+Gnarp	2
+Gloucester	2
+Glommersträsk	2
+Glogau	2
+Glemmingebro	2
+Gladbach	2
+Gimo	2
+Gera	2
+Gembloux	2
+Gdynia	2
+Garphyttan	2
+Garden city	2
+Gardelegen	2
+Gap	2
+Gammelstad	2
+Gällared	2
+Fürth	2
+Fürstenwalde	2
+Frösön	2
+Fritsla	2
+Frillesas	2
+Freiburg im Breisgau	2
+Frederiksberg	2
+Fredericia	2
+Frankfort Ky	2
+Forsheda	2
+Forsa	2
+Fontainebleau	2
+Flipstad	2
+Fjällbacka	2
+Fiskebäckskil	2
+Finja	2
+Fernviken	2
+Farsta	2
+Färila	2
+Falsterbo	2
+Fagersanna	2
+Fagerhult	2
+Faenza	2
+Essunga	2
+Elmhult	2
+Ellös	2
+Ekestad	2
+Ekerö	2
+Eisenach	2
+Eastsound Wa	2
+Durban	2
+Dubrovnik	2
+Drottningholm	2
+Dillingen	2
+Dikanäs	2
+Dieren	2
+Denmark	2
+Deje	2
+Decorah IA	2
+Dayton ia	2
+Davos	2
+Dala-Järna	2
+Dädesjö	2
+Crookston	2
+Cracovie	2
 Coswig	2
+Compiegne	2
+Como	2
+Ciudad trujillo	2
+Chalon-sur-Saône	2
+Cetinje	2
+Cesis	2
+Carbondale	2
+Caracas	2
+Canton	2
+Caldwell Id	2
+Caerdydd	2
+Byholma	2
 Buxtehude	2
-Brussels	2
+Burlington NJ	2
+București	2
 Brunswick Ma	2
-Bordeaux	2
-Bologna	2
-Bergen	2
-Aachen	2
-Zweibrücken	1
-Zeitz	1
+Brunflo	2
+Bredbyn	2
+Bredaryd	2
+Braniewo	2
+Bräkne-Hoby	2
+Braas	2
+Bourges	2
+Bottnaryd	2
+Börrum	2
+Borna	2
+Bordighera	2
+Bondstorp	2
+Bollstanäs	2
+Bloomington	2
+Blomskog	2
+Blidsberg	2
+Bjursas	2
+Bjurholm	2
+Birmingham	2
+Billesholm	2
+Bilbao	2
+Beresford	2
+Belgrad	2
+Beirut	2
+Beateberg	2
+Bayonne nj	2
+Barsebäck	2
+Bari	2
+Bale	2
+Auxerre	2
+Attica in	2
+Asuncion	2
+Asbro	2
+Asbo	2
+Ärtemark	2
+Antananarivo	2
+Ansbach	2
+Ankarsvik	2
+Angouleme	2
+Ange	2
+Anderstorp	2
+Amberg	2
+Älvsbyn	2
+Altadena CA	2
+Alnön	2
+Almby	2
+Älgabäcksryd	2
+Alencon	2
+Akranes	2
+Akeshov	2
+Ahmedabad	2
+Abbeville	2
+Zwittau	1
+Zug	1
+Zoutleeuw	1
+Znaim	1
+Zihlbrücke	1
+Zielenzig	1
+Zeulenroda	1
+Zaragoza	1
+Zaandam	1
 Yverdon-les-Bains	1
-Worcester Ma	1
-Winterthur	1
-Wilmington De	1
-Wijsingzborg rikz	1
-Weißenfels	1
+Ytteran	1
+Ysane	1
+York Pa	1
+Yonkers ny	1
+Württemberg	1
+Workum	1
+Worcester	1
+Woodhull Il	1
+Wloclawek	1
+Wiebelsheim	1
+Wheaton Mn	1
+Wetteren	1
+Werl	1
+Wellington New Zeland	1
+Weissenburg	1
+Weingarten	1
+Weilburg	1
+Weibullsholm	1
+Weehawken NJ	1
+Waverly Ia	1
+Watford	1
+Wataga IL	1
 Warrington	1
-Vesterås	1
-Verona	1
-Västerås	1
+Warnsdorf	1
+Wallingford pa	1
+Wakefield ne	1
+Wahoo ne	1
+Vrsovice	1
+Vrigstad	1
+Vraka	1
+Voxna	1
+Voronež	1
+Vollsjö	1
+Vivstavarv	1
+Vittinge	1
+Vitsand	1
+Virkby	1
+Virestad	1
+Ving	1
+Vinberg	1
+Vilshult	1
+Vilne	1
+Vikingstad	1
+Vifstavarf	1
+Victoria British Columbia	1
+Vevey	1
+Vetanda	1
+Vessigebro	1
+Vesoul	1
+Verviers	1
+Verkebäck	1
+Venegono Inferiore	1
+Vendelsö	1
+Ven	1
+Vellinge	1
+Velke mezirici	1
+Veinge	1
+Vedevag	1
+Veddige	1
+Veda	1
+Växlander	1
+Västra Ryd	1
+Västra Ämtervik	1
+Västland	1
+Västerhaninge	1
+Västeras per kraft	1
+Västeras numr	1
 Västanå	1
-Troyes	1
+Vassor	1
+Väsby	1
+Vartofta	1
+Ṿarshe	1
+Varola	1
+Väröbacka	1
+Värmskog	1
+Väring	1
+Vargön	1
+Vankiva	1
+Vängdala	1
+Vänersnäs	1
+Vancouver	1
+Vamlingbo	1
+Valskog	1
+Valley springs	1
+Vallentuna	1
+Valka	1
+Vălenii de Munte	1
+Vågbro	1
+Väckelsång	1
+Uvira	1
+Uppakra	1
+Ulvstorp	1
+Ulvila	1
+Ulvesund	1
+Ulverston	1
+Ulrikedal	1
+Ujpest	1
+Udine	1
+Tvedestrand	1
+Tvaaker	1
+Tustin Mi	1
+Turrialba	1
+Turnhout	1
+Turlock Ca	1
+Turiguano	1
+Tšuhujiv	1
+Troy NY	1
+Troppau	1
+Trivandrum	1
 Trier	1
 Tribsees	1
-Tours	1
+Treviso	1
+Treignac	1
+Träslöv	1
+Transvaal	1
+Tournay	1
+Tourcoing	1
+Tostarp	1
+Torskors	1
+Torrlösa	1
+Torpshammar	1
+Torgau	1
+Torestorp	1
 Tönning	1
-Tønder	1
+Töllsjö	1
+Tollarp	1
+Tolg	1
+Toledo oh	1
+Toftlund	1
+Töcksfors	1
+Tobolsk	1
+Tjörnarp	1
+Tivoli	1
+Tingstad	1
+Tilsit	1
+Tilburg	1
+Tiel	1
+Thurso	1
+Thisted	1
+Terni	1
+Terijoki	1
+Teplice	1
+Tempe az	1
+Tegnefors	1
+Tegneby	1
+Tegnaby	1
+Taxinge	1
+Tävelsås	1
+Tåsjö	1
+Tanum	1
+Tannefors	1
 Tanger	1
-Tampere	1
+Tallbo	1
+Taastrup	1
+Szekszárd	1
+Swedona IL	1
+Swedeburg Ne	1
+Svištov	1
+Svinesund	1
+Svappavaara	1
+Svanskog	1
+Svanö	1
+Svängsta	1
+Superior Wi	1
+Sunhultsbrunn	1
+Sunderbyn	1
+Sumen	1
 Sulzbach	1
-Suisse	1
-Strömsholm	1
-Straubing	1
-Stendal	1
+Sulvik	1
+Suistamo	1
+Süderstapel	1
+Styrsö	1
+Sturkö	1
+Stromsburg ne	1
+Striberg	1
+Strehlen	1
+Stratford-upon-Avon	1
+Strassfurt	1
+Strångsjö	1
+Strand	1
+Storuman	1
+Storfors	1
+Storängen	1
+Stora Torp	1
+Stora Tofthög	1
+Stora skedvi	1
+Stora mellösa	1
+Stora Karlsö	1
+Stoke-on-Trent	1
+Stockel	1
+Stöckeby	1
+Stoby	1
+Stjärnsund	1
+Stiens	1
+Stetten	1
+Stenungsund	1
+Stensjöholm	1
+Stensele	1
+Stenkyrka	1
+Stehag	1
+Steenbrugge	1
+Stassfurt	1
+Stara Rise	1
+Stanton Ia	1
+Stäket	1
+Staffanstorp	1
+St Helier	1
+St acre	1
+Spring Lake	1
+Sprängsviken	1
+Spoleto	1
+Spokane Wa	1
+Spjutstorp	1
+South bend ind	1
+Sösdala	1
+Sophia	1
+Sontra	1
 Sondershausen	1
+Sölje	1
+Soest	1
+Soerabaja	1
+Söderbärke	1
+Söderåkra	1
+Snogeröd	1
 Smolensk	1
+Smögen	1
+Smalands Taberg	1
+Smålands Burseryd	1
+Slite	1
+Slaka	1
+Skuttunge	1
+Skromberga	1
+Skreanäs	1
+Skra	1
+Skottorp	1
+Skönsmon	1
+Skön	1
+Skjelskor	1
+Skillingsfors	1
+Skillingfors	1
+Skepsas	1
+Skelleftehamn	1
+Skedevi	1
+Skattkärr	1
+Skanör	1
+Skånes Värsjö	1
+Skagersbrunn	1
+Sjuntorp	1
+Sjövik	1
+Sjötofta	1
+Sjösa	1
+Sipoo	1
+Sint-Truiden	1
+Singapore	1
+Simtuna	1
+Simonstorp	1
+Siljansnäs	1
+Sikås	1
 Siena	1
+Siegen	1
+Sidcup	1
+Sibiu	1
+Seskarö	1
+Senlis	1
+Semarang	1
+Selbu	1
+Segovia	1
+Sclayn	1
+Schweinitz	1
+Schwedt/Oder	1
+Schulze dean	1
+Schoonhoven	1
 Schnepfenthal	1
-Schleswig	1
+Scheinfeld	1
+Scharbeutz	1
+Schaffhausen	1
+Schaan	1
+Scansano	1
+Saxkjobing	1
+Savonburg kan	1
+Savona	1
+Saverne	1
+Saumur	1
+Satserup	1
+Sätila	1
+Sarpsborg	1
+Särkisalmi	1
+Särestad	1
+Sarajevo	1
+Santos	1
+Sandträsk	1
+Sandhammaren	1
+San Severino Marche	1
+San Juan Puerto Rico	1
 Samtens	1
+Samedan	1
+Salzkotten	1
+Salstad	1
+Sälen	1
+Salemsborg	1
+Salem	1
+Saint-Gaudens	1
+Saint-Brieuc	1
+Saint Paul MN	1
+Säbrå	1
+Saarlouis	1
+Saarbrücken	1
 Saalfeld	1
+Rydsgard	1
+Rydaholm	1
+Rusko	1
+Ruovesi	1
+Runnvika	1
+Rovigo	1
+Rovaniemi	1
+Röstånga	1
 Roßlau	1
-Rom	1
+Rosersberg	1
+Ronshausen	1
+Rönneshytta	1
+Ronneburg	1
+Rönnäng	1
+Roeselare	1
+Rodez	1
+Rockneby	1
+Rochdale	1
+Roch island ill	1
+Rocca San Casciano	1
+Robertsfors	1
+Rixheim	1
+Risinge	1
+Ringerike	1
+Ringamala	1
 Rimini	1
+Rimforsa	1
+Rimbo	1
+Rieti	1
 Ribnitz	1
+Riala	1
 Rhodopoli	1
-Revel	1
-Reutlingen	1
-Quedlinburg	1
-Pyrmont	1
+Reykjavík	1
+Replot	1
+Rendsburg	1
+Reichenbach	1
+Regna	1
+Reggio	1
+Reftele	1
+Rätansbyn	1
+Rantasalmi	1
+Ränneslöv	1
+Ramkvilla	1
+Ramdala	1
+Raleigh	1
+Rada	1
+Råby Rönö	1
+Raby	1
+Råbäck	1
+Quito	1
+Quincy Ma	1
+Querfurt	1
+Pyrzyce	1
+Puyollup Wa	1
+Pusan	1
+Pukavik	1
+Pskov	1
+Prostějov	1
+Prostat	1
+Prien	1
+Prevalje	1
+Pressburg	1
 Poschiavo	1
+Port Shepstone	1
+Porrentruy	1
+Pontarlier	1
 Pomerania	1
 Plymouth	1
-Pirna	1
-Parma	1
-Palermo	1
-Orleans	1
+Plön	1
+Pleasant Grove Ut	1
+Pistoia	1
+Pinerolo	1
+Pielisjärvi	1
+Pfullingen	1
+Petroskoi	1
+Pescara	1
+Perleberg	1
+Peoria IL	1
+Pegau	1
+Pawtucket ri	1
+Pavia	1
+Paulo	1
+Patra	1
+Pataholm	1
+Paskallavik	1
+Partille	1
+Parkano	1
+Parchim	1
+Palma	1
+Pallas	1
+Pacov	1
+Oxie	1
+Öxabäck	1
+Överlida	1
+Överkalix	1
+Överboda	1
+Ovansjö	1
+Ottumwa iowa	1
+Ostrumelien	1
+Ostrava	1
+Östra Göinge	1
+Östra ämtervik	1
+Ostende	1
+Ösmo	1
+Ösjöbol	1
+Örsundsbro	1
+Ornö	1
+Orivesi	1
+Onsala	1
 Onoldi	1
+Olsburg ks	1
+Ölmstad	1
+Öllösa	1
+Öljehult	1
 Oliva	1
+Oława	1
+Ojai CA	1
+Oisterwijk	1
+Oderljunga	1
+Odensvi	1
+Ödåkra	1
+Ocke	1
+Oakland ca	1
 Nytorp	1
+Nysund	1
 Nysa	1
-Nijmegen	1
+Nynäs	1
+Nymburk	1
+Nyligen	1
+Nykyrka	1
+Nykjobing	1
+Nyhem	1
+Nygard	1
+Nyborg	1
+Nuuk	1
+Novosibirsk	1
+Novi Sad	1
+Novgorod	1
+Novara	1
+Nottingham	1
+Nosaby	1
+Norwich Ct	1
+Norwalk Ct	1
+Norrsundet	1
+Norrskata	1
+Norrfjärden	1
+Nordnes	1
+Noraskog	1
+Noormarkku	1
+Nolby	1
+Nogent-le-Rotrou	1
+Nödinge	1
+Nöbbele	1
+Njutanger	1
+Nivelles	1
+Nitta	1
+Nissafors	1
 Newry	1
-Nantes	1
+Newark	1
+New London Ct	1
+New Jersey NJ	1
+New Brunswick NJ	1
+Nevers	1
+Neutitschein	1
+Neustrelitz	1
+Neukölln	1
+Nederkalix	1
+Navestabro	1
+Nävekvarn	1
+Naugatuck Ct	1
+Näsbypark	1
+Narunga	1
+Närtuna	1
+Naperville IL	1
+Namur	1
+Namsos	1
+Nakskov	1
+Nagu	1
+Nagpur	1
+Nagoya	1
+Mustio	1
+Murten	1
+Mulseryd	1
+Mountain View Ca	1
+Mostorp	1
+Mosjøen	1
+Mörrum	1
 Morpeth	1
-Montpellier	1
-Metz	1
-Mannheim	1
-Manchester	1
-Lviv	1
-Limoges	1
+Morgardshammar	1
+Montrose	1
+Montpelier Vt	1
+Montevrain	1
+Montereau	1
+Montelimar	1
+Montecassino	1
+Mont Alto	1
+Monasterii	1
+Mölnbo	1
+Mölltorp	1
+Möljeryd	1
+Moline IL	1
+Moholm	1
+Mjörn	1
+Mjöhult	1
+Mittelwald	1
+Miskolc	1
+Minnepolis	1
+Millesvik	1
+Middelfart	1
+Miami FL	1
+Mexiko	1
+Mexico City	1
+Meselefors	1
+Menton	1
+Memmingen	1
+Memel	1
+Melun	1
+Mellösa	1
+Melle	1
+Meldorf	1
+Meitingen	1
+Meisenheim	1
+Meiningen	1
+Mehede	1
+Medellin	1
+Meaux	1
+Mcpherson KS	1
+Mayenne	1
+Mattmar	1
+Mässbacken	1
+Märsta	1
+Marseille	1
+Marquette	1
+Markranstädt	1
+Marienburg	1
+Maribor	1
+Mariadahl ks	1
+Margate	1
+Mångbyån	1
+Malax	1
+Madura	1
+Macao	1
+Luton	1
+Lusaka	1
+Lungsund	1
+Lundsberg	1
+Lunds	1
+Lumsheden	1
+Lugnås	1
+Lövånger	1
+Losoncz	1
+Lorient	1
+Lons-le-Saunier	1
+Lomma	1
+Lohja	1
+Ljusne	1
+Ljurhalla	1
+Ljungbyholm	1
+Ljungbyhed	1
+Ljugarn	1
+Livorno	1
+Lisse	1
+Liptovský Mikuláš	1
+Liperi	1
+Linneryd	1
+Linghed	1
+Lindau	1
+Lind	1
+Lillkyrka	1
+Lillehammer	1
+Lilla harrie	1
+Liguge	1
+Lidnäs	1
 Libros	1
-Leeds	1
-Krakau	1
-Köthen	1
+Leźno	1
+Leverkusen	1
+Letchworth	1
+Lerviken	1
+Lervik	1
+Leopol	1
+Leobe	1
+Lenhovda	1
+Lengerich	1
+Lemnhult	1
+Lemgo	1
+Lemberg	1
+Lekvattnet	1
+Lekhyttan	1
+Lekeryd	1
+Lehtimäki	1
+Lebanon PA	1
+Leamington Spa	1
+Le Puy-en-Velay	1
+Lawrence KS	1
+Larvik	1
+Lapua	1
+Lapinjärvi	1
+Lannaskede	1
+Lännäs	1
+Lannabruk	1
+Lanna	1
+Långstorp	1
+Länghem	1
+Langaryd	1
+Landishuti	1
+Lamoni IA	1
+Lammhult	1
+Lämbacken	1
+Lahr	1
+Lahore	1
+Lagan	1
+Labiau	1
+La Porte In	1
+La Porte	1
+La plata	1
+La Paz	1
+La Laguna	1
+La Crosse Wi	1
+La Chaux-de-Fonds	1
+Kyrkhult	1
+Kvissleby	1
+Kville	1
+Kvänum	1
+Kuusankoski	1
+Kuala Lumpur	1
+Krotoszyn	1
+Krokek	1
+Kristiansund	1
+Kreuznach	1
+Kovland	1
+Koskö	1
+Kosice	1
+Kortebo	1
+Korsträsk	1
+Korsor	1
+Kornsjø	1
+Kongsvinger	1
+Kongsberg	1
+Kolmarden	1
+Köla	1
+Kokemäki	1
+Köinge	1
 Koblenz	1
+Knivsta	1
+Knäred	1
+Kloster Lehnin	1
+Kleva	1
+Kjustendil	1
+Kjulaås	1
+Kjoge	1
+Kivik	1
+Kitee	1
+Kirvus	1
+Kirn	1
+Kinneved	1
+Kings Lynn	1
+Kingchow	1
+Kimito	1
+Kilmarnock	1
+Kibunzi	1
+Kerimäki	1
+Kempten	1
+Kearney Ne	1
+Kazanlǔk	1
+Kävsjö	1
+Katak	1
+Kaskinen	1
+Kashmir	1
+Karlstorp	1
+Karlsborgsverken	1
+Karlsberg	1
+Karlsbad	1
+Karkkila	1
+Karjaa	1
+Kärda	1
+Karachi	1
+Kansas city	1
+Kannus	1
+Kanna	1
+Kangasala	1
+Kalltorp	1
+Kallered	1
+Kälarne	1
+Kalamazoo Mi	1
+Kaiserslautern	1
+Juuka	1
+Juneau	1
 Jun	1
+Jordan MN	1
+Jonsered	1
+Jokkmokk	1
+Jokioinen	1
+Johansfors	1
+Johannesburg	1
 Joannis	1
-Jihlava	1
+Jemtland me	1
+Jättendal	1
+Jassi	1
+Jaroslav	1
+Järnboås	1
+Janakkala	1
+Jadotville	1
+Jäder	1
+Jabalpur	1
+Italien	1
+Italia	1
+Issoudun	1
+Israel	1
+Isleworth	1
+Isle	1
+Ishperning Mi	1
+Intra	1
+Ingelstorp	1
+Ingelstad	1
+Ingarö	1
+Indal	1
+Immeln	1
+Ilahabad	1
+Iasi	1
+Hyssna	1
+Husby	1
+Hurva	1
+Huntingdon	1
+Hunnestad	1
+Hunnebostrand	1
+Hultanäs	1
+Hull	1
+Hukuoka	1
 Hrafnsey	1
-Hildburghausen	1
-Hanau	1
-Hämeenlinna	1
+Hovsta	1
+Høvik	1
+Hössna	1
+Hossegor	1
+Hosjö	1
+Hoshiarpur	1
+Hörnsjö	1
+Hörnefors	1
+Horndal	1
+Horn	1
+Höreda	1
+Hordville ne	1
+Horb am Neckar	1
+Hønefoss	1
+Homewood IL	1
+Holt	1
+Holstebro	1
+Holsaker	1
+Holmsveden	1
+Holmedal	1
+Hollola	1
+Högsäter	1
+Högboda	1
+Hof	1
+Hjulsjö	1
+Hjortsberga	1
+Hjørring	1
+Hjelmarsnäs	1
+Hjärtum	1
+Hjärtsäter	1
+Hjärsås	1
+Hillsand	1
+Hessleby	1
+Hessisch Oldendorf	1
+Hertford	1
+Hersfeld	1
+Hernosand	1
+Hermantown mn	1
+Henriksdal	1
+Henån	1
+Helmstadt	1
+Hellesylt	1
+Hellefors	1
+Helenelund	1
+Helas	1
+Heide	1
+Hedesunda	1
+Hedas	1
+Havlickuv Brod	1
+Havdhem	1
+Havanna	1
+Hauge	1
+Hastings	1
+Hassela	1
+Hartola	1
+Härslöv	1
+Harestad	1
+Hardeberga	1
+Härad	1
+Hanover NH	1
+Hankou	1
+Haninge	1
+Hanger	1
+Handen	1
+Hamrange	1
+Hampnäs	1
+Hammerfest	1
+Hammerdal	1
+Hameln	1
+Hallsbo	1
+Hällnäs	1
+Hälleviksstrand	1
+Hällesjö	1
+Hälleberga	1
+Halland	1
+Halahult	1
+Hakarp	1
+Häggenås	1
+Hagby	1
+Hagaström	1
+Hafnarfirdi	1
+Haapsalu	1
+Gyttorp	1
+Gustafs	1
+Gunnilse	1
+Gullestorp	1
+Gullaskruv	1
+Guldsmedshyttan	1
+Guben	1
+Guatemala	1
+Gryphiswaldie	1
+Grums	1
+Grovsta	1
+Gross lichterfelde	1
+Gropen	1
+Groitzsch	1
+Grimeton	1
+Grillby	1
 Greiz	1
-Genève	1
+Greeley CO	1
+Grava	1
+Graudenz	1
+Granvik	1
+Granada	1
+Grällsta	1
+Goslar	1
+Gökalund	1
+Goettingue	1
+Glumslöv	1
+Glücksburg	1
+Glostrup	1
+Glömminge	1
+Globe az	1
+Glencoe IL	1
+Gladsax	1
+Gladhammar	1
+Gläborg	1
+Gisselas	1
+Girard KS	1
+Gillhov	1
+Ghent	1
+Gestad	1
+Genvalla	1
+Genthin	1
+Genevad	1
+Geneseo IL	1
+Geldeston	1
+Gåxsjö	1
+Garnsviken	1
+Gärds köpinge	1
+Gammalstorp	1
+Gäddede	1
+Fyras	1
+Furudal	1
+Fulda	1
+Fryele	1
+Frustuna	1
+Frinnaryd	1
 Friedrichstadt	1
 Freyburg	1
 Freudenstadt	1
 Freistadt	1
-Freiburg	1
+Freilassing	1
+Fredsberg	1
+Fredriksdal	1
+Fredriksberg	1
+Franshammar	1
+Franö	1
 Franeker	1
-Forssa	1
-Filipstad	1
+Francestown NH	1
+Fort Worth Tx	1
+Forsnäs	1
+Forsmo	1
+Forsmark	1
+Forserum	1
+Forli	1
+Forestville Ct	1
+Foix	1
+Flysta	1
+Flygfors	1
+Florenz	1
+Flöha	1
+Floby	1
+Flensborg	1
+Fläckebo	1
+Fjärdhundra	1
+Fjärås	1
+Fjälla	1
+Fish Lake MN	1
+Finsterwalde	1
+Fernando	1
+Fengersfors	1
+Feldkirch	1
+Feanwâlden	1
+Fässberg	1
+Farstorp	1
+Färna	1
+Färjestaden	1
+Falkenkenberg	1
+Fägre	1
+Faglavik	1
+Fagelsta	1
+Faaborg	1
+Exeter	1
+Evreux	1
+Eutin	1
+Eura	1
+Eugene or	1
+Etienne	1
+Esslingen	1
+Erska	1
+Eritrea	1
+Erikstad	1
+Erevan	1
+Epinal	1
+Enschede	1
+Englewood Cliffs NJ	1
+Engelsberg	1
+Eneryda	1
+Eneboga	1
+Enaker	1
+Emsdetten	1
+Emmaus pa	1
+Elsaborg	1
+Elk River MN	1
+Elgin IL	1
+Ekshärad	1
+Ekolsund	1
+Eklund	1
+Eklanda	1
+Ekhorva	1
+Ekeberg	1
+Eisfeld	1
+Eisenberg	1
+Eindhoven	1
+Eichwalde	1
+Edsviken	1
+Edsele	1
+Edirne	1
+Edesjö	1
+Easton Pa	1
+East Union MN	1
+East Lansing	1
+East Grand Forks mn	1
+Eagle Lake mn	1
+Duved	1
 Dunkirk	1
+Dunkalk	1
+Duisburg	1
+Dufbo	1
+Drezdenko	1
+Drachten	1
+Dover ny	1
 Douai	1
-Dordrecht	1
-Conimbricae	1
-Coburg	1
-Chemnitz	1
+Dornach	1
+Dönnie	1
+Djursholms Ösby	1
+Djursdala	1
+Djurö	1
+Die	1
+Dhulia	1
+Des Moines IA	1
+Denison ia	1
+Demmin	1
+Delmenhorst	1
+Delhi	1
+DeKalb IL	1
+Dejefors	1
+Degeberga	1
+Davenport ia	1
+Dannemora NY	1
+Damme	1
+Damascus	1
+Damas	1
+Dalstorp	1
+Dallas tx	1
+Dalgränsen	1
+Dakar	1
+Dahlberg	1
+Dagsberg	1
+Daglösen	1
+Czestochowa	1
+Cuxhaven	1
+Curityba	1
+Curacao	1
+Culm	1
+Crompton ri	1
+Creston ia	1
+Crefeld	1
+Covina	1
+Courtrai	1
+Coulommiers	1
+Cottbus	1
+Coruna	1
+Cordoba	1
+Coquimbo	1
+Cooperstown NY	1
+Contich	1
+Condé-sur-Noireau	1
+Columbia SC	1
+Colombia	1
+Coblenz	1
+Clarens	1
+Chudleigh	1
+Chichester	1
+Chic	1
+Chiavari	1
+Chhindwara	1
+Cherbourg	1
+Chartres	1
+Charleston SC	1
+Charleroi	1
+Chambery	1
+Chalons	1
+Cernauti	1
+Centerville RI	1
+Center City MN	1
 Celle	1
-Catania	1
+Casale	1
+Carlsbad	1
+Caribou	1
+Campobasso	1
+Calais	1
+Cahors	1
+Cagliari	1
 Caes	1
-Caen	1
-Brno	1
+Byske	1
+Byarum	1
+Büsum	1
+Burträsk	1
+Bückeburg	1
+Buchen	1
+Buchanan mi	1
+Bryn Mawr pa	1
+Bryn Mawr	1
+Brunsvic	1
+Brunn	1
+Brunebo	1
+Brownfield me	1
+Brötjemark	1
+Brookland	1
+Bromsten	1
+Brömsebro	1
+Bromölla	1
+Bromberg	1
+Brodalen	1
+Broakulla	1
+Brixen	1
+Bringåsen	1
+Bridgeport Ct	1
 Brest	1
-Braniewo	1
-Bielefeld	1
-Bern	1
+Brattbäcken	1
+Brännögård	1
+Brännemo	1
+Bradford	1
+Boxholm	1
+Boxbacka	1
+Bovallstrand	1
+Boulder Co	1
+Borrud	1
+Born	1
+Borggard	1
+Boliden	1
+Bokenäs	1
+Bograngen	1
+Bognor Regis	1
+Boet	1
+Boeryd	1
+Bodträsk	1
+Bodsjö	1
+Bochum	1
+Bloomsbury	1
+Blomstermala	1
+Blois	1
+Bloemendaal	1
+Blindern	1
+Blidö	1
+Blattnicksele	1
+Bjurbäck	1
+Bjuraker	1
+Björlanda	1
+Björkvik	1
+Björkö-Arholma	1
+Bjorkelangen	1
+Björkeberg	1
+Bjästa	1
+Bjärtrå	1
+Bitterfeld	1
+Bispberg	1
+Birka	1
+Billinge	1
+Bie	1
+Biberach an der Riß	1
+Beyrouth	1
+Bettna	1
+Bernshammar	1
+Berndorf	1
+Berkley	1
+Bergvik	1
+Bergum	1
+Bergnäsudden	1
+Bergland ON	1
+Berghem	1
+Bergatorp	1
+Berga	1
+Bengasi	1
+Bellinzona	1
+Belingwe	1
+Belfast	1
+Bekescsaba	1
+Beirout	1
+Bedford	1
+Bazoges-en-Pareds	1
+Bautzen	1
+Battle creek michigan	1
+Battle creek	1
+Baton rouge	1
+Bath	1
+Barth	1
+Barsele	1
+Barkakra	1
 Barhöft	1
+Barga	1
+Bar Le Duc	1
+Bankeryd	1
+Bangor	1
+Bangalore	1
+Bandung	1
+Bandra	1
+Bandoeng	1
+Bandeng	1
 Baltijsk	1
-Avignon	1
+Balsta	1
+Bagnères-de-Luchon	1
+Bad Segeberg	1
+Bad Ems	1
+Bacup	1
+Bäckseda	1
+Bäckefors	1
+Bäckebo	1
+Backe	1
+Axtell ne	1
+Axhult	1
+Avranches	1
+Aurich	1
+Augusta Me	1
+Auburn RI	1
+Athéna	1
+Asträsk	1
+Astoria Or	1
+Asti	1
+Asso	1
+Assaria KS	1
+Askov	1
+Askilje	1
+Askeryd	1
+Ashtabula Oh	1
+Ašgabat	1
+Åsenhöga	1
+Aschersleben	1
+Aschaffenburg	1
+Asby	1
+Asarum	1
+Aryd	1
 Artern	1
-Arras	1
-Amberg	1
-Altenburg	1
+Ärla	1
+Arksjö	1
+Arendal	1
+Ardre	1
+Arcis-sur-Aube	1
+Archangelsk	1
+Arad	1
+Äppelbo	1
+Aplared	1
+Anundsjö	1
+Annerstad	1
+Anneberg	1
+Animskog	1
+Angsta	1
+Änge	1
+Ängby	1
+Andover Ma	1
+Anderslöv	1
+Ancona	1
+Ånäset	1
+Amsele	1
+Amotfors	1
+Amorbach	1
+Ames IA	1
+Amand	1
+Älvkarleby	1
+Alvestorp	1
+Alvastra	1
+Älvängen	1
+Älta	1
+Alstermo	1
+Alstad	1
+Alsike	1
+Alsen	1
+Älmeboda	1
+Allinge	1
+Allegheny pa	1
+Algutstorp	1
+Alfend	1
+Alexandrie	1
+Alexandria Va	1
+Alessandria	1
+Aledo IL	1
+Albenga	1
+Alafors	1
+Ala	1
+Al Qahira	1
+Akersberga	1
+Akers styckebruk	1
+Åkarp	1
+Ajmer	1
+Agunnaryd	1
+Agra	1
+Adolfsfors	1
+Adelsö	1
+Adelöv	1
+Abingdon on thames	1
+Aalen	1
+Aakirkeby	1
+Aabenraa	1

@@ -10,7 +10,7 @@ output: markdown_document
 
 ## Page counts
 
-  * Page count missing and estimated for 2031 documents (0.0052648%).
+  * Page count missing and estimated for 2031 documents (0.5%).
 
   * Page count missing and could not be estimated for 147279 documents
 
@@ -31,13 +31,21 @@ Visual summary of the estimated page counts per gatherings (shown only for the 2
 
 ## Document size comparisons
 
-[Incomplete dimension info - document surface are could not be estimated](output.tables/physical_dimension_incomplete.csv)
+  * Document gatherings info is originally available for 385771 documents (100%), and further estimated up to 385771 documents (100%).
 
-[Dimension conversion table](output.tables/conversions_physical_dimension.csv)
+  * Document height info is originally available for 7970 documents (2%), and further estimated up to 73551 documents (19%).
 
-[Automated tests for dimension conversions](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/tests_dimension_polish.csv)
+  * Document width info is originally available for 333 documents (0%), and further estimated up to 73551 documents (19%).
 
-These include estimates that are based on auxiliary information sheets:
+  * Document size (area) info is available for 73551 documents (19%).
+
+  * [List of entries where document surface could not be estimated](output.tables/physical_dimension_incomplete.csv)
+
+  * [Dimension conversions from raw data to final estimates](output.tables/conversions_physical_dimension.csv)
+
+  * [Automated tests for dimension conversions](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/tests_dimension_polish.csv)
+
+The estimates are based on the following auxiliary information sheets:
 
   * [Document dimension abbreviations](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/document_size_abbreviations.csv)
 
@@ -49,39 +57,22 @@ These include estimates that are based on auxiliary information sheets:
   
 <!--[Discarded dimension info](output.tables/dimensions_discarded.csv)-->
 
-Document size (area) info in area is available for 73551 documents (19%). Estimates of document size (area) info in gatherings system are available for 385771 documents (100%). 
+Estimates of document size (area) info in gatherings system are available for 385771 documents (100%). Also compare gatherings and area sizes as a quality check. This includes all data; the area has been estimated from the gatherings when dimension information was not available.
 
-![plot of chunk size-summary](figure/size-size-summary-1.png)
+![plot of chunk size-summary](figure/size-size-summary-1.png)![plot of chunk size-summary](figure/size-size-summary-2.png)
 
-
-Compare gatherings and area sizes as a quality check. This includes all data; the area has been estimated from the gatherings when dimension information was not available.
-
-![plot of chunk size-comp](figure/size-size-comp-1.png)
 
 Document dimension histogram (surface area). Few document sizes dominate publishing.
 
 ![plot of chunk size-surfacearea](figure/size-size-surfacearea-1.png)
 
 
-Compare gatherings and page counts. 
+Gatherings versus page counts, and original gatherings versus original heights where both are available. The point size indicates the number of documents with the corresponding combination. The red dots indicate the estimated height that is used when only gathering information is available. It seems that in most documents, the given height is smaller than the correponding estimate.
 
 
-![plot of chunk size-pagecomp](figure/size-size-pagecomp-1.png)
-
-Compare original gatherings and original heights where both are available. The point size indicates the number of documents with the corresponding combination. The red dots indicate the estimated height that is used when only gathering information is available. It seems that in most documents, the given height is smaller than the correponding estimate.
-
-![plot of chunk size-validation](figure/size-size-validation-1.png)
+![plot of chunk size-pagecomp](figure/size-size-pagecomp-1.png)![plot of chunk size-pagecomp](figure/size-size-pagecomp-2.png)
 
 ### Gatherings timelines
-
-
-```
-## Error: All columns must be named
-```
-
-```
-## Error: All columns must be named
-```
 
 <img src="figure/size-size-compbyformat-1.png" title="plot of chunk size-compbyformat" alt="plot of chunk size-compbyformat" width="430px" /><img src="figure/size-size-compbyformat-2.png" title="plot of chunk size-compbyformat" alt="plot of chunk size-compbyformat" width="430px" />
 

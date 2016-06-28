@@ -9,15 +9,15 @@ output: markdown_document
 
 ## Document size comparisons
 
-  * Some dimension info is provided in the original raw data for altogether 37702 documents (10.8%) but could not be interpreted for 5420 documents (ie. dimension info was successfully estimated for 85.6 % of the documents where this field was not empty).
+  * Some dimension info is provided in the original raw data for altogether 73866 documents (19.1%) but could not be interpreted for 8213 documents (ie. dimension info was successfully estimated for 88.9 % of the documents where this field was not empty).
 
-  * Document size (area) info was obtained in the final preprocessed data for altogether 37514 documents (11%). For the remaining documents, critical dimension information was not available or could not be interpreted: [List of entries where document surface could not be estimated](output.tables/physical_dimension_incomplete.csv)
+  * Document size (area) info was obtained in the final preprocessed data for altogether 73551 documents (19%). For the remaining documents, critical dimension information was not available or could not be interpreted: [List of entries where document surface could not be estimated](output.tables/physical_dimension_incomplete.csv)
 
-  * Document gatherings info is originally available for 32282 documents (9%), and further estimated up to 32282 documents (9%) in the final preprocessed data.
+  * Document gatherings info is originally available for 65653 documents (17%), and further estimated up to 65653 documents (17%) in the final preprocessed data.
 
-  * Document height info is originally available for 5295 documents (2%), and further estimated up to 37514 documents (11%) in the final preprocessed data.
+  * Document height info is originally available for 7970 documents (2%), and further estimated up to 73551 documents (19%) in the final preprocessed data.
 
-  * Document width info is originally available for 323 documents (0%), and further estimated up to 37514 documents (11%) in the final preprocessed data.
+  * Document width info is originally available for 333 documents (0%), and further estimated up to 73551 documents (19%) in the final preprocessed data.
 
 
 These tables can be used to verify the accuracy of the conversions from the raw data to final estimates:
@@ -79,6 +79,7 @@ Only the most frequently occurring gatherings are listed here:
 
 |gatherings.original |mean.width |median.width | mean.height| median.height|  n|
 |:-------------------|:----------|:------------|-----------:|-------------:|--:|
+|4to                 |NA         |NA           |       23.57|         23.57|  7|
 |8vo                 |NA         |NA           |       20.59|         20.59| 32|
 
 -->

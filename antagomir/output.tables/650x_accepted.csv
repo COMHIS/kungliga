@@ -1,118 +1,163 @@
 Name	Count
-Total count: 	6178
-historia	1789
-historia;historia	 283
-studier och undervisning	 130
-historia;historia;historia	  91
-juridik och lagstiftning	  89
-Historia	  67
-Sverige	  61
-tillverkning	  47
-framställning, tillverkning etc.	  41
+Total count: 	8334
+historia	1858
+taxor och avgifter	 522
+historia;historia	 297
+löner	 143
+handel	 142
+juridik och lagstiftning	 135
+studier och undervisning	 132
+historia;historia;historia	  94
+priser	  93
+tillverkning	  78
+Historia	  70
+Sverige	  64
+odling	  63
+Tullväsen	  52
+skatter	  50
+framställning, tillverkning etc.	  48
+löner;löner	  45
+juridik	  43
+taxor och avgifter;taxor och avgifter	  43
+kristendom	  42
 history	  39
+utbildning och undervisning	  39
+administration och förvaltning	  36
 grammatik	  36
-kristendom	  35
-odling	  32
-History.	  31
+priser;priser	  35
+våld mot	  34
+History.	  33
+handel;handel	  29
+statistics	  28
 ortnamnen (Älvsborgs län)	  25
 förekomst	  24
 historia;historia;historia;historia	  24
+juridik och lagstiftning;juridik och lagstiftning	  24
+anställda	  23
 History and criticism.	  23
-utbildning och undervisning	  22
 design och konstruktion	  21
+löner;löner;löner	  21
+praktiska handledningar	  21
 Brandförsäkringsbolag	  20
-löner	  20
-praktiska handledningar	  20
+ekonomiska förhållanden	  20
+framställning	  20
 surgery	  20
-priser	  19
+arbete och arbetsmarknad	  19
+material och utrustning	  19
 kokböcker	  18
 odling;historia	  18
-undervisning	  17
+undervisning	  18
+ekonomiska aspekter	  17
 vardagsliv och traditioner	  17
 Verb.	  17
 diagnosis	  16
-ekonomiska aspekter	  15
-etnobotanik	  15
+etnobotanik	  16
+Juridik	  16
+attityder till	  15
+Handel	  15
+lantbruk	  15
 Livförsäkring	  15
-attityder till	  14
+underhåll och reparationer	  15
 Dialects	  14
 Grammar.	  14
 gymnasiet	  14
 konferenser	  14
-statistics	  14
 Syntax.	  14
 utställningar	  14
 fonetik	  13
 history;history	  13
 etiology	  12
-juridik och lagstiftning;juridik och lagstiftning	  12
-taxor och avgifter	  12
-arbete och arbetsmarknad	  11
+Skatter	  12
+tullväsen	  12
 dialekter	  11
 History	  11
+Lantbruk	  11
 mission bland	  11
+tekniska aspekter	  11
 teori, filosofi	  11
+Early works to 1800.	  10
 etik och moral;etik och moral	  10
-framställning	  10
+Framställning	  10
+odling;odling	  10
 Semantics.	  10
 Storstrejken 1909	  10
 studiecirkelverksamhet;studier och undervisning	  10
-tekniska aspekter	  10
 (Samling);(Samling)	   9
 bibliografi;bibliografi	   9
 byggnadsteknik	   9
-ekonomiska förhållanden	   9
+förvaltning	   9
+genealogi	   9
 geografi	   9
+historia;history	   9
+kvalitetskontroll	   9
 lågstadiet	   9
-odling;odling	   9
+priser;priser;priser	   9
 radiography	   9
+religiösa aspekter	   9
+Spannmål	   9
 studier och undervisning;studier och undervisning	   9
 Suffixes and prefixes.	   9
-administration och förvaltning	   8
 biografi	   8
 blood	   8
+djursjukdomar	   8
 folkskolan	   8
-historia;history	   8
+föreningar och sällskap	   8
+Förvaltning	   8
 Honung	   8
-juridik	   8
 lexikon	   8
+organisationsförändringar	   8
 Phonetics.	   8
 physiology	   8
 Prepositions.	   8
+studiecirkelverksamhet	   8
 terminologi	   8
-underhåll och reparationer	   8
+bearbetning	   7
 Biography.	   7
-Early works to 1800.	   7
+Catalogs.	   7
 etnografi	   7
 etnologi	   7
+finansiering	   7
+Framställning;Juridik	   7
+Historia;Historia	   7
 history;historia	   7
+i utlandet	   7
 judendom	   7
+löner;taxor och avgifter	   7
+matematik	   7
+periodica	   7
 religiösa aspekter;kristendom	   7
-skatter	   7
+sädesslag	   7
+skatter;skatter	   7
 socialhistoria	   7
 Spectra.	   7
-studiecirkelverksamhet	   7
+tillverkning;historia	   7
+transporter	   7
+Tullväsen;Tullväsen	   7
+utbildning	   7
 utbildning och undervisning;historia;historia	   7
-Catalogs.	   6
+botanik	   6
 Diseases.	   6
 ekonomiska aspekter;historia	   6
+Ekonomiska förhållanden	   6
 etnobotanik;historia	   6
 Etymology.	   6
 folktro och folkseder	   6
-föreningar och sällskap	   6
-handel	   6
-Historia;Historia	   6
+kostnader	   6
+kristendom;historia	   6
 Lagar	   6
-Lantbruk	   6
-matematik	   6
-periodica	   6
+löner;löner;löner;taxor och avgifter	   6
+medicinska aspekter	   6
+mönster	   6
 Phonology.	   6
-religiösa aspekter	   6
+sjukdomar	   6
 studier och undervisning;studiecirkelverksamhet	   6
-tillverkning;historia	   6
+tillverkning;tillverkning	   6
+värdering	   6
+analys och tolkning	   5
 anatomy & histology	   5
 Bibliography.	   5
 design och konstruktion;design och konstruktion	   5
+ekonomi	   5
 etik och moral	   5
 etymologi	   5
 familjenamn	   5
@@ -121,116 +166,142 @@ Förenta staterna	   5
 fornisländsk litteratur	   5
 Försäkringsrätt	   5
 forskning	   5
+förvaring	   5
+hälsoaspekter	   5
+handel;handel;handel	   5
 injuries	   5
+juridik och lagstiftning;historia	   5
 lånord	   5
-lantbruk	   5
+lantbruk;lantbruk	   5
 läromedel	   5
 Magnitudes.	   5
-medicinska aspekter	   5
 metodik	   5
+predikningar	   5
 Pronoun.	   5
 propaganda	   5
 rättshistoria	   5
-sädesslag	   5
+realskolan	   5
+rekrytering	   5
+säkerhetsaspekter	   5
 sjöfart	   5
-sjukdomar	   5
 sjukdomar och skadedjur;historia	   5
+skogsbruk	   5
 sociala förhållanden	   5
 statens mark - Stockholm	   5
 surgery;surgery	   5
+Tobak	   5
 Adjective.	   4
 adverse effects	   4
-analys och tolkning	   4
 arbete och arbetsmarknad;historia	   4
 barn	   4
-botanik	   4
 business history	   4
+byggnader	   4
 design	   4
+ekonomiska förhållanden;ekonomiska förhållanden	   4
 Embryology.	   4
 etnobotanik;etnobotanik	   4
 förekomst;förekomst	   4
+förteckningar;förteckningar	   4
+fysik	   4
 grundskolan	   4
 handböcker, manualer etc.	   4
+handel;priser	   4
 hästar;hästar	   4
 Historia;ekonomiska förhållanden	   4
 historia;historia;historia;historia;historia	   4
-juridik och lagstiftning;historia	   4
+jordbruk	   4
+juridik;juridik	   4
+juridiska aspekter	   4
 Lagstiftning	   4
 läroplaner	   4
-mönster	   4
 musikalier	   4
+Nödföda	   4
 Observations	   4
 Pension	   4
 Pensionsförsäkring	   4
 planering	   4
-predikningar	   4
 prevention & control	   4
 psalmbok	   4
 radiography.	   4
 radiotherapy	   4
-realskolan	   4
 registers;Lunds universitet	   4
+religiöst liv	   4
 samlingar	   4
 secretion	   4
 statistik	   4
 Sundsvallsstrejken 1879	   4
+svenskt deltagande	   4
 Sverige;1950-talet	   4
-utbildning	   4
+taxor och avgifter;löner	   4
+Texts.	   4
+utfodring	   4
 Word formation.	   4
 zoologi	   4
 abnormalities	   3
+alkoholvanor	   3
 anatomi	   3
 Anatomy.	   3
+arbete	   3
 Arkeologi	   3
+arkitektur	   3
 automatisering	   3
-bearbetning	   3
 bevarande och restaurering	   3
 Biografi;Uppslagsverk	   3
 biologi	   3
 Brandskydd	   3
-byggnader	   3
 cerebrospinal fluid	   3
 Distribution	   3
 Distribution.	   3
-djursjukdomar	   3
 ekologi	   3
 epidemiology	   3
 etnobotanik;etnobotanik;etnobotanik	   3
 Etymology;Names.	   3
 experiment	   3
-finansiering	   3
 flyttlapparna;historia;historia	   3
 formlära	   3
 fornlämningar	   3
-Förvaltning	   3
-förvaring	   3
-fysik	   3
-genealogi	   3
-handel;handel	   3
+framställning;historia	   3
+fritid och rekreation	   3
+Handel;handel	   3
+handel;priser;handel;priser	   3
 hästar	   3
+hem och bostäder	   3
 historia;ekonomiska aspekter	   3
 historia;framställning, tillverkning etc.	   3
 historia;Historia	   3
+historia;historia;historia;historia;historia;historia	   3
 historia;historia;sjukdomar och skadedjur;historia	   3
 historia;jordbruk;historia	   3
 humle	   3
 internationellt samarbete	   3
 judendom;judendom	   3
+juridik och lagstiftning;ekonomiska aspekter	   3
 klassifikation	   3
+konservering	   3
 konsthantverk	   3
-kristendom;historia	   3
+krigsväsen;sjöfart	   3
 kristendom;kristendom	   3
+kvalitetskontroll;handel	   3
 Kyrkor;Kyrkor	   3
+lantbruk;förvaltning	   3
 lokalisering	   3
+medicin	   3
 metabolism	   3
+militära operationer	   3
+mineralogi	   3
 mission bland;vardagsliv och traditioner	   3
+musik	   3
 Nationalekonomi	   3
 nomadskolor	   3
 odling;historia;odling;historia	   3
+odling;odling;odling	   3
 odling;sjukdomar och skadedjur;historia;historia	   3
+olyckor	   3
 organisationer	   3
+Periodica	   3
 personliga berättelser	   3
 Physiology.	   3
+plantering	   3
 polemik	   3
 politik och förvaltning	   3
 politisk verksamhet	   3
@@ -240,35 +311,40 @@ socialhistoria;hem och bostäder	   3
 studier och undervisning;historia	   3
 Sweden	   3
 syntax	   3
+taxor och avgifter;taxor och avgifter;taxor och avgifter	   3
 Terms and phrases.	   3
-Texts.	   3
 Therapeutic use.	   3
 therapy	   3
 tillverkning;juridik och lagstiftning	   3
 Undervisning	   3
+våld mot;våld mot	   3
 veterinärmedicin	   3
 (Bilder)	   2
 (Katalog);(Katalog)	   2
+(Matrikel);(Matrikel)	   2
 1900	   2
 Accents and accentuation.	   2
+administration och förvaltning;administration och förvaltning	   2
 agrarhistoria	   2
-alkoholvanor	   2
 analysis	   2
 anatomy & histology.	   2
-anställda	   2
 anställda;anställda	   2
-arkitektur	   2
+arbete och arbetsmarknad;arbete och arbetsmarknad	   2
 Art.	   2
 Auxiliary verbs.	   2
 avel	   2
 barn;filosofi;skolan;framtiden;moderskap;children;philosophy;school;future;motherhood	   2
+bearbetning;bearbetning	   2
+beredning;beredning	   2
 Bevattning	   2
 Bibeln	   2
 Bibliografi	   2
 bibliography	   2
 blood supply	   2
 böjning	   2
+Bokföring	   2
 Boktryckerihistoria	   2
+bomull	   2
 botanik;botanik	   2
 bryggning	   2
 Color.	   2
@@ -276,6 +352,8 @@ Correspondence, reminiscences, etc.	   2
 d Psykisk hälsa	   2
 Diagnosis.	   2
 diagnostic use	   2
+Dictionaries;Polyglot.	   2
+Dictionaries;Swedish.	   2
 Diseases;Diagnosis.	   2
 djur	   2
 djurvärld	   2
@@ -283,10 +361,9 @@ Domkyrkor	   2
 drug therapy	   2
 drug therapy;therapeutic use	   2
 Economic aspects	   2
-ekonomi	   2
 ekonomiska aspekter;ekonomiska aspekter	   2
 ekonomiska aspekter;historia;ekonomiska aspekter;historia	   2
-ekonomiska förhållanden;ekonomiska förhållanden	   2
+ekonomiska förhållanden;historia	   2
 ekonomiska förhållanden;Historia	   2
 elektricitetslära	   2
 Ellipsis.	   2
@@ -301,28 +378,32 @@ farled - Venern-Kattegat	   2
 filosofi	   2
 Finland	   2
 finlandssvensk	   2
+fiske	   2
 flyttlapparna	   2
 foderväxter	   2
 Folkkultur	   2
 folkmedicin;historia;medicinalväxter;historia	   2
+förflyttningar	   2
 försäkringsanstalter	   2
 Försäkringsrätt;Lagar	   2
 forskning;historia	   2
-Framställning	   2
+Förvaring	   2
 framställning, tillverkning etc.;framställning, tillverkning etc.	   2
 framställning, tillverkning etc.;tillverkning	   2
 framställning, tillverkning etc.;tillverkning;framställning, tillverkning etc.	   2
-framställning;historia	   2
-fritid och rekreation	   2
+framställning;framställning	   2
 fysiologi eller medicin	   2
 Genetics.	   2
 geografisk utbredning	   2
+geologi	   2
 growth & development	   2
 gymnasieskolan	   2
-hälsoaspekter	   2
+hälso- och sjukvård	   2
+Handel;Handel	   2
+handel;handel;handel;handel	   2
 Handskriftssamlingar	   2
 härordning	   2
-hem och bostäder	   2
+hästar;djursjukdomar	   2
 Hemslöjdskommittén	   2
 Herdaminnen	   2
 histoira	   2
@@ -330,7 +411,6 @@ histoira;histoira;histoira;histoira	   2
 histora	   2
 historia;ekonomiska aspekter;historia;historia	   2
 historia;ekonomiska förhållanden;historia	   2
-historia;historia;historia;historia;historia;historia	   2
 historia;historia;historia;historia;historia;historia;historia	   2
 historia;sjukdomar och skadedjur;historia	   2
 historia;sjukdomar och skadedjur;historia;sjukdomar och skadedjur;historia	   2
@@ -338,60 +418,68 @@ historia;studier och undervisning	   2
 historia;vardagsliv och traditioner;historia;historia	   2
 historik	   2
 Humle	   2
+husdjur	   2
 i konsten	   2
-i utlandet	   2
 immunology	   2
 Industri	   2
 Infinitive.	   2
 Inflection.	   2
 innervation	   2
+internationella relationer	   2
+inventering;material och utrustning	   2
 Islam	   2
 Järnåldern	   2
-jordbruk	   2
 jordbruk;historia	   2
 jordräntestegringsskatt;juridik och lagstiftning;juridik och lagstiftning	   2
+juridik och lagstiftning;juridik	   2
 juridik och lagstiftning;juridik och lagstiftning;juridik och lagstiftning	   2
 juridik och lagstiftning;lagstiftning	   2
-juridiska aspekter	   2
+kläder	   2
 kommunal fondbildning	   2
-konservering	   2
-kostnader	   2
+koppar;framställning	   2
 krigsbyten	   2
+krigsfångar	   2
 krigsväsen	   2
-krigsväsen;sjöfart	   2
 kristendomen	   2
 kulturhistoria	   2
+kvalitetskontroll;kvalitetskontroll	   2
+kvalitetskontroll;standarder	   2
 Kyrkoarkiv	   2
+kyrkohistoria	   2
+Lagring	   2
 lagstiftning	   2
 lagstiftning;historia;lagstiftning;historia	   2
 lånord;lånord	   2
 lantbruksekonomi	   2
+Lantbruksekonomi	   2
+lärlingar	   2
 Lärobok	   2
+lärosatser	   2
+ledning och organisation	   2
 Litteraturhistoria	   2
 livsmedel	   2
 löner;sociala förhållanden	   2
+löner;transporter	   2
 lulesamiska	   2
 matematiska modeller	   2
 matriklar	   2
 Medeltiden	   2
-medicin	   2
 medicinska undervisningen	   2
 medlemskap	   2
 metabolism;metabolism	   2
 metabolism.	   2
 metallurgi	   2
 Metrics and rhythmics.	   2
-militära operationer	   2
+militärhistoria	   2
 miljöaspekter;miljöaspekter	   2
+mineralogi;historia	   2
+mönster;mönster	   2
 motståndsrörelser	   2
-musik	   2
-Nödföda	   2
 Nomenclature.	   2
 Norden	   2
 Noun.	   2
 Observations.	   2
 odling;historia;historia	   2
-odling;odling;odling	   2
 Orbits.	   2
 ordförråd	   2
 orsaker	   2
@@ -400,40 +488,43 @@ papyrer	   2
 Participle.	   2
 pathology	   2
 pathology;pathology	   2
-Periodica	   2
 periodika;periodika	   2
 Philosophy;Philosophy	   2
 Philosophy.	   2
 Physiological effect.	   2
 Physiology;Fysiologi	   2
 physiology.	   2
-plantering	   2
 populärvetenskap	   2
+Prästeståndet	   2
+Pre-Linnean works.	   2
+prevention	   2
 preventiv medicin	   2
-priser;priser	   2
 privata samlingar	   2
 psykologi	   2
 psykologiska aspekter	   2
 radiography;radiography	   2
+rättigheter	   2
 Reklam	   2
 religiösa aspekter;etik och moral	   2
 Reproduktionsmetoder	   2
 Research.	   2
 reseskildringar	   2
 retorik	   2
+Ridderskapet och adeln	   2
 Röda korset	   2
+samiska	   2
 Sjöförsäkring	   2
 sjöförsvaret	   2
 sjukdomar och skadedjur	   2
 sjukdomar;historia	   2
 Sjukförsäkring;Sjukkassor	   2
+skatter;skatter;taxor och avgifter;taxor och avgifter	   2
 skogsbotanik	   2
 Slang.	   2
 Social conditions.	   2
 sociala aspekter	   2
 Socialförsäkring	   2
 Sources.	   2
-Spannmål	   2
 Spectra	   2
 språkvetenskap	   2
 stadga - läroverk;juridik och lagstiftning	   2
@@ -446,6 +537,7 @@ studier och undervisning;pedagogiska aspekter	   2
 Style.	   2
 svenska	   2
 Svenska;Biografier	   2
+teknik	   2
 Tense.	   2
 teori	   2
 teori filosofi	   2
@@ -454,25 +546,29 @@ Terminology.	   2
 tillverkning;framställning, tillverkning etc.	   2
 tillverkning;juridik och lagstiftning;skatter	   2
 tillverkning;odling	   2
-tillverkning;tillverkning	   2
+tobak	   2
 torkning;historia	   2
 torv	   2
+Träkol	   2
+Ull	   2
 underhåll och reparationer;underhåll och reparationer	   2
 undervisning;historia	   2
 Uppslagsbok	   2
 uppslagsverk;uppslagsverk	   2
 utbildning och undervisning;historia	   2
+utbildning och undervisning;utbildning och undervisning	   2
 utställningar;utställningar	   2
 vardagsliv och traditioner;vardagsliv och traditioner	   2
 Västerås stift;Periodika	   2
 växter	   2
 växter;växter i litteraturen;historia	   2
 växtnamn;växtnamn	   2
+Virke	   2
 Voice.	   2
 Word order.	   2
-(Matrikel);(Matrikel)	   1
 (Samling);Sverige;(Samling)	   1
 1600-talet	   1
+1718-1772 (frihetstiden)	   1
 1800	   1
 1800-talet	   1
 1913	   1
@@ -483,7 +579,6 @@ abnormalities.	   1
 abort;lagförslag;lagar	   1
 ackord	   1
 administration & dosage	   1
-administration och förvaltning;administration och förvaltning	   1
 administration och förvaltning;historia	   1
 Adverb.	   1
 Aerial exploration	   1
@@ -512,14 +607,14 @@ Anatomy;anatomi	   1
 ångpannor	   1
 anläggningar;anläggningar	   1
 Annaniterna	   1
+anställda;löner	   1
 anställnings- & avlöningsförhållandena - Riksdagens vaktpersonal	   1
 Anthropology.	   1
 antiken	   1
 Antiquities.	   1
 apatitundersökningar - Norrbotten	   1
 Apheresis.	   1
-arbete	   1
-arbete och arbetsmarknad;arbete och arbetsmarknad	   1
+Arbete	   1
 arbete och arbetsmarknad;historia;arbete och arbetsmarknad;historia	   1
 arbete och arbetsmarknad;historia;kvinnor	   1
 arbete och arbetsmarknad;historia;mission bland;historia	   1
@@ -545,6 +640,7 @@ arkiven (Kammarkollegium)	   1
 arrenden	   1
 Article.	   1
 Atlases.	   1
+ättartavlor;ättartavlor	   1
 attityder till;studier och undervisning;studier och undervisning	   1
 attityder till;yrkesetik	   1
 Attributes.	   1
@@ -563,10 +659,13 @@ barnmorskornas löner	   1
 bärplockning	   1
 bearbetning;historia;historia	   1
 Bebyggelseutveckling	   1
+begravning	   1
+begravningsseder;historia;begravningsseder	   1
+behandling	   1
+behandling;institutionsvård	   1
 belåning - bostadsfastigheter (1912)	   1
 belysning	   1
 belysning;historia;värme och ventilation;historia	   1
-beredning;beredning	   1
 beredskapsarbeten	   1
 Bergsbruk	   1
 Bergskollegium	   1
@@ -590,6 +689,7 @@ Biografier	   1
 Biography	   1
 biologi;historia	   1
 Biskopar;Superintendenter	   1
+björk;björkar	   1
 blommor;kulturhistoria;växter;kulturhistoria	   1
 blood;blood;blood	   1
 blood;diagnosis	   1
@@ -604,7 +704,9 @@ Bokförlag	   1
 bomullsindustrien - produktionsförhållanden	   1
 Bondeståndet	   1
 Boplatser	   1
+Borgarståndet	   1
 borttagande - förlust av medborgerligt förtroende	   1
+boskap;handel	   1
 bostäder - minimifordringar	   1
 bostadshus - Statens järnvägar	   1
 bostadsproduktionen (efter vapenstillestånd)	   1
@@ -616,9 +718,11 @@ Brandförsäkringsbolag;history	   1
 Brandlagstiftning	   1
 Brandskydd;Brandsläckning	   1
 Brandskydd;Järnindustri;Metallindustri	   1
+Brännerier;Brännerier	   1
 Brännvin	   1
 bröllop och äktenskap	   1
 Bronslur;Musik;Noter;Blåsinstrument	   1
+brott mot	   1
 byggnader, anläggningar, rullande materiel - Statens järnvägar (1914-1923)	   1
 byggnadskonst;byggnader	   1
 byggnadsstadga	   1
@@ -634,6 +738,7 @@ Cancer.	   1
 Case grammar.	   1
 Catalogs and collections	   1
 Catalogs and collections.	   1
+Catalogues: Libraries (Church): Strengnes.	   1
 Catechisms;German.	   1
 Causes and theories of causation.	   1
 Cellulosaindustrin	   1
@@ -689,7 +794,6 @@ dialekter;lexikologi	   1
 Dictionaries;Danish.	   1
 Dictionaries;English.	   1
 Dictionaries;German.	   1
-Dictionaries;Polyglot.	   1
 Dictionaries.	   1
 Diffraction.	   1
 Diplomatic history.	   1
@@ -701,6 +805,9 @@ Distribution;Clusters	   1
 Djurgården - park	   1
 Djurgeografi	   1
 djurnamn;djurnamn	   1
+Djursjukdomar	   1
+djursjukdomar;djursjukdomar	   1
+Doctrinal and controversial works.	   1
 dogmatik;dogmatik	   1
 Doktorsavhandlingar	   1
 Domänstyrelsen, Landtmäteristyrelsen: skogshushållningen	   1
@@ -712,27 +819,33 @@ Dopfuntar;Dopfuntar	   1
 dopritual	   1
 drug effects	   1
 drug effects;therapeutic use	   1
+drycker;framställning	   1
+drycker;handel;juridik;Handel	   1
 Effects.	   1
 Egnahemskomitén (främmande länder)	   1
+Ek;plantering	   1
 eknomiska aspekter	   1
 Ekonomi	   1
 ekonomi - skolor - kvinnlig ungdom	   1
+ekonomisak förhållanden	   1
 ekonomisk historia	   1
 ekonomisk hstoria	   1
 ekonomisk teori	   1
 ekonomiska aspekter;ekonomiska aspekter;ekonomiska aspekter	   1
+ekonomiska aspekter;handel	   1
 ekonomiska aspekter;historia;ekonomiska aspekter;historia;ekonomiska aspekter;historia	   1
 ekonomiska aspekter;historia;ekonomiska aspekter;historia;historia	   1
 ekonomiska aspekter;historia;handel;historia	   1
 ekonomiska aspekter;historia;historia	   1
 ekonomiska aspekter;juridik och lagstiftning	   1
+ekonomiska aspekter;skatter	   1
 ekonomiska aspekter;studier och undervisning	   1
 ekonomiska aspekter;teori	   1
 ekonomiska data	   1
-Ekonomiska förhållanden	   1
 ekonomiska förhållanden;bestämmelser - fisket	   1
 ekonomiska förhållanden;historia;historia	   1
 ekonomiska förhållanden;historia;jordbrukspolitik;historia	   1
+ekonomiska förhållanden;sädesslag	   1
 ekonomiska förhållanden;sociala förhållanden	   1
 eldfarliga vätskor	   1
 elektrifiering - Danmark	   1
@@ -783,6 +896,7 @@ etnografi;ekonomiska förhållanden	   1
 etnografi;etnografi;historia;etnografi;etnografi	   1
 etnografi;växter	   1
 etnologi;historia;etnologi;historia	   1
+Etymologi;(Ordbok);Etymologi;(Ordbok)	   1
 etymologi;etymologi	   1
 eufemismer	   1
 evangeliebok	   1
@@ -802,6 +916,7 @@ fångvården - disciplinstraffen	   1
 får	   1
 får;djursjukdomar;plantering	   1
 Får;Får;Djursjukdomar;plantering	   1
+Får;Ull	   1
 Färglära (konst)	   1
 fartyg	   1
 Fartyg	   1
@@ -816,10 +931,11 @@ finansiering;Sverige	   1
 Finlandshjälpen	   1
 Finska;Matriklar	   1
 fiskar;fiskar	   1
-fiske	   1
 fjällen;mätmetoder	   1
+floror	   1
 Flottan	   1
 flygbilden - skogsbruket	   1
+flyktingar	   1
 flyttningar;kulturhistoria	   1
 födelsekontroll;juridik och lagstiftning	   1
 folkdiktning	   1
@@ -842,10 +958,12 @@ folktro;folkseder;folklore	   1
 folktro;övertro	   1
 fonetik;fonetik	   1
 Food supply	   1
+Förbud	   1
 Foreign words and phrases;Finnish.	   1
 Foreign words and phrases;Romances.	   1
 Foreign words and phrases.	   1
 förekomst;förekomst;förekomst	   1
+förekomst;historia	   1
 förekomst;historia;förekomst;historia	   1
 förekomst;i utlandet	   1
 föreningar och sällskap;ekonomiska aspekter;historia;ekonomiska aspekter;historia;ekonomiska aspekter;historia;historia	   1
@@ -855,6 +973,7 @@ föreningsväsende	   1
 författare	   1
 Författare	   1
 författare;historia	   1
+förflyttningar;förflyttningar	   1
 förliknings- & skiljenämnder - arbetsgifvare & arbetare	   1
 förliknings- & skiljenämnder - arbetsgifvare & arbetare (utlandet)	   1
 Förmögenhetsrätt	   1
@@ -875,20 +994,33 @@ forskning;metodik;historia;forskning;metodik;historia;forskning;metodik;historia
 Forskningsresor	   1
 förslagsanslagen - skrifmaterialier, expenser, ved ...;juridik och lagstiftning	   1
 Forssman, J.: rättsmedicinalväsendet	   1
+förteckning	   1
 Förteckning	   1
+förteckningar	   1
 fortplantning	   1
+förvaltning;förvaltning	   1
+förvaltning;underhåll och reparationer	   1
+Förvaltning;underhåll och reparationer	   1
 förvaltningen - arméen - historia;administration och förvaltning;historia	   1
 förvärvsarbete;frivilligorganisationer;social ställning;rättslig ställning;gainful enployment;Non Governmental Organizations;social status;legal status	   1
 Fossil	   1
 fotografier	   1
 frälseränta;historia;historia	   1
 framställning och tillverkning	   1
+framställning, tillverkning etc.;handel	   1
 framställning, tillverkning etc.;tillverkning;juridik och lagstiftning	   1
+framställning;Brännerier	   1
+Framställning;förbud	   1
+Framställning;Förbud	   1
 framställning;förvaring;handel	   1
-framställning;framställning	   1
 framställning;handel	   1
+Framställning;Handel	   1
 Framställning;Historia	   1
+Framställning;Nationalekonomi	   1
+Framställning;Nationalekonomi;Framställning;Nationalekonomi	   1
 framställning;råg;malt	   1
+Framställning;Redskap;Juridik	   1
+Framställning;Skatter	   1
 Frankrike	   1
 fred	   1
 Fred	   1
@@ -896,8 +1028,11 @@ fred;biografi	   1
 French.	   1
 frenologi	   1
 Frikyrkor	   1
+frikyrkor;mission;unga kvinnor	   1
+fritid och rekreation;fritid och rekreation	   1
 fruset & kylt transoceanskt kött	   1
 fysiologi	   1
+fysiologiska aspekter	   1
 Gadebuschska saml.	   1
 Gamla testamentet	   1
 Gamla testamentet - apokryfiska böckerna	   1
@@ -909,12 +1044,12 @@ genetics	   1
 genetik	   1
 genetik;zoologi	   1
 genetiska aspekter	   1
+genusaspekter	   1
 Geografi	   1
 geografi;historia	   1
 geografiska olägenheter - Västerbottens södra domsaga	   1
 Geographical distribution;Tagghudingar	   1
 Geographical distribution.	   1
-geologi	   1
 geologi;geografi	   1
 Gerund.	   1
 gerundium;gerundivum	   1
@@ -942,14 +1077,29 @@ hälso- och sjukvård;flyktingar	   1
 handböcker, manualer etc.;handböcker, manualer etc.	   1
 Handbok	   1
 handel - eter & alkohol (läkemedel);handel	   1
+handel;åkerbruksväxter	   1
 handel;Etnobotanik;Etnobotanik	   1
-Handel;Handel	   1
+handel;hälsoaspekter	   1
+Handel;hälsoaspekter	   1
 handel;historia	   1
 handel;historia;handel;historia	   1
 handel;historia;handel;historia;handel;historia;handel;historia	   1
 handel;historia;historia	   1
-handel;priser	   1
+Handel;Juridik	   1
+handel;kvalitetskontroll	   1
+Handel;priser	   1
+Handel;Priser	   1
+handel;skatter	   1
+Handel;Skatter	   1
+handel;skinnvaror	   1
+handel;taxor och avgifter;taxor och avgifter	   1
+handel;tillverkning	   1
+Handel;transporter	   1
+handel;Ull	   1
+handel;underhåll och reparationer	   1
+handel;värdering	   1
 handel;varor;industri	   1
+handel;Vete	   1
 handelsböcker, handelsräkningar;juridik och lagstiftning	   1
 handelspolitiken (efter kriget)	   1
 handelsstatistik	   1
@@ -960,8 +1110,8 @@ handskrifter	   1
 Handskrifter	   1
 Häradshövdingar;Lagmän	   1
 hären - förvaltning i fält	   1
-hästar;djursjukdomar	   1
 hästar;historia;historia	   1
+Hästar;Hovslageri	   1
 hästar;nötkreatur	   1
 Heminredning	   1
 Hemslöjd	   1
@@ -988,6 +1138,7 @@ historia;fornnordisk religion;historia	   1
 historia;genetik;genetik	   1
 historia;handel	   1
 historia;handel;historia;handel;historia	   1
+historia;handel;Ull	   1
 historia;hisrotia	   1
 Historia;historia	   1
 historia;historia;biblioteksväsendet	   1
@@ -1019,9 +1170,11 @@ Historia;History	   1
 historia;humle;humle	   1
 historia;internationella översikter	   1
 historia;jordbruk;historia;historia	   1
+Historia;Juridik	   1
 historia;juridik;historia;historia;juridik;historia;statistik;historia;statistik;historia;ekonomiska förhållanden;ekonomiska förhållanden	   1
 historia;kolonisering;historia	   1
 historia;kylteknik;organisationer;historia;transporter;historia	   1
+historia;lantbruk	   1
 historia;lokalförvaltning;historia;historia	   1
 historia;odling	   1
 historia;odling;historia;historia	   1
@@ -1031,15 +1184,19 @@ historia;odling;historia;odling;historia;historia;historia	   1
 historia;odling;industriella förhållanden	   1
 historia;periodica	   1
 historia;politisk verksamhet;historia	   1
+historia;priser;taxor och avgifter	   1
 historia;rättslig ställning	   1
 historia;religion	   1
 historia;religionshistoria;folktro och folkseder	   1
 historia;sjukdomar och skadedjur;historia;historia	   1
 historia;sjukdomar och skadedjur;historia;odling;sjukdomar och skadedjur;historia	   1
+historia;sociala förhållanden	   1
 historia;sociala förhållanden;historia	   1
 historia;sockerindustri	   1
 historia;studier och undervisning;historia;studier och undervisning;historia;studier och undervisning;historia	   1
 historia;studier och undervisning;historia;studier och undervisning;studiecirkelverksamhet	   1
+historia;taxor och avgifter	   1
+historia;tillverkning	   1
 historia;tillverkning;historia	   1
 historia;undervisning;historia	   1
 historia;utbildning och undervisning;historia	   1
@@ -1073,6 +1230,8 @@ högtidsseder;majstänger;högtidsseder;majstänger	   1
 hsitoria	   1
 humor	   1
 husdjur;folktro;husdjur;folkseder	   1
+husdjur;handel	   1
+Husdjur;Växtodling;taxor och avgifter;taxor och avgifter	   1
 hvitbetssockertillverkningen - beskattning - reseberättelse	   1
 Hvitfeldtska stipendieinrättningen	   1
 hygien	   1
@@ -1080,14 +1239,17 @@ hygien och sanitet	   1
 hyresstegring;juridik och lagstiftning;fast egendom	   1
 Hyttspråk	   1
 i Bibeln;i Bibeln	   1
+i Bibeln;religiösa aspekter	   1
 ideella föreningar	   1
 Identification.	   1
 imperativ	   1
+import	   1
 Import	   1
 in infancy & childhood.	   1
 Indianer	   1
 industri	   1
 Infections.	   1
+Inhägnader	   1
 inkomst- & konsumtionsläget	   1
 inkomstskatt, sjelfdeklaration;juridik och lagstiftning;juridik och lagstiftning	   1
 inredning	   1
@@ -1109,6 +1271,7 @@ Järnåldern;Vendeltid	   1
 Järnbruk	   1
 Järnvägstjänstemän	   1
 Järnverk	   1
+jaspis;jaspis	   1
 jernväg - Köping-Hult	   1
 jernvägsbyggnader	   1
 Jernvägsstyrelsen: jernvägsadministrationen	   1
@@ -1118,26 +1281,35 @@ jordbruket - inrikes avsättningsförhållanden	   1
 jordbruket - produktion, saluöverskott av spannmål	   1
 jordbrukets utveckling - Sverige, Danmark, Norge	   1
 jordbrukets utveckling (1871-1919)	   1
+jordbrukspolitik	   1
 jordfördelningen - Värmland;juridik och lagstiftning;juridik och lagstiftning;juridik och lagstiftning	   1
 jordförhållandena - Värmland;juridik och lagstiftning;juridik och lagstiftning	   1
 jordregister - Kopparbergs län	   1
 JSTOR	   1
 jubiléer och bemärkelsedagar;historia	   1
-Juridik	   1
+juridik och lagstiftning 2 sao;juridik och lagstiftning	   1
 juridik och lagstiftning;byggnadsborgenärerna - rättslig ställning - Sverige, utlandet	   1
+juridik och lagstiftning;handel	   1
 juridik och lagstiftning;hem och bostäder	   1
 juridik och lagstiftning;historia;historia;historia	   1
 juridik och lagstiftning;historia;historia;juridik och lagstiftning;historia;juridik och lagstiftning;historia	   1
-juridik och lagstiftning;juridik	   1
+juridik och lagstiftning;juridik och lagstiftning;handel	   1
 juridik och lagstiftning;juridik och lagstiftning;läroverksstadga	   1
 juridik och lagstiftning;juridik och lagstiftning;skatter	   1
+juridik och lagstiftning;juridik;handel	   1
 juridik och lagstiftning;Sverige	   1
 juridik och lagstiftning;Sverige;Stockholm	   1
+juridik och lagstiftning;tillverkning	   1
 juridik och lagstiftning;tillverkning;juridik och lagstiftning;skatter	   1
+juridik;arbete	   1
 Juridik;Ekonomiska förhållanden;Historia	   1
+Juridik;handel	   1
 Juridik;Handel	   1
+juridik;historia	   1
 Juridik;historia	   1
+Juridik;juridik och lagstiftning	   1
 justitieombudsmansämbetet	   1
+kaffe;handel	   1
 kalendrar	   1
 Kammarkollegiet	   1
 Kammarkollegium, Domänstyrelsen: hemmansklyfning, egostyckning, jordafsöndring	   1
@@ -1157,7 +1329,7 @@ kemi;fysik	   1
 kemi;lantbrukskemi	   1
 kemisk teknik	   1
 Kinnevaldskonflikten 1930	   1
-kläder	   1
+kläder;hälsoaspekter	   1
 klockarinstitutionen	   1
 Klockringning	   1
 Klöver	   1
@@ -1187,6 +1359,7 @@ konsulatafgifterna - fartyg	   1
 konsulatväsendet - Sverige, Norge	   1
 kontrollörer - råsockerfabriker	   1
 kooperation	   1
+koppar	   1
 koptiska	   1
 kor	   1
 Korn	   1
@@ -1194,13 +1367,15 @@ kostnader;kostnader;kostnader	   1
 kötthandel;kötthandel;kött;handel	   1
 kraftproduktion;historia	   1
 kreditförhållandena - jordbruket	   1
-krigsfångar	   1
 krigsväsen;historia;militära aspekter;historia;militära aspekter;historia;militära aspekter;historia	   1
 krisskatt	   1
 kristen dogmatik	   1
+kronologi	   1
 kulturhistoria;samhällsliv;historia	   1
 Kumla sparbank	   1
-kvalitetskontroll;standarder	   1
+Kungl. Vetenskapsakademien	   1
+kvalitetskontroll;kvalitetskontroll;kvalitetskontroll;kvalitetskontroll	   1
+kvalitetskontroll;taxor och avgifter	   1
 kvinnlig sjukvårdspersonal - utbildning, arbetsförhållanden	   1
 kvinnofrågan;internationella översikter	   1
 Kvinnofrågor	   1
@@ -1216,10 +1391,10 @@ kyrko-handbok	   1
 kyrkoarkiv	   1
 Kyrkoböcker	   1
 kyrkohandbok	   1
-kyrkohistoria	   1
 kyrkohistoria;kyrkohistoria	   1
 kyrkolag	   1
 Kyrkor	   1
+Läder	   1
 lagar;graviditet	   1
 Lagar;Sjölagen	   1
 Lagrådet (Almén): köp, byte & gåfva && inskrifning - fast egendom	   1
@@ -1239,9 +1414,8 @@ Landtmäteristyrelsen: vattenlag	   1
 länskungörelserna	   1
 Länsstyrelser;Förvaltning	   1
 Lantbruk;Bergsbruk	   1
-lantbruk;lantbruk	   1
 lantbruk;lantbruk;lantbruk	   1
-Lantbruksekonomi	   1
+lantbruk;skjutsväsende;juridik	   1
 lantbruksekonomi;lantbruksekonomi	   1
 lantbruksekonomi;publicistik	   1
 Lantförsvar	   1
@@ -1252,18 +1426,19 @@ lärare - folk- & småskolor - lönereglering;löner	   1
 läroböcker - folkskolan	   1
 läroplaner;juridik och lagstiftning;läroplaner	   1
 läroplaner;läroplaner	   1
-lärosatser	   1
 läroverk	   1
 läroverk;juridik och lagstiftning	   1
 läroverken	   1
 läs- och skrivkunnighet	   1
 Läsning	   1
-ledning och organisation	   1
+Latin.	   1
 Legal status, laws, etc	   1
 Lekar	   1
 lekmannaelementet - civilprocessen;juridik och lagstiftning	   1
 lexikologi;poetiska böcker	   1
 Lexikon	   1
+lin	   1
+linodling	   1
 Lists.	   1
 litterära	   1
 Litteratursociologi	   1
@@ -1272,6 +1447,7 @@ Livförsäkring;Brandförsäkring	   1
 Livförsäkring;Försäkringsteknik	   1
 Livonica	   1
 livsforsikringsvirksomhed	   1
+Livsmedel	   1
 livsmedel;etnobotanik	   1
 livsmedel;handel	   1
 livsmedelslag	   1
@@ -1280,9 +1456,13 @@ ljuset	   1
 local history	   1
 Location.	   1
 lokalhistoria	   1
-löner;löner	   1
-löner;löner;löner;taxor och avgifter	   1
+lokalhistoria;Sigurd;Smålandsposten;Kristina Nilsson	   1
+löner;arbetsuppgifter	   1
+löner;löner;organisationsförändringar	   1
+löner;löner;taxor och avgifter	   1
+löner;priser	   1
 lönereglering - Kungl. biblioteket, universitetsbiblioteketn (Uppsala, Lund)	   1
+lönereglering - lärarne;löner	   1
 Lövskogar	   1
 Lunds universitet	   1
 Lunds universitet ...: undervisnings-, examens- & studieväsendet - filosofiska fakulteterna (Upsala, Lund)	   1
@@ -1298,6 +1478,7 @@ Mammals.	   1
 Mantalsskrivning	   1
 Maps;Kartor	   1
 Marinas;subantarctic.	   1
+marknadsföring	   1
 markrättigheter	   1
 marmor	   1
 Martin Luther	   1
@@ -1305,10 +1486,11 @@ mat och matvanor	   1
 mat och matvanor;hälsoaspekter	   1
 mat och matvanor;vardagsliv och traditioner	   1
 matematik & naturvetenskap - elementarläroverken;studier och undervisning;gymnasieskolan;gymnasieskolan	   1
-material och utrustning	   1
+material och utrustning;material och utrustning	   1
 Maternity services.	   1
 matlagning	   1
 matlagning;matlagning	   1
+mätning	   1
 mätning;mätning	   1
 mått & vigt	   1
 mått, mål och vikt	   1
@@ -1336,24 +1518,23 @@ Middle High German;Vowel gradation.	   1
 Migration and velocity.	   1
 Militären	   1
 Militärer	   1
-militärhistoria	   1
 minderårige - arbete - fabrik ...;juridik och lagstiftning	   1
 Mindre Asien;Palestina;Egypten	   1
-mineralogi	   1
 mineralogi;Historia	   1
 mission bland;historia;historia	   1
 mission bland;mission bland	   1
 Missions.	   1
 moderskapsförsäkring;juridik och lagstiftning	   1
-mönster;mönster	   1
 Morphology.	   1
 Mortalitet	   1
 Mortalitet;Livförsäkring	   1
 Mortalitet;Statistik	   1
+Mossodling;Tullväsen	   1
 Motion in line of sight.	   1
 motiv i konsten	   1
 Motiv i konsten	   1
 motiv i konsten;etnobotanik;konst	   1
+mullbär	   1
 Muralmåleri	   1
 museum - konstindustri & slöjd	   1
 museums;history;museums;history	   1
@@ -1371,21 +1552,25 @@ nationalekonomi;historia;historia	   1
 nationalförmögenhet (1908 & 1885-)	   1
 naturvetenskap	   1
 naturvetenskap;naturvetenskap	   1
+nödföda	   1
 nomadlapparna - flyttningar - Norge;historia;historia	   1
 Norbergsstrejken 1891-1892	   1
 normalpapper ... normalbläck ...	   1
 normalritningar - ålderdomshem, barnhem ...;arkitektur;arkitektur	   1
 normalritningar - skolanläggningar (folkskolan)	   1
 norrländska förbudslagstiftningen (ägostyckning);juridik och lagstiftning;juridik och lagstiftning;juridik och lagstiftning	   1
+nötkreatur	   1
 nötkreatur;historia;historia	   1
 nötkreatur;nötkreatur;blodsjukdomar	   1
 nötkreatur;nötkreatur;tuberkulos	   1
 Nötkreatur;nötkreatur;Tuberkulos	   1
 Numerals.	   1
 Numerical solutions.	   1
+nutrition	   1
 Nya testamentet	   1
 Nya Trollhätte kanalbolag	   1
 nybyggesväsendet;juridik och lagstiftning;historia	   1
+nyodling	   1
 nyttoväxter	   1
 odling;emperiment;historia;odling;emperiment;historia	   1
 odling;etnobotanik;Växtinsamling	   1
@@ -1400,7 +1585,6 @@ odling;skadedjur och sjukdomar;historia;historia	   1
 Öl	   1
 Old High German;Vowels.	   1
 oljeleveranserna - flottan	   1
-olyckor	   1
 olyckor;säkerhetsaspekter	   1
 Olycksfallsförsäkring	   1
 Olycksfallsförsäkring;Lantbruk	   1
@@ -1423,6 +1607,7 @@ ordförråd;lexikologi	   1
 organisationer;historia	   1
 Origin.	   1
 oroligheterna (Gudmundrå ...) - Ådalskommissionen	   1
+Orthography and spelling.	   1
 Ortnamn	   1
 ortnamn (bibliografi)	   1
 ortnamnen (Värmlands län)	   1
@@ -1463,6 +1648,7 @@ Physiological aspects.	   1
 Physiology	   1
 physiology;metabolism	   1
 physiopathology;blood supply	   1
+Pictorial works.	   1
 pionjärer	   1
 planer - reglementen - skoldistrikten;juridik och lagstiftning	   1
 planering;hälso-och sjukvård	   1
@@ -1470,6 +1656,7 @@ planering;planering	   1
 poesi	   1
 poisoning;etiology	   1
 Polen	   1
+Polis;(Matrikel);Polis;(Matrikel)	   1
 politik	   1
 politisk verksamhet;historia;politisk verksamhet;historia;politisk verksamhet;historia	   1
 politiska aspekter	   1
@@ -1478,18 +1665,28 @@ Popular works	   1
 porträtt	   1
 Porträtt	   1
 postregalet	   1
+Postväsen	   1
 potatis	   1
 Potatis	   1
+Potatis;Handel	   1
 potatis;odling	   1
 praktiska handledningar;praktiska handledningar	   1
 prästskogar	   1
 Prästval	   1
-Pre-Linnean works.	   1
-prevention	   1
+prel	   1
 prevention;forskning;tandvård	   1
 Priser	   1
 priser, kostnader (krigsåren)	   1
+priser;Handel	   1
 priser;historia;priser;historia;priser;historia	   1
+priser;kvalitetskontroll	   1
+priser;löner	   1
+priser;priser;priser;priser	   1
+priser;priser;transporter;transporter	   1
+priser;Spannmå	   1
+priser;taxor och avgifter;historia	   1
+priser;transporter	   1
+priser;tullväsen	   1
 privata samlingar;privata samlingar	   1
 privatekonomi	   1
 problemsamlingar	   1
@@ -1523,12 +1720,17 @@ rättsmedicin	   1
 Readers.	   1
 realskolan;gymnasiet	   1
 recept	   1
+redskap och verktyg	   1
+redskap och verktyg;tekniska aspekter	   1
+referat	   1
 Regeringsform;Riksdagsordning	   1
 regeringsrätt	   1
 reglemente - polispersonalen	   1
 regler	   1
 reglering - Vänern	   1
 rehabilitation;rehabilitation	   1
+rekrytering;förmåner	   1
+rekrytering;löner	   1
 relationer;relationer	   1
 Religion	   1
 religion;historia	   1
@@ -1536,9 +1738,9 @@ Religion.	   1
 religionshistoria	   1
 religiösa aspekter;fornnordisk religion	   1
 religiösa aspekter;historia	   1
+religiösa aspekter;historia;mytologi	   1
 religiösa aspekter;judendom	   1
 religiösa aspekter;pedagogiska aspekter	   1
-religiöst liv	   1
 Repairing;underhåll och reparationer	   1
 reparation	   1
 reparationer	   1
@@ -1563,6 +1765,7 @@ Romersk-katolska kyrkan;historia;historia	   1
 Romersk-katolska kyrkan;Romersk-katolska kyrkan	   1
 Rosdala	   1
 rotfrukter	   1
+rovor	   1
 rullföringsexpeditionerna	   1
 rusdrycksförbud	   1
 rusdrycksförbudet - främmande länder, särskilt Förenta staterna	   1
@@ -1571,8 +1774,9 @@ ryggradsdjur;sao	   1
 ryska influenser	   1
 Sädesslag	   1
 sägner	   1
-säkerhetsaspekter	   1
-samiska	   1
+salpeter;tillverkning;ekonomiska förhållanden;tillverkning;ekonomiska förhållanden	   1
+salt	   1
+samlare och samlarverksamhet	   1
 sammansatta ord;sammansatta ord	   1
 sammanslagningar	   1
 samtal	   1
@@ -1584,6 +1788,7 @@ Secretions.	   1
 sekelskiftet 1900	   1
 semitiska språk	   1
 Sense organs.	   1
+sicialdemokrati;politisk verksamhet;social democracy;political activities;politisk verksamhet	   1
 siden	   1
 Silkesmask;Silkesmaskodling	   1
 sinnessjuke;juridik och lagstiftning	   1
@@ -1603,7 +1808,10 @@ Skålgropar;Hällristningar;fornminne;Värend och Virdarna;Östrabo;Sigfrid	   1
 skandinaviska influenser;engelska influenser	   1
 skatt af inkomst & förmögenhet, inkomstskatt å aktiebolag ...	   1
 skatteavdrag - inkomster	   1
-Skatter	   1
+Skatter;Skatter;Skatter	   1
+skatter;skatter;skatter;skatter;skatter;skatter	   1
+Skatter;Skatter;taxor och avgifter;taxor och avgifter	   1
+skatter;Spannmål	   1
 skatter;tillverkning;juridik och lagstiftning	   1
 skifte af jord (historia);Juridik och lagstiftning;historia	   1
 skiften	   1
@@ -1621,10 +1829,12 @@ skönlitteratur	   1
 skördetröskor;skördetröskor	   1
 skrifter	   1
 skrivbiträdesinstitutionen - läroverken	   1
+skydd	   1
 skydd - natur, naturminnesmärken;juridik och lagstiftning;juridik och lagstiftning	   1
 slaget 1632	   1
 slagrutor;folktro	   1
 slang;förbrytarspråk	   1
+smuggling	   1
 Social and moral questions.	   1
 Social life and customs.	   1
 sociala aspekter;attityder till	   1
@@ -1649,6 +1859,11 @@ Sofia kyrka;Sofia kyrka	   1
 soldatspråk	   1
 sommartiden	   1
 spånadsväxter;historia;etnobotanik	   1
+Spannmål;Handel	   1
+Spannmål;juridik och lagstiftning	   1
+Spannmål;Skatter	   1
+spannmålsmagasin	   1
+Spannmålstorkar	   1
 Specimens.	   1
 Spectra;Magnitudes;Distribution	   1
 språk;retorik	   1
@@ -1657,7 +1872,10 @@ städerna - skyldigheter, rättigheter - staten;juridik och lagstiftning;förval
 stadsplan, tomtindelning	   1
 stadsplanelag	   1
 stämpelförordningen;juridik och lagstiftning	   1
+Stämplar;historia;Stämplar;Stämplar	   1
 Stämplar;Stämplar;Stämplar	   1
+Stampverk	   1
+Stapelstäder	   1
 stärkande - armén & flottan	   1
 Stars.	   1
 Statens handelskommission;historia;historia	   1
@@ -1671,12 +1889,14 @@ statistiskt embetsverk	   1
 statsdepartementen	   1
 statslotteri	   1
 Statstjänstemän;Uppslagsbok	   1
+stavelser	   1
 sten	   1
 stenografiska referaten - Riksdagens debatter	   1
 Storkonflikten 1902	   1
 storlek - statsanstalt för sinnessjuka	   1
 Stormaktstiden	   1
 strafflagen	   1
+Strängnäs	   1
 stridskrafter - Sverige, Norge	   1
 Stripakonflikten 1925-1927	   1
 studiecirkelverksamhet;historia;studier och undervisning	   1
@@ -1704,11 +1924,11 @@ Svenska akademien: psalmbok	   1
 svenska språket	   1
 Svenska språket;Ordbok	   1
 svenskarnas ställning - främmande länder & åtgärder - återvandringen	   1
-svenskt deltagande	   1
 Sverige;historia	   1
 Sverige;Lappland	   1
 Sverige;politisk verksamhet	   1
 Sverige;Sverige	   1
+svin	   1
 svinpest;margarin	   1
 Swedish;English	   1
 Swedish.	   1
@@ -1725,11 +1945,13 @@ taxering, inkomst- & förmögenhetsskatt, bevillning	   1
 taxeringen - inkomst- & förmögenhetsskatt (1912)	   1
 taxeringen - inkomst- & förmögenhetsskatt (1913) & förmögenhetsdelar	   1
 taxeringen - inkomstskatt & bevillning - 1907	   1
+taxor och avgifter;anställda	   1
 taxor och avgifter;historia;taxor och avgifter;historia	   1
+taxor och avgifter;taxor och avgifter;löner	   1
+taxor och avgifter;taxor och avgifter;taxor och avgifter;taxor och avgifter	   1
 Teaterkomité	   1
 Technique.	   1
 teckningsundervisningen	   1
-teknik	   1
 teknisk doktorsgrad - Tekniska högskolan	   1
 tekniska aspekter;ekonomiska aspekter;miljöaspekter	   1
 tekniska aspekter;ekonomiska aspekter;tekniska aspekter;ekonomiska aspekter	   1
@@ -1747,6 +1969,7 @@ testning;design och konstruktion;tekniska aspekter	   1
 Textbooks for foreign speakers;Swedish.	   1
 Textila hantverk	   1
 textilier	   1
+Textilier;Finsnickeri	   1
 Texts and translations.	   1
 Themes, motives	   1
 Themes, motives.	   1
@@ -1759,34 +1982,43 @@ tillverkning;framställning, tillverkning etc.;tillverkning	   1
 tillverkning;historia;tillverkning;historia	   1
 tillverkning;historia;tillverkning;historia;historia	   1
 tillverkning;historia;utställningar;utställningar	   1
+tillverkning;transporter	   1
+tjänsteansvar	   1
 Tjänstepensionering;Militärväsen	   1
 tjänstepensionsreglementet - Riksdagens verk	   1
-tobak	   1
-Tobak	   1
 tobaksvaror - detaljhandel	   1
 torf - lokomotivbränsle	   1
+torkning	   1
 torpareklassen	   1
 torrläggning - jord	   1
+torv;torv	   1
 toxicity	   1
 träd;kulturhistoria	   1
 träd;religiösa aspekter;historia;träd;fornnordisk religion;trädkult;fornordisk religion;vedartade växter;religiösa aspekter;heliga träd;fornnordisk religion	   1
+Trädgårdsskötsel	   1
 Trafikförsäkring	   1
 Training of	   1
-Träkol	   1
 traktatpolitik - handels- & sjöfartstraktater (1816-1914);historia;historia	   1
 Translations from Swedish;Bibliography.	   1
 Translations into English;Bibliography.	   1
+Transporter	   1
+transporter;transporter;transporter;transporter	   1
 Transportförsäkring	   1
 transportväsen	   1
 Travel	   1
 tryckfrihetsförordningen	   1
 tryckfrihetsordning	   1
+Tullar	   1
 tullpolitik (1816-1911);historia	   1
+Tullväsen;lagring	   1
+tullväsen;tullväsen	   1
+tunnbinderi	   1
 Turcica	   1
 turer och rundvandringar	   1
 turkiska	   1
 tvångssjukförsäkringen - Tyskland, England	   1
 Typografi	   1
+ugnar	   1
 Ulricehamnsblockaden 1928	   1
 ultrastructure	   1
 Ultuna landtbruks-institut	   1
@@ -1797,6 +2029,7 @@ undervisnings-anstalt - elementar-lärare	   1
 undervisningsplan - folkskolor	   1
 undervisningsplan, afgångsstadga - läroverken;juridik och lagstiftning	   1
 ungdomsbrottsligheten	   1
+uniformer	   1
 Unity.	   1
 universiteten (Upsala, Lund) & Karolinska institutet	   1
 universiteterna	   1
@@ -1807,25 +2040,28 @@ Upsala universitet: undervisnings-, examens- & studieväsendet - filosofiska fak
 urine	   1
 Utbildning	   1
 utbildning;undervisning;historia;historia	   1
-utfodring	   1
 utgåvor	   1
 utländska influenser	   1
 utrikes handelns främjande;subventioner	   1
 Utrikesdepartementet	   1
 Utrikesdepartementet, diplomatien, konsulatväsendet	   1
+utrikespolitik	   1
 utställningar;historia	   1
 uttal	   1
 utvandrarne - upplysningar - Amerika	   1
 utvärdering	   1
 vägmark	   1
 val - riksdagens andra kammare	   1
-våld mot	   1
+våld mot;skatter	   1
 Valsverk	   1
 Vänersborg	   1
 vård	   1
+vård och omsorg	   1
+vård och omsorg;rehabilitering	   1
 vardagsliv och traditioner;etnologi;kulturhistoria;historia;etnologi;etnologi	   1
 vardagsliv och traditioner;kläder;folktro och folkseder	   1
 värdering;ekonomiska aspekter	   1
+värdering;Ull	   1
 Variation.	   1
 Varieties.	   1
 värme och ventilation;belysning	   1
@@ -1861,11 +2097,13 @@ Versification.	   1
 Vertebrates.	   1
 Vete;Bröd	   1
 Vikingatiden;Medeltiden	   1
+vikt;tulltaxa;Juridik	   1
 vilda växter;vilda växter	   1
 villkorligt dömda - Föreningen Skyddsvärnet	   1
 Vowel gradation.	   1
 Vowels.	   1
 Words;History;Etymology.	   1
 Words;History.	   1
+Wörterbuch	   1
 Wounds and injuries.	   1
 yrkesutbildning	   1

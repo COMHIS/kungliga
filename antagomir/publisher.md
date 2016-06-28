@@ -8,9 +8,9 @@ output: markdown_document
 
 ### Publishers
 
- * 17661 [unique publishers](output.tables/publisher_accepted.csv)
+ * 19721 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 347510 documents have unambiguous publisher information (100%). 
+ * 384141 documents have unambiguous publisher information (100%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -40,13 +40,13 @@ Title count versus paper consumption (top publishers):
 
 |publisher             | titles| paper|
 |:---------------------|------:|-----:|
-|                      | 187194| 23.64|
-|Bonnier               |  13533|  1.23|
-|Förf                  |   2909|  0.08|
-|Geber                 |   2416|  0.17|
-|Gleerup               |   2671|  0.13|
-|Lindblad              |   2089|  0.07|
-|Natur & Coultur       |   2308|  0.19|
-|Norstedt              |   6771|  0.94|
-|Riksdagen             |   3465|  0.00|
-|Wahlström & Widstrand |   3200|  0.23|
+|                      | 201245| 35.31|
+|Bonnier               |  13623|  1.34|
+|Förf                  |   2917|  0.08|
+|Geber                 |   2427|  0.17|
+|Gleerup               |   2696|  0.13|
+|Kongl. tryckeriet     |   5123|  0.51|
+|Norstedt              |   6859|  1.01|
+|Riksdagen             |   3466|  0.00|
+|Sverige               |  11644|  2.85|
+|Wahlström & Widstrand |   3205|  0.23|

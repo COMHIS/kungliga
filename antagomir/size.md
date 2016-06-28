@@ -31,9 +31,9 @@ Visual summary of the estimated page counts per gatherings (shown only for the 2
 
 ## Document size comparisons
 
-  * Document size (area) info is available for 73551 documents (19%). For the remaining documents, critical dimension information was not available or could not be interpreted: [List of entries where document surface could not be estimated](output.tables/physical_dimension_incomplete.csv)
+  * Some dimension info is provided in the original raw data for altogether 73866 documents (19.1%) but could not be interpreted for 8213 documents (ie. dimension info was successfully estimated for 88.9 % of the documents where this field was not empty).
 
-  * Some dimension info is provided in the original data but could not be interpreted for 8213 documents (ie. dimension info was estimated for 100% of the documents where this field was not empty).
+  * Document size (area) info was obtained for 73551 documents (19%). For the remaining documents, critical dimension information was not available or could not be interpreted: [List of entries where document surface could not be estimated](output.tables/physical_dimension_incomplete.csv)
 
   * Document gatherings info is originally available for 65653 documents (17%), and further estimated up to 65653 documents (17%).
 

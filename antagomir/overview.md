@@ -96,9 +96,9 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |self_published                               |        27.6|          72.4|        279275|          2|
 |author_name                                  |        27.3|          72.7|        280293|      88144|
 |author                                       |        27.3|          72.7|        280293|      89407|
-|country                                      |        12.1|          87.9|        339132|         38|
+|country                                      |        12.1|          87.9|        339037|         38|
 |852j                                         |         8.7|          91.3|        352283|     133906|
-|publication_place                            |         4.3|          95.7|        369169|       2698|
+|publication_place                            |         4.3|          95.7|        369169|       2686|
 |publication_year_from                        |         3.8|          96.2|        371265|        501|
 |publication_year                             |         3.8|          96.2|        371287|        501|
 |publication_decade                           |         3.8|          96.2|        371287|         57|

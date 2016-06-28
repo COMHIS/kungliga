@@ -33,13 +33,16 @@ Visual summary of the estimated page counts per gatherings (shown only for the 2
 
   * Some dimension info is provided in the original raw data for altogether 73866 documents (19.1%) but could not be interpreted for 8213 documents (ie. dimension info was successfully estimated for 88.9 % of the documents where this field was not empty).
 
-  * Document size (area) info was obtained for 73551 documents (19%). For the remaining documents, critical dimension information was not available or could not be interpreted: [List of entries where document surface could not be estimated](output.tables/physical_dimension_incomplete.csv)
+  * Document size (area) info was obtained in the final preprocessed data for altogether 73551 documents (19%). For the remaining documents, critical dimension information was not available or could not be interpreted: [List of entries where document surface could not be estimated](output.tables/physical_dimension_incomplete.csv)
 
-  * Document gatherings info is originally available for 65653 documents (17%), and further estimated up to 65653 documents (17%).
+  * Document gatherings info is originally available for 65653 documents (17%), and further estimated up to 65653 documents (17%) in the final preprocessed data.
 
-  * Document height info is originally available for 7970 documents (2%), and further estimated up to 73551 documents (19%).
+  * Document height info is originally available for 7970 documents (2%), and further estimated up to 73551 documents (19%) in the final preprocessed data.
 
-  * Document width info is originally available for 333 documents (0%), and further estimated up to 73551 documents (19%).
+  * Document width info is originally available for 333 documents (0%), and further estimated up to 73551 documents (19%) in the final preprocessed data.
+
+
+These tables can be used to verify the accuracy of the conversions from the raw data to final estimates:
 
   * [Dimension conversions from raw data to final estimates](output.tables/conversions_physical_dimension.csv)
 
@@ -59,7 +62,7 @@ The estimates are based on the following auxiliary information sheets:
 
 Estimates of document size (area) info in gatherings system are available for 385771 documents (100%). Also compare gatherings and area sizes as a quality check. This includes all data; the area has been estimated from the gatherings when dimension information was not available.
 
-![plot of chunk size-summary](figure/size-size-summary-1.png)![plot of chunk size-summary](figure/size-size-summary-2.png)
+<img src="figure/size-size-summary-1.png" title="plot of chunk size-summary" alt="plot of chunk size-summary" width="430px" /><img src="figure/size-size-summary-2.png" title="plot of chunk size-summary" alt="plot of chunk size-summary" width="430px" />
 
 
 Document dimension histogram (surface area). Few document sizes dominate publishing.
@@ -70,7 +73,7 @@ Document dimension histogram (surface area). Few document sizes dominate publish
 Gatherings versus page counts, and original gatherings versus original heights where both are available. The point size indicates the number of documents with the corresponding combination. The red dots indicate the estimated height that is used when only gathering information is available. It seems that in most documents, the given height is smaller than the correponding estimate.
 
 
-![plot of chunk size-pagecomp](figure/size-size-pagecomp-1.png)![plot of chunk size-pagecomp](figure/size-size-pagecomp-2.png)
+<img src="figure/size-size-pagecomp-1.png" title="plot of chunk size-pagecomp" alt="plot of chunk size-pagecomp" width="430px" /><img src="figure/size-size-pagecomp-2.png" title="plot of chunk size-pagecomp" alt="plot of chunk size-pagecomp" width="430px" />
 
 ### Gatherings timelines
 

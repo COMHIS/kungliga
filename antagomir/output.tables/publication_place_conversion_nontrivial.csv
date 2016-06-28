@@ -1,5 +1,5 @@
 original	polished	Count
-Total count: 	89391	
+Total count: 	89498	
 Göteborg	Gothenburg	12581
 Helsingfors	Helsinki	 8439
 [Stockholm]	Stockholm	 6951
@@ -143,6 +143,7 @@ Reval	Tallinn	   62
 [Stockholm	Stockholm	   62
 Wisby	Visby	   61
 Stockholm, Tryckt i Kongl. Tryckeriet, 1803.	Stockholm	   60
+Sofija	Sofia	   60
 Kiöbenhavn	Copenhagen	   59
 [Falun]	Falun	   59
 Stockholm, Tryckt hoos Niclas Wankijff, Kongl. Booktr.	Stockholm	   57
@@ -222,7 +223,7 @@ Stockholm, Tryckt i Kongl. Tryckeriet, 1792.	Stockholm	   35
 Stockholm, Tryckt i Kongl. Tryckeriet, 1794.	Stockholm	   35
 Stockholm, trykt i Kongl. tryckeriet	Stockholm	   35
 Stockholm, tryckt uti det Kongl. tryckeriet.	Stockholm	   35
-Den Haag	Den	   35
+Den Haag	The Hague	   35
 Baltimore	Baltimore Md	   35
 [Södertälje]	Södertälje	   35
 [Norrköping]	Norrköping	   35
@@ -298,7 +299,6 @@ Stockholm, tryckt i Kongl. Tryckeriet, 1826.	Stockholm	   23
 Stockholm, Tryckt i Kongl. Tryckeriet, 1796.	Stockholm	   23
 Stockholm, tryckt i Kongl. tryckeriet, 1792.	Stockholm	   23
 Stockholm, tryckt uti thet Kongl. tryckeriet.	Stockholm	   23
-Freiburg im Breisgau	Freiburg	   23
 Helsingforsiæ	Helsinki	   23
 Danzig	Gdańsk	   23
 Gäfle	Gävle	   23
@@ -352,6 +352,7 @@ Paris..	Paris	   19
 Genova	Genoa	   19
 Königsberg	Koningsberg	   19
 Stockholm, tryckt hos directeuren Lars Salvius.	Stockholm	   19
+Leningrad	St Petersburg	   19
 Würzburg	Wurzburg	   19
 [Amsterdam]	Amsterdam	   19
 Helsingfors :;Stockholm	Helsinki	   19
@@ -406,6 +407,7 @@ Havniæ	Haunia	   15
 Upsaliæ excudebant regiæ academiæ typographi.	Uppsala	   15
 Upsal	Uppsala	   15
 Tampereella	Tampere	   15
+Berkeley	Berkeley CA	   15
 Stockholm Fosterlandsstift	Stockholm	   15
 Moskva ;;[Stockholm]	Moscow	   15
 [Skellefteå]	Skellefteå	   15
@@ -430,7 +432,6 @@ Upsalæ	Uppsala	   14
 [München]	München	   14
 Stockholm, tryckte hos Olof Grahn, 1823.	Stockholm	   14
 [Skara]	Skara	   14
-Spånga	Spanga	   14
 Råsunda	Stockholm	   14
 [Växjö]	Växjö	   14
 Stockholm ;;Helsingfors	Stockholm	   14
@@ -458,7 +459,6 @@ Gothembourg	Gothenburg	   13
 Stockholmis	Stockholm	   13
 Kuopiossa	Kuopio	   13
 Porissa	Pori	   13
-Rio de Janeiro	Rio	   13
 Cambridge, Mass.	Cambridge Ma	   13
 [Lidköping]	Lidköping	   13
 Stockholm ;;Uddevalla	Stockholm	   13
@@ -606,7 +606,6 @@ Rönne	Rønne	    9
 Grenna	Gränna	    9
 Stockholm;Stockholm	Stockholm	    9
 [Uppsala	Uppsala	    9
-Glimåkra	Glimakra	    9
 [Köpenhamn]	Copenhagen	    9
 [Oskarshamn]	Oskarshamn	    9
 [Bollnäs]	Bollnäs	    9
@@ -795,6 +794,7 @@ Upsaliæ, litteris viduæ direct. Johan. Edman.	Uppsala	    6
 Cimbrishamn	Simrishamn	    6
 Uppsala..	Uppsala	    6
 Dresden ;;Leipzig	Dresden	    6
+Ann Arbor	Ann Arbor MI	    6
 Basle	Basel	    6
 Aboæ, impressit Joh. Christoph. Frenckell.	Turku	    6
 Londini Gothorum, literis Berlingianis.	Lund	    6
@@ -815,6 +815,7 @@ St Michel	Mikkeli	    6
 Kraków..	Krakow	    6
 [Carlstad]	Karlstad	    6
 Uppsaliæ	Uppsala	    6
+Columbus	Columbus OH	    6
 Linkjöping	Linköping	    6
 U. o. tr. å. ;;[Åbo:]	Turku	    6
 [I slutet ] Stockholm	Stockholm	    6
@@ -947,6 +948,7 @@ Gryphiae, litteris I. H. Eckhardt, reg. acad. typogr.	Greifswald	    5
 Haaparannalla	Haaparanta	    5
 Aboæ, impressit Johannes Christophorus Frenckell.	Turku	    5
 [Dresden]	Dresden	    5
+Freiburg	Freiburg im Breisgau	    5
 Città del Vaticano	Citta del vaticano	    5
 [Princeton]	Princeton NJ	    5
 Boston, Mass	Boston Ma	    5
@@ -1101,6 +1103,7 @@ Växl.orter	Växjö	    4
 Malmö ...	Malmö	    4
 [Tomteboda]	Tomteboda	    4
 Franckfurth ...	Frankfurt	    4
+Bryn Athyn	Bryn Athyn PA	    4
 Berne	Bern	    4
 Chicago ...	Chicago IL	    4
 Franckfurt ...	Frankfurt	    4
@@ -1120,6 +1123,7 @@ Jyväskylä..	Jyväskylä	    4
 Hamburg..	Hamburg	    4
 Tallin	Tallinn	    4
 Amsterdam..	Amsterdam	    4
+Florens	Florence	    4
 S:t Michel	Mikkeli	    4
 Wroclaw	Wrocław	    4
 Stokgol'm	Stockholm	    4
@@ -1136,7 +1140,7 @@ Boston & New York	Boston Ma	    4
 Providence	Providence RI	    4
 [Breslau]	Breslau	    4
 Upsaliæ, typis direct. Joh. Edman.	Uppsala	    4
-Berkeley..	Berkeley	    4
+Berkeley..	Berkeley CA	    4
 Londini Gothorum typis Ludovici Decreaux.	London	    4
 Stuttgart & Leipzig	Stuttgart	    4
 Upsaliæ impressum.	Uppsala	    4
@@ -1238,7 +1242,7 @@ Sönderborg	Sønderborg	    4
 Warkaus	Varkaus	    4
 's-Gravenh.	The Hague	    4
 Brugge	Bruges	    4
-Berkeley, Calif.	Berkeley	    4
+Berkeley, Calif.	Berkeley CA	    4
 Helsingb.	Helsinki	    4
 Lund.	Lund	    4
 Hensmåla	Hensmala	    4
@@ -1279,6 +1283,7 @@ Sjögestad	Linköping	    4
 Lilleskog	Gothenburg	    4
 [Ängelholm]	Ängelholm	    4
 [Åtvidaberg]	Åtvidaberg	    4
+Los Angeles	Los Angeles CA	    4
 Uppsala :;Wiesbaden	Uppsala	    4
 Sioux City, Iowa	Sioux city ia	    4
 Göteborg :;Cincinnati	Gothenburg	    4
@@ -1415,6 +1420,7 @@ Korsholm	Mustasaari	    3
 Stockholm, tryckt i Kongl. tryckeriet	Stockholm	    3
 Upsaliae Excudebant Regiae Academiae typographi.	Uppsala	    3
 Wiipurissa	Vyborg	    3
+Freystadt	Freistadt	    3
 Upsala ...	Uppsala	    3
 Upsaliæ excudebant Regiæ academiæ typographi.	Uppsala	    3
 Upsalis, impressit officina Werneriana.	Uppsala	    3
@@ -1434,7 +1440,7 @@ Copenhagen ...	Copenhagen	    3
 Norrköping ...	Norrköping	    3
 Kiel ...	Kiel	    3
 Frankfurt ...	Frankfurt	    3
-Leningrad ;;Moskva	Leningrad	    3
+Leningrad ;;Moskva	St Petersburg	    3
 [Helsinki ...]	Helsinki	    3
 Upsaliæ, Litteris Johann. Fred. Edman, Reg. Acad. Typogr.	Uppsala	    3
 Upsala 1848, P. Hanselli.	Uppsala	    3
@@ -1495,6 +1501,7 @@ Stockholmiae	Stockholm	    3
 Halle-Saale	Halle	    3
 Stockholm, tryckt hos P. A. Norstedt & söner, 1832.	Stockholm	    3
 Stockholm, tryckt hos Johan A. Carlbohm, 1788.	Stockholm	    3
+Poona	Pune	    3
 [Åbo] Tryckt i Frenckellska boktryckeriet.	Turku	    3
 [Trondhjem]	Trondheim	    3
 [Kristinehamn]	Kristiinankaupunki	    3
@@ -1530,6 +1537,7 @@ Londini Gothorum ex officina directoris Caroli Gustavi Berling, reg. acad. Carol
 Upsaliæ, litteris typographorum academiæ Stenhammar et Palmblad.	Uppsala	    3
 Åbo, tryckt hos Johan Christoph. Frenckell.	Turku	    3
 Køpenhamn	Copenhagen	    3
+Vienne	Vienna	    3
 Char'kov	Charkov	    3
 A Paris, chez Loüis Billaine, au second Pillier de la grand' Salle du Palais, au Grand Cesar. M. DC. LXXV. Avec privilege du roy.	Paris	    3
 Porto Alegre	Porto	    3
@@ -1553,7 +1561,7 @@ Stuttgart..	Stuttgart	    3
 Upsaliæ Wahlström & Låstbom.	Uppsala	    3
 [Uppsala & Leipzig]	Uppsala	    3
 Khvn & Oslo	Copenhagen	    3
-Freiburg i.B.	Freiburg	    3
+Freiburg i.B.	Freiburg im Breisgau	    3
 Stockholm. Tryckt hos Johan Hörberg, 1832.	Stockholm	    3
 [Kiel]	Kiel	    3
 [Borgå]	Porvoo	    3
@@ -1575,7 +1583,7 @@ Kiliae	Kiel	    3
 Dantzig	Gdańsk	    3
 københavn	Copenhagen	    3
 Rostock..	Rostock	    3
-Freiburg im Br	Freiburg	    3
+Freiburg im Br	Freiburg im Breisgau	    3
 [Regensburg]	Regensburg	    3
 Reykjavîk	Reykjavik	    3
 St-Pétersbourg	St Petersburg	    3
@@ -1750,7 +1758,9 @@ Pålsboda	Palsboda	    3
 [Svanesund]	Svanesund	    3
 Karlskrona ;;Stockholm	Karlskrona	    3
 [Sigtuna]	Sigtuna	    3
+Fristad	Freistadt	    3
 Torsåker	Torsaker	    3
+Landafors	Segersta	    3
 Kållerstad	Linköping	    3
 [Älmhult]	Älmhult	    3
 [Mora]	Mora	    3
@@ -1764,7 +1774,7 @@ Grove City, Minn.	Grove City MN	    3
 Brooklyn, N.Y. ;;Örebro	New York NY	    3
 [Chicago?]	Chicago IL	    3
 Alfred Centre, N.Y.	Alfred NY	    3
-Austin, Tex.	Austin	    3
+Austin, Tex.	Austin TX	    3
 Dover, N.J.	Dover NJ	    3
 [Rydboholm]	Rydboholm	    3
 Portland, Or.	Portland Or	    3
@@ -2103,6 +2113,7 @@ Pålgård	Palgard	    2
 Tryckt i Upsala. [s. n.]	Uppsala	    2
 Upsala. [s. n.]	Uppsala	    2
 Battle Creek,Mich.	Battle Creek Mi	    2
+Turki	Turku	    2
 Östersund :;Östersund :;Umeå :;Stockholm	Oslo	    2
 Lund, tryckt hos håf-camereraren och direct. C.G. Berling.	Lund	    2
 Lund, tryckt hos hof-cam. och direct. C. G. Berling.	Lund	    2
@@ -2132,7 +2143,7 @@ Gamla Vasa	Vaasa	    2
 Amsterdam ...	Amsterdam	    2
 Mariæstad	Mariestad	    2
 s-Gravenhage	The Hague	    2
-Freiberg in Sachsen	Freiberg	    2
+Freiberg in Sachsen	Freiburg im Breisgau	    2
 Upsaliæ Wahlström & C.	Uppsala	    2
 Upsaliæ Excudebant Regiæ Academiæ typographi.	Uppsala	    2
 Luelå	Luela	    2
@@ -2190,6 +2201,7 @@ Upsaliæ excudebant Stenhammar et Palmblad.	Uppsala	    2
 Alnö	Alnön	    2
 Wasa ...	Vaasa	    2
 Kupiossa	Kuopio	    2
+Habana	Havanna	    2
 [Lindesberg]	Lindesberg	    2
 Upsaliæ ...	Uppsala	    2
 Greifswald ...	Greifswald	    2
@@ -2256,6 +2268,7 @@ Langensalza ;;Berlin ;;Leipzig	Langensalza	    2
 Stuttgart & Wien	Stuttgart	    2
 Zürich ;;München	Zürich	    2
 Lwów-Złoczów	Lviv	    2
+Garden City	Garden City NY	    2
 Kristiania ;;København	Oslo	    2
 London ;;Boston	London	    2
 Londini Gothorum ex officina directoris Caroli Gustavi Berling. Reg. acad. Carol. typograph.	London	    2
@@ -2345,6 +2358,7 @@ Gênes	Geneva	    2
 göteborg	Gothenburg	    2
 Harlemi	Haarlem	    2
 Lyon & Paris	Lyon	    2
+Grankulla	Kauniainen	    2
 Hbg	Helsingborg	    2
 Edinburgh and London	Edinburgh	    2
 Berlin-Tempelhof	Berlin	    2
@@ -2395,7 +2409,7 @@ Chicago..	Chicago IL	    2
 Leipzig ;;Berlin	Leipzig	    2
 Upsaliæ, typis Joh. Edman, direct. et r. acad. typogr.	Uppsala	    2
 Berlin & Stettin	Berlin	    2
-Freiburg im Br.	Freiburg	    2
+Freiburg im Br.	Freiburg im Breisgau	    2
 Upsaliae Excudebant Regiæ Academiæ typographi.	Uppsala	    2
 Tromsø	Tromsö	    2
 Åbo, tryckt, hos directeuren och kongl. boktr. i stor-förstendömet Finland, Jacob Merckell.	Turku	    2
@@ -2446,7 +2460,7 @@ Bonn & Lpz	Bonn	    2
 Honolulu, Hawaii	Honolulu	    2
 Berlin-Spandau	Berlin	    2
 Parizo	Paris	    2
-Freiburg/Schweiz	Freiburg	    2
+Freiburg/Schweiz	Freiburg im Breisgau	    2
 Aboæ, exc. Joh. Kiæmpe, r. ac. typ.	Turku	    2
 Lund 1827. Tryckt uti Berlingska boktryckeriet.	Lund	    2
 [Göttingen]	Göttingen	    2
@@ -2470,10 +2484,11 @@ Olten..	Olten	    2
 Leipzig ;;Wien	Leipzig	    2
 Basileæ	Basel	    2
 Nijmegen & Utrecht	Nijmegen	    2
+Cracovie	Krakow	    2
 Aboæ impressit Joh. Christoph. Frenckell.	Turku	    2
 Aboae impressit Joh. Christoph. Frenckell	Turku	    2
 Strasburg	Strasbourg	    2
-den Haag	Den	    2
+den Haag	The Hague	    2
 Sthlm & Gbg	Stockholm	    2
 København & Oslo	Copenhagen	    2
 New Haven..	New Haven Ct	    2
@@ -2482,7 +2497,7 @@ Sthlm & Norrköping	Stockholm	    2
 Upsaliæ, excud. Laur. Magn. Höjer, reg. acad. typogr.	Uppsala	    2
 Montreuil-sur-Mer	Montreuil	    2
 Tönder	Tønder	    2
-Freiburg i. B.	Freiburg	    2
+Freiburg i. B.	Freiburg im Breisgau	    2
 Jönköpjing	Jönköping	    2
 [Durham]	Durham	    2
 København og Kristiania	Copenhagen	    2
@@ -2495,7 +2510,7 @@ Greiffswald	Greifswald	    2
 Stockholm : Wahlström & Widstrand	Stockholm	    2
 Londini Gothorum, ex officina Berlingiana, MDCCCXXIX.	London	    2
 Khvn, Oslo	Copenhagen	    2
-Austin, Texas	Austin	    2
+Austin, Texas	Austin TX	    2
 Helsingissä, Otava	Helsinki	    2
 Frederikshald	Halden	    2
 Uppsala & Wiesbaden	Uppsala	    2
@@ -2510,6 +2525,7 @@ Gothæ	Gotha	    2
 Upsaliæ, typis direct. Johan. Edman.	Uppsala	    2
 Upsaliae, excudebant Regiae academiae typographi.	Uppsala	    2
 Cardiff	Caerdydd	    2
+Spa	Spånga	    2
 Upsala, 1851. P. Hanselli.	Uppsala	    2
 Utrecht..	Utrecht	    2
 [Kalmar ]	Kalmar	    2
@@ -2919,7 +2935,6 @@ Hälsingborgs	Helsingborg	    2
 [Nora]	Nora	    2
 [Husum]	Husum	    2
 Arlöv ;;Gävle ;;Nässjö ;;Stockholm ;;Göteborg	Arlöv	    2
-Långebro	Langebro	    2
 Görslöf ;;Höganäs	Görslöv	    2
 [Urshult]	Urshult	    2
 Elgabäcksryd	Älgabäcksryd	    2
@@ -3034,6 +3049,7 @@ Turusu	Turku	    1
 Lipsiae apud M. Swederum. MDCCLXXXVII.	Leipzig	    1
 Tryckt j Stockholm, aff Andrea Gutterwitz. Anno M. D. XCI.	Stockholm	    1
 Stockholm, tryckt i Marquardska tryckeriet, 1818.	Stockholm	    1
+Ocke	Ockelbo	    1
 Calmar 1817, tryckt i Carl Fredr. Bergs boktryckeri.	Kalmar	    1
 Strängnäs, tryckt af Balthazar Widmann, Kongl: Colleg: booktryckare, åhr 1710.	Strängnäs	    1
 Götheborg, tryckt hos Lars Wahlström, 1784.	Gothenburg	    1
@@ -3209,7 +3225,7 @@ Sundsvall ;;Hernösand	Sundsvall	    1
 Tryckt j Vpsala. 1541	Uppsala	    1
 Stockholm, tryckt hos Anders Jacobßon Nordström	Stockholm	    1
 Stockholm ;;Gothenbourg	Stockholm	    1
-Freiburg in Br.	Freiburg	    1
+Freiburg in Br.	Freiburg im Breisgau	    1
 Randers. Paa Boghandler Fr. Smiths forlag tryckt hos J.M. Elmenhoff, 1837.	Randers	    1
 Halmstadiæ	Halmstad	    1
 Londini Gothorum. ex officina directoris Caroli Gustavi Berling. reg. acad. Carol. typograph.	London	    1
@@ -3297,6 +3313,7 @@ Berlin :;Rostock	Berlin	    1
 Stockholm, Tryckt hos Peter Hesselberg 1774.	Stockholm	    1
 Wexiö 1784, tryckt hos kongl. privil. gymn. boktryck. Wrigseen & Thetzell.	Växjö	    1
 Uppsala o. Sthlm	Uppsala	    1
+Pesth	Budapest	    1
 [Götlunda]	Götlunda	    1
 Stockholm ;;Landskrona	Stockholm	    1
 London: Henry Colburn and Richard Bentley, New Burlington street.	London	    1
@@ -3461,7 +3478,7 @@ Stockholm de l'imprimerie Royale, 1823.	Stockholm	    1
 Stockholm, Tryckt hoos Johann H. Werner, Kongl. Maj:ts och Upsala Acad. Bokt. 1713.	Stockholm	    1
 Kristianstad :;Kristianstad :;Kristianstad	Kristianstad	    1
 Färgelanda :;Färgelanda :;Bollnäs	Färgelanda	    1
-Pesth ;;Wien ;;Leipzig	Pesth	    1
+Pesth ;;Wien ;;Leipzig	Budapest	    1
 Stockholm :;Stockholm :;Älvsjö :;Älvsjö	Stockholm	    1
 Stockholm & Uppsala	Stockholm	    1
 Malmö :;Malmö :;Vårgårda ;;Stockholm	Malmö	    1
@@ -6011,6 +6028,7 @@ Trelleborg ...	Trelleborg	    1
 Typis Ludovici Decreaux, directoris officinæ typographicae Londini Gothorum. MDCCXLI.	London	    1
 Gryphiae litteris Ant. Ferd. Röse, reg. acad. typogr.	Greifswald	    1
 Lund, Lundbergska trøkkeriet	Lund	    1
+Freiberg	Freiburg im Breisgau	    1
 Lund, tryckt hos hof-camereraren och directeuren Carl Gustav Berling.	Lund	    1
 Lund. Tryckt hos hof-camer. och direct. C. G. Berling.	Lund	    1
 Lund, tryckt hos hof-camer. och direct C.G. Berling.	Lund	    1
@@ -6370,7 +6388,7 @@ Mikkeli [Finland]	Mikkeli	    1
 [Detroit, Mich.]	Detroit Mi	    1
 Hamburg-Berlin	Hamburg	    1
 Paris;Bruxelles	Paris	    1
-Kalikātā	Kalikata	    1
+Kalikātā	Calcutta	    1
 Stockholm, 1832, hos Zacharias Haeggström.	Stockholm	    1
 Sölverborg	Sölvesborg	    1
 Berlin ;;Hamburg	Berlin	    1
@@ -6554,7 +6572,7 @@ Halle-Wittenberg	Halle	    1
 [Ryfors Bruk Nedre]	Brunebo	    1
 helsingfors	Helsinki	    1
 Jönkoping	Jönköping	    1
-[Spånga]	Spanga	    1
+[Spånga]	Spånga	    1
 Sköfce	Skövde	    1
 [Lundae] typis Lundensibus.	Lund	    1
 Typis Lundensibus.	Lund	    1
@@ -6575,7 +6593,7 @@ Bonně	Bonn	    1
 Pittsburgh, Pa. ...	Pittsburgh Pa	    1
 [Uddevalla?]	Uddevalla	    1
 S.l. [Dat. Stettin.]	Szczecin	    1
-Nykjøbing	Nykjobing	    1
+Nykjøbing	Nyköping	    1
 Stokgoʹm	Stockholm	    1
 Växl. orter	Växjö	    1
 Greifswald, gedruckt bei J. H. Eckhardt. 1802.	Greifswald	    1
@@ -6663,7 +6681,7 @@ Berlin-Düsseldorf	Berlin	    1
 Aboae, impressit Joh. Christoph. Frenckell.	Turku	    1
 Aboæ, impressit Joh. C. Frenckell, R. acad. typogr.	Turku	    1
 [Fryksbo, Önnestad]	Kristianstad	    1
-[Flensborg]	Flensborg	    1
+[Flensborg]	Flensburg	    1
 Dala-Åsbo	Asbo	    1
 Kria (tr. Lund)	Lund	    1
 Jérusalem	Jerusalem	    1
@@ -6746,7 +6764,7 @@ Valenii-de-Munte	Vălenii de Munte	    1
 Stockholmiæ, in typ. reg.	Stockholm	    1
 [Bromsten]	Bromsten	    1
 Stockholm & Helsingfors	Stockholm	    1
-[Uppåkra]	Uppakra	    1
+[Uppåkra]	Uppåkra	    1
 Liège & Bruxelles	Liège	    1
 Baltimore..	Baltimore Md	    1
 Sthlm [m fl.]	Stockholm	    1
@@ -6855,6 +6873,7 @@ A La Haie, chés Adrien Moetjens, M. DCC. XLI.	The Hague	    1
 In Venetia, M DC XXXVIII. Presso Giacomo Sarzina.	Venice	    1
 Bonn ...	Bonn	    1
 [Kuusankoski]	Kuusankoski	    1
+Grätz	Graz	    1
 Stockholm, tryckt hos P.A. Norstedt & söner, 1832	Stockholm	    1
 Malmö ;;Köpenhamn	Malmö	    1
 Leipzig : Otto Holtzes Nachf.	Leipzig	    1
@@ -6880,7 +6899,7 @@ Amstelædami, apud Samuelem Schoonwald. M D CCXX.	Amsterdam	    1
 Södderköping	Söderköping	    1
 Upsala Leffler och Sebell, 1847.	Uppsala	    1
 Mulheim a.d. Ruhr	Mülheim	    1
-Pesth ;;Leipzig	Pesth	    1
+Pesth ;;Leipzig	Budapest	    1
 Turusa, prändätty directur. ja cuningalliselda kirjan-pränttäjäldä suuren ruhtin. m. Suomes Jacob Merckellildä. Wuonna 1752.	Turku	    1
 Falun ; Nordin	Falun	    1
 Vadstena :;Vadstena :;Stockholm	Vadstena	    1
@@ -6976,6 +6995,7 @@ Linlöping	Linköping	    1
 Londini Gothorum, ex officina directoris Caroli Gustavi Berling. Reg. Acad. Carol. typograph.	London	    1
 Regimonti	Koningsberg	    1
 Tukholmassa [Stockholm]	Stockholm	    1
+Den	The Hague	    1
 [Nyland]	Nyland	    1
 Jysväskylä	Jyväskylä	    1
 Madison, Wisconsin	Madison	    1
@@ -7042,7 +7062,7 @@ Paris ; Lyon	Paris	    1
 Havniæ MDCCXCIX. Literis directoris Joh. Frid. Schultzii, aulæ et. universitatis typographi.	Haunia	    1
 Wittenbergae	Wittenberg	    1
 Leipzig, bey Christian Emmerichen, 1707.	Leipzig	    1
-Groningæ, ex officina Johannis à Velsen. 1724.	Groeningen	    1
+Groningæ, ex officina Johannis à Velsen. 1724.	Groningen	    1
 Rostochii, typis & impensis Io. Iacob. Adleri, sereniss. princ. acad. typogr.	Rostock	    1
 Rostochii, typis & impensis, Io. Iacob. Adleri, seren. princ. & acad. typogr. anno M DCC XXIX.	Rostock	    1
 Gryphiswaldiæ, typis C. Höpfneri, reg. acad. typogr.	Greifswald	    1
@@ -7394,6 +7414,7 @@ Sankt-Peterburg	St Petersburg	    1
 Norrköping, Nissens förlag	Norrköping	    1
 Londini Gothorum, typis Caroli Gustavi Berling, directoris officinæ typographicæ	London	    1
 Richmond, Virginia	Richmond Va	    1
+Reggio	Reggio nell’Emilia	    1
 A St. Petersbourg, de l'imprimerie de l'Academie Impériale des Sciences 1770.	St Petersburg	    1
 Minden..	Minden	    1
 Upsaliae, excudebant regiae academiae typographi.	Uppsala	    1
@@ -7590,7 +7611,7 @@ Stockholm : Rylander	Stockholm	    1
 Neu-Strelitz	Neustrelitz	    1
 Stockholm, tryckt hos N. Marcus, 1856. Lilla Nygatan n:o 19.	Stockholm	    1
 Stockholm, tryckt hos B. M. Bredberg, 1833.	Stockholm	    1
-Berkeley, Cal	Berkeley	    1
+Berkeley, Cal	Berkeley CA	    1
 Uppsaliæ : Leffler	Uppsala	    1
 Wien Lpz	Vienna	    1
 Sthlm-Vendelsö	Stockholm	    1
@@ -7662,7 +7683,7 @@ Noribergæ	Nürnberg	    1
 Hartford, Conn..	Hartford Ct	    1
 Oslo..	Oslo	    1
 Akranesi	Akranes	    1
-Groningae	Groeningen	    1
+Groningae	Groningen	    1
 ṡ-Gravenhage	The Hague	    1
 La Crosse, Wisconsin	La Crosse Wi	    1
 Bristol, London	Bristol	    1
@@ -7942,6 +7963,7 @@ Ames, Iowa	Ames IA	    1
 Upsaliæ, excudebant Regiæ Academiæ Typographi MDCCCXXV	Uppsala	    1
 Grove City, Minn	Grove City MN	    1
 Görslöf..	Görslöv	    1
+Florenz	Florence	    1
 [Magdeburg]	Magdeburg	    1
 Lausanne & Paris	Lausanne	    1
 Aachen..	Aachen	    1
@@ -7963,7 +7985,7 @@ Yarmouthport, Mass	Boston Ma	    1
 Serdicae	Sophia	    1
 [Hagalund]	Hagalund	    1
 Upsala tryckt hos Johan Fredr. Edman kongl. akad. boktryckare.	Uppsala	    1
-Freiburg i.Br.	Freiburg	    1
+Freiburg i.Br.	Freiburg im Breisgau	    1
 Berlin, Leipzig, Wien	Berlin	    1
 [Strengnesiae]	Strängnäs	    1
 Tondern	Tønder	    1
@@ -8011,6 +8033,7 @@ Uppsaliæ Excudebant Regiæ Academiæ typographi.	Uppsala	    1
 Grenoble..	Grenoble	    1
 Brandenburg..	Berlin	    1
 [Napoli]	Naples	    1
+Krakau	Krakow	    1
 [Dunkerque]	Dunkirk	    1
 Stockholm, tryckt hos Johan Carlbohm, 1788.	Stockholm	    1
 Madrid..	Madrid	    1
@@ -8059,7 +8082,7 @@ Uppsaliae, Typographia Academica, 1836-1837. Redemptor Gleerup Lundae, qui solus
 Upsala, Leffler och Sebell, Kongl. akad. boktryckare.	Uppsala	    1
 Upsaliæ, typis Palmblad, Sebell & Co. 1835	Uppsala	    1
 Upsala, K. akad. boktryck. 1836.	Uppsala	    1
-Freiburg/Br	Freiburg	    1
+Freiburg/Br	Freiburg im Breisgau	    1
 Mäyntz	Meinz	    1
 Edebatur Argentorati, impensa & typis Berneggerianis. Anno Christiano MDCXLI.	Strasbourg	    1
 A Paris, chez P. Des-Hayes, & A. Cellier, rue de la Harpe, ... M. DC. LV.	Paris	    1
@@ -8096,7 +8119,7 @@ Upsaliæ, impressum apud Johannem Edman reg. acad. typogr.	Uppsala	    1
 [S. n.] Upsaliæ.	Uppsala	    1
 Stockholm, tryckt hos Carl Delén, 1805.	Stockholm	    1
 Halle a/S	Halle	    1
-Freiburg i. B..	Freiburg	    1
+Freiburg i. B..	Freiburg im Breisgau	    1
 Jönköping, hos J. P. Lundström, 1840.	Jönköping	    1
 Jönköping, hos J.P. Lundström, 1840.	Jönköping	    1
 Hederslev	Haderslev	    1
@@ -8296,6 +8319,7 @@ Göteborg. Högskolan	Gothenburg	    1
 New Haven [Conn.]	New Haven Ct	    1
 Uppsala, Palmblad & C. 1833.	Uppsala	    1
 Stockholm, Trykt på Lars Salvii kåstnad	Stockholm	    1
+Austin	Austin TX	    1
 Upsal b Impr. Edv. Berling	Uppsala	    1
 Alfeld-Leine	Alfend	    1
 [Lahti]	Lahti	    1
@@ -8370,7 +8394,7 @@ A La Haye, chez P.F. Gosse, libraire & imprimeur de la cour. M.DCC.LXXXIX.	The H
 Leipzig, in der Weigel-Schneider'schen Kunst- und Buchhandlung, von Nürnberg. 1790.	Leipzig	    1
 London : printed for G. Kearsley, at Johnson's Head, no. 46, Fleet Street.	London	    1
 Lipsiæ ex officina Langenhemiana.	Leipzig	    1
-Berkeley & Los Angeles	Berkeley	    1
+Berkeley & Los Angeles	Berkeley CA	    1
 [Uppsala...]	Uppsala	    1
 La Haye..	The Hague	    1
 Helsinki-Hfors	Helsinki	    1
@@ -8381,7 +8405,7 @@ Witten-Ruhr	Witten	    1
 Paris, Strasbourg	Paris	    1
 Königsberg i. Pr	Koningsberg	    1
 New Jersey	Newark NJ	    1
-Firenza	Florens	    1
+Firenza	Florence	    1
 Liege ;;Paris	Liège	    1
 Pougkeepsie	Poughkeepsie NY	    1
 Poughkeepsie	Poughkeepsie NY	    1
@@ -8408,8 +8432,8 @@ Stockholm, tryckt hos P. A. Norstedt & Söner, 1826.	Stockholm	    1
 Norman, Okla (19499	Norman	    1
 Borås 1833, tryckt i Frumerieska boktryckeriet.	Borås	    1
 Malmö, Allhem	Malmö	    1
-Freiburg im Bresgau	Freiburg	    1
-Freiburg in Sachsen	Freiburg	    1
+Freiburg im Bresgau	Freiburg im Breisgau	    1
+Freiburg in Sachsen	Freiburg im Breisgau	    1
 Londini Gothorum, typis Berlingianis. MDCCCXXXII.	London	    1
 [Paris, Sthlm]	Paris	    1
 Isleworth..	Isleworth	    1
@@ -8518,6 +8542,7 @@ Veracruz, Mexico	Mexico	    1
 Upsaliæ, excud. Reg. acad. typographi.	Uppsala	    1
 Upsaliæ, excudebant Regiæ academiæ typographi. MDCCCL.	Uppsala	    1
 Glendale, Calif	Glendale	    1
+Kalikata	Calcutta	    1
 Helsingborg..	Helsingborg	    1
 Milano, Roma	Milan	    1
 Turnholti	Turnhout	    1
@@ -8615,6 +8640,7 @@ A Utrecht, chès Guillaume van Poolsum, Marchand Libraire.	Utrecht	    1
 Upsaliæ, excudebant reg. acad. typographi.	Uppsala	    1
 Rennes-Paris	Rennes	    1
 Krotona	Ojai CA	    1
+Berkley	Berkeley CA	    1
 Stralsund, bey Christian Lorenz Struck. [1777-1783]. Rostock und Leipzig in Commißion bey Johann Christian Koppe.	Stralsund	    1
 Lpz & Rostock	Leipzig	    1
 Kbhvn og Kra	Copenhagen	    1
@@ -8623,7 +8649,7 @@ Brännkyrka, Sthlm	Stockholm	    1
 [Hfors.]	Helsinki	    1
 Stockholm, L:s Gust. Nylander, bazarn å Norrbro.	Stockholm	    1
 Västervi	Västervik	    1
-[Den Haag]	Den	    1
+[Den Haag]	The Hague	    1
 [La Haye]	The Hague	    1
 Toronto, Ont	Toronto	    1
 Leipzig ;;Wien ;;Zürich	Leipzig	    1
@@ -8660,7 +8686,7 @@ Stockholm, hos J. W. Lundberg, 1856	Stockholm	    1
 Jyvaskyla	Jyväskylä	    1
 København, Kristiania	Copenhagen	    1
 Kđbenhavn & Kristiania	Oslo	    1
-Græcii, typis Hæredum Widmanstadii.	Grätz	    1
+Græcii, typis Hæredum Widmanstadii.	Graz	    1
 Gryphiswaldae	Greifswald	    1
 Misr [Kairo]	Kairo	    1
 Paris :;Paris	Paris	    1
@@ -8779,6 +8805,7 @@ Genf	Geneva	    1
 Greifswald, gedruckt und verlegt bei Anton Röse	Greifswald	    1
 Kopenhagen. Im Jahr MDCCXV.	Copenhagen	    1
 Gedruckt zu Copenhagen, im Jahr 1716.	Copenhagen	    1
+Juneau	Juneau AK	    1
 Rostochi & Lipsiæ	Rostock	    1
 Grennæ	Gränna	    1
 Kiöbenhavn, tryckt hos Andreas Hartvig Godiche	Copenhagen	    1
@@ -8829,7 +8856,7 @@ A Francfort et Leipzig. MDCCLVI	Frankfurt	    1
 Francfort..	Frankfurt	    1
 Leipzig und Amsterdam	Leipzig	    1
 [Marburg]	Marburg	    1
-[Bishop Hill]	Bishop Hill	    1
+[Bishop Hill]	Bishop Hill IL	    1
 A Berlin, chez George Jacques Decker, imprimeur du Roi. M. DCC. LXXII.	Berlin	    1
 Visby :;Visby :;Visby :;Visby :;Gotlandsinfanteristernas kamratförening	Visby	    1
 [Västerås ]	Västerås	    1
@@ -8944,7 +8971,7 @@ Tryckt j Stockholm, aff Anund Olufson, anno 1606.	Stockholm	    1
 Leipzig, zu Verlegung Johan Grossen Buchhändl., Anno 1632. [Kolofon:] Zwickaw, gedrucht bey Melchior Göpnern, im Jahr Christi 1633	Leipzig	    1
 Lvgd. Batav: Ex officina Elzeviriana. 1633.	Leiden	    1
 Lvgd. Batav. ex officina Elzeviriana. 1631.	Leiden	    1
-U. o. tr. ;;[Krakau]	Krakau	    1
+U. o. tr. ;;[Krakau]	Krakow	    1
 Aboæ excusa, â Johanne Winter Anno M DC LXIX.	Turku	    1
 In Verlegung des Authoris, Stockholm, gedruckt bey Nicolao Wankijff, Königl. Buchdr. Im Jahr 1674.	Stockholm	    1
 Tryckt i Upsala åhr 1694.	Uppsala	    1
@@ -9624,7 +9651,7 @@ Tryckt uthi Mallmö, anno 1678.	Malmö	    1
 Dorpati Livonorum, imprimebat Joh. Vogelius, Acad. Typ. Anno M DC XLVII.	Tartu	    1
 Stockholm, tryckt i k. boktr. hos. sahl. Wankifs enckia, åhr 1699.	Stockholm	    1
 [Uppsala] 1634.	Uppsala	    1
-Tot Groeningen	Groeningen	    1
+Tot Groeningen	Groningen	    1
 U. o. tr. å. ;;[Upsaliæ:]	Uppsala	    1
 Tryckt i Åbo, aff Petro Hansonio. a.t.	Turku	    1
 Stockholm. Hoos Ignatium Meurer, och fins hoos honom til köps, åhr 1650. [Kolofon:] Stockholm, tryckt och vplagdt hoos Ignatium Meurer, och fins hoos honom til köps, åhr 1650.	Stockholm	    1
@@ -10086,7 +10113,7 @@ Tryckt i Stockholm, hoos Chr. Reusner. Anno M. DC. XIX.	Stockholm	    1
 Holmiæ. Typis Christophori Reusneri 1628.	Stockholm	    1
 Tryckt j Stokholm	Stockholm	    1
 Lincopen	Linköping	    1
-Friburgi Brisgoiae	Freiburg	    1
+Friburgi Brisgoiae	Freiburg im Breisgau	    1
 Götheborg, tryckt aff Amund Nilszon Grefwe, åhr 1656.	Gothenburg	    1
 Argentorati M DC LXXIX.	Strasbourg	    1
 Strängnäs, tryckt aff Zacharia Asp, capitels booktryckiare.	Strängnäs	    1
@@ -10257,7 +10284,7 @@ Ulm a.D.	Ulm	    1
 L'vov..	Lviv	    1
 [s'Gravenhage]	The Hague	    1
 [Jurév]	Tartu	    1
-Freiburg, Schweiz	Freiburg	    1
+Freiburg, Schweiz	Freiburg im Breisgau	    1
 Neu Ruppin, Sthlm	Stockholm	    1
 [Malmö?	Malmö	    1
 Shanghai..	Shanghai	    1
@@ -12227,6 +12254,7 @@ Helsingi	Helsinki	    1
 Caldwell, Id.	Caldwell Id	    1
 [United States]	USA	    1
 Globe, Ariz.	Globe az	    1
+Rio	Rio de Janeiro	    1
 [Milwaukee, Wis.]	Milwaukee Wi	    1
 Molin, Ill.	Moline IL	    1
 Chicago, Ill. :;Stockholm :;Rockford, Ill.	Chicago IL	    1
@@ -12250,7 +12278,7 @@ Köping :;Stockholm	Köping	    1
 Stockholm Skoglund	Stockholm	    1
 Vaasa [Finland]	Vaasa	    1
 Murtern	Murten	    1
-Freiburg im Breisgau ;;Basel ;;Rom ;;Wien	Freiburg	    1
+Freiburg im Breisgau ;;Basel ;;Rom ;;Wien	Freiburg im Breisgau	    1
 Stockholm :;Stockholm :;Stockholm :;Åmål	Stockholm	    1
 Cambridge [Engl.	Cambridge	    1
 Philadelphia :;New York and London	Philadelphia Pa	    1
@@ -12269,9 +12297,10 @@ Reykjiavik	Reykjavik	    1
 Borgå :;Kyrkans ungdoms förl.	Porvoo	    1
 Porvoo ;;WSOY	Porvoo	    1
 [Antwerp]	Antwerp	    1
-[Sofija]	Sofija	    1
+[Sofija]	Sofia	    1
 Porvoo :;WSOY	Porvoo	    1
 Cambridge, Massachusetts	Cambridge	    1
+Bryn Mawr	Bryn Mawr PA	    1
 [New York	New York NY	    1
 Woluwe-Saint-Pierre	Brussels	    1
 [Philadelphia,Pa.]	Philadelphia Pa	    1
@@ -12285,6 +12314,7 @@ Bro ;;Borlänge	Borlänge	    1
 Sundsvall.	Sundsvall	    1
 Krylbo tryckeri	Krylbo	    1
 Skara :;Degeberga	Skara	    1
+Falkenkenberg	Falkenberg	    1
 Bälinge, Uppsala	Uppsala	    1
 i Göteborg	Gothenburg	    1
 Stockholm -Kyiw	Stockholm	    1
@@ -12331,6 +12361,7 @@ Stockholm ;;[Göteborg]	Stockholm	    1
 [Överkalix]	Överkalix	    1
 [Rättvik]	Rättvik	    1
 [Järnboås]	Järnboås	    1
+Skillingfors	Skillingsfors	    1
 [Uttran]	Uttran	    1
 [Tumba]	Tumba	    1
 Lüneberg ;;[Stockholm]	Stockholm	    1
@@ -12373,7 +12404,7 @@ Silverhöjden	Lerviken	    1
 Dals Rostock	Rostock	    1
 Sundsvall ;;Kramfors	Sundsvall	    1
 Båstad ;;Stockholm	Båstad	    1
-[Glimåkra]	Glimakra	    1
+[Glimåkra]	Glimåkra	    1
 [Oviken]	Oviken	    1
 [Lillsved]	Lillsved	    1
 [Åryd]	Aryd	    1
@@ -12498,6 +12529,7 @@ Lunnevad	Vikingstad	    1
 [Svalöf]	Svalöv	    1
 [Harmånger]	Harmanger	    1
 Göteborg & Borås	Gothenburg	    1
+Genevad	Geneva	    1
 [Torshälla]	Torshälla	    1
 [Stjärnhov]	Stjärnhov	    1
 [Ljungby]	Ljungby	    1
@@ -12519,7 +12551,6 @@ Göteborg'ā	Gothenburg	    1
 Stockholm :;Axvall	Stockholm	    1
 [Gropen]	Gropen	    1
 Bohus-Malmön	Bohus	    1
-Gisselås	Gisselas	    1
 Stockholm & Uddevalla ;;[Stockholm]	Stockholm	    1
 Uddevalla ;;Schwartzman & Nordström	Uddevalla	    1
 [Satserup]	Satserup	    1
@@ -12698,7 +12729,6 @@ Södra Vi	Visingsborg	    1
 Fryksände	Torsby	    1
 Ornsköldsvik	Örnsköldsvik	    1
 Roslags-Näsby	Roslags näsby	    1
-Långaryd	Langaryd	    1
 Kånna	Kanna	    1
 Kropp, Mörarp	Mörarp	    1
 Sköllersta :;Borlänge	Sköllersta	    1
@@ -12772,7 +12802,8 @@ Vättersnäs :;Stockholm	Jönköping	    1
 [Svenarum, Hok]	Svenarum	    1
 [Södra Sunderbyn]	Sunderbyn	    1
 Östbydal	Mölnlycke	    1
-[Solhem, Spånga]	Spanga	    1
+Lunds	Lund	    1
+[Solhem, Spånga]	Spånga	    1
 Arlöv ;;Gävle	Arlöv	    1
 [Skromberga]	Skromberga	    1
 [Vråka]	Vraka	    1
@@ -12815,7 +12846,7 @@ Manchester ;;[Stockholm]	Manchester	    1
 Längnum, Ulvstorp	Ulvstorp	    1
 Nårunga	Narunga	    1
 Fiflekull	Bäckseda	    1
-[Fristad]	Fristad	    1
+[Fristad]	Freistadt	    1
 Wessland	Västland	    1
 Skepsås	Skepsas	    1
 [Tegelsmora, Tobo]	Tegelsmora	    1
@@ -12844,7 +12875,7 @@ Sthlm (tr. i Uppsala)	Stockholm	    1
 Eskistuna	Eskiltuna	    1
 [Kolsva]	Kolsva	    1
 [Väsby]	Väsby	    1
-Tr. på Bishop Hill	Bishop Hill	    1
+Tr. på Bishop Hill	Bishop Hill IL	    1
 Portland, Or. :;Worcester, Mass.	Portland Me	    1
 Svartå	Mustio	    1
 [Glemmingebro]	Glemmingebro	    1
@@ -12881,6 +12912,7 @@ Chicago ;;New York	Chicago IL	    1
 College View, Neb. :;Menominee, Mich.	Lincoln NE	    1
 Nashville, Tenn.	Nashville TN	    1
 Brooklyn, N.Y. :;[Worcester, Mass.]	New York NY	    1
+Bishop Hill	Bishop Hill IL	    1
 Brookfield, Ill. ;;Mountain View, Calif. ;;Portland, Ore. ;;Omaha, Nebr. ;;Cristobal, Canal Zone	Brookfield Ma	    1
 Chicago ;;New York ;;Toronto	Chicago IL	    1
 Mountain View, Calif. ;;Kansas City, Mo. ;;Calgary, Alb. ;;Portland, Or. ;;Brookfield, Ill. ;;Cristobal, Canal Zone	Portland Me	    1
@@ -12996,6 +13028,7 @@ Quincy, Mass. :;Chicago, Ill.	Quincy Ma	    1
 Princeton, Ill.	Princeton NJ	    1
 [Lincoln, Neb.]	Lincoln	    1
 [Litchfield, Minn.]	Litchfield Ct	    1
+La Porte	La Porte In	    1
 [Kearney, Neb.]	Kearney Ne	    1
 [Hordville, Neb.]	Hordville Ne	    1
 [Gowrie, Iowa]	Gowrie IA	    1
@@ -13009,7 +13042,7 @@ Waltham, Mass.	Boston Ma	    1
 Troy, Idaho	Troy NY	    1
 Turlock, Cal.	Turlock Ca	    1
 Uppsala :;Uppsala :;Falun :;Stensele :;Uppsala	Uppsala	    1
-[Ishperning, Mich.]	Ishperning Mi	    1
+[Ishperning, Mich.]	Ishpeming Mi	    1
 Waterbury, Conn.	Waterbury ct	    1
 Dayton, Iowa	Dayton ia	    1
 [Malmberget]	Malmberget	    1
@@ -13017,7 +13050,7 @@ New York :;Göteborg	New York NY	    1
 Nässundet	Kristiinankaupunki	    1
 Battle Creek, Mich. ;;Chicago Ill. :;Oakland, Cal.	Chicago IL	    1
 Published for the Swedish Pioneer Historical Society by the University of Minnesota Press ;;Minneapolis, Minn.	Minnesota	    1
-[Austin, Tex.]	Austin	    1
+[Austin, Tex.]	Austin TX	    1
 Bergland, Ont.	Bergland ON	    1
 Gowrie, Iowa	Gowrie IA	    1
 Rock Island, Ill. :;[Stockholm]	Stockholm	    1

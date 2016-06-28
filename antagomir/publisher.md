@@ -40,7 +40,7 @@ Title count versus paper consumption (top publishers):
 
 |publisher             | titles| paper|
 |:---------------------|------:|-----:|
-|                      | 201245| 35.25|
+|                      | 201245| 35.31|
 |Bonnier               |  13623|  1.34|
 |Förf                  |   2917|  0.08|
 |Geber                 |   2427|  0.17|

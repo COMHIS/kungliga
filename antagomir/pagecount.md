@@ -12,7 +12,7 @@ output: markdown_document
 
   * Page count missing and estimated for 2031 documents (0.5%).
 
-  * Page count missing and could not be estimated for 147279 documents
+  * Page count missing and could not be estimated for 147340 documents
 
   * Page count updated for 0 documents.
   
@@ -20,7 +20,7 @@ output: markdown_document
 
 <!--[Page conversions from raw data to final page count estimates with volume info](output.tables/page_conversion_table_full.csv)-->
 
-  * [Discarded pagecount info](output.tables/pagecount_discarded.csv)
+  * [Discarded pagecount info](output.tables/pagecount_discarded.csv) For these cases the missing/discarded page count was estimated based on average page count estimates for [single volume](mean_pagecounts_singlevol.csv), [multi-volume](mean_pagecounts_multivol.csv) and [issues](mean_pagecounts_issue.csv), calculated from those documents where original pagecount info is available.
 
   * [Automated tests for page count conversions](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/tests_polish_physical_extent.csv)
 
@@ -39,7 +39,7 @@ Multi-volume documents average page counts are given per volume.
 
 |doc.dimension |mean.pages.singlevol |median.pages.singlevol | n.singlevol| mean.pages.multivol| median.pages.multivol| n.multivol| mean.pages.issue| median.pages.issue| n.issue|
 |:-------------|:--------------------|:----------------------|-----------:|-------------------:|---------------------:|----------:|----------------:|------------------:|-------:|
-|2fo           |NA                   |NA                     |        1858|                  NA|                    NA|         NA|               NA|                 NA|      93|
+|2fo           |NA                   |NA                     |        1858|                  NA|                    NA|         NA|               NA|                 NA|      94|
 |4to           |NA                   |NA                     |       32051|                  NA|                    NA|         NA|               NA|                 NA|   32064|
 |6to           |NA                   |NA                     |          28|                  NA|                    NA|         NA|               NA|                 NA|       1|
 |8long         |NA                   |NA                     |          14|                  NA|                    NA|         NA|               NA|                 NA|      NA|
@@ -53,7 +53,7 @@ Multi-volume documents average page counts are given per volume.
 |48mo          |NA                   |NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |64mo          |NA                   |NA                     |          35|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |NA            |NA                   |NA                     |      318072|                   1|                     1|       1941|                1|                  1|    3596|
-|1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1180|
+|1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1179|
 
 ![plot of chunk size-pagecountsmulti2](figure/size-size-pagecountsmulti2-1.png)
 

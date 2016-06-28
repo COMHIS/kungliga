@@ -34,7 +34,7 @@ if (exists("timespan")) {
 }
 
 # Remove issues for now
-df <- filter(df, !issue)
+# df <- filter(df, !issue)
 
 # Store
 df.preprocessed <- df.preprocessed.orig <- df

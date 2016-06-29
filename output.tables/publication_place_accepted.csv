@@ -11,6 +11,7 @@ Abbeville	France	     2
 Aberdeen	Scotland	     3
 Abingdon on thames	NA	     1
 Aby	NA	    10
+Acre	NA	     1
 Addis Abeba	NA	     3
 Adelöv	NA	     1
 Adelsö	NA	     1
@@ -24,11 +25,12 @@ Ahmedabad	NA	     2
 Aix-en-Provence	France	     3
 Ajmer	NA	     1
 Åkarp	NA	    11
-Akersberga	NA	     1
 Akers styckebruk	NA	     1
+Akersberga	NA	     1
 Akeshov	NA	     2
 Akranes	NA	     2
 Akureyri	Iceland	    21
+Al Qahira	NA	     1
 Ala	NA	     1
 Alafors	NA	     1
 Albany NY	USA	     4
@@ -61,7 +63,6 @@ Almeloo	NA	     4
 Älmhult	NA	    17
 Alnarp	NA	    28
 Alnön	NA	     2
-Al Qahira	NA	     1
 Alseda	NA	     4
 Alsen	NA	     1
 Alsike	NA	     1
@@ -125,7 +126,6 @@ Antwerp	Belgium	    55
 Anundsjö	NA	     1
 Aplared	NA	     1
 Äppelbo	NA	     1
-äppelviken	NA	     3
 Arad	NA	     1
 Arboga	NA	   132
 Arbra	NA	     9
@@ -201,9 +201,9 @@ Bäckefors	NA	     1
 Bäckseda	NA	     1
 Bacup	NA	     1
 Bad Ems	NA	     1
-Baden	NA	     5
 Bad Segeberg	NA	     1
 Bad Wörishofen	NA	    11
+Baden	NA	     5
 Bagnères-de-Luchon	NA	     1
 Baku	NA	     4
 Bale	NA	     2
@@ -218,13 +218,13 @@ Bandung	NA	     1
 Bangalore	NA	     1
 Bangor	NA	     1
 Bankeryd	NA	     1
+Bar Le Duc	NA	     1
 Bara	NA	     3
 Barcelona	Spain	    88
 Barga	NA	     1
 Barhöft	NA	     1
 Bari	NA	     2
 Barkakra	NA	     1
-Bar Le Duc	NA	     1
 Barmen	NA	     5
 Barsebäck	NA	     2
 Barsele	NA	     1
@@ -232,9 +232,9 @@ Barth	NA	     1
 Basel	Switzerland	    86
 Båstad	NA	    26
 Bath	England	     1
-Baton rouge	NA	     1
+Baton Rouge	NA	     1
+Battle creek MI	NA	     1
 Battle Creek Mi	NA	    44
-Battle creek michigan	NA	     1
 Bautzen	NA	     1
 Bayonne NJ	NA	     2
 Bayreuth	Germany	     4
@@ -356,7 +356,7 @@ Brännögård	NA	     1
 Bratislava	NA	     7
 Brattbäcken	NA	     1
 Braunsberg	NA	     5
-Braunschweig	Germany	    83
+Braunschweig	Germany	    84
 Brazzaville	NA	     3
 Bredaryd	NA	     2
 Bredbyn	NA	     2
@@ -387,7 +387,6 @@ Brunflo	NA	     2
 Brunn	Germany	     1
 Brunnsberg	NA	     4
 Brunskog	NA	     4
-Brunsvic	NA	     1
 Brunswick Ma	USA	     2
 Brussels	Belgium	   179
 Bryn Athyn PA	NA	    29
@@ -438,8 +437,8 @@ Centerville RI	NA	     1
 Cernauti	NA	     1
 Cesis	NA	     2
 Cetinje	NA	     2
-Chalons	NA	     1
 Chalon-sur-Saône	NA	     2
+Chalons	NA	     1
 Chambery	NA	     1
 Chapel Hill	NA	    10
 Charkov	NA	     5
@@ -543,7 +542,7 @@ Die	NA	     1
 Dieren	Netherlands	     2
 Dijon	France	     7
 Dikanäs	NA	     2
-Dillingen	Germany	     2
+Dillingen an der Donau	NA	     2
 Dingle	NA	     8
 Djurö	NA	     1
 Djurröd	NA	     3
@@ -579,9 +578,9 @@ Duved	NA	     1
 Eagle Lake MN	NA	     1
 East Grand Forks mn	NA	     1
 East Lansing	NA	     1
+East Union MN	NA	     1
 Easton Pa	USA	     1
 Eastsound Wa	NA	     2
-East Union MN	NA	     1
 Edam	NA	     3
 Edesjö	NA	     1
 Edinburgh	Scotland	    56
@@ -612,7 +611,6 @@ Elgin IL	NA	     1
 Elk River MN	NA	     1
 Ellös	NA	     2
 Elmhult	NA	     2
-Elsaborg	NA	     1
 Emmaboda	NA	    13
 Emmaljunga	NA	     3
 Emmaus PA	NA	     1
@@ -775,7 +773,7 @@ Garphyttan	NA	     2
 Gaseberg	NA	    20
 Gävle	NA	  1112
 Gåxsjö	NA	     1
-Gdańsk	NA	    35
+Gdańsk	Poland	    35
 Gdynia	NA	     2
 Geldeston	NA	     1
 Gembloux	NA	     2
@@ -817,7 +815,6 @@ Glumslöv	NA	     1
 Gnarp	NA	     2
 Gnesta	NA	    17
 Gnosjö	NA	     3
-Goettingue	NA	     1
 Gökalund	NA	     1
 Görliz	Germany	     8
 Görslöv	NA	     5
@@ -826,7 +823,7 @@ Götene	NA	     5
 Gotha	Germany	    42
 Gothenburg	Sweden	 14164
 Götlunda	NA	     4
-Göttingen	Germany	    74
+Göttingen	Germany	    75
 Gouda	Netherlands	     3
 Gowrie IA	NA	     2
 Graasten	NA	    16
@@ -845,7 +842,7 @@ Grava	NA	     1
 Graz	NA	    15
 Grebbestad	NA	     6
 Greeley CO	NA	     1
-Greifswald	Germany	   312
+Greifswald	Germany	   313
 Greiz	NA	     1
 Grenoble	NA	     7
 Grillby	NA	     1
@@ -863,7 +860,6 @@ Grove City MN	NA	     4
 Grovsta	NA	     1
 Grums	NA	     1
 Grundsunda	NA	     2
-Gryphiswaldie	NA	     1
 Grythyttan	NA	     2
 Guatemala	NA	     1
 Guben	NA	     1
@@ -943,7 +939,7 @@ Harestad	NA	     1
 Harlösa	NA	     2
 Harmanger	NA	     4
 Harmondsworth	NA	     3
-Härnösand	Sweden	   696
+Härnösand	Sweden	   701
 Harplinge	NA	     4
 Härslöv	NA	     1
 Hartford Ct	USA	     2
@@ -974,7 +970,7 @@ Hellerup	NA	    11
 Hellesylt	NA	     1
 Helmstadt	Germany	     1
 Helmstedt	Germany	    10
-Helsingborg	Sweden	  2094
+Helsingborg	Sweden	  2095
 Helsingør	Denmark	    15
 Helsinki	Finland	 14765
 Hemse	NA	     6
@@ -1093,8 +1089,6 @@ Isleworth	NA	     1
 Israel	NA	     1
 Issoudun	NA	     1
 Istanbul	Turkey	    30
-Italia	NA	     1
-Italien	NA	     1
 Ithaca NY	NA	     4
 Jabalpur	NA	     1
 Jäder	NA	     1
@@ -1117,7 +1111,6 @@ Jemtland me	NA	     1
 Jena	Germany	   261
 Jerusalem	Israel	    11
 Jihlava	NA	     2
-Joannis	NA	     1
 Joensuu	Finland	    11
 Johannesburg	NA	     1
 Johannisberg	NA	     3
@@ -1171,7 +1164,7 @@ Karlsborg	NA	    30
 Karlsborgsverken	NA	     1
 Karlshamn	NA	   502
 Karlskoga	NA	    95
-Karlskrona	Sweden	  1537
+Karlskrona	Sweden	  1540
 Karlsruhe	Germany	    16
 Karlstad	Sweden	  1515
 Karlstorp	NA	     1
@@ -1215,7 +1208,6 @@ Kitee	NA	     1
 Kivik	NA	     1
 Kjoge	NA	     1
 Kjulaås	NA	     1
-Kjustendil	NA	     1
 Klemensnäs	NA	     2
 Kleva	NA	     1
 Klintehamn	NA	     2
@@ -1256,10 +1248,9 @@ Kräklinge	NA	     3
 Krakow	Poland	    65
 Kramfors	NA	    21
 Kreuznach	NA	     1
-Krisianstad	NA	     1
 Kristdala	NA	    43
 Kristiansand	NA	     3
-Kristianstad	NA	  1478
+Kristianstad	NA	  1468
 Kristiansund	NA	     1
 Kristiinankaupunki	Finland	   400
 Krokek	NA	     1
@@ -1283,31 +1274,27 @@ Kville	NA	     1
 Kvissleby	NA	     1
 Kvistbro	NA	     2
 Kyrkhult	NA	     1
-Labiau	NA	     1
+Kyustendil	NA	     1
 La Chaux-de-Fonds	NA	     1
 La Crosse Wi	NA	     1
-<<<<<<< HEAD
-=======
 La Laguna	NA	     1
 La Paz	NA	     1
 La plata	NA	     1
 La Porte In	NA	     2
 Labiau	NA	     1
->>>>>>> 69bfdad43a36b485c65dca4bc57b7b2ed7a7c6ab
 Lagan	NA	     1
 Laholm	NA	    53
 Lahore	NA	     1
 Lahr	NA	     1
 Lahti	Finland	    16
-La Laguna	NA	     1
 Lämbacken	NA	     1
 Lammhult	NA	     1
 Lamoni IA	NA	     1
 Lancaster Pa	USA	     2
 Lanciano	NA	     8
-Landishuti	NA	     1
 Landsberg	NA	     2
 Landsbro	NA	     2
+Landshut	NA	     1
 Landskrona	Sweden	   442
 Långaryd	NA	     1
 Långasjö	NA	     3
@@ -1320,10 +1307,7 @@ Lanna	NA	     1
 Lannabruk	NA	     1
 Lännäs	NA	     1
 Lannaskede	NA	     1
-La Paz	NA	     1
 Lapinjärvi	NA	     1
-La plata	NA	     1
-La Porte In	NA	     2
 Lappeenranta	Finland	     6
 Lapua	Finland	     1
 Larvik	NA	     1
@@ -1332,9 +1316,11 @@ Lausanne	Switzerland	    41
 Lawrence KS	NA	     1
 Laxå	NA	     3
 Laxsjö	NA	     2
+Le Caire	NA	     9
+Le Mans	France	     6
+Le Puy-en-Velay	NA	     1
 Leamington Spa	NA	     1
 Lebanon PA	USA	     1
-Le Caire	NA	     9
 Leeds	England	     3
 Leeuwarden	Netherlands	    11
 Legnica	NA	     3
@@ -1347,7 +1333,6 @@ Lekhyttan	NA	     1
 Leksand	NA	    42
 Leksberg	NA	     4
 Lekvattnet	NA	     1
-Le Mans	France	     6
 Lemberg	NA	     1
 Lemgo	Germany	     1
 Lemnhult	NA	     1
@@ -1356,7 +1341,6 @@ Lengerich	NA	     1
 Lenhovda	NA	     1
 Leobe	NA	     1
 Leopol	NA	     1
-Le Puy-en-Velay	NA	     1
 Lerum	NA	     4
 Lervik	NA	     1
 Lerviken	NA	     1
@@ -1425,8 +1409,8 @@ Lomma	NA	     1
 Lommaryd	NA	     2
 London	England	  2356
 Lönneberga	NA	     2
-Lönsboda	NA	     5
 Lons-le-Saunier	NA	     1
+Lönsboda	NA	     5
 Lorch	NA	     9
 Lorient	NA	     1
 Los Angeles CA	NA	     8
@@ -1438,7 +1422,7 @@ Lövestad	NA	     2
 Loviisa	Finland	    28
 Lowry MN	NA	     2
 Luanda	NA	     2
-Lübeck	NA	    85
+Lübeck	Germany	    85
 Lucca	Italy	     3
 Lucknow	NA	     2
 Lucksta	NA	     2
@@ -1535,8 +1519,7 @@ Meselefors	NA	     1
 Messina	Finland	     3
 Metz	NA	     2
 Mexico	NA	    29
-Mexico City	Mexico	     1
-Mexiko	NA	     1
+Mexico City	Mexico	     2
 Miami FL	NA	     1
 Middelfart	NA	     1
 Mikkeli	Finland	    26
@@ -1545,7 +1528,7 @@ Millesvik	NA	     1
 Milwaukee Wi	USA	     9
 Minden	NA	     2
 Minneapolis Mn	USA	   216
-Minnepolis	NA	     1
+Minneapolis MN	USA	     1
 Minnesota	NA	     4
 Miskolc	NA	     1
 Mittelwald	NA	     1
@@ -1569,7 +1552,6 @@ Mölnbo	NA	     1
 Mölndal	NA	    37
 Mölnlycke	NA	     7
 Monaco	NA	     7
-Monasterii	NA	     1
 Moncullo	NA	     4
 Monmouth	England	     2
 Mons	NA	     2
@@ -1608,7 +1590,7 @@ Munkedal	NA	    14
 Munkfors	NA	     2
 Munktorp	NA	     2
 Munsö	NA	     2
-Münster	Germany	    14
+Münster	Germany	    15
 Murten	NA	     1
 Mustasaari	Finland	     3
 Mustio	Finland	     1
@@ -1652,15 +1634,15 @@ Neustrelitz	NA	     1
 Neutitschein	NA	     1
 Neuwied	NA	     2
 Nevers	NA	     1
-Newark	England	     1
-Newark NJ	USA	     2
 New Brunswick NJ	USA	     1
-Newcastle	England	     1
 New Haven Ct	USA	    33
 New Jersey NJ	NA	     1
 New London Ct	USA	     1
-Newry	Ireland	     1
 New York NY	USA	  1081
+Newark	England	     1
+Newark NJ	USA	     2
+Newcastle	England	     1
+Newry	Ireland	     1
 Nice	France	     3
 Nieuwediep	NA	     2
 Nijkerk	NA	     3
@@ -1685,8 +1667,8 @@ Nördlingen	NA	     4
 Nordmaling	NA	     2
 Nordnes	NA	     1
 Norman	NA	    14
-Norrahammar	NA	     2
 Norra Sandsjö	NA	    11
+Norrahammar	NA	     2
 Norrbo	NA	     6
 Norrfjärden	NA	     1
 Norrhult	NA	     6
@@ -1720,7 +1702,6 @@ Nyköping	Sweden	  1109
 Nykvarn	NA	     3
 Nykyrka	NA	     1
 Nyland	NA	    14
-Nyligen	NA	     1
 Nymburk	NA	     1
 Nynäs	NA	     1
 Nynäshamn	NA	    46
@@ -1785,7 +1766,7 @@ Ostende	NA	     1
 Ostrava	NA	     1
 Ostrumelien	NA	     1
 Ottawa	Canada	    14
-Ottumwa iowa	NA	     1
+Ottumwa ia	NA	     1
 Oulu	Finland	    60
 Ousby	NA	    28
 Ovansjö	NA	     1
@@ -1867,10 +1848,10 @@ Pontoise	NA	     4
 Pori	Finland	    66
 Porrentruy	NA	     1
 Porsgrund	NA	     3
+Port Shepstone	NA	     1
 Portland Me	USA	     5
 Portland Or	USA	     7
 Porto	Portugal	     9
-Port Shepstone	NA	     1
 Porvoo	Finland	  1154
 Poschiavo	NA	     1
 Potsdam	Germany	    52
@@ -1883,7 +1864,6 @@ Pretoria	NA	     3
 Prevalje	NA	     1
 Prien	NA	     1
 Princeton NJ	USA	    36
-Prostat	NA	     1
 Prostějov	NA	     1
 Providence RI	USA	     5
 Przemyśl	NA	     2
@@ -1964,8 +1944,8 @@ Robertsfors	NA	     1
 Rocca San Casciano	NA	     1
 Rochdale	England	     1
 Rochester	England	     3
-Rockford IL	NA	     7
 Rock Island IL	USA	   543
+Rockford IL	NA	     7
 Rockneby	NA	     1
 Rödbo	NA	     3
 Rödelheim	NA	     2
@@ -2009,9 +1989,9 @@ Saarlouis	NA	     1
 Saarmund	NA	     3
 Säbrå	NA	     1
 Säffle	NA	    50
+Saint Paul MN	NA	     1
 Saint-Brieuc	NA	     1
 Saint-Gaudens	NA	     1
-Saint Paul MN	NA	     1
 Sala	NA	   264
 Salamanca	Spain	     3
 Salem	USA	     1
@@ -2020,20 +2000,20 @@ Sälen	NA	     1
 Salo	Finland	     5
 Salstad	NA	     1
 Salt Lake City Ut	NA	     5
-Saltsjöbaden	NA	    13
 Saltsjö-Duvnäs	NA	     3
 Saltsjö-Järla	NA	     4
+Saltsjöbaden	NA	    13
 Salzburg	NA	     2
 Salzkotten	NA	     1
 Samedan	NA	     1
 Samtens	NA	     1
-Sandared	NA	     2
-Sandhammaren	NA	     1
 San Diego CA	NA	     4
-Sandträsk	NA	     1
-Sandviken	NA	    53
 San Juan Puerto Rico	NA	     1
 San Severino Marche	NA	     1
+Sandared	NA	     2
+Sandhammaren	NA	     1
+Sandträsk	NA	     1
+Sandviken	NA	    53
 Santiago	NA	    11
 Santos	NA	     1
 Santpoort-Zuid	NA	     2
@@ -2051,7 +2031,7 @@ Savannah Ga	USA	     2
 Sävedalen	NA	     2
 Saverne	NA	     1
 Savona	NA	     1
-Savonburg kan	NA	     1
+Savonburg ks	NA	     1
 Savonlinna	Finland	     7
 Sävsjö	NA	    11
 Saxkjobing	NA	     1
@@ -2066,7 +2046,6 @@ Schiedam	NA	     2
 Schleswig	Germany	     3
 Schnepfenthal	NA	     1
 Schoonhoven	NA	     1
-Schulze dean	NA	     1
 Schwabach	NA	     2
 Schwedt/Oder	NA	     1
 Schweinitz	NA	     1
@@ -2142,8 +2121,8 @@ Slagelse	NA	     3
 Slaka	NA	     1
 Slite	NA	     1
 Smålands Burseryd	NA	     1
-Smalandsstenar	NA	     8
 Smalands Taberg	NA	     1
+Smalandsstenar	NA	     8
 Smedby	NA	     2
 Smedjebacken	NA	     9
 Smögen	NA	     1
@@ -2159,6 +2138,7 @@ Söderhamn	NA	   237
 Söderköping	NA	    85
 Södertäje	NA	    72
 Södertälje	NA	   431
+Södra Sunderbyn	NA	     1
 Soerabaja	NA	     1
 Soest	NA	     1
 Sofia	NA	    67
@@ -2168,7 +2148,7 @@ Sollefteå	NA	   208
 Sollentuna	NA	     6
 Solna	NA	    28
 Solothurn	NA	     2
-Sölvesborg	NA	   146
+Sölvesborg	NA	   147
 Sønderborg	NA	     6
 Sondershausen	NA	     1
 Sontra	NA	     1
@@ -2178,7 +2158,7 @@ Sortavala	Russia	    27
 Sorunda	NA	     5
 Sörvik	NA	     5
 Sösdala	NA	     1
-South bend ind	NA	     1
+South Bend IN	NA	     1
 Spånga	NA	    18
 Sparrsätra	NA	     2
 Speyer	NA	     2
@@ -2187,16 +2167,12 @@ Spokane Wa	NA	     1
 Spöland	NA	     2
 Spoleto	NA	     1
 Sprängsviken	NA	     1
-Springfield Ma	USA	     9
 Spring Lake	NA	     1
-St acre	NA	     1
-<<<<<<< HEAD
-=======
+Springfield Ma	USA	     9
 St Chrischona	NA	     3
 St Gallen	NA	     5
 St Helier	England	     1
 St Petersburg	Russia	   446
->>>>>>> 69bfdad43a36b485c65dca4bc57b7b2ed7a7c6ab
 Stade	Germany	    16
 Staffanstorp	NA	     1
 Stäket	NA	     1
@@ -2206,7 +2182,6 @@ Stanton Ia	NA	     1
 Stara Rise	NA	     1
 Stassfurt	NA	     1
 Stavanger	NA	    22
-St Chrischona	NA	     3
 Steenbrugge	NA	     1
 Stehag	NA	     1
 Stenberga	NA	     3
@@ -2216,8 +2191,6 @@ Stensele	NA	     1
 Stensjöholm	NA	     1
 Stenungsund	NA	     1
 Stetten	NA	     1
-St Gallen	NA	     5
-St Helier	England	     1
 Stiens	NA	     1
 Stirling	Scotland	     2
 Stjärnhov	NA	     2
@@ -2225,24 +2198,23 @@ Stjärnsund	NA	     1
 Stoby	NA	     1
 Stöckeby	NA	     1
 Stockel	NA	     1
-Stockholm	Sweden	201933
+Stockholm	Sweden	201938
 Stocksund	NA	    15
 Stöde	NA	     2
 Stoke-on-Trent	England	     1
 Stora Karlsö	NA	     1
 Stora Klefva	NA	     2
 Stora mellösa	NA	     1
-Storängen	NA	     1
 Stora Skedv	NA	     2
 Stora skedvi	NA	     1
 Stora Slågarp	NA	    16
 Stora Tofthög	NA	     1
 Stora Torp	NA	     1
+Storängen	NA	     1
 Storebro	NA	     5
 Storfors	NA	     1
 Storuman	NA	     1
 Storvik	NA	    16
-St Petersburg	Russia	   446
 Strägnäs	NA	     2
 Stralsund	Germany	   147
 Strand	NA	     1
@@ -2270,7 +2242,6 @@ Sulvik	NA	     1
 Sulzbach	NA	     1
 Sumen	NA	     1
 Sundbyberg	NA	    83
-Sunderbyn	NA	     1
 Sundsvall	Sweden	   764
 Sunhultsbrunn	NA	     1
 Sunne	NA	    45
@@ -2408,8 +2379,8 @@ Trondheim	Norway	    30
 Trönödal	NA	     2
 Troppau	NA	     1
 Trosa	NA	    75
-Troyes	NA	     3
 Troy NY	USA	     1
+Troyes	NA	     3
 Tšuhujiv	NA	     1
 Tübingen	Germany	    54
 Tucson	NA	     3
@@ -2499,7 +2470,6 @@ Värnamo	NA	   102
 Varnhem	NA	     2
 Väröbacka	NA	     1
 Varola	NA	     1
-Varsa	NA	     2
 Ṿarshe	NA	     1
 Vartofta	NA	     1
 Väsby	NA	     1
@@ -2519,14 +2489,13 @@ Västra Ryd	NA	     1
 Vätternäs	NA	     2
 Vaxholm	NA	    13
 Växjö	NA	  1156
-Växlander	NA	     1
 Veda	NA	     1
 Veddige	NA	     1
 Vedevag	NA	     1
 Vedum	NA	     4
 Veinge	NA	     1
 Vejle	NA	     5
-Velke mezirici	NA	     1
+Velké Meziříčí	NA	     1
 Vellinge	NA	     1
 Ven	NA	     1
 Vendel	NA	     4
@@ -2552,12 +2521,10 @@ Vikingstad	NA	     1
 Viksjöfors	NA	     5
 Vilhelmina	NA	     5
 Villefranche	NA	     3
-Vilne	NA	     1
-Vilnius	Lithuania	    20
+Vilnius	Lithuania	    21
 Vilshult	NA	     1
 Vimmerby	NA	    81
 Vinberg	NA	     1
-Ving	NA	     1
 Vingåker	NA	     8
 Vinslöv	NA	    13
 Virestad	NA	     1
@@ -2590,7 +2557,7 @@ Wallingford PA	NA	     1
 Warberg	NA	    25
 Warnsdorf	NA	     1
 Warrington	England	     1
-Warsaw	Poland	   151
+Warsaw	Poland	   153
 Washington DC	USA	   171
 Wataga IL	NA	     1
 Waterbury ct	NA	     2
@@ -2663,4 +2630,4 @@ Zweibrücken	Germany	     2
 Zwickau	NA	     2
 Zwittau	NA	     1
 Zwolle	NA	     3
-NA	NA	 16609
+NA	NA	 16617

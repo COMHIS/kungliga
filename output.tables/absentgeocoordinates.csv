@@ -1,5 +1,5 @@
 name	count
-Stockholm	201933
+Stockholm	201938
 Uppsala	21085
 Helsinki	14765
 Gothenburg	14164
@@ -14,12 +14,12 @@ Turku	2877
 Oslo	2868
 Falun	2334
 Västerås	2099
-Helsingborg	2094
+Helsingborg	2095
 Berlin	2011
 Leipzig	1583
-Karlskrona	1537
+Karlskrona	1540
 Karlstad	1515
-Kristianstad	1478
+Kristianstad	1468
 Strängnäs	1401
 Kalmar	1363
 Växjö	1156
@@ -32,7 +32,7 @@ Chicago IL	1054
 Uddevalla	791
 Sundsvall	764
 Visby	717
-Härnösand	696
+Härnösand	701
 Halmstad	660
 Eskilstuna	640
 Borås	637
@@ -58,7 +58,7 @@ Hamburg	356
 Mariestad	349
 Prague	338
 Lidköping	316
-Greifswald	312
+Greifswald	313
 Vetlanda	299
 Falköping	296
 Filipstad	287
@@ -101,14 +101,14 @@ Hedemora	164
 Arlöv	162
 Lindesberg	156
 Enköping	154
+Warsaw	153
 Ulricehamn	153
 Leiden	152
 Falkenberg	152
-Warsaw	151
 Ängelholm	148
 Stralsund	147
+Sölvesborg	147
 Tammisaari	146
-Sölvesborg	146
 Tranås	144
 Bollnäs	143
 Rostock	139
@@ -146,16 +146,16 @@ Piteå	87
 Basel	86
 Söderköping	85
 Lübeck	85
+Braunschweig	84
 Sundbyberg	83
-Braunschweig	83
 Vimmerby	81
 Aarhus	80
 Tokyo	79
 Pietarsaari	79
 Boden	77
 Trosa	75
+Göttingen	75
 Nürnberg	74
-Göttingen	74
 Cologne	74
 Bern	74
 Södertäje	72
@@ -305,6 +305,7 @@ Magdeburg	22
 Kungsbacka	22
 Hamina	22
 Fors	22
+Vilnius	21
 Kramfors	21
 Kotka	21
 Florence	21
@@ -312,7 +313,6 @@ Eksjöhovgård	21
 Edsbyn	21
 Akureyri	21
 Winnipeg	20
-Vilnius	20
 Uusikaarlepyy	20
 Nancy	20
 Langensalza	20
@@ -355,6 +355,7 @@ Avesta	16
 Valdemarsvik	15
 Strömsund	15
 Stocksund	15
+Münster	15
 Lessebo	15
 Kashgar	15
 Jelgava	15
@@ -379,7 +380,6 @@ Ottawa	14
 Oldenburg	14
 Nyland	14
 Norman	14
-Münster	14
 Munkedal	14
 Louvain	14
 Korsnäs	14
@@ -861,8 +861,8 @@ Tjörn	3
 Syninge	3
 Swedesburg	3
 Stenberga	3
-St Chrischona	3
 Stanford	3
+St Chrischona	3
 Sorø	3
 Slagelse	3
 Skultuna	3
@@ -999,7 +999,6 @@ Averbode	3
 Askeröd	3
 Arrie	3
 Arras	3
-äppelviken	3
 Ängeholm	3
 Aneboda	3
 Amiens	3
@@ -1029,7 +1028,6 @@ Vätternäs	2
 Västgärde	2
 Västerlanda	2
 Västerfärnebo	2
-Varsa	2
 Varnhem	2
 Värmdö	2
 Vårgårda	2
@@ -1177,6 +1175,7 @@ Monmouth	2
 Moliden	2
 Molde	2
 Minden	2
+Mexico City	2
 Metz	2
 Merseburg	2
 Meppel	2
@@ -1208,7 +1207,6 @@ Lilla Edet	2
 Liljeholmen	2
 Laxsjö	2
 Lästringe	2
-La Porte In	2
 Langshyttan	2
 Långebro	2
 Landsbro	2
@@ -1322,7 +1320,7 @@ Eastsound Wa	2
 Durban	2
 Dubrovnik	2
 Drottningholm	2
-Dillingen	2
+Dillingen an der Donau	2
 Dikanäs	2
 Dieren	2
 Denmark	2
@@ -1451,10 +1449,8 @@ Vittinge	1
 Vitsand	1
 Virkby	1
 Virestad	1
-Ving	1
 Vinberg	1
 Vilshult	1
-Vilne	1
 Vikingstad	1
 Vifstavarf	1
 Victoria British Columbia	1
@@ -1468,12 +1464,11 @@ Venegono Inferiore	1
 Vendelsö	1
 Ven	1
 Vellinge	1
-Velke mezirici	1
+Velké Meziříčí	1
 Veinge	1
 Vedevag	1
 Veddige	1
 Veda	1
-Växlander	1
 Västra Ryd	1
 Västra Ämtervik	1
 Västland	1
@@ -1576,7 +1571,6 @@ Svanö	1
 Svängsta	1
 Superior Wi	1
 Sunhultsbrunn	1
-Sunderbyn	1
 Sumen	1
 Sulzbach	1
 Sulvik	1
@@ -1593,10 +1587,10 @@ Strångsjö	1
 Strand	1
 Storuman	1
 Storfors	1
+Storängen	1
 Stora Torp	1
 Stora Tofthög	1
 Stora skedvi	1
-Storängen	1
 Stora mellösa	1
 Stora Karlsö	1
 Stoke-on-Trent	1
@@ -1605,7 +1599,6 @@ Stöckeby	1
 Stoby	1
 Stjärnsund	1
 Stiens	1
-St Helier	1
 Stetten	1
 Stenungsund	1
 Stensjöholm	1
@@ -1618,13 +1611,13 @@ Stara Rise	1
 Stanton Ia	1
 Stäket	1
 Staffanstorp	1
-St acre	1
+St Helier	1
 Spring Lake	1
 Sprängsviken	1
 Spoleto	1
 Spokane Wa	1
 Spjutstorp	1
-South bend ind	1
+South Bend IN	1
 Sösdala	1
 Sophia	1
 Sontra	1
@@ -1632,6 +1625,7 @@ Sondershausen	1
 Sölje	1
 Soest	1
 Soerabaja	1
+Södra Sunderbyn	1
 Söderbärke	1
 Söderåkra	1
 Snogeröd	1
@@ -1679,7 +1673,6 @@ Segovia	1
 Sclayn	1
 Schweinitz	1
 Schwedt/Oder	1
-Schulze dean	1
 Schoonhoven	1
 Schnepfenthal	1
 Scheinfeld	1
@@ -1688,7 +1681,7 @@ Schaffhausen	1
 Schaan	1
 Scansano	1
 Saxkjobing	1
-Savonburg kan	1
+Savonburg ks	1
 Savona	1
 Saverne	1
 Saumur	1
@@ -1699,10 +1692,10 @@ Särkisalmi	1
 Särestad	1
 Sarajevo	1
 Santos	1
-San Severino Marche	1
-San Juan Puerto Rico	1
 Sandträsk	1
 Sandhammaren	1
+San Severino Marche	1
+San Juan Puerto Rico	1
 Samtens	1
 Samedan	1
 Salzkotten	1
@@ -1710,9 +1703,9 @@ Salstad	1
 Sälen	1
 Salemsborg	1
 Salem	1
-Saint Paul MN	1
 Saint-Gaudens	1
 Saint-Brieuc	1
+Saint Paul MN	1
 Säbrå	1
 Saarlouis	1
 Saarbrücken	1
@@ -1772,7 +1765,6 @@ Pusan	1
 Pukavik	1
 Pskov	1
 Prostějov	1
-Prostat	1
 Prien	1
 Prevalje	1
 Pressburg	1
@@ -1811,7 +1803,7 @@ Oxie	1
 Överkalix	1
 Överboda	1
 Ovansjö	1
-Ottumwa iowa	1
+Ottumwa ia	1
 Ostrumelien	1
 Ostrava	1
 Östra Göinge	1
@@ -1841,7 +1833,6 @@ Nysund	1
 Nysa	1
 Nynäs	1
 Nymburk	1
-Nyligen	1
 Nykyrka	1
 Nyhem	1
 Nygard	1
@@ -1870,10 +1861,10 @@ Nivelles	1
 Nitta	1
 Nissafors	1
 Newry	1
+Newark	1
 New London Ct	1
 New Jersey NJ	1
 New Brunswick NJ	1
-Newark	1
 Nevers	1
 Neutitschein	1
 Neustrelitz	1
@@ -1908,7 +1899,6 @@ Montereau	1
 Montelimar	1
 Montecassino	1
 Mont Alto	1
-Monasterii	1
 Mölnbo	1
 Mölltorp	1
 Möljeryd	1
@@ -1918,12 +1908,10 @@ Mjörn	1
 Mjöhult	1
 Mittelwald	1
 Miskolc	1
-Minnepolis	1
+Minneapolis MN	1
 Millesvik	1
 Middelfart	1
 Miami FL	1
-Mexiko	1
-Mexico City	1
 Meselefors	1
 Menton	1
 Memmingen	1
@@ -1990,7 +1978,6 @@ Leverkusen	1
 Letchworth	1
 Lerviken	1
 Lervik	1
-Le Puy-en-Velay	1
 Leopol	1
 Leobe	1
 Lenhovda	1
@@ -2004,12 +1991,11 @@ Lekeryd	1
 Lehtimäki	1
 Lebanon PA	1
 Leamington Spa	1
+Le Puy-en-Velay	1
 Lawrence KS	1
 Larvik	1
 Lapua	1
-La plata	1
 Lapinjärvi	1
-La Paz	1
 Lannaskede	1
 Lännäs	1
 Lannabruk	1
@@ -2017,24 +2003,20 @@ Lanna	1
 Långstorp	1
 Länghem	1
 Långaryd	1
-Landishuti	1
+Landshut	1
 Lamoni IA	1
 Lammhult	1
 Lämbacken	1
-La Laguna	1
 Lahr	1
 Lahore	1
 Lagan	1
-<<<<<<< HEAD
-=======
 Labiau	1
 La plata	1
 La Paz	1
 La Laguna	1
->>>>>>> 69bfdad43a36b485c65dca4bc57b7b2ed7a7c6ab
 La Crosse Wi	1
 La Chaux-de-Fonds	1
-Labiau	1
+Kyustendil	1
 Kyrkhult	1
 Kvissleby	1
 Kville	1
@@ -2044,7 +2026,6 @@ Kuala Lumpur	1
 Krotoszyn	1
 Krokek	1
 Kristiansund	1
-Krisianstad	1
 Kreuznach	1
 Kovland	1
 Koskö	1
@@ -2064,7 +2045,6 @@ Knivsta	1
 Knäred	1
 Kloster Lehnin	1
 Kleva	1
-Kjustendil	1
 Kjulaås	1
 Kjoge	1
 Kivik	1
@@ -2110,7 +2090,6 @@ Jokkmokk	1
 Jokioinen	1
 Johansfors	1
 Johannesburg	1
-Joannis	1
 Jemtland me	1
 Jättendal	1
 Jassi	1
@@ -2120,8 +2099,6 @@ Janakkala	1
 Jadotville	1
 Jäder	1
 Jabalpur	1
-Italien	1
-Italia	1
 Issoudun	1
 Israel	1
 Isleworth	1
@@ -2233,7 +2210,6 @@ Gullaskruv	1
 Guldsmedshyttan	1
 Guben	1
 Guatemala	1
-Gryphiswaldie	1
 Grums	1
 Grovsta	1
 Gross Lichterfelde	1
@@ -2250,7 +2226,6 @@ Granada	1
 Grällsta	1
 Goslar	1
 Gökalund	1
-Goettingue	1
 Glumslöv	1
 Glücksburg	1
 Glostrup	1
@@ -2341,7 +2316,6 @@ Eneboga	1
 Enaker	1
 Emsdetten	1
 Emmaus PA	1
-Elsaborg	1
 Elk River MN	1
 Elgin IL	1
 Ekshärad	1
@@ -2358,8 +2332,8 @@ Edsviken	1
 Edsele	1
 Edirne	1
 Edesjö	1
-East Union MN	1
 Easton Pa	1
+East Union MN	1
 East Lansing	1
 East Grand Forks mn	1
 Eagle Lake MN	1
@@ -2451,7 +2425,6 @@ Burträsk	1
 Bückeburg	1
 Buchen	1
 Buchanan Mi	1
-Brunsvic	1
 Brunn	1
 Brunebo	1
 Brownfield me	1
@@ -2529,15 +2502,15 @@ Beirout	1
 Bedford	1
 Bazoges-en-Pareds	1
 Bautzen	1
-Battle creek michigan	1
-Baton rouge	1
+Battle creek MI	1
+Baton Rouge	1
 Bath	1
 Barth	1
 Barsele	1
-Bar Le Duc	1
 Barkakra	1
 Barhöft	1
 Barga	1
+Bar Le Duc	1
 Bankeryd	1
 Bangor	1
 Bangalore	1
@@ -2613,7 +2586,6 @@ Alstermo	1
 Alstad	1
 Alsike	1
 Alsen	1
-Al Qahira	1
 Älmeboda	1
 Allinge	1
 Allegheny PA	1
@@ -2626,14 +2598,16 @@ Aledo IL	1
 Albenga	1
 Alafors	1
 Ala	1
-Akers styckebruk	1
+Al Qahira	1
 Akersberga	1
+Akers styckebruk	1
 Ajmer	1
 Agunnaryd	1
 Agra	1
 Adolfsfors	1
 Adelsö	1
 Adelöv	1
+Acre	1
 Abingdon on thames	1
 Aalen	1
 Aakirkeby	1

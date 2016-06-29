@@ -77,9 +77,9 @@ Here we use the original data only:
 Only the most frequently occurring gatherings are listed here:
 
 
-|gatherings.original |mean.width |median.width | mean.height| median.height|  n|
-|:-------------------|:----------|:------------|-----------:|-------------:|--:|
-|4to                 |NA         |NA           |       23.57|         23.57|  7|
-|8vo                 |NA         |NA           |       20.59|         20.59| 32|
+|gatherings.original | mean.width| median.width| mean.height| median.height|  n|
+|:-------------------|----------:|------------:|-----------:|-------------:|--:|
+|4to                 |        NaN|          NaN|       23.57|         23.57|  7|
+|8vo                 |        NaN|          NaN|       20.59|         20.59| 32|
 
 -->

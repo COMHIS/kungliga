@@ -219,6 +219,8 @@ Berg, Gustaf	NA	1947
 Berg, John	1851	1931
 Berg, John	1887	1950
 Berg, John	NA	NA
+Berg, Yngve	1887	1963
+Berg, Yngve	1910	1991
 Berglund, August	1863	1939
 Berglund, August	1863	NA
 Berglund, August	1887	1954
@@ -251,8 +253,6 @@ Bergsten, Erik	1869	NA
 Bergsten, Karl Erik	1889	1980
 Bergsten, Karl Erik	1909	1990
 Bergsten, Karl Erik	NA	NA
-Berg, Yngve	1887	1963
-Berg, Yngve	1910	1991
 Berndtson, Gunnar	1854	1895
 Berndtson, Gunnar	1889	1954
 Bexell, Carl Emanuel	1786	1873
@@ -382,15 +382,15 @@ Coyet, Wilhelm Julius	1719	1779
 Cronander, August Waldemar	1838	1925
 Cronander, August Waldemar	1845	1911
 Cronander, August Waldemar	NA	NA
+Dahl, Gustaf	1859	1935
+Dahl, Gustaf	1874	1960
+Dahl, Gustaf	1877	1960
+Dahl, Gustaf	1890	1992
 Dahlberg, Ivar	1890	1959
 Dahlberg, Ivar	1907	1983
 Dahlberg, Ivar	NA	NA
 Dahlberg, Nils	1736	1820
 Dahlberg, Nils	1894	1973
-Dahl, Gustaf	1859	1935
-Dahl, Gustaf	1874	1960
-Dahl, Gustaf	1877	1960
-Dahl, Gustaf	1890	1992
 Danielsson, Axel	1863	1899
 Danielsson, Axel	1890	1969
 Danielsson, Axel	NA	NA
@@ -407,21 +407,21 @@ Dennemark, Sigurd	NA	1965
 Dickson, Charles	1814	1902
 Dickson, Charles	1876	1902
 Dickson, Charles	NA	1902
+Du Moulin, Pierre	1568	1658
+Du Moulin, Pierre	1601	1684
 Düben, Gustaf Von	1736	1811
 Düben, Gustaf Von	1822	1892
 Dumas, Alexandre	1802	1870
 Dumas, Alexandre	1824	1895
 Dumas, Alexandre	NA	NA
-Du Moulin, Pierre	1568	1658
-Du Moulin, Pierre	1601	1684
 Ehrensvärd, Carl August	1745	1800
 Ehrensvärd, Carl August	1892	1974
-Ekelund, Daniel	1732	1785
-Ekelund, Daniel	1793	1879
 Ek, Jacob	1744	1827
 Ek, Jacob	1774	1827
 Ek, Johan Gustaf	1808	1862
 Ek, Johan Gustaf	1810	1862
+Ekelund, Daniel	1732	1785
+Ekelund, Daniel	1793	1879
 Eklund, Harald	1901	1960
 Eklund, Harald	1924	2015
 Eklund, Ragnar	1906	1987
@@ -504,8 +504,6 @@ Eugénie	1830	1889
 Fagerholm, Erik	1883	1944
 Fagerholm, Erik	1947	1944
 Fagerholm, Erik	NA	1944
-Falkenberg, Melcher	1677	1716
-Falkenberg, Melcher	1722	1795
 Falk, Erik	1873	1944
 Falk, Erik	1875	1952
 Falk, Erik	1875	NA
@@ -513,6 +511,8 @@ Falk, Erik	NA	NA
 Falk, Hjalmar	1859	1928
 Falk, Hjalmar	1877	1940
 Falk, Hjalmar	1896	1977
+Falkenberg, Melcher	1677	1716
+Falkenberg, Melcher	1722	1795
 Fant, Gunnar	1879	1967
 Fant, Gunnar	1919	2009
 Fehrman, Carl	1840	1898
@@ -694,6 +694,9 @@ Holm, åke	1912	1989
 Holm, Axel	1862	NA
 Holm, Axel	1914	NA
 Holm, Axel	NA	NA
+Holm, Erik	1878	1945
+Holm, Erik	1882	1945
+Holm, Erik	NA	1945
 Holmberg, åke	1907	1991
 Holmberg, åke	1915	NA
 Holmberg, åke	1919	2001
@@ -711,9 +714,6 @@ Holmberg, Olof	1871	1948
 Holmberg, Olof	1874	NA
 Holmbergson, Johan	1764	1842
 Holmbergson, Johan	1804	1835
-Holm, Erik	1878	1945
-Holm, Erik	1882	1945
-Holm, Erik	NA	1945
 Holmgren, Anders	1864	1917
 Holmgren, Anders	1874	1917
 Holmgren, Anders	NA	1917
@@ -1095,15 +1095,15 @@ Linnér, Erik	1916	NA
 Ljung, Anders	1874	1959
 Ljung, Anders	1875	1967
 Ljung, Anders	NA	NA
+Ljung, Sven	1856	1923
+Ljung, Sven	1906	1968
+Ljung, Sven	NA	NA
 Ljunggren, Gustaf	1823	1905
 Ljunggren, Gustaf	1879	1967
 Ljunggren, Gustaf	1889	1950
 Ljunggren, Gustaf	1894	1980
 Ljunggren, Torsten	1897	NA
 Ljunggren, Torsten	1910	NA
-Ljung, Sven	1856	1923
-Ljung, Sven	1906	1968
-Ljung, Sven	NA	NA
 Löfgren, Erik O	1892	1972
 Löfgren, Erik O	1897	1972
 Löfgren, Svante	1882	1951
@@ -1124,6 +1124,8 @@ Ludvig	1601	1643
 Ludvig	1638	1715
 Ludvig	1754	1793
 Ludvig	1755	1824
+Lund, David	1657	1729
+Lund, David	1885	1924
 Lundberg, Birger	1908	1982
 Lundberg, Birger	1911	1996
 Lundberg, Birger	NA	NA
@@ -1154,8 +1156,6 @@ Lundblad, Sven	1861	NA
 Lundborg, Matheus	1850	NA
 Lundborg, Matheus	1860	NA
 Lundborg, Matheus	NA	NA
-Lund, David	1657	1729
-Lund, David	1885	1924
 Lundgren, Gustaf	1850	NA
 Lundgren, Gustaf	1893	1954
 Lundgren, Gustaf	1905	1986
@@ -1204,10 +1204,10 @@ Maria	NA	NA
 Martin, Carl Roland	1770	1836
 Martin, Carl Roland	1787	1863
 Martin, Carl Roland	1843	1925
-Martinius, Martinus	1600	1661
-Martinius, Martinus	1614	1661
 Martin, Roland	1726	1788
 Martin, Roland	1841	1894
+Martinius, Martinus	1600	1661
+Martinius, Martinus	1614	1661
 Mebius, Clas Albert	1854	NA
 Mebius, Clas Albert	1899	NA
 Mentzer, Balthasar	1565	1627
@@ -1603,21 +1603,21 @@ Rinman, Sven	NA	NA
 Roos, Göran	1904	NA
 Roos, Göran	1907	NA
 Roos, Göran	NA	NA
-Rosenhane, Schering	1609	1663
-Rosenhane, Schering	1754	1812
 Rosén, Sven	1708	1750
 Rosén, Sven	1879	1965
 Rosén, Sven	NA	NA
-Rudbeckius, Johannes	1581	1646
-Rudbeckius, Johannes	1623	1667
-Rudbeckius, Petrus Johannis	1578	1629
-Rudbeckius, Petrus Johannis	1625	1701
+Rosenhane, Schering	1609	1663
+Rosenhane, Schering	1754	1812
 Rudbeck, Olof	1630	1702
 Rudbeck, Olof	1660	1740
 Rudbeck, Olof	1751	1777
 Rudbeck, Olof	1908	1965
 Rudbeck, Thure Gustaf	1714	1786
 Rudbeck, Thure Gustaf	1806	1876
+Rudbeckius, Johannes	1581	1646
+Rudbeckius, Johannes	1623	1667
+Rudbeckius, Petrus Johannis	1578	1629
+Rudbeckius, Petrus Johannis	1625	1701
 Rudenschöld, Thorsten	1798	1859
 Rudenschöld, Thorsten	1863	1926
 Rundbäck, Abraham	1823	1893
@@ -1758,13 +1758,13 @@ Stenius, Erik	1911	1990
 Stephens, George	1783	1837
 Stephens, George	1813	1895
 Stephens, George	NA	NA
+Strand, Olof	1690	1749
+Strand, Olof	1730	1782
 Strandberg, Olof	1721	1814
 Strandberg, Olof	1755	1838
 Strandberg, Olof	1790	1865
 Strandberg, Olof	1910	1956
 Strandberg, Olof	NA	NA
-Strand, Olof	1690	1749
-Strand, Olof	1730	1782
 Stridsberg, Erik	1871	1950
 Stridsberg, Erik	1884	1949
 Ström, Erik	1883	1983

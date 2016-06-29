@@ -1,7 +1,7 @@
 ---
 title: "Pagecount preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-06-28"
+date: "2016-06-29"
 output: markdown_document
 ---
 
@@ -12,7 +12,11 @@ output: markdown_document
 
   * Page count missing and estimated for 2031 documents (0.5%).
 
+<<<<<<< HEAD
   * Page count missing and could not be estimated for 147340 documents
+=======
+  * Page count missing and could not be estimated for 147340 documents (38.2%).
+>>>>>>> 69bfdad43a36b485c65dca4bc57b7b2ed7a7c6ab
 
   * Page count updated for 0 documents.
   
@@ -39,8 +43,13 @@ Multi-volume documents average page counts are given per volume.
 
 |doc.dimension |mean.pages.singlevol |median.pages.singlevol | n.singlevol| mean.pages.multivol| median.pages.multivol| n.multivol| mean.pages.issue| median.pages.issue| n.issue|
 |:-------------|:--------------------|:----------------------|-----------:|-------------------:|---------------------:|----------:|----------------:|------------------:|-------:|
+<<<<<<< HEAD
 |2fo           |NA                   |NA                     |        1858|                  NA|                    NA|         NA|               NA|                 NA|      94|
 |4to           |NA                   |NA                     |       32051|                  NA|                    NA|         NA|               NA|                 NA|   32064|
+=======
+|2fo           |NA                   |NA                     |        1858|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|4to           |NA                   |NA                     |       32051|                  NA|                    NA|         NA|               NA|                 NA|       7|
+>>>>>>> 69bfdad43a36b485c65dca4bc57b7b2ed7a7c6ab
 |6to           |NA                   |NA                     |          28|                  NA|                    NA|         NA|               NA|                 NA|       1|
 |8long         |NA                   |NA                     |          14|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |8vo           |NA                   |NA                     |       25060|                   1|                     1|         95|                1|                  1|      30|
@@ -53,7 +62,10 @@ Multi-volume documents average page counts are given per volume.
 |48mo          |NA                   |NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |64mo          |NA                   |NA                     |          35|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |NA            |NA                   |NA                     |      318072|                   1|                     1|       1941|                1|                  1|    3596|
+<<<<<<< HEAD
 |1to           |NA                   |NA                     |          NA|                  NA|                    NA|         NA|               NA|                 NA|    1179|
+=======
+>>>>>>> 69bfdad43a36b485c65dca4bc57b7b2ed7a7c6ab
 
 ![plot of chunk size-pagecountsmulti2](figure/size-size-pagecountsmulti2-1.png)
 

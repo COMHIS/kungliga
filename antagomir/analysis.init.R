@@ -33,11 +33,13 @@ if (exists("timespan")) {
         publication_year >=  min(timespan) & publication_year <= max(timespan))
 }
 
+<<<<<<< HEAD
 # Remove issues for now
 # df <- filter(df, !issue)
 
+=======
+>>>>>>> 69bfdad43a36b485c65dca4bc57b7b2ed7a7c6ab
 # Store
 df.preprocessed <- df.preprocessed.orig <- df
-
 rm(df)
 

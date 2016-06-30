@@ -1,14 +1,14 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-06-29"
+date: "2016-06-30"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 805 [unique publishers](output.tables/publisher_accepted.csv)
+ * 804 [unique publishers](output.tables/publisher_accepted.csv)
 
  * 72788 documents have unambiguous publisher information (99%). 
 

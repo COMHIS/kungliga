@@ -17,6 +17,7 @@ catalog <- "kungliga"
 # Initialize and read raw data
 # Only needs to be once unless reading functions are updated
 reload.data <- FALSE
+if (!"df.raw.Rds" %in% dir()) {reload.data <- TRUE}
 source(system.file("extdata/init.R", package = "bibliographica"))
 print(paste("Total documents:", nrow(df.orig)))
 

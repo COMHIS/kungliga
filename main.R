@@ -1,10 +1,8 @@
 library(devtools)
-#load_all("~/proj/2014-Aatelouhinta/bibliographica")
+load_all("~/proj/2014-Aatelouhinta/bibliographica")
 # install_github("ropengov/bibliographica")
 
 library(bibliographica)
-#load_all("~/proj/2014-Aatelouhinta/bibliographica")
-#load_all("~/proj/2014-Aatelouhinta/bibliographica")
 
 # I/O definitions
 fs <- list.files("~/data/Kungliga/preprocessed", full.names = TRUE, pattern = ".csv.gz")

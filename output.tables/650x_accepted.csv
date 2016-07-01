@@ -87,8 +87,8 @@ hästar	  3
 Historia;Historia	  3
 History.	  3
 humle	  3
-juridik;juridik	  3
 juridik och lagstiftning;ekonomiska aspekter	  3
+juridik;juridik	  3
 klassifikation	  3
 kostnader	  3
 krigsväsen;sjöfart	  3
@@ -196,13 +196,13 @@ djursjukdomar;djursjukdomar	  1
 Doctrinal and controversial works.	  1
 drycker;framställning	  1
 drycker;handel;juridik;Handel	  1
+Ek;plantering	  1
 Ekonomi	  1
 ekonomisak förhållanden	  1
 ekonomiska aspekter;handel	  1
 ekonomiska aspekter;juridik och lagstiftning	  1
 ekonomiska aspekter;skatter	  1
 ekonomiska förhållanden;sädesslag	  1
-Ek;plantering	  1
 estetik;metrik	  1
 etik och moral;religion	  1
 etnobotanik;botanik;;gifter;etnobotanik	  1
@@ -223,6 +223,8 @@ Forskningsresor	  1
 förteckningar	  1
 förvaltning;förvaltning	  1
 Förvaltning;underhåll och reparationer	  1
+framställning, tillverkning etc.;handel	  1
+framställning, tillverkning etc.;tillverkning	  1
 framställning;Brännerier	  1
 Framställning;förbud	  1
 Framställning;Förbud	  1
@@ -235,8 +237,6 @@ Framställning;Nationalekonomi;Framställning;Nationalekonomi	  1
 framställning;råg;malt	  1
 Framställning;Redskap;Juridik	  1
 Framställning;Skatter	  1
-framställning, tillverkning etc.;handel	  1
-framställning, tillverkning etc.;tillverkning	  1
 French.	  1
 fysik	  1
 geografi;historia	  1
@@ -264,7 +264,6 @@ handel;värdering	  1
 handel;Vete	  1
 Hästar;Hovslageri	  1
 hästar;nötkreatur	  1
-historiae	  1
 historia;handel;Ull	  1
 historia;historia;historia;floror;medicin	  1
 historia;historia;historia;historia	  1
@@ -275,6 +274,7 @@ historia;lantbruk	  1
 historia;priser;taxor och avgifter	  1
 historia;taxor och avgifter	  1
 historia;tillverkning	  1
+historiae	  1
 historiografi	  1
 History and criticism.	  1
 Humle	  1
@@ -289,18 +289,18 @@ Insekter	  1
 Järn;Historia;Salt;Historia	  1
 jaspis;jaspis	  1
 jordbrukspolitik	  1
+juridik och lagstiftning 2 sao;juridik och lagstiftning	  1
+juridik och lagstiftning;handel	  1
+juridik och lagstiftning;historia	  1
+juridik och lagstiftning;juridik och lagstiftning;handel	  1
+juridik och lagstiftning;juridik;handel	  1
+juridik och lagstiftning;lagstiftning	  1
+juridik och lagstiftning;tillverkning	  1
 juridik;arbete	  1
 Juridik;Ekonomiska förhållanden;Historia	  1
 Juridik;handel	  1
 Juridik;Handel	  1
 Juridik;juridik och lagstiftning	  1
-juridik och lagstiftning 2 sao;juridik och lagstiftning	  1
-juridik och lagstiftning;handel	  1
-juridik och lagstiftning;historia	  1
-juridik och lagstiftning;juridik;handel	  1
-juridik och lagstiftning;juridik och lagstiftning;handel	  1
-juridik och lagstiftning;lagstiftning	  1
-juridik och lagstiftning;tillverkning	  1
 kaffe;handel	  1
 kalendrar	  1
 Kanariefåglar	  1
@@ -330,9 +330,9 @@ löner;löner;organisationsförändringar	  1
 löner;löner;taxor och avgifter	  1
 löner;priser	  1
 marmor	  1
+mat och matvanor;hälsoaspekter	  1
 material och utrustning;material och utrustning	  1
 mätning	  1
-mat och matvanor;hälsoaspekter	  1
 medicin	  1
 medicinska aspekter;medicinska aspekter;medicinska aspekter	  1
 metafysik	  1
@@ -363,9 +363,9 @@ potatis	  1
 Potatis;Handel	  1
 potatis;odling	  1
 praktiska handledningar;praktiska handledningar	  1
+Pre-Linnean works.	  1
 predikningar	  1
 prel	  1
-Pre-Linnean works.	  1
 prevention	  1
 Priser	  1
 priser;Handel	  1

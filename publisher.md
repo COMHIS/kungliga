@@ -1,7 +1,7 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-03"
+date: "2016-07-04"
 output: markdown_document
 ---
 
@@ -36,7 +36,6 @@ Title count versus paper consumption (top publishers):
 |publisher         | titles| paper|
 |:-----------------|------:|-----:|
 |                  |  50243| 30.43|
-|tryckeriet        |    252|  0.15|
 |Berling           |    445|  0.39|
 |Edman             |    491|  0.52|
 |Frenckell         |    236|  0.19|
@@ -44,4 +43,5 @@ Title count versus paper consumption (top publishers):
 |Kongl. tryckeriet |   4935|  0.51|
 |Mattsson          |    328|  0.25|
 |Sverige           |  10394|  2.59|
+|tryckeriet        |    252|  0.15|
 |Werner            |    268|  0.32|

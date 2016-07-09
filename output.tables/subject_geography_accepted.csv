@@ -77,8 +77,8 @@ Ryssland;Polen;Vitryssland	  4
 Sachsen;Polen;Ryssland	  4
 Skandinavien	  4
 Stora Kopparberget	  4
-Sverige;Frankrike	  4
 Sverige och Ryssland	  4
+Sverige;Frankrike	  4
 Tallinn	  4
 Trollhätte kanal;Vänern;Göteborg;Trollhättan;Göta älv	  4
 Ångermanland	  3
@@ -303,10 +303,10 @@ Borås	  1
 Borgå	  1
 Börstil	  1
 Bosarp	  1
-Brandenburg;Frankrike	  1
-Brandenburg;Nederländerna	  1
 Brandenburg och Danmark;Doberan	  1
 Brandenburg och Nederländerna	  1
+Brandenburg;Frankrike	  1
+Brandenburg;Nederländerna	  1
 Brandenburg;Stettin	  1
 Brasilien;Portugal;Cap Verde	  1
 Brattfors	  1
@@ -356,26 +356,26 @@ Frösve	  1
 Fryksände	  1
 Fundbo	  1
 Furusund;Öregrund	  1
+G: Göteborgs högre elem. lärowerk. bibliothek = Hvitfeldtska samlingen	  1
 Gamla Uppsala	  1
 Gammalstorp;Ysane	  1
 Gårdeby	  1
 Gårdsby	  1
 Gärdserum	  1
 Gaul	  1
+Gävle;Gävle	  1
 Gävleborgs län;Hälsingland;Hudiksvall	  1
 Gävleborgs län;Hudiksvall	  1
-Gävle;Gävle	  1
 Gdansk	  1
-G: Göteborgs högre elem. lärowerk. bibliothek = Hvitfeldtska samlingen	  1
 Gillberga	  1
 Glanshammar	  1
 Godahoppsudden	  1
 Göinge	  1
 Götaland	  1
 Göteborg;Landskrona	  1
+Göteborg;Vänersborg	  1
 Göteborgs och Bohus län;Älvsborgs län;Halland	  1
 Göteborgs skärgård;Bohusläns skärgård	  1
-Göteborg;Vänersborg	  1
 Gottfridsdal;Målilla	  1
 Grangärde	  1
 Gräsö	  1
@@ -433,9 +433,9 @@ Kalajoki;Kalajoki	  1
 Kalix	  1
 Källstorp	  1
 Kalmar;Vadstena	  1
-Karlbergsparken	  1
 Karl Gustav;Skedesamma	  1
 Karl Johans stad;Haparanda	  1
+Karlbergsparken	  1
 Karlskrona;Vadstena	  1
 Karlstad;Karlstads län	  1
 Kaskö	  1
@@ -509,8 +509,8 @@ Närke;Västmanland	  1
 Narva	  1
 Narva;Riga	  1
 Näs	  1
-Näsby;Ervalla	  1
 Näsby (Östergötland)	  1
+Näsby;Ervalla	  1
 New Orleans;Pensacola	  1
 New York (stad)	  1
 Nora bergslag	  1
@@ -546,10 +546,10 @@ Ovansjö socken	  1
 Palestine	  1
 Paris (France)	  1
 Partakoski	  1
+Pite lappmark	  1
 Piteå	  1
 Piteå lappmark	  1
 Piteå;Piteå lappmark;Nasafjäll	  1
-Pite lappmark	  1
 Polen;Pozna;Sachsen	  1
 Polen;Pultusk;Litauen;Sachsen	  1
 Polen;Pultusk;Thorn	  1
@@ -660,8 +660,8 @@ Stockholm;Karlberg	  1
 Stockholm;Karlskrona	  1
 Stockholm;Kopparberg	  1
 Stockholm;Norrköping	  1
-Stockholms län;Gotlands län	  1
 Stockholm;Stockholm;Stockholm	  1
+Stockholms län;Gotlands län	  1
 Stora Skedvi	  1
 Storbritannien	  1
 Storbritannien;London	  1
@@ -679,17 +679,6 @@ Svenska Pommern;Osmanska riket;Anklam	  1
 Svenska Pommern;Preussen	  1
 Svenska pommern;Stralsund	  1
 Svenska Pommern;Wismar	  1
-Sverige;Bohuslän	  1
-Sverige;Brandenburg;Frankrike	  1
-Sverige;Bremen;Hamburg;Lübeck	  1
-Sverige;Danmark;Norge	  1
-Sverige;Danmark;Norge;Polen	  1
-Sverige;Europa	  1
-Sverige;Finland	  1
-Sverige;Finland;Nordkalotten	  1
-Sverige;Nederländerna	  1
-Sverige;Norge	  1
-Sverige;Norge;Finland;Ingermanland	  1
 Sverige och Brandenburg;Frankrike	  1
 Sverige och Frankrike	  1
 Sverige och Italien	  1
@@ -704,11 +693,22 @@ Sverige och Storbritannien	  1
 Sverige och Sydamerika	  1
 Sverige och Turkiet	  1
 Sverige och Tysk-romerska riket;Brandenburg	  1
+Sverige;Bohuslän	  1
+Sverige;Brandenburg;Frankrike	  1
+Sverige;Bremen;Hamburg;Lübeck	  1
+Sverige;Danmark;Norge	  1
+Sverige;Danmark;Norge;Polen	  1
+Sverige;Europa	  1
+Sverige;Finland	  1
+Sverige;Finland;Nordkalotten	  1
+Sverige;Nederländerna	  1
+Sverige;Norge	  1
+Sverige;Norge;Finland;Ingermanland	  1
 Sverige;Pommern	  1
 Sverige;Ryssland	  1
 Sverige;Storbritannien	  1
-Sverige;Tyskland	  1
 Sverige;Tysk-romerska riket	  1
+Sverige;Tyskland	  1
 Svinstad;Bankekind	  1
 Synnerby	  1
 Tåby	  1
@@ -737,18 +737,18 @@ Turinge	  1
 Turkiet	  1
 Tving	  1
 Tyresö	  1
+Tysk-romerska riket;Osmanska riket	  1
 Tyskland;Danmark;Sverige	  1
 Tyskland;Tyskland	  1
 Tyskland;Wismar	  1
-Tysk-romerska riket;Osmanska riket	  1
 Tystberga	  1
 Uddevalla;Kattegatt	  1
 Uleåborg	  1
 Ullared	  1
 Ulricehamn;Borås	  1
 United States;United States	  1
-Uppsala län;Stockholms län	  1
 Uppsala (Sweden)	  1
+Uppsala län;Stockholms län	  1
 Uppvidinge;Åseda	  1
 Urshult	  1
 Vaksala	  1

@@ -25,7 +25,7 @@ Title count per language (including multi-language documents):
 
 |Language | Documents (n)| Fraction (%)|
 |:--------|-------------:|------------:|
-|Swedish  |         58182|         84.5|
+|Swedish  |         58182|         84.4|
 |Latin    |          5900|          8.6|
 |German   |          1901|          2.8|
 |French   |          1313|          1.9|

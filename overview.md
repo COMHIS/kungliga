@@ -202,7 +202,7 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Malagasy                            |         0.0|         100.0|         73176|          1|
 |language.Northern Sami                       |         0.0|         100.0|         73176|          1|
 |language.Persian                             |         0.0|         100.0|         73176|          1|
-|language.Multiple languages                  |         0.0|         100.0|         73176|          2|
+|multilingual                                 |         0.0|         100.0|         73176|          2|
 |title                                        |         0.0|         100.0|         73176|      66554|
 |gatherings.original                          |         0.0|         100.0|         73176|         14|
 |obl.original                                 |         0.0|         100.0|         73176|          2|

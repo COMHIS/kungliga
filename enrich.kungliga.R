@@ -1,3 +1,4 @@
+
 print("Enrich geo info: Geocoordinates")
 # Places with missing geocoordinate
 nainds <- is.na(df.preprocessed$latitude) | is.na(df.preprocessed$longitude)

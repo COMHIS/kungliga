@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-09"
+date: "2016-07-13"
 output: markdown_document
 ---
 
@@ -95,12 +95,12 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |area                                         |        18.5|          81.5|         59652|         32|
 |obl                                          |        18.5|          81.5|         59658|          3|
 |note_general                                 |        13.6|          86.4|         63228|      33434|
-|language                                     |         6.0|          94.0|         68770|         32|
 |country                                      |         6.0|          94.0|         68783|         25|
+|language                                     |         5.8|          94.2|         68963|         32|
 |publication_place                            |         3.4|          96.6|         70687|        302|
 |dissertation                                 |         2.5|          97.5|         71347|          3|
 |synodal                                      |         2.5|          97.5|         71347|          2|
-|publisher                                    |         0.5|          99.5|         72788|        804|
+|publisher                                    |         0.5|          99.5|         72788|        795|
 |latitude                                     |         0.3|          99.7|         72989|        232|
 |longitude                                    |         0.3|          99.7|         72989|        232|
 |publication_year_from                        |         0.0|         100.0|         73174|        322|
@@ -119,18 +119,26 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Finnish                             |         0.0|         100.0|         73176|          2|
 |language.Pali                                |         0.0|         100.0|         73176|          1|
 |language.Estonian                            |         0.0|         100.0|         73176|          2|
+|language.Latvian                             |         0.0|         100.0|         73176|          2|
 |language.Polish                              |         0.0|         100.0|         73176|          2|
 |language.Arabic                              |         0.0|         100.0|         73176|          2|
 |language.Esperanto                           |         0.0|         100.0|         73176|          1|
-|language.Dutch                               |         0.0|         100.0|         73176|          2|
 |language.Spanish                             |         0.0|         100.0|         73176|          2|
-|language.Latvian                             |         0.0|         100.0|         73176|          2|
-|language.Bulgarian                           |         0.0|         100.0|         73176|          1|
+|language.Artificial (Other)                  |         0.0|         100.0|         73176|          1|
+|language.Dutch                               |         0.0|         100.0|         73176|          2|
+|language.Yiddish                             |         0.0|         100.0|         73176|          1|
+|language.Swahili                             |         0.0|         100.0|         73176|          1|
 |language.Hungarian                           |         0.0|         100.0|         73176|          1|
+|language.Lithuanian                          |         0.0|         100.0|         73176|          2|
+|language.Portuguese                          |         0.0|         100.0|         73176|          2|
+|language.Hebrew                              |         0.0|         100.0|         73176|          2|
+|language.Czech                               |         0.0|         100.0|         73176|          1|
+|language.Lule Sami                           |         0.0|         100.0|         73176|          1|
+|language.Ido                                 |         0.0|         100.0|         73176|          1|
+|language.Zulu                                |         0.0|         100.0|         73176|          1|
+|language.Bulgarian                           |         0.0|         100.0|         73176|          1|
 |language.Afrikaans                           |         0.0|         100.0|         73176|          1|
 |language.Japanese                            |         0.0|         100.0|         73176|          1|
-|language.Czech                               |         0.0|         100.0|         73176|          1|
-|language.Portuguese                          |         0.0|         100.0|         73176|          2|
 |language.Serbian                             |         0.0|         100.0|         73176|          1|
 |language.Turkish                             |         0.0|         100.0|         73176|          1|
 |language.Norwegian (Nynorsk)                 |         0.0|         100.0|         73176|          1|
@@ -138,8 +146,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Gothic                              |         0.0|         100.0|         73176|          2|
 |language.Sami                                |         0.0|         100.0|         73176|          2|
 |language.Albanian                            |         0.0|         100.0|         73176|          2|
-|language.Hebrew                              |         0.0|         100.0|         73176|          2|
 |language.No linguistic content               |         0.0|         100.0|         73176|          2|
+|language.Occitan (post-1500)                 |         0.0|         100.0|         73176|          1|
 |language.Khotanese                           |         0.0|         100.0|         73176|          1|
 |language.Chinese                             |         0.0|         100.0|         73176|          1|
 |language.Ukrainian                           |         0.0|         100.0|         73176|          1|
@@ -158,27 +166,20 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Provençal (to 1500)                 |         0.0|         100.0|         73176|          1|
 |language.Raeto-Romance                       |         0.0|         100.0|         73176|          1|
 |language.Sanskrit                            |         0.0|         100.0|         73176|          1|
-|language.Lithuanian                          |         0.0|         100.0|         73176|          2|
-|language.Zulu                                |         0.0|         100.0|         73176|          1|
 |language.Sorbian (Other)                     |         0.0|         100.0|         73176|          1|
 |language.Georgian                            |         0.0|         100.0|         73176|          1|
 |language.Slovak                              |         0.0|         100.0|         73176|          1|
-|language.Yiddish                             |         0.0|         100.0|         73176|          1|
 |language.Tigré                               |         0.0|         100.0|         73176|          1|
-|language.Lule Sami                           |         0.0|         100.0|         73176|          1|
 |language.Kalâtdlisut                         |         0.0|         100.0|         73176|          1|
 |language.Armenian                            |         0.0|         100.0|         73176|          1|
 |language.Hindi                               |         0.0|         100.0|         73176|          1|
 |language.Oriya                               |         0.0|         100.0|         73176|          1|
-|language.Ido                                 |         0.0|         100.0|         73176|          1|
 |language.Uighur                              |         0.0|         100.0|         73176|          1|
 |language.Frisian                             |         0.0|         100.0|         73176|          1|
 |language.Korean                              |         0.0|         100.0|         73176|          1|
 |language.Kongo                               |         0.0|         100.0|         73176|          1|
-|language.Swahili                             |         0.0|         100.0|         73176|          1|
 |language.German, Middle High (ca. 1050-1500) |         0.0|         100.0|         73176|          1|
 |language.Kinyarwanda                         |         0.0|         100.0|         73176|          1|
-|language.Artificial (Other)                  |         0.0|         100.0|         73176|          1|
 |language.Macedonian                          |         0.0|         100.0|         73176|          1|
 |language.Nilo-Saharan (Other)                |         0.0|         100.0|         73176|          1|
 |language.Aramaic                             |         0.0|         100.0|         73176|          1|

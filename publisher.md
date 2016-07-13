@@ -1,14 +1,14 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-09"
+date: "2016-07-13"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 804 [unique publishers](output.tables/publisher_accepted.csv)
+ * 795 [unique publishers](output.tables/publisher_accepted.csv)
 
  * 72788 documents have unambiguous publisher information (99%). 
 
@@ -33,15 +33,15 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher         | titles| paper|
-|:-----------------|------:|-----:|
-|                  |  50243| 30.43|
-|tryckeriet        |    252|  0.15|
-|Berling           |    445|  0.39|
-|Edman             |    491|  0.52|
-|Frenckell         |    236|  0.19|
-|Keyser            |    228|  0.66|
-|Kongl. tryckeriet |   4935|  0.51|
-|Mattsson          |    328|  0.25|
-|Sverige           |  10394|  2.59|
-|Werner            |    268|  0.32|
+|publisher | titles| paper|
+|:---------|------:|-----:|
+|          |  50243| 30.43|
+|Berling   |    445|  0.39|
+|Edman     |    491|  0.52|
+|Frenckell |    236|  0.19|
+|Keyser    |    228|  0.66|
+|kungliga  |   5196|  0.66|
+|Mattsson  |    328|  0.25|
+|Sverige   |  10394|  2.59|
+|Wankijff  |    207|  0.65|
+|Werner    |    268|  0.32|

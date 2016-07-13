@@ -2,12 +2,11 @@ Name	Count
 Total count: 	72788
 	50243
 Sverige	10394
-Kongl. tryckeriet	 4935
+kungliga	 5196
 Edman	  491
 Berling	  445
 Mattsson	  328
 Werner	  268
- tryckeriet	  252
 Frenckell	  236
 Keyser	  228
 Wankijff	  207
@@ -21,10 +20,10 @@ Hansson	  116
 Merckell	  105
 Kempe	   84
 Deleen	   81
+kungliga Finska yckeriet	   72
 Grefing	   69
 Gynther	   69
 Höjer	   68
-Kongl. Finska boktryckeriet	   67
 Lindh	   67
 Hesselberg	   62
 Biörkman	   61
@@ -34,7 +33,7 @@ Hesselberg, Peter	   57
 Lange	   56
 Wald	   54
 Curio	   52
-Haberegger	   50
+Heregger	   50
 Winter	   49
 Holmberg	   46
 Nyström	   42
@@ -54,17 +53,17 @@ Janssonius	   28
 Lundblad	   28
 Stenhammar et Palmblad	   28
 Zetterberg	   28
-Grefingska tryckeriet	   27
+Grefingska	   27
 Hagen	   26
 Billingsley	   24
 Eckhardt	   23
 Kiesevetter	   20
 Björckegren	   19
 Kumblin	   19
+Nyström & Stolpe	   19
 Schneider	   19
 Gercken	   18
 Möller	   18
-Nyström & Stolpe	   18
 Regiae Academiae typographi	   18
 Wennberg	   18
 Fougt	   17
@@ -75,7 +74,7 @@ Selov	   17
 Wahlström	   17
 Ekmanson	   16
 Elmen	   16
-Kongl. Svenska landtbruks-academien	   16
+kungliga Svenska landtbruks-academien	   16
 Ekmarck	   15
 Pauli	   15
 Gadelius	   14
@@ -108,7 +107,6 @@ Kankel	    8
 Laurelius	    8
 Lönbohm	    8
 Nestius	    8
-Norstedt	    8
 Palmblad	    8
 Segerstedt	    8
 Smitt	    8
@@ -125,6 +123,7 @@ Hörberg	    7
 Knoch	    7
 Leverentz	    7
 Matthiä	    7
+Norstedt	    7
 Paulinus Gothus	    7
 Pfeiffer	    7
 Rumstedt	    7
@@ -135,14 +134,13 @@ Crusius	    6
 Edman, Johan	    6
 Elzevier	    6
 Groth	    6
-Historiographi Regni Boktryckeri	    6
+Historiographi Regni yckeri	    6
 Löffler	    6
 Matthiae	    6
 Momma	    6
 Rothe	    6
 Schultz	    6
 Segerstedt, Albrecht Julius	    6
- finska boktryckeriet	    5
 Björkbom	    5
 Brodin	    5
 Chatelain	    5
@@ -152,15 +150,13 @@ Hansson Wall	    5
 Koch	    5
 Kraft	    5
 Pilecan	    5
-Reg. Acad	    5
 Rhete	    5
 Rudbeck	    5
 Schonberg	    5
 Stakberg	    5
 Wallden	    5
 Zeipel	    5
- Vitterhets historie & antiqvitets akademien	    4
-Akademiska tryckeriet	    4
+Akademiska	    4
 Björckegrens enka	    4
 Björkman	    4
 Collin, Lars Arvidsson	    4
@@ -170,12 +166,14 @@ Gyldendal	    4
 Henrik Keyser	    4
 Holm	    4
 Kallmeyer	    4
-Kongl. Amiralitets boktryckeriet	    4
+kungliga Amiralitetyckeriet	    4
+kungliga Vitterhets historie & antiqvitets akademien	    4
 Lövegren	    4
-Ordenstryckeriet	    4
+Ordens	    4
 Paulssen	    4
 Petre	    4
 Popp	    4
+regis Acad	    4
 Richardson	    4
 Rivington	    4
 Röpke	    4
@@ -186,13 +184,13 @@ Wennberg, Lars	    4
 Wilde	    4
 Winstrup	    4
 Wrigseen	    4
- Vetenskapsakademien	    3
 Almqvist & Wiksell	    3
-Amiralitetstryckeriet	    3
+Amiralitets	    3
 Andreae	    3
 Arcerius	    3
 Asp	    3
 Bielcke	    3
+Carl Delen	    3
 Cedergren	    3
 Christopher Gynther	    3
 Decker	    3
@@ -214,6 +212,7 @@ Meder	    3
 Mollyn	    3
 Myllman	    3
 N. Wankijf	    3
+Palmblad & C	    3
 Rask	    3
 Riegel	    3
 Robinson	    3
@@ -223,11 +222,8 @@ Stein	    3
 Strinnholm	    3
 Sundler	    3
 Thiele	    3
-tryckt i Kongl. tryckeriet	    3
-Tryckt uti Kongl. tryckeriet	    3
 Vrigseen	    3
 Widman	    3
- Samfundet för utgivande av handskrifter rörande Skandinaviens historia	    2
 Adler	    2
 Apud viduam Henrici Merckell	    2
 Arborelius	    2
@@ -244,24 +240,28 @@ Deer	    2
 Des Hayes	    2
 Donatius	    2
 Du Vivie	    2
+Elmen & Granberg	    2
 Endter	    2
 Eriks-Syne	    2
 Eucharius Lauringer	    2
 Flygare	    2
-Fougt, Kongl. Boktryckare	    2
+Fougt, kungliga yckare	    2
 Fuess	    2
 Gjörvell	    2
 Goodvin	    2
 Götiska	    2
-Haberegger, Vitus	    2
 Hallervord	    2
+Heregger, Vitus	    2
 Hoffmann	    2
 in Anton Ferdinand Rösens Buchh	    2
 Janssonius van Waesberge	    2
 Johan Georg Lange	    2
 Johnson	    2
 Köhler	    2
-Kumblinska tryckeriet	    2
+Kumblinska	    2
+kungliga , Momma	    2
+kungliga Samfundet för utgivande av handskrifter rörande Skandinaviens historia	    2
+kungliga Vetenskapsakademien	    2
 Lamprecht	    2
 Lars Salvius	    2
 Laurentius Segebadius	    2
@@ -279,8 +279,7 @@ Nordin	    2
 Öberg	    2
 Olofsson Enaeus	    2
 Palm	    2
-Palmblad & C	    2
-Petre & Abrahamsson	    2
+Petre & rahamsson	    2
 Pettersson	    2
 Pitra	    2
 Pitteri	    2
@@ -302,7 +301,6 @@ Struck	    2
 Svanborg	    2
 Thetzell	    2
 Torstensson	    2
-Tr. hos Carl Delen	    2
 Typographia regia	    2
 utgivare okänd	    2
 Vandenhoeck	    2
@@ -312,18 +310,19 @@ Wiborg	    2
 Wiering	    2
 Wijngaerden	    2
 Wishoff	    2
- Maj:t	    1
- Vetenskaps-Societeten i Uppsala	    1
-Åbo tidnings & tryckeri	    1
+ 1757	    1
+: Marqvard	    1
+: Struck	    1
+Åbo tidning	    1
 Adlersparre	    1
 Adolf Rusch, for Anton Koberger at Nuremberg	    1
 Adolph	    1
-Akademiska föreningen	    1
+Akademiska förening	    1
 Albertsz	    1
 Almqvist & Wiksell/Geber	    1
 Alströmer	    1
-Amiralitetstryckeriet : Svinhuvud	    1
-Amiralitetstryckeriet : Vinqvist	    1
+Amiralitets : Svinhuvud	    1
+Amiralitets : Vinqvist	    1
 Ammon	    1
 Anders Odel	    1
 Antiq. archivi	    1
@@ -332,7 +331,7 @@ apud Gerbrandum Schagen	    1
 apud Ioann. Ianssonium	    1
 Apud Joh. Fred. Edman	    1
 Apud Mart. Christoph. Schvechtenium	    1
-Apud Petrum Le Petit, Regis typographum	    1
+Apud Petrum Le Petit, registypographum	    1
 Arboren	    1
 Arkstee en Merkus	    1
 Aurora Office	    1
@@ -347,8 +346,8 @@ Barrois	    1
 Bell	    1
 Bergman	    1
 Berlingianis	    1
-Bernabò	    1
 Bernegger	    1
+Bernò	    1
 Beuther	    1
 Bieling, Lorenz	    1
 Biervirth	    1
@@ -360,7 +359,6 @@ Boekee	    1
 Boetius Hagen	    1
 Böhm	    1
 Bohn	    1
-Boktryckeri-societeten	    1
 Bonnier	    1
 Bovyer	    1
 Breeckevelt	    1
@@ -375,7 +373,7 @@ C.J. Holmberg	    1
 Cailloue	    1
 Camera Apostolica	    1
 Carl C. Gjörvell	    1
-Carl Delen	    1
+Carl Stolpe	    1
 Carlbohm & Frenckell	    1
 Casteleyn	    1
 Celle	    1
@@ -398,7 +396,7 @@ Deleen, Carld	    1
 Desenne	    1
 Detune	    1
 Deûring	    1
-Didric Gabriel Björn	    1
+Didric Griel Björn	    1
 Dieterich	    1
 Dieterici	    1
 Dilly	    1
@@ -409,8 +407,6 @@ Ed. Klincksieck	    1
 Edelmannus	    1
 Eggeska teatern	    1
 Egmondt	    1
-Elmen & Granberg	    1
-Elmens & Granbergs tryckeri	    1
 Em. Bruzelius	    1
 Emmerich	    1
 Envallsson	    1
@@ -421,20 +417,22 @@ ex officina Berlingiana	    1
 Ex officina directoris Caroli Gustavi Berling, reg. acad. Carol. typograph	    1
 Ex officina Mölleri	    1
 Ex officina Mölleri, aulä typographi	    1
-Exegetiska & filantropiska sällskapet i Stockholm	    1
-Exegetiska Sällskapet	    1
+Exegetiska & filantropiska sällskap i Stockholm	    1
+Exegetiska sällskap	    1
 Eyres	    1
-Fabian Holmgren	    1
 Feind	    1
-Finska boktryckeriet	    1
+Fian Holmgren	    1
+Finska yckeriet	    1
 Flodström	    1
-Författaren	    1
+författare	    1
+förr thetta Grefingska	    1
 Forster	    1
 Förster	    1
 Förstern	    1
 Fr. B. Nestius	    1
 Freckellianis	    1
 Fredrik Schonberg & Björckegrens enka	    1
+Frenckellska yckeriet	    1
 Friessem	    1
 Fritsch	    1
 Fritsche	    1
@@ -442,7 +440,7 @@ Fromm	    1
 Fuesz	    1
 Garcia Morras	    1
 Gebauer	    1
-Gedruckt bey Johann Brendeken, Königl. Acad. Buchdruckern	    1
+Gedruckt bey Johann Brendeken, königlische Acad. Buchdruckern	    1
 Geo. Lövegren	    1
 Georg Adlersparre	    1
 Georg Richolff	    1
@@ -455,7 +453,7 @@ Goetze	    1
 Göpner	    1
 Gormann	    1
 Gosse	    1
-Götheborgs kongl. vettenskaps & vitterhets samhälle	    1
+Götheborgs kungliga vettenskaps & vitterhets samhälle	    1
 Götheborgska vetenskaps & vitterhets samhället	    1
 Gotlands läns hushållningssällskap	    1
 Göze	    1
@@ -507,8 +505,6 @@ Holvein	    1
 Höpfner	    1
 Hörberg, Johan	    1
 Horn, Johan Laurentius	    1
-hos Carl Stolpe	    1
-hos Palmblad & Co	    1
 Ibarra	    1
 imprimebat Johannes Vogelius, Academiä typogr	    1
 Imprimerie royale, M. DCCXXXVIII	    1
@@ -544,7 +540,7 @@ John Murray	    1
 Jones	    1
 Jöns Erik Angelini	    1
 Junghans, Adam	    1
-K. Booktr. hos Sahl. Wankijfs Änka	    1
+K. Book hos Sahl. Wankijfs Änka	    1
 Kaempe	    1
 Kask	    1
 Keyfer	    1
@@ -554,21 +550,25 @@ Keyser, Henrich	    1
 Kiellbeck	    1
 Kiöpping	    1
 Kohles	    1
-Kongl. acad. bokhandeln	    1
-Kongl. acad. boktr	    1
-Kongl. Boktryckeriet, Werner	    1
-Kongl. Booktr., Wankijffs	    1
-Kongl. priviligierade nottryckeriet	    1
-Kongl. Slotts-Cancellier	    1
-Kongl. tryckeriet, Momma	    1
-Kongl. Tryckeriet, Momma	    1
-Kongl. tryckeriet, Werner	    1
 Königliche Regierungs-Buchdruckerei	    1
 Koppe	    1
 Kraus	    1
 Krause	    1
 Kumblin, Lars	    1
-Kumblinske Tryckeriet	    1
+Kumblinske	    1
+kungliga , hos directeuren Pet. Momma	    1
+kungliga , Hos Directeuren Pet. Momma	    1
+kungliga , Werner	    1
+kungliga acad	    1
+kungliga acad. bokhandeln	    1
+kungliga Amiralitets	    1
+kungliga Book, Wankijffs	    1
+kungliga finska yckeriet hos Joh. Arv. Carlbomm	    1
+kungliga Maj:t	    1
+kungliga priviligierade not	    1
+kungliga Slotts-Cancellier	    1
+kungliga Vetenskaps-Societeten i Uppsala	    1
+kungliga yckeriet, Werner	    1
 L'editeur	    1
 Lago	    1
 Langhoff	    1
@@ -577,8 +577,8 @@ Le Bas	    1
 Le Prieur	    1
 Lehmann, Gotthilff	    1
 Leroy	    1
-Libr. de la viuda e hijo de Quiroga	    1
 Librería de la viuda e hijos de Quiroga	    1
+Libröderna de la viuda e hijo de Quiroga	    1
 Liebzeit	    1
 Lillie	    1
 Lindgren	    1
@@ -599,7 +599,7 @@ Marenigh	    1
 Marteau	    1
 Matteo Capcasa	    1
 Mauritii	    1
-med Joh. L. Horrns, kongl. antiqvit archiv. boktr. bekostnad	    1
+med Joh. L. Horrns, kungliga antiqvit archiv. bok bekostnad	    1
 Merckell, Jacob	    1
 Meuris	    1
 Meyer	    1
@@ -621,7 +621,7 @@ Nicolai	    1
 Nils Magnus Lindh	    1
 Nilsson Greve	    1
 Norrbottens läns hushållningssällskap	    1
-Norrköpings tidningar	    1
+Norrköpings tidning	    1
 Ocampo	    1
 Oelreich	    1
 Officina Endteriana	    1
@@ -630,7 +630,7 @@ P. Sohm aux depens de J.C. Holmberg	    1
 Paa Hofboghandler J.H. Schubothe, trykt hos Andreas Seidelin	    1
 Paolini	    1
 Pasqvali	    1
-Patriotiska sällskapet	    1
+Patriotiska sällskap	    1
 Paulinus	    1
 Pepelov	    1
 Peter Hesselberg & Harberg	    1
@@ -654,6 +654,7 @@ Rasp	    1
 Rauch	    1
 Ravesteyn	    1
 Rebenlein	    1
+Reg,. Acad	    1
 Regni	    1
 Reichel	    1
 Reimer	    1
@@ -684,7 +685,7 @@ Saurman	    1
 Schedel	    1
 Schiötz	    1
 Schmidtgen	    1
-Schneiderska boktryckeriet	    1
+Schneiderska yckeriet	    1
 Schönfels	    1
 Schönnerstädt	    1
 Schönvetter	    1
@@ -715,42 +716,30 @@ Starkey	    1
 Stehnammar	    1
 Stenhammar	    1
 Stephan Mölleman	    1
+Stockholm	    1
 Sumptibus & typis Joh. L. Horrn, reg. antiq. archiv. typogr	    1
 Sumtibus Bibliopolii Mummiani	    1
 Svanholm	    1
 Svedbom	    1
 Sveerts	    1
 Svenska kyrkan	    1
-Svenska läkaresällskapet	    1
-Svenska Patriotiska Sällskapet	    1
+Svenska läkaresällskap	    1
+Svenska Patriotiska sällskap	    1
 Sympher	    1
 The Society	    1
-Tr. hos Nyström & Stolpe	    1
-Tr.: Marqvard	    1
-Tr.: Struck	    1
-tryckeriet 1757	    1
-tryckt hoos Christoff Brendeken, kongl. gymn. boocktr	    1
+tryckt hoos Christoff Brendeken, kungliga gymn. boocktr	    1
 tryckt hos Anders Biörkman	    1
 tryckt hos Carl Delen	    1
 Tryckt hos Carl Stolpe	    1
 tryckt hos direct. Berling	    1
 tryckt hos Fr. Cederborgh & Comp	    1
-Tryckt hos Henr. Fougt, riddare af kongl. W. & & Coongl. boktryckare	    1
+Tryckt hos Henr. Fougt, riddare af kungliga W. & & Coongl. yckare	    1
 tryckt hos Johan Fr. Edman	    1
 tryckt hos Johann Köhler	    1
 Tryckt hos Lars Salvius	    1
 Tryckt hos Lor. Ludv. Grefing	    1
 tryckt hso direct. Lars Salvius, 1771	    1
-Tryckt i Frenckellska boktryckeriet	    1
-tryckt i Kongl. finska boktryckeriet hos Joh. Arv. Carlbomm	    1
-Tryckt i Kongl. Tryckeriet	    1
 Tryckt på bokhandlaren P.G. Bornvassers bekostnad	    1
-Tryckt uti förr thetta Grefingska tryckeriet	    1
-tryckt uti Kongl. Amiralitets tryckeriet	    1
-tryckt uti Kongl. tryckeriet	    1
-tryckt uti Kongl. tryckeriet, hos directeuren Pet. Momma	    1
-Tryckt uti Kongl. Tryckeriet, Hos Directeuren Pet. Momma	    1
-tryckt uti thet Kongl. tryckeriet	    1
 trykt udi det Kongel. Mäysenhuses Bogtrykkerie af G.G. Salikath	    1
 Tyis Ludovici Decreaux, directoris officinä typographicä Lundensis	    1
 typis Frenckellianis	    1
@@ -772,12 +761,13 @@ Varrentrapp	    1
 Vaucrosson & son	    1
 Växjö stifts-tidningar	    1
 Velsen	    1
+Vetenskapsakademien	    1
 Vinqvist	    1
 Vogel, Johannes	    1
 Volgenua	    1
 Volland	    1
-W. Fabian Holmgren	    1
-Wankijff, Kongl. Booktr	    1
+W. Fian Holmgren	    1
+Wankijff, kungliga Booktr	    1
 Wankijfs änka	    1
 Warren	    1
 Weidmann	    1
@@ -798,6 +788,7 @@ Wolfgang Moritz Endters	    1
 Wolter	    1
 Wust	    1
 Wyngaerden	    1
+yckeri-societeten	    1
 Zieervogel	    1
 Ziervogel	    1
 Zimmermann	    1

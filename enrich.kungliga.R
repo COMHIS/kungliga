@@ -4,7 +4,8 @@ nainds <- is.na(df.preprocessed$latitude) | is.na(df.preprocessed$longitude)
 missing.geoc <- as.character(unique(df.preprocessed[nainds, "publication_place"]))
 
 # Get missing geocoordinates with gisfin package
-skip <- TRUEgctmp <- NULL
+skip <- TRUE
+gctmp <- NULL
 if (!skip) {
   library(gisfin)
   for (place in missing.geoc) {

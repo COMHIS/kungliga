@@ -10,8 +10,8 @@ output.folder <- "output.tables/"
 catalog <- "kungliga"
 
 # Remove selected fields
-#ignore.fields <- c("publisher") 
-#update.fields <- "language"
+# ignore.fields <- c("publisher") 
+# update.fields <- "language"
 
 # —--------------------------------------------
 
@@ -39,7 +39,6 @@ source(system.file("extdata/validation.R", package = "bibliographica"))
 # -------------------------------------------------
 
 source(system.file("extdata/enrich.R", package = "bibliographica"))
-#source("enrich.kungliga.R") #geoc moved to bibliographica
 
 write.table(dim.estimates, sep = ",", row.names = F,
   file = paste(output.folder, "sheetsize_means.csv", sep = "/"),

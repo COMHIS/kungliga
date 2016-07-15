@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-13"
+date: "2016-07-15"
 output: markdown_document
 ---
 
@@ -87,12 +87,12 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |author                                    |        47.5|          52.5|         38396|      10123|
 |260f                                      |        40.5|          59.5|         43529|       2245|
 |852j                                      |        34.9|          65.1|         47664|      17021|
-|paper.consumption.km2                     |        31.0|          69.0|         50526|       1723|
 |pagecount.orig                            |        28.0|          72.0|         52656|        868|
 |pagecount                                 |        28.0|          72.0|         52712|        868|
 |width                                     |        18.5|          81.5|         59652|         27|
 |height                                    |        18.5|          81.5|         59652|         29|
 |area                                      |        18.5|          81.5|         59652|         32|
+|paper                                     |        18.5|          81.5|         59652|         32|
 |obl                                       |        18.5|          81.5|         59658|          3|
 |note_general                              |        13.6|          86.4|         63228|      33434|
 |country                                   |         6.0|          94.0|         68783|         25|
@@ -225,7 +225,6 @@ Same in exact numbers: documents with available/missing entries, and number of u
 ## Histograms of the top entries for factor variables
 
 Non-trivial factors with at least 2 levels are shown.
-
 
 
 

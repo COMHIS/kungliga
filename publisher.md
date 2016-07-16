@@ -1,16 +1,16 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-15"
+date: "2016-07-16"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 795 [unique publishers](output.tables/publisher_accepted.csv)
+ * 20 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 72788 documents have unambiguous publisher information (99%). 
+ * 3800 documents have unambiguous publisher information (100%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -33,17 +33,17 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher | titles|      paper|
-|:---------|------:|----------:|
-|          |  50243| 2970503.99|
-|Berling   |    445|   40333.25|
-|Edman     |    491|   44668.84|
-|Frenckell |    236|   22241.58|
-|Keyser    |    228|   16577.69|
-|kungliga  |   5196| 1096102.95|
-|Mattsson  |    328|   31649.83|
-|Sverige   |  10394| 1273081.60|
-|Wankijff  |    207|   19266.93|
-|Werner    |    268|   16605.90|
+|publisher               | titles|     paper|
+|:-----------------------|------:|---------:|
+|                        |   3774| 292084.68|
+|kungl                   |      8|   3297.83|
+|migneret desenne        |      1|      0.00|
+|n vankijf               |      1|    106.94|
+|nestler                 |      1|      0.00|
+|pet momma               |      1|    234.38|
+|pfeiffer                |      1|     42.88|
+|redaktionen             |      1|      0.00|
+|salvius                 |      1|    106.94|
+|volfgang moritz endters |      1|      0.00|
 
 

@@ -23,13 +23,13 @@ source(system.file("extdata/init.R", package = "bibliographica"))
 print(paste("Total documents:", nrow(df.orig)))
 
 # Testing the pipeline with a smaller data subset
-# df.orig <- df.orig[sample(nrow(df.orig), 2e4), ]
+df.orig <- df.orig[sample(nrow(df.orig), 2e4), ]
 
 # -----------------------------------------------
 
 # Preprocess raw data
 source(system.file("extdata/preprocessing.R", package = "bibliographica"))
-df.preprocessed <- readRDS("df0.Rds")
+# df.preprocessed <- readRDS("df0.Rds")
 
 # -------------------------------------------------
 
@@ -39,6 +39,7 @@ source(system.file("extdata/validation.R", package = "bibliographica"))
 # -------------------------------------------------
 
 source(system.file("extdata/enrich.R", package = "bibliographica"))
+source("enrich.kungliga.R") # Kungliga-specific
 
 write.table(dim.estimates, sep = ",", row.names = F,
   file = paste(output.folder, "sheetsize_means.csv", sep = "/"),

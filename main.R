@@ -23,7 +23,7 @@ source(system.file("extdata/init.R", package = "bibliographica"))
 print(paste("Total documents:", nrow(df.orig)))
 
 # Testing the pipeline with a smaller data subset
-df.orig <- df.orig[sample(nrow(df.orig), 2e4), ]
+# df.orig <- df.orig[sample(nrow(df.orig), 2e4), ]
 
 # -----------------------------------------------
 

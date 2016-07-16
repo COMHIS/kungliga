@@ -1,83 +1,809 @@
 Name	Count
-Total count: 	215
-Sverige	63
-Sverige;Sverige	33
-Sverige;Sverige;Sverige	11
-Stockholm	 9
-Finland;Sverige	 5
-Sverige;Sverige;Sverige;Sverige	 5
-Finland	 3
-Sverige;Bohuslän	 3
-Sverige;Ryssland	 3
-Dalarna	 2
-Finland;Finland	 2
-Göteborg	 2
-Stockholm;Stockholm	 2
-Sverige;Finland	 2
-Sverige;Ryssland;Sverige;Ryssland	 2
-Sverige;Storbritannien	 2
-Uppland;Uppsala län	 2
-Åland	 1
-Älvsborgs län;Västergötland	 1
-Amerika (kontinent);Västindien	 1
-Bägge Sicilierna	 1
-Dalarna;Sverige	 1
-Dalarnas län;Dalarnas län	 1
-Dalsland;Västergötland;Älvsborgs län	 1
-Europa	 1
-Finland;Åbo och Björneborgs län	 1
-Finland;Finland;Finland;Finland;Finland;Finland	 1
-Finland;Nyland;Tavastland	 1
-Finland;Österbotten;Finland;Österbotten	 1
-Frankrike	 1
-Halland	 1
-Halland;Sverige	 1
-Halland;Sverige;Halland;Sverige	 1
-Hälsingland	 1
-Hamburg;Königsberg;Gdansk	 1
-Ingermanland;Nyen	 1
-Japan	 1
-Japan.	 1
-Jönköpings och Kronobergs län;Jönköpings och Kronobergs län;Jönköpings och Kronobergs län	 1
-Karlstads län;Värmland	 1
-Konstantinopel	 1
-Lappland;Lappland;Lappland;Lappland;Lappland;Sverige;Sverige;Sverige;Sverige	 1
-Levanten	 1
-Lund	 1
-Mälaren;Östersjön	 1
-Malmö	 1
-Malmöhus län;Skåne;Malmöhus län;Skåne	 1
-Medelpad;Sundsvall;Medelpad;Medelpad;Sundsvall	 1
-Nederländerna;Nederländerna	 1
-Norge;Danmark	 1
-Örebro län;Örebro län	 1
-Östergötland;Sverige	 1
-Österrike;Wien	 1
-Östersjön	 1
-Skåne	 1
-Skåne;Skaraborgs län;Västergötland;Skåne;Skaraborgs län;Västergötland	 1
-Småland;Kalmar;Småland;Kalmar;Småland	 1
-Storbritannien	 1
-Sverige;Bohuslän;Sverige;Bohuslän	 1
-Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän	 1
-Sverige;Danmark	 1
-Sverige;England;Sverige;England	 1
-Sverige;Lappland	 1
-Sverige;Lappland;Sverige;Västerbotten;Sverige;Norrbotten	 1
-Sverige;Norge	 1
-Sverige;Norrbotten	 1
-Sverige;Norrbotten;Sverige;Norrbotten;Sverige;Norrbotten	 1
-Sverige;Polen	 1
-Sverige;Stockholm	 1
-Sverige;Stockholm;Stockholm	 1
-Sverige;Sverige;Örebro;Sverige	 1
-Sverige;Sverige;sverige	 1
-Sverige;Sverige;Sverige;sao;Sverige	 1
-Sverige;Sverige;Sverige;Sverige;Sverige;Sverige;Sverige	 1
-Sverige;Uppland;Södermanland;Närke;Västmanland;Dalarna;Östergötland;Småland;Öland;Gotland;Västergötland;Värmland;Bohuslän;Halland;Blekinge;Gästrikland;Hälsingland;Medelpad;Jämtland;Härjedalen;Ångermanland;Västerbotten;Lappland;Finland	 1
-Sverige;Västmanland	 1
-Sweden	 1
-Västergötland;Mariestads län	 1
-Västergötland;Vedens härad	 1
-Västernorrlands län;Norrland;Västernorrlands län;Norrland	 1
-Wismar;Wismar;Wismar;Wismar	 1
+Total count: 	4348
+Sverige	1388
+Sverige;Sverige	 601
+Sverige;Sverige;Sverige	 279
+Stockholm	 189
+Finland	  71
+Finland;Sverige	  58
+Sverige;Bohuslän	  50
+Sverige;Sverige;Sverige;Sverige	  49
+Göteborg	  34
+Finland;Finland	  29
+Sverige;Finland	  27
+Stockholm;Stockholm	  21
+Frankrike	  20
+Sverige;Danmark	  19
+Finland;Finland;Finland	  18
+Sverige;Stockholm	  16
+Skåne	  14
+Svenska Pommern	  14
+Sverige;Norge	  14
+Sverige;Ryssland	  14
+Polen	  12
+Sverige;Sverige;Sverige;Sverige;Sverige	  12
+Västergötland	  12
+Sverige;Bohuslän;Sverige;Bohuslän	  11
+Uppland;Uppsala län	  11
+Ryssland	  10
+Tyskland	  10
+Dalarna	   9
+Danmark	   9
+Finland;Finland;Finland;Finland	   9
+Östergötland;Sverige	   9
+Sverige;Sverige;Sverige;Sverige;Sverige;Sverige	   9
+Dalarna;Sverige	   8
+Småland	   8
+Stockholm;Sverige	   8
+Svenska Pommern;Svenska Pommern	   8
+Sverige;Göteborgs stift	   8
+Sverige;Polen	   8
+Sverige;Storbritannien	   8
+Frankrike;Sverige	   7
+Göteborg;Göteborg;Göteborg	   7
+Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän	   7
+Sverige;Lappland	   7
+Finland;Österbotten	   6
+Finland;Sverige;Finland;Sverige	   6
+Halland	   6
+Japan	   6
+Skåne;Skåne	   6
+Svenska Pommern;Svenska Pommern;Svenska Pommern;Svenska Pommern	   6
+Sverige;Blekinge	   6
+Sverige;Norrbotten	   6
+Sverige;Sachsen	   6
+sverige;Sverige;Sverige	   6
+Sverige;sverige;Sverige	   6
+Sweden.	   6
+Uppsala	   6
+Förenta staterna	   5
+Italien	   5
+Karlskrona	   5
+Karlstads län;Värmland	   5
+Malmö	   5
+Örebro län;Närke	   5
+Östergötland	   5
+Östergötland;Östergötland;Östergötland	   5
+Ryssland;Ryssland	   5
+Skåne;Skåne;Skåne	   5
+Storbritannien	   5
+sverige	   5
+Sverige;Danmark;Sverige;Danmark	   5
+Sverige;Norrbotten;Sverige;Norrbotten;Sverige;Norrbotten	   5
+Sverige;Skåne;Sverige;Skåne	   5
+sverige;Sverige	   5
+Sverige;sverige	   5
+Sverige;Sverige;sverige	   5
+Västmanland	   5
+Blekinge	   4
+Brittiska öarna	   4
+Gävle	   4
+Göteborg;Göteborg	   4
+Gotland	   4
+Gripsholms län;Gripsholms län;Gripsholms län;Eskilstuna län;Eskilstuna län;Eskilstuna län	   4
+Jönköpings och Kronobergs län;Jönköpings och Kronobergs län;Jönköpings och Kronobergs län	   4
+Kopparbergs län;Dalarna	   4
+Mälaren;Östersjön	   4
+Nederländerna	   4
+Nederländerna;Nederländerna	   4
+Norden	   4
+Norge;Norge	   4
+Norrland;Sverige	   4
+Preussen	   4
+Scandinavia.	   4
+Skaraborgs län;Skaraborgs län;Skaraborgs län	   4
+Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige	   4
+Sverige;Danmark;Norge	   4
+Sverige;Frankrike	   4
+Sverige;Nederländerna;Sverige;Nederländerna	   4
+Sverige;Norrland	   4
+Sverige;Preussen;Sverige;Preussen	   4
+Sverige;Ryssland;Sverige;Ryssland	   4
+Sverige;Södermanland	   4
+Sverige;Uppsala	   4
+Sverige;Västmanland	   4
+Uppland	   4
+Västerbotten;Sverige	   4
+Västerbotten;Västerbotten;Västerbotten	   4
+Ångermanland	   3
+Barbareskstaterna	   3
+Brittiska öarna;Brittiska öarna	   3
+Finland;Åbo	   3
+Finland;Åbo och Björneborgs län	   3
+Finland;Åland	   3
+Finland;Finland;Finland;Finland;Finland	   3
+Finland;Finland;Sverige	   3
+Finland;Finland;Sverige;Sverige	   3
+Finland;Ryssland	   3
+Halland;Sverige;Halland;Sverige	   3
+Hälsingland;Hälsingland;Hälsingland;Gästrikland;Gästrikland;Gästrikland	   3
+Ingermanland	   3
+Jämtland	   3
+Jönköping	   3
+Kalmar län;Öland	   3
+Kopparbergs län;Kopparbergs län	   3
+Levanten	   3
+Livland;Livland;Livland;Livland	   3
+Nederländerna;Brandenburg	   3
+Nordkalotten	   3
+Nyköpings län;Södermanland;Nyköpings län;Södermanland;Nyköpings län;Södermanland	   3
+Öresund;Sverige;Danmark	   3
+Österbotten;Finland;Sverige	   3
+Portugal	   3
+Romerska riket	   3
+Skåne;Kristianstad	   3
+Skåne;Skåne;Skåne;Skåne;Skåne	   3
+Skåne;Sverige	   3
+Skaraborgs län;Skaraborgs län	   3
+Skaraborgs län;Sverige	   3
+Södermanland;Södermanland;Södermanland;Södermanland	   3
+Spanien;Sverige	   3
+Stockholm;Stockholm;Stockholm	   3
+Svenska Pommern;Svenska Pommern;Svenska Pommern	   3
+Sverige;Bohuslän;Sverige;Bohuslän;Sverige	   3
+Sverige;Förenta staterna;Sverige;Förenta staterna;Sverige;Förenta staterna	   3
+Sverige;Ryssland;Sverige;Ryssland;Sverige;Ryssland	   3
+Sverige;Stockholm;Sverige	   3
+Sverige;Tysk-romerska riket	   3
+Sweden	   3
+Tyskland;Polen;Baltikum	   3
+Tyskland;Sverige	   3
+Uppsala län;Uppland	   3
+Värmland	   3
+Västafrika	   3
+Västergötland;Västergötland	   3
+Västernorrlands län;Norrland;Västernorrlands län;Norrland	   3
+Västmanland;Västerås	   3
+Västmanland;Västmanland;Västmanland	   3
+Wismar;Wismar;Wismar;Wismar	   3
+1700-tal	   2
+Afrika	   2
+Åland	   2
+Åland;Kastelholm	   2
+Älvsborgs län;Västergötland	   2
+Amerika	   2
+Amerika (kontinent);Afrika;Västindien	   2
+Amerika (kontinent);Västindien	   2
+Åtvidaberg;Sverige	   2
+Blekinge;Blekinge;Blekinge	   2
+Borås	   2
+Brittiska öarna;Brittiska öarna;Brittiska öarna	   2
+Dalarna;Smedjebacken;Norrbärke	   2
+Danmark;Holstein-Gottorp	   2
+Danmark;Sverige	   2
+Estland	   2
+Estland;Ingermanland	   2
+Europa	   2
+Finland;Åbo och Björneborgs län;Finland;Åbo och Björneborgs län;Finland;Åbo och Björneborgs län	   2
+Finland;Finland;Finland;Finland;Finland;Finland;Finland	   2
+Finland;Finland;Sverige;Finland	   2
+Finland;Lappland	   2
+Finland;Österbotten;Finland;Österbotten	   2
+Finland;Sverige;Finland;Sverige;Finland;Sverige	   2
+Finland;Viborgs län;Finland;Viborgs län;Finland;Viborgs län	   2
+Förenta staterna;Västindien	   2
+Frankrike;Frankrike;Frankrike	   2
+Gotland;Gotland	   2
+Grekland;Grekland	   2
+Grönland;Davis sund	   2
+Hälsingland;Sverige	   2
+Italien;Bägge Sicilierna;Sicilien	   2
+Italien;Piemonte;Italien;Piemonte	   2
+Kalmar län;Kalmar län;Kalmar län	   2
+Kalmar län;Småland	   2
+Karlskrona;Karlskrona;Karlskrona;Karlskrona	   2
+Karlstad	   2
+Kopparbergs län	   2
+Kopparbergs län;Dalarna;Kopparbergs län;Dalarna	   2
+Kopparbergs län;Falun;Dalarna	   2
+Kungsholmen;Norrmalm;Kammakaregatan	   2
+Kungsörs län;Västmanland;Kungsörs län;Västmanland;Kungsörs län;Västmanland	   2
+Lantbruk;Sverige	   2
+Lappland;Lappland	   2
+Levanten;Levanten	   2
+Lund	   2
+Närke;Närke;Närke	   2
+Nordkalotten;Sverige;Lappland;Norge;Finnmark;Norge;Troms	   2
+Norge	   2
+Norge;Danmark	   2
+Norrbotten	   2
+Norrköping	   2
+Norrland	   2
+Norrland;Sverige;Gävleborg;Sverige	   2
+Öland;Öland;Öland;Kalmar	   2
+Örebro län;Närke;Örebro län;Närke	   2
+Örebro län;Örebro län	   2
+Östergötland;Norrköping	   2
+Östergötlands län;Östergötland;Östergötlands län;Östergötland	   2
+Riga;Riga;Riga	   2
+Riga;Riga;Riga;Riga;Riga;Riga	   2
+Ryssland;Sverige	   2
+Saint-Barthélemy;Saint-Barthélemy	   2
+Salbergs län;Västmanland;Salbergs län;Västmanland;Salbergs län;Västmanland	   2
+Skåne;Blekinge	   2
+Skänninge	   2
+Skaraborgs län;Västergötland;Skaraborgs län;Västergötland	   2
+Småland;Kalmar län	   2
+Småland;Kalmar;Småland;Kalmar;Småland	   2
+Södermanland	   2
+Södermanland;Eskilstuna;Södermanland;Eskilstuna;Södermanland;Eskilstuna;Södermanland;Eskilstuna	   2
+Södermanland;Södermanland	   2
+Södermanlands län;Södermanland;Södermanlands län;Södermanland	   2
+Spanien	   2
+Stockholm;Finland	   2
+Stockholm;Finland;Åbo	   2
+Stockholm;Göteborg	   2
+Stockholm;Stockholm;Stockholm;Stockholm	   2
+Stockholm;Stockholm;Stockholm;Sverige;Stockholm;Stockholm;Stockholm	   2
+Stockholms län;Uppland	   2
+Storbritannien;Storbritannien	   2
+Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän	   2
+Sverige;Danmark;Sverige;Danmark;Sverige;Danmark	   2
+Sverige;Finland;Sverige;Finland	   2
+Sverige;Frankrike;Sverige;Frankrike;Sverige;Frankrike	   2
+Sverige;Götaland	   2
+Sverige;Göteborg;Sverige;Göteborg	   2
+Sverige;Göteborg;Sverige;Göteborg;Sverige;Göteborg	   2
+Sverige;Gotland	   2
+Sverige;Norge;Sverige;Norge;Sverige;Norge	   2
+Sverige;Norrland;Sverige;Norrland	   2
+Sverige;Polen;Sverige;Brandenburg;Sverige;Tysk-romerska riket	   2
+Sverige;Ryssland;Finland	   2
+Sverige;Ryssland;Sverige;Ryssland;Sverige;Ryssland;Sverige;Ryssland	   2
+Sverige;Ryssland;Sverige;Ryssland;Sverige;Ryssland;Sverige;Ryssland;Sverige;Ryssland	   2
+Sverige;Södermanland;Sverige;Södermanland	   2
+Sverige;Stockholm;Sverige;Stockholm	   2
+Sverige;Storbritannien;Sverige;Storbritannien	   2
+Sverige;Sverige;sao	   2
+Sverige;Sverige;Sverige;Sverige;Sverige;Sverige;Sverige	   2
+Sweden;Uppsala.	   2
+Sydamerika	   2
+Tyskland;Holland	   2
+Uppland;Sverige	   2
+Uppland;Uppland	   2
+Uppsala län;Uppland;Uppsala län;Uppland	   2
+Uppsala;Sverige	   2
+Väsby län;Västmanland;Väsby län;Västmanland;Väsby län;Västmanland	   2
+Västerås län;Västmanland;Västerås län;Västmanland;Västerås län;Västmanland	   2
+Västerås;Västerås	   2
+Västergötland;Skaraborgs län	   2
+Västergötland;Småland	   2
+Västergötland;Västergötland;Västergötland	   2
+Västergötland;Västergötland;Västergötland;Västergötland	   2
+Västergötland;Vedens härad	   2
+Västernorrlands län;Jämtland;Västernorrlands län;Jämtland;Västernorrlands län;Jämtland;Västernorrlands län;Jämtland	   2
+Västindien	   2
+Västmanland;Västmanland	   2
+Ystad;Ystad	   2
+1700-talet;1700-talet	   1
+Afrika;Förenta staterna;Västindien	   1
+Åland;Åland	   1
+Alingsås	   1
+Alströmer, Clas	   1
+Älvsborgs län;Sverige;Älvsborgs län;Sverige;Älvsborgs län;Sverige;Dalsland;Sverige;Dalsland;Sverige;Dalsland	   1
+Älvsborgs län;Västergötland;Älvsborgs län;Dalsland;Älvsborgs län;Västergötland;Älvsborgs län;Dalsland	   1
+Ångermanland;Nätra;Bjästa	   1
+Ångermanland;Sverige	   1
+Ångermanland;Sverige;Ångermanland;Sverige	   1
+Antiken	   1
+Arabian Peninsula	   1
+Askersund	   1
+Åtvidaberg;Sverige;Åtvidaberg	   1
+Avesta;Sverige	   1
+Bägge Sicilierna	   1
+Barbareskstaterna;Algeriet	   1
+Barbareskstaterna;Levanten	   1
+Barbareskstaterna;Marocko	   1
+Barbareskstaterna;Neapel;Sicilien	   1
+Barbareskstaterna;Ottomanska riket	   1
+beredning	   1
+Blekinge län;1800-talet;Blekinge län;1800-talet;Blekinge;Blekinge	   1
+Blekinge län;Blekinge;Blekinge län;Blekinge	   1
+Blekinge;Blekinge	   1
+Blekinge;Karlskrona	   1
+Blekinge;Sverige	   1
+Blekinge;Sverige;Blekinge;Sverige;Blekinge;Sverige;Blekinge län	   1
+Bohuslän	   1
+Bohuslän;Sverige;Göteborg	   1
+Brasilien;Brasilien;Brasilien	   1
+Bremen-Verden;Bremen-Verden	   1
+Dalälven	   1
+Dalarna;Älvdalen	   1
+Dalarna;Dalarna;Dalarna	   1
+Dalarna;Kopparbergs län	   1
+Dalarna;Sverige;Dalarna	   1
+Dalarna;Sverige;Dalarna;sverige	   1
+Dalarna;Västmanland	   1
+Dalarnas län;Dalarna;Dalarnas län;Dalarna	   1
+Dalarnas län;Dalarnas län	   1
+Dalsland;Älvsborgs län	   1
+Dalsland;Sverige	   1
+Dalsland;Västergötland;Älvsborgs län	   1
+Danmark;Danmark	   1
+Danmark;Danmark;Danmark;Danmark	   1
+Danmark;Danmark;Danmark;Danmark;Danmark;Danmark;Danmark;Danmark;Danmark	   1
+Danmark;Sverige;Norge	   1
+Egypten;Arabiska halvön	   1
+ekonomiska förhållanden;Skaraborgs län;ekonomiska förhållanden;Skaraborgs län	   1
+Engeltofta;Sverige	   1
+England	   1
+England;England;England;England	   1
+Eskilstuna län;Södermanland;Eskilstuna län;Södermanland	   1
+Estland;Estland	   1
+Estland;Estland;Estland;Estland;Ingermanland;Ingermanland;Ingermanland;Ingermanland	   1
+Estland;Livland	   1
+Estland;Narva;Ryssland;Sankt Petersburg;Ingermanland	   1
+Europa;Sverige;Danmark;Tyskland	   1
+Finland;Åbo;Finland;Åbo	   1
+Finland;Birkaland;Kangasala	   1
+Finland;Finland;Finland;Finland;Finland;Finland	   1
+Finland;Finland;Finland;Sverige	   1
+Finland;Finland;Västra Finlands län	   1
+Finland;Gotland	   1
+Finland;Karelen;Finland;Karelen	   1
+Finland;Karelen;Finland;Karelen;Finland;Karelen	   1
+Finland;Kymmene län	   1
+Finland;Kymmenegårds län;Finland;Nyslott	   1
+Finland;Lovisa	   1
+Finland;Nådendal	   1
+Finland;Nyland;Finland;Nyland	   1
+Finland;Nyland;Kyrkslätt	   1
+Finland;Nyland;Tavastland	   1
+Finland;Nylands län	   1
+Finland;Nylands och Tavastehus län	   1
+Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län	   1
+Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län	   1
+Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län;Finland;Nylands och Tavastehus län	   1
+Finland;Österbotten;Västerbotten	   1
+Finland;Sankt Michel	   1
+Finland;Savolax	   1
+Finland;Savolax;Karelen;Finland	   1
+Finland;Södra Finlands län;Nyland	   1
+Finland;Södra Finlands län;Nyland;Finland;Södra Finlands län;Tavastehus	   1
+Finland;sverige	   1
+Finland;Sverige;Ryssland	   1
+Finland;Sverige;Sverige;Finland	   1
+Finland;Sverige;Sverige;Sverige	   1
+Finland;Sverige;Västerbotten	   1
+Finland;Tavastland;Nylands och Tavastehus län	   1
+Finland;Uleåborgs län;Finland;Uleåborgs län;Finland;Uleåborgs län	   1
+Finland;Uppland;Finland;Uppland	   1
+Finland;Vasa län;Finland;Vasa län	   1
+Finland;Vasa län;Finland;Vasa län;Finland;Vasa län	   1
+Finland;Västra Finlands län	   1
+Finland;Viborg	   1
+Finland;Viborgs län;Finland;Viborgs län;Finland;Viborgs län;Finland;Kymmenegårds län;Finland;Kymmenegårds län;Finland;Kymmenegårds län	   1
+Förenta staterna;New York (stat)	   1
+Framställning;Sverige;Sverige;Sveirge	   1
+France	   1
+France;Paris	   1
+Frankrike;Béziers;Frankrike;Korsika	   1
+Frankrike;Frankrike	   1
+Frankrike;Hamburg;Bremen;Lübeck;Frankrike;Hamburg;Bremen;Lübeck;Frankrike;Hamburg;Bremen;Lübeck	   1
+Frankrike;Paris;Frankrike;Paris;Frankrike;Paris;Frankrike;Paris	   1
+Gästrikland;Gävle;Gästrikland;Gävle	   1
+Gästrikland;Sverige;Sverige	   1
+Gävle;Gävle	   1
+Gävleborgs län;Gästrikland;Gävleborgs län;Hälsingland;Gävleborgs län;Gästrikland;Gävleborgs län;Hälsningland	   1
+Gävleborgs län;Hälsingland;Gävleborgs län;Hälsingland;Gävleborgs län;Hälsingland	   1
+Göteborg;Bohuslän	   1
+Göteborg;Göteborgs län;Bohuslän	   1
+Göteborg;Skåne	   1
+Göteborgs och Bohus län;Bohuslän;Göteborgs och Bohus län;Bohuslän;Göteborgs och Bohus län;Västergötland;Göteborgs och Bohus län;Västergötland	   1
+Göteborgs och Bohus län;Hallands län	   1
+Gotland;Gotland;Gotland	   1
+Gotland;Gotland;Gotland;Visby	   1
+Gotland;Sverige;Gotland;Sverige;Gotland;Sverige;Gotland;Sverige	   1
+Gotland;Visby	   1
+Gotlands län;Gotlands län;Gotlands län;Sverige	   1
+Greece	   1
+Gyllenstierna, Christina	   1
+Halland;Sverige	   1
+Halland;Sverige;Halland	   1
+Hallands län;Halland;Göteborgs och Bohus län;Bohuslän	   1
+Hälsingland	   1
+Hälsingland;Bollnäs	   1
+Hälsingland;Hälsingland	   1
+Hälsingland;Sverige;Hälsingland;Sverige	   1
+Hamburg	   1
+Hamburg;Königsberg;Gdansk	   1
+handel;Sverige	   1
+Handel;Sverige	   1
+Härjedalen;Sverige	   1
+Härjedalen;Sverige;Härjedalen;Sverige	   1
+Hernquist, Pehr	   1
+historia;Dalarna;Smedjebacken;Norrbärke	   1
+Honung	   1
+Indien	   1
+Ingermanland;Nyen	   1
+Ireland.	   1
+Italien;Parma	   1
+Italien;Piemonte	   1
+Italien;Venedig;Italien;Venedig	   1
+Italy;Rome.;Italien;Rom	   1
+Jämtland;Ångermanland;Medelpad;Hälsingland;Gästrikland	   1
+Jämtland;Härjedalen;Värmland	   1
+Jämtland;Jämtland;Jämtland;Jämtland	   1
+Jämtland;Jämtland;Jämtland;Jämtland;Sverige	   1
+Jämtland;Sverige	   1
+Japan.	   1
+Jönköping län;Småland;Värnamo;Finland;Kymmenegårds län;Savolax;Liebelitz	   1
+Jönköpings län	   1
+Jönköpings län;Småland;Jönköpings län;Småland	   1
+Kalmar	   1
+Kalmar län;Kalmar län;Kalmar län;Sverige	   1
+Kalmar län;Småland;Kalmar län;Småland;Kalmar län;Öland;Kalmar län;Öland	   1
+Karlskoga bergslag	   1
+Karlskrona;Blekinge	   1
+Karlskrona;Karlshamn	   1
+Karlstad;Karlstad	   1
+Karlstads län;Värmland;Karlstads län;Värmland;Karlstads län;Värmland	   1
+Kävlinge;Skåne;Skåne;Kävlinge	   1
+Kina	   1
+Knäred	   1
+Konstantinopel	   1
+Kopparbergs län;Dalarna;Kopparbergs län;Dalarna;Kopparbergs län;Dalarna;Kopparbergs län;Dalarna	   1
+Kopparbergs län;Kopparbergs län;Kopparbergs län;Kopparbergs län	   1
+Kristianstads län;Skåne	   1
+Kristianstads län;Skåne;Bjäre	   1
+Kristianstads län;Skåne;Kristianstads län;Skåne;Kristianstads län;Skåne	   1
+Kristinehamn	   1
+Kronobergs län	   1
+Kronobergs län;Småland;Kronobergs län;Småland	   1
+Kungsholmen	   1
+Landskrona	   1
+Lappland	   1
+Lappland;Lappland;Lappland	   1
+Lappland;Lappland;Lappland;Lappland;Lappland;Sverige;Sverige;Sverige;Sverige	   1
+Lappland;Sverige	   1
+Lappland;Sverige;Lappland	   1
+Lappland;Sverige;Lappland;Lappland;Sverige;Lappland;Sverige;Lappland	   1
+Lappland;Sverige;Lappland;Sverige	   1
+Levanten;Barbareskstaterna	   1
+Lilla Abborfors;Sverige;Ryssland;Finland	   1
+Litauen;Riga	   1
+Lübeck	   1
+Madeira	   1
+Madeira;Kanarieöarna	   1
+Mälaren	   1
+Malmö;Sverige	   1
+Malmöhus län;Kristianstads län;Kronobergs län;Skåne;Småland	   1
+Malmöhus län;Malmöhus län	   1
+Malmöhus län;Skåne	   1
+Malmöhus län;Skåne;Malmöhus län;Skåne	   1
+Malmöhus län;Skåne;Skåne	   1
+Marocko;Barbareskstaterna	   1
+Mecklenburg-Schwerin	   1
+Medelpad;Jämtland	   1
+Medelpad;Sundsvall;Medelpad;Medelpad;Sundsvall	   1
+Medelpad;Sverige	   1
+Mellanöstern	   1
+Middle East.	   1
+Närke;Örebro län	   1
+Närke;Värmland	   1
+Nederländerna;Sverige	   1
+Norden;Norden	   1
+Nordkalotten;Sverige;Norrbotten	   1
+Norge;Danmark;Schleswig-Holstein	   1
+Norge;Jämtland;Härjedalen;Jämtland;Härjedalen;Sverige	   1
+Norge;Norge;Norge	   1
+Norge;Ryssland;Norge;Ryssland	   1
+Norge;Sverige;Sverige	   1
+Norra ishavet	   1
+Norrbotten;Norrbottens län	   1
+Norrköping;Sverige	   1
+Norrland;Hälsingland	   1
+Norrland;Norrland	   1
+Norrland;Norrland;Norrland;Norrland	   1
+Norrland;Sverige;Norrland	   1
+Norrland;Sverige;Norrland;Sverige	   1
+Norrland;Västerbottens län;Norrland;Västerbottens län	   1
+Norway.	   1
+Nyköping;Sverige	   1
+Nyköpings län;Södermanland	   1
+Nyköpings län;Södermanland;Nyköpings län;Södermanland;Nyköpings län;Södermanland;Nyköpings län;Södermanland	   1
+Nyland;Finland;Tavastehus;Finland;Sverige	   1
+Oceanien	   1
+Öland	   1
+Öland;Böda;Gotland;Klinte	   1
+Öland;Öland;Öland;Öland	   1
+Örebro län;Fellingsbro;Örebro län;Fellingsbro;Örebro län;Fellingsbro	   1
+Örebro län;Närke;Örebro län;Närke;Örebro län;Närke;Örebro län;Västmanland;Örebro län;Västmanland;Örebro län;Västmanland	   1
+Örebro län;Närke;Värmlands län;Värmland	   1
+Örebro län;Örebro län;Örebro län;Närke;Örebro län;Närke	   1
+Örebro;Örebro;Örebro	   1
+Öresund	   1
+Orienten	   1
+Orust;Sverige;Tjörn;Sverige	   1
+Osmanska riket	   1
+Osmanska riket;Konstantinopel	   1
+Östasien	   1
+Österbotten;Finland;Kajanaland;Kajana	   1
+Östergötland;Blekinge	   1
+Östergötland;Linköping	   1
+Östergötland;Östergötland	   1
+Östergötland;Östergötland;Östergötland;Östergötland	   1
+Östergötland;Sverige;Östergötland;Sverige	   1
+Östergötland;Sverige;Sverige	   1
+Östergötland;Vadstena län	   1
+Österrike;Wien	   1
+Östersjön	   1
+Östersjön;Nordsjön	   1
+Östersjön;Östersjön;Östersjön	   1
+Ostindiska öarna	   1
+Ostindiska öarna;Östasien	   1
+Oxenstierna, Axel	   1
+Paldamo;Finland;Sverige	   1
+Polen;Polen	   1
+Pomerania (Poland and Germany)	   1
+Pomerania (Poland and Germany).	   1
+Pommern;Mecklenburg	   1
+Portugal;Brasilien	   1
+Portugal;Portugal	   1
+Prag	   1
+Preussen;Svenska Pommern;Stettin	   1
+Riga;Riga;Riga;Riga;Riga	   1
+Rolin, Carl Adam	   1
+Romarriket	   1
+Romerska riket;Romerska riket;Romerska riket;Romerska riket;Sverige;Sverige;Sverige	   1
+Roslagen;Sverige	   1
+Ryssland;Finland	   1
+Ryssland;Holstein-Gottorp	   1
+Ryssland;Osmanska riket	   1
+Ryssland;Osmanska riket;Levanten	   1
+Ryssland;Ryssland;Sverige;Norge	   1
+Ryssland;Sverige;Ryssland	   1
+Salzburg	   1
+Sardinien;Mecklenburg-Schwerin;Hessen-Darmstadt;Modena;Bremen	   1
+Satakunta;Satakunta;Satakunta	   1
+Schweiz;Välskland	   1
+Skandinavien	   1
+Skåne;Kristianstads län	   1
+Skåne;Lund	   1
+Skåne;Malmöhus län	   1
+Skåne;Skåne;Skåne;Skåne	   1
+Skåne;Skaraborgs län;Västergötland;Skåne;Skaraborgs län;Västergötland	   1
+Skåne;Sverige;Skåne;Skåne;Sverige	   1
+Skåne;Sverige;Skåne;Sverige;Skåne;Sverige	   1
+Skåne;Sverige;Sverige	   1
+Skåne;Ystad	   1
+Skaraborg;Sverige	   1
+Skaraborgs län	   1
+Skaraborgs län;Skaraborgs län;Skaraborgs län;Skaraborgs län	   1
+Skaraborgs län;Sverige;Skaraborgs Län	   1
+Skaraborgs län;Sverige;Skaraborgs län;Skaraborgs län	   1
+Småland;Jönköpings län	   1
+Småland;Kronobergs län	   1
+Småland;Småland	   1
+Småland;Strömsrum	   1
+Småland;Sverige	   1
+Småland;Värend	   1
+Småland;Västergötland	   1
+Södermanland;Gripsholms län;Eskilstuna län;Södertörn	   1
+Södermanland;Nyköpings län	   1
+Södermanland;Södermanlands län	   1
+Södermanland;Stockholms län	   1
+Södermanland;Sverige	   1
+Södermanland;Sverige;Södermanland;Sverige	   1
+Södermanlands län;Nyköpings län	   1
+Södermanlands län;Södermanland	   1
+Södermanlands län;Södermanlands län;Södermanlands län;Södermanland;Södermanlands län;Södermanland	   1
+South Africa;Cape of Good Hope.	   1
+Spanien;Mallorca	   1
+Spanien;Portugal;Sachsen	   1
+Stockholm;Finland;Borgå	   1
+Stockholm;Frankrike;Spanien	   1
+Stockholm;Göteborg;Karlskrona	   1
+Stockholm;Göteborg;Sverige;Sverige	   1
+Stockholm;Stockholm;Stockholm;Stockholm;Stockholm	   1
+Stockholm;Stockholm;Sverige	   1
+Stockholm;Stockholms län	   1
+Stockholm;Sverige;Stockholm;Stockholm;Stockholm;Stockholm;Stockholm	   1
+Stockholm;Sverige;Stockholm;Sverige	   1
+Stockholm;Sverige;Sverige	   1
+Stockholms län;Drottningholm;Sverige	   1
+Stockholms län;Stockholm	   1
+Stockholms län;Stockholms län;Stockholms län;Stockholms län	   1
+Stockholms län;Uppland;Stockholms län;Uppland	   1
+Stockholms skärgård;Finland	   1
+Stockholms skärgård;Stockholm	   1
+Stockhom	   1
+Storbritannien;Storbritannien;Storbritannien	   1
+Storbritannien;Storbritannien;Sverige;Frankrike	   1
+Storbritannien;Storbritannien;Sverige;Ryssland	   1
+Strömsholms kanal;Sverige	   1
+Svarta havet;Sverige;Osmanska riket;Sverige;Osmanska riket	   1
+Svartsjö län;Svartsjö län;Svartsjö län;Svartsjö län	   1
+Svenska Pommern;Holstein-Gottorp	   1
+Svenska Pommern;Tyskland	   1
+SVerige	   1
+Sverige;Algeriet	   1
+Sverige;Algeriet;Sverige;Algeriet	   1
+Sverige;Älvsborgs län;Sverige;Älvsborgs län;Sverige;Älvsborgs län;Sverige;Dalsland;Sverige;Dalsland;Sverige;Dalsland	   1
+Sverige;Barbareskstaterna;Tunisien;Sverige;Barbareskstaterna;Tunisien;Sverige;Barbareskstaterna;Tunisien	   1
+Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän	   1
+Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige	   1
+Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Sverige	   1
+Sverige;Borås	   1
+Sverige;Brandenburg	   1
+Sverige;Bremen	   1
+Sverige;Dalarna;Dalarna;Sverige	   1
+Sverige;Dalarna;Sverige;Bergslagen	   1
+Sverige;Dalsland;Värmland;Norge	   1
+Sverige;England;Sverige;England	   1
+Sverige;Finland;Finland;Sverige	   1
+Sverige;Finland;Ryssland	   1
+Sverige;Finland;Ryssland;Sverige;Finland;Ryssland;Sverige;Finland;Ryssland;Sverige;Finland;Ryssland	   1
+Sverige;Finland;Sverige	   1
+Sverige;Finland;Sverige;Finland;Österbotten	   1
+Sverige;Finland;Sverige;Finland;Ryssland;Ryssland	   1
+Sverige;Finland;Sverige;Finland;Sverige;Ryssland	   1
+Sverige;Förenta staterna	   1
+Sverige;Förenta staterna;Sverige;Förenta staterna	   1
+Sverige;Förenta staterna;Sverige;Förenta staterna;Sverige;Förenta staterna;Sverige;Förenta staterna	   1
+Sverige;Frankrike;Sverige;Frankrike;Sverige;Frankrike;Sverige;Frankrike	   1
+Sverige;Gästrikland;Sverige;Gästrikland	   1
+Sverige;Göteborg;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän	   1
+Sverige;Göteborg;Sverige;Göteborg;Sverige;Göteborg;Sverige;Göteborg	   1
+Sverige;Göteborg;Sverige;Skåne;Landskrona;Svenska Pommern;Stralsund	   1
+Sverige;Hälsingland	   1
+Sverige;Honung	   1
+Sverige;Italien;Bägge Sicilierna	   1
+Sverige;Italien;Genua;Italien;Genua	   1
+Sverige;Kalmar län;Öland	   1
+Sverige;Karlstads län;Sverige;Karlstads län;Sverige;Karlstads län;Sverige;Karlstads län;Sverige;Karlstads län	   1
+Sverige;Lappland;Norge;Finnmark	   1
+Sverige;Lappland;Norge;Nordland;Norge;Finnmark	   1
+Sverige;Lappland;Sverige;Lappland	   1
+Sverige;Lappland;Sverige;Västerbotten;Sverige;Norrbotten	   1
+Sverige;Libyen;Sverige;Libyen;Sverige;Libyen;Sverige;Libyen	   1
+Sverige;Linköping;Sverige;Linköping	   1
+Sverige;Lund	   1
+Sverige;Lund;Sverige;Lund	   1
+Sverige;Mecklenburg-Schwerin	   1
+Sverige;Närke;Västmanland;Dalarna	   1
+Sverige;Nederländerna	   1
+Sverige;Nordsjön;Göteborgs och Bohus län	   1
+Sverige;Norge;Finland;Ingermanland	   1
+Sverige;Norge;Strömstad	   1
+Sverige;Norge;Sverige;Danmark	   1
+Sverige;Norge;Sverige;Norge	   1
+Sverige;Norge;Sverige;Sverige	   1
+Sverige;Norrbotten;Finland;Lappland	   1
+Sverige;Norrbotten;Norrbotten;Sverige;Sverige;Norrbotten	   1
+Sverige;Norrköping;Sverige;Norrköping	   1
+Sverige;Öland;Sverige;Gotland	   1
+Sverige;Örebro län	   1
+Sverige;Osmanska riket	   1
+Sverige;Osmanska riket;Sverige;Osmanska riket	   1
+Sverige;Österbotten;Finland;Finland;Österbotten	   1
+Sverige;Östergötland	   1
+Sverige;Östergötland;Omberg	   1
+Sverige;Preussen	   1
+Sverige;Preussen;Svenska Pommern	   1
+Sverige;Ryssland;Danmark;Sverige;Ryssland;Danmark;Sverige;Ryssland;Danmark	   1
+Sverige;Ryssland;Finland;Finland	   1
+Sverige;Ryssland;Finland;Sverige;Ryssland;Finland	   1
+Sverige;Ryssland;Finland;Sverige;Ryssland;Finland;Sverige;Ryssland;Finland	   1
+Sverige;Ryssland;Ryssland	   1
+Sverige;Ryssland;Storbritannien;Sverige;Ryssland;Storbritannien;Sverige;Ryssland;Storbritannien	   1
+Sverige;Ryssland;Sverige	   1
+Sverige;Ryssland;Sverige;Polen	   1
+Sverige;Ryssland;Sverige;Preussen;Sverige;Österrike	   1
+Sverige;Sachsen;Polen;Sachsen	   1
+Sverige;Schleswig-Holstein	   1
+Sverige;Skåne	   1
+Sverige;Skåne;Sverige;Blekinge	   1
+Sverige;Skåne;Sverige;Skåne;Svergie;Skåne;Sverige;Skåne	   1
+Sverige;Skåne;Sverige;Skåne;Sverige;Skåne	   1
+Sverige;Skokloster	   1
+Sverige;Småland	   1
+Sverige;Småland;Sverige;Småland	   1
+Sverige;Småland;Visingsö	   1
+Sverige;Stockholm;1700-talet;Sverige;Stockholm;1700-talet	   1
+Sverige;Stockholm;Stockholm	   1
+Sverige;Stockholm;Sverige;Södermanland	   1
+Sverige;Stockholms län;Sverige;Uppland	   1
+Sverige;Storbritannien;Preussen	   1
+Sverige;Storbritannien;Sverige;Storbritannien;Sverige;Storbritannien	   1
+Sverige;Strängnäs	   1
+Sverige;Svealand	   1
+Sverige;Svenska Pommern;Wismar	   1
+Sverige;Sverige;Bohuslän;Sverige;Bohuslän;Sverige;Bohuslän	   1
+Sverige;Sverige;Juridik;Sverige	   1
+Sverige;Sverige;Lappland	   1
+Sverige;Sverige;Närke	   1
+Sverige;Sverige;Närke;Sverige	   1
+Sverige;Sverige;Norrland	   1
+Sverige;Sverige;Nötkreatur;Sverige	   1
+Sverige;Sverige;Örebro;sverige	   1
+Sverige;Sverige;Örebro;Sverige	   1
+Sverige;Sverige;Sädesslag;Sverige	   1
+Sverige;Sverige;Sevrige	   1
+Sverige;Sverige;Spannmål	   1
+Sverige;Sverige;Stockholm;Sverige	   1
+Sverige;Sverige;Sverige;Handel	   1
+Sverige;Sverige;Sverige;Jämtland;Jämtland;Jämtland;Jämtland;Jämtland	   1
+Sverige;Sverige;Sverige;sao;Sverige	   1
+Sverige;Sverige;sverige;Sverige	   1
+Sverige;Sverige;Sverige;Sverige;Sverige;Skåne	   1
+Sverige;Sverige;Sverige;Sverige;Sverige;Sverige;Sverige;Sverige	   1
+Sverige;Sverige;Sverige;Sverige;Sverige;Sverige;Sverige;Sverige;Sverige	   1
+Sverige;Sverige;Värmland	   1
+Sverige;Sverige;Värmland;Sverige	   1
+Sverige;Sverige;Västernorrlands län;Medelpad;Västernorrlands län;Ångermanland	   1
+Sverige;Turkiet;Osmanska riket;Sverige;Turkiet;Osmanska riket	   1
+Sverige;Tysk-romerska riket;Schlesien;Schlesien	   1
+Sverige;Tyskland	   1
+Sverige;Uppland	   1
+Sverige;Uppland;Södermanland;Närke;Västmanland;Dalarna;Östergötland;Småland;Öland;Gotland;Västergötland;Värmland;Bohuslän;Halland;Blekinge;Gästrikland;Hälsingland;Medelpad;Jämtland;Härjedalen;Ångermanland;Västerbotten;Lappland;Finland	   1
+Sverige;Uppsala län;Sverige;Stockholms län	   1
+Sverige;Värmland;Dalsland	   1
+Sverige;Värmland;Örebro län	   1
+Sverige;Värmland;Sverige	   1
+Sverige;Värmland;Sverige;Värmland	   1
+Sverige;Västerås	   1
+Sverige;Västerbotten	   1
+Sverige;Västerbotten;Västerbotten;Sverige	   1
+Sverige;Västergötland;Sverige;Bohuslän	   1
+Sverige;Västergötland;Sverige;Bohuslän;Västra götaland;sverige;Bohuslän;Sverige	   1
+Sverige;Västmanland;Sverige;Dalarna	   1
+Sverige;Västmanland;Sverige;Västmanland	   1
+Sweden;Lund	   1
+Sweden;Stockholm	   1
+Tilas, Daniel	   1
+tillverkning	   1
+Tyskland;Tyskland	   1
+Tyskland;Tyskland;Tyskland	   1
+Ungern	   1
+Ungern;Östersjön	   1
+Uppland;Lövstaholm	   1
+Uppland;Södermanland	   1
+Upplands län;Sverige;Uppland;Uppsala län;Sverige;Sverige	   1
+Uppsala län	   1
+Uppsala län;Uppsala	   1
+Uppsala;Stockholm;Uppsala;Stockholm	   1
+Uppsala;Sverige;Uppsala;Sverige	   1
+Uppsala;Uppsala län	   1
+Vänern	   1
+Vänern;Vänern	   1
+Värmland;Sverige	   1
+Värmland;Sverige;Norge	   1
+Värmland;Värmland	   1
+Värmland;Värmland;Värmland	   1
+Värmlands län;Värmland	   1
+Värmlands län;Värmlands län;Värmlands län;Sverige	   1
+Västerås	   1
+Västerbotten	   1
+Västerbotten;Västerbotten	   1
+Västerbotten;Västerbotten;Västerbotten;Västerbotten	   1
+Västerbottens län	   1
+Västerbottens län;Västerbotten	   1
+Västergötland;Älsvborgs län	   1
+Västergötland;Borås;Västergötland;Västergötland;Västergötland	   1
+Västergötland;Götlunda	   1
+Västergötland;Mariestads län	   1
+Västergötland;Skara	   1
+Västergötland;Sverige	   1
+Västergötland;Sverige;Sverige;Sverige	   1
+Västernorrlands län	   1
+Västernorrlands län;Ångermanland	   1
+Västernorrlands län;Gävleborgs län	   1
+Västernorrlands län;Hälsingland;Sverige	   1
+Västernorrlands län;Medelpad	   1
+Västernorrlands län;Medelpad;Västernorrlands län;Ångermanland;Västernorrlands län;Medelpad;Västernorrlands län;Ångermanland;Sverige;Norrland;Sverige	   1
+Västernorrlands län;Västernorrlands län	   1
+Västernorrlands län;Västernorrlands län;Västernorrlands län	   1
+Västindien;Förenta staterna	   1
+Västindien;Västindien	   1
+Västkusten	   1
+Västmanland;Sverige;Östergötland;Sverige	   1
+Västmanland;Sverige;Västmanland;Sverige	   1
+Västmanland;Västmanland;Västmanland;Norberg	   1
+Västmanland;Västmanlands län	   1
+Västmanlands län;Västmanland;Västmanlands län;Västmanland	   1
+Västmanlands;Västmanlands;Västmanlands;Västmanlands	   1
+Vaxholm	   1
+West Indies.	   1
+Wismar;Svenska Pommern;Bremen-Verden	   1
+Wismar;Wismar;Wismar;Wismar;Wismar	   1

@@ -1,143 +1,830 @@
 Name	Count
-Total count: 	1036
-Sverige.	631
-Sverige.;Sverige.	 52
-Berling	 23
-Frenckell	 15
-Mattsson	 15
-Edman	 14
-Wankijff	 11
-Merckell	 10
-Nordström	 10
-Werner	 10
-Keyser	  9
-Olofsson Helsing	  7
-Brockenius	  6
-Hansson	  6
-Hesselberg, Peter	  6
-Horrn	  6
-Meurer	  6
-Reusner	  6
-Carlbohm	  5
-Kempe	  5
-Curio	  4
-Deleen	  4
-Grefing	  4
-Günther	  4
-Kungl. tryckeriet	  4
-Nyström	  4
-Salvius	  4
-Sohm	  4
-Sverige.;Sverige.;Sverige.	  4
-Winter	  4
-Billingsley	  3
-Holmberg	  3
-Lindh	  3
-Stenhammar et Palmblad	  3
-Wall	  3
-Wallius	  3
-Axmar	  2
-Biörkman	  2
-Christofer Reusner	  2
-Collin	  2
-Eckhardt	  2
-Elzevier	  2
-Enaeus	  2
-Goldenau	  2
-Haberegger	  2
-Hesselberg	  2
-Kämpe	  2
-Kongl. Finska boktryckeriet	  2
-Kungl. Tryckeriet	  2
-Lauringer	  2
-Rönberg	  2
-Selow	  2
-Smitt	  2
-Wahlström	  2
-Wald	  2
-Zeipel et Palmblad	  2
-Amiralitetstryckeriet : Svinhufvud	  1
-Berg	  1
-Brodin	  1
-Burchardi	  1
-Curt	  1
-Decreaux	  1
-Devall	  1
-Ekmansson	  1
-Elmén;Granberg	  1
-Eriksson Wald;Wallius	  1
-Exegetiska och filantropiska sällskapet i Stockholm	  1
-Eyres	  1
-Förstern	  1
-Garcia Morràs	  1
-Gleditsch	  1
-Grahn	  1
-Grefingska tryckeriet	  1
-Gutterwitz	  1
-Haberegger, Vitus	  1
-Hagen	  1
-Hallervord	  1
-Hammarin	  1
-Hansson Wall	  1
-Hansson Wall;Keyser	  1
-Hasselrot, E	  1
-Henrik Keyser	  1
-Hilscher	  1
-Höjer	  1
-Holmberg;Ekmanson	  1
-Hörberg	  1
-Hultman	  1
-Jansonius	  1
-Janssonius	  1
-Kankel	  1
-Kiesewetter;Grefing	  1
-Koch	  1
-Kongl. Amiralitets boktryckeriet (1726-1821)	  1
-Kumblin	  1
-Kumblin, Lars	  1
-Kungl. biblioteket	  1
-Kungl. Vetenskapsakademien	  1
-Lange	  1
-Lazarus	  1
-Lönbohm	  1
-Londicer	  1
-Lundblad	  1
-Marquard	  1
-Matthiæ	  1
-Möller	  1
-Muller	  1
-Nestius	  1
-Norberg	  1
-Olofsson Enaeus	  1
-Ordenstryckeriet;Pfeiffer	  1
-Pauli	  1
-Paulinus Gothus;Barkenius	  1
-Peter van Selow	  1
-Pfeiffer	  1
-Rahm	  1
-Röpke	  1
-Röse	  1
-Schönnerstädt	  1
-Schreuder;Mortier	  1
-Schultze;Görlin	  1
-Schultze;Janssonius van Waesberge	  1
-Schultzius	  1
-Schürer	  1
-Stolpe	  1
-Sverige.;Gutterwitz	  1
-Sverige.;Hesselberg, Peter	  1
-Sverige.;Königliche Regierungs-Buchdruckerei	  1
-Sverige.;Mattson	  1
-Sverige.;Sverige.;Momma, Peter	  1
-Sverige.;Sverige.;Werner, Johan Heinrich	  1
-Sverige.;Wankijff	  1
-Sverige.;Werner	  1
-Swanholm	  1
-Swederus;Carlbohm	  1
-Typographia regia	  1
-Walldén	  1
-Wankijff;Kungl. Tryckeriet	  1
-Wankijff;Sverige.	  1
-Wennberg och Nordström	  1
-Zeipel;Palmblad	  1
-Zetterberg	  1
+Total count: 	19701
+Sverige.	11579
+Sverige.;Sverige.	 1077
+Edman	  470
+Berling	  441
+Mattsson	  324
+Werner	  264
+Frenckell	  223
+Keyser	  216
+Meurer	  179
+Wankijff	  178
+Salvius	  162
+Nordström	  150
+Horrn	  128
+Reusner	  119
+Olofsson Helsing	  118
+Hansson	  116
+Carlbohm	  114
+Merckell	  102
+Sverige.;Sverige.;Sverige.	   87
+Kempe	   85
+Höjer	   68
+Günther	   66
+Kongl. Finska boktryckeriet	   66
+Biörkman	   62
+Hesselberg	   59
+Wall	   59
+Brockenius	   58
+Grefing	   58
+Lindh	   58
+Hesselberg, Peter	   57
+Kungl. Tryckeriet	   57
+Deleen	   54
+Wald	   54
+Curio	   52
+Winter	   48
+Lange	   45
+Haberegger	   43
+Eberdt	   41
+Holmberg	   40
+Kämpe	   38
+Gutterwitz	   37
+Norberg	   36
+Nyström	   35
+Decreaux	   34
+Lauringer	   34
+Burchardi	   31
+Grefwe	   30
+Wallius	   30
+Janssonius	   28
+Kungl. tryckeriet	   28
+Marquard	   28
+Zeipel et Palmblad	   28
+Zetterberg	   28
+Lundblad	   27
+Grefingska tryckeriet	   26
+Hagen	   26
+Stenhammar et Palmblad	   26
+Stolpe	   26
+Sverige.;Wankijff	   24
+Eckhardt	   23
+Billingsley	   22
+Sverige.;Werner	   21
+Björckegren	   19
+Möller	   18
+Hultman	   17
+Kiesewetter	   17
+Nyström och Stolpe (1759-1766)	   17
+Selow	   17
+Sverige.;Meurer	   17
+Wahlström	   17
+Wankijff;Sverige.;Sverige.	   17
+Gercken	   16
+Kongl. Svenska landtbruks-academien	   16
+Kumblin	   16
+Schneider	   16
+Christofer Reusner	   15
+Deleen;Forsgren	   15
+Hantsch	   15
+Pauli	   15
+Röse	   15
+Fougt	   14
+Rahm	   14
+Elmén;Granberg	   13
+Hæggström	   13
+Rönberg	   13
+Enaeus	   12
+Gadelius	   12
+Grahn	   12
+Wennberg	   12
+Axmar	   11
+Regiae Academiae typographi	   11
+Sundqvist	   11
+Sverige.;Keyser	   11
+Sverige.;Werner, Johan Heinrich	   11
+Wankijff;Sverige.	   11
+Broocman	   10
+Falck	   10
+Londicer	   10
+Lundström;Westberg	   10
+Sohm	   10
+Blume	    9
+Eckstein	    9
+Goldenau	    9
+Keyser;Schroderus	    9
+Möllemann	    9
+Wennberg och Nordström	    9
+Winge	    9
+Buisson	    8
+Collin	    8
+Gleditsch	    8
+Kankel	    8
+Lönbohm	    8
+Nestius	    8
+Segerstedt	    8
+Smitt	    8
+Vogelius	    8
+Brendeken	    7
+Genath	    7
+Hammarin	    7
+Hasselrot	    7
+Historiographi Regni Boktryckeri (1722-1755/58)	    7
+Laurelius	    7
+Matthiæ	    7
+Nyström;Stolpe	    7
+Regiae Academiae Typographi	    7
+Schroderus	    7
+Delén	    6
+Edman, Johan	    6
+Elzevier	    6
+Haeggström	    6
+Hörberg	    6
+Pfeiffer	    6
+Raam	    6
+Segerstedt, Albrecht Julius	    6
+Wallius;Wald	    6
+Björkbom	    5
+Björn	    5
+Brodin	    5
+Cederborgh	    5
+Chatelain	    5
+Crusius	    5
+Devall	    5
+Groth;Petré	    5
+Habereger	    5
+Knoch	    5
+Kongl. Amiralitets boktryckeriet (1726-1821)	    5
+Kungl. finska boktryckeriet	    5
+Leverentz	    5
+Matthiae	    5
+Momma	    5
+Paulinus Gothus;Barkenius	    5
+Pilecan	    5
+Rudbeck	    5
+Stakberg	    5
+Walldén	    5
+Wennberg;Nordström	    5
+Zeipel;Palmblad	    5
+Björckegrens enka (1757-1787)	    4
+Burchardi;Genath	    4
+Collin, Lars Arvidsson	    4
+Cronland	    4
+Hagemann	    4
+Hansson Wall	    4
+Henrik Keyser	    4
+Holm	    4
+Holmerus;Medelplan	    4
+Kallmeyer	    4
+Koch	    4
+Kraft	    4
+Kungl. Vitterhets historie och antikvitets akademien	    4
+Löffler	    4
+Lundström	    4
+Norstedt	    4
+Ordenstryckeriet;Pfeiffer	    4
+Palmblad	    4
+Paulssen	    4
+Reg. Acad.	    4
+Rivington	    4
+Röpke	    4
+Rothe	    4
+Rumstedt	    4
+Svenska kyrkan.	    4
+Sverige.;Sverige.;Momma, Peter	    4
+Sylvenius	    4
+Vogel	    4
+Wennberg, Lars	    4
+Wilde	    4
+Winstrup	    4
+Akademiska tryckeriet	    3
+Asp	    3
+Björckman	    3
+Bruzelius;Oudar	    3
+Cedergréen	    3
+Christopher Günther	    3
+Curt	    3
+Dahl	    3
+Den Arnamagnæanske Kommission;Stein	    3
+Ekmansson	    3
+Ekmarck	    3
+Ekmark	    3
+Enæus	    3
+Eskil Mattsson	    3
+Fenckell	    3
+Ferber	    3
+Fougt, Henric	    3
+Günter	    3
+Haude und Spener	    3
+Hesselberg;Nordström	    3
+Höpffner	    3
+Horrebow	    3
+Ignatius Meurer	    3
+Jacobsson Nordström	    3
+Kjellberg	    3
+Köhler	    3
+Kongelige Nordiske Oldskrift-Selskab	    3
+Kungl. tryckeriet;Sverige.	    3
+Löwegren	    3
+Lucius	    3
+Meder	    3
+Mollyn	    3
+Müllman	    3
+Petré;Abrahamsson	    3
+Popp;Malling	    3
+Rask	    3
+Rhete	    3
+Richardson;Egerton	    3
+Robinson (London)	    3
+Rußworm	    3
+Sverige	    3
+Sverige.;Gutterwitz	    3
+Sverige.;Holmberg	    3
+Sverige.;Sverige.;Meurer	    3
+Sverige.;Sverige.;Werner	    3
+Sverige.;Zetterberg	    3
+Vrigseen;Thetzell	    3
+Widman	    3
+Adler	    2
+Amiralitetstryckeriet	    2
+Andreae	    2
+Arcerius	    2
+Barkenius	    2
+Becker (tryckare)	    2
+Bellerus	    2
+Berg	    2
+Bergskollegium	    2
+Bielcke	    2
+Blume;Holmberg;Askergren	    2
+Boxe	    2
+Carlbohm;Kungl. finska boktryckeriet	    2
+Carlson	    2
+Danmark.	    2
+Decker	    2
+Deer	    2
+Des Hayes;Cellier	    2
+Donatius	    2
+Du Vivié	    2
+Ekmanson	    2
+Endter	    2
+Eriks-Syne	    2
+Eucharius Lauringer	    2
+Flygare	    2
+Fuess	    2
+Gercken;Historiographi regni	    2
+Godiche	    2
+Goodwin	    2
+Grefing;Kiesewetter	    2
+Gyldendal	    2
+Haberegger, Vitus	    2
+Hageman	    2
+Hantsch;Sverige.	    2
+Hoffmann	    2
+Holmberg;Wennberg;Nordström	    2
+Holmerus	    2
+Horrn;Antikvitetsarkivets tryckeri	    2
+Imnelius	    2
+Johnson	    2
+Keyser;Sverige.	    2
+Keyser;Wall	    2
+Kiesewetter;Grefing	    2
+Kumblinska tryckeriet (1775-1805)	    2
+Kungl. biblioteket	    2
+Kungl. Vetenskapsakademien	    2
+Laurentius Segebadius	    2
+Laurentsson	    2
+Lindeblad	    2
+Lorenz	    2
+Marcus	    2
+Mariette	    2
+Mattsson;Tile	    2
+Medelplan	    2
+Moetjens	    2
+Möllemann;Sülken	    2
+Nöller	    2
+Nordin	    2
+Nordström;Holmberg	    2
+Olofsson Enaeus	    2
+Palm	    2
+Pettersson	    2
+Pitra	    2
+Pitteri	    2
+Raam;Lötström	    2
+Regiæ academiæ typographi	    2
+Revis	    2
+Rheten	    2
+Richels	    2
+Richter;Stein	    2
+Riegel;Knorz	    2
+Ritzsch	    2
+Rüdiger	    2
+Sällskapet för växelundervisningens befrämjande;Sverige.	    2
+Scheutz	    2
+Schneidler	    2
+Schnorr	    2
+Schonberg	    2
+Schonberg;Björckegren	    2
+Schreuder;Mortier	    2
+Schultze;Janssonius van Waesberge	    2
+Skirven	    2
+Stein	    2
+Stenhammar och Palmblad	    2
+Struck	    2
+Svanborg	    2
+Sverige.;Eberdt	    2
+Sverige.;Hantsch	    2
+Sverige.;Kungl. tryckeriet	    2
+Sverige.;Kungl. Tryckeriet	    2
+Sverige.;Kungl. tryckeriet;Momma	    2
+Sverige.;Momma	    2
+Sverige.;Sverige.;Werner, Johan Heinrich	    2
+Swederus;Breitkopf	    2
+Thetzell;Hultman	    2
+Thiele	    2
+Torstensson	    2
+Typographia regia	    2
+Vandenhoeck	    2
+Volgenau	    2
+Voth	    2
+Wallius;Eriksson Wald	    2
+Wrigseen;Thetzell	    2
+Adolph	    1
+Akademiska tryckeriet (1613- ) (Uppsala)	    1
+Albertsz	    1
+Amiralitetet	    1
+Amiralitetstryckeriet : Svinhufvud	    1
+Amiralitetstryckeriet : Vinqvist	    1
+Amiralitetstryckeriet (	    1
+Ammon	    1
+Andreae;Hort	    1
+Arborelius	    1
+Arcerius;Albertsz	    1
+Arkstee en Merkus	    1
+Aurora Office (Philadelphia)	    1
+Baack	    1
+Bäckström, Joh.;Nyström, Petrus Georg	    1
+Baldwin	    1
+Barmeier	    1
+Barnard;Phillips	    1
+Bell;Bible;Taylor;Osborn	    1
+Bergman	    1
+Bernabò	    1
+Bernegger	    1
+Beuther	    1
+Bielcke;Nisius	    1
+Bieling, Lorenz	    1
+Bierwirth	    1
+Billingsley;Hauenstein	    1
+Bindoni	    1
+Björkman	    1
+Blume;Raam	    1
+Bockenhoffer	    1
+Bodenhausen	    1
+Böhm;Fritsch	    1
+Boktryckeri-societeten.	    1
+Bowyer	    1
+Breeckevelt	    1
+Breitkopf	    1
+Brockeniusre	    1
+Brummer;Holwein	    1
+Brunel	    1
+Bruzelius	    1
+Buchholtz	    1
+Buck	    1
+Buckley	    1
+Cailloué	    1
+Camera Apostolica	    1
+Carl Délen	    1
+Carlbomm	    1
+Casteleyn	    1
+Cederborg	    1
+Celle	    1
+Christoher Reusner	    1
+Clarke	    1
+Clouck;Christians	    1
+Coello	    1
+Cöln	    1
+Covens;Mortier	    1
+Cox;Davis;Knapton;Millar	    1
+Craz & Gerlach	    1
+Cunradus	    1
+David;Heuqueville	    1
+Davies;Reymers	    1
+Decreaux;Bering	    1
+Deleen, Carld	    1
+Deleen;Marquard	    1
+Den Arnamagnæanske Kommission;Godiche	    1
+Den Arnamagnæanske Kommission;Gyldendal	    1
+Den Arnamagnæanske Kommission;Gyldendal;Popp	    1
+Den Arnamagnæanske Kommission;Gyldendal;Schultz	    1
+Den Arnamagnæanske Kommission;Suhm;Sander;Schrøder	    1
+Desenne	    1
+Detune	    1
+Deûring	    1
+Dieterich	    1
+Dieterici	    1
+Dilly	    1
+Dodsley	    1
+Dorpati Livonorum literis acad.	    1
+Dümler	    1
+Edelmannus	    1
+Edman;Nordström	    1
+Edman;Swederus	    1
+Eggeska teatern (Norrköping)	    1
+Egmondt	    1
+Elmén	    1
+Elmén & Granberg;Jurén	    1
+Elmen;Granberg	    1
+Elmén;Granberg;Wiborg	    1
+Élmens och Granbergs tryckeri	    1
+Emmerich	    1
+Eriksson Wald;Wallius	    1
+Estienne, Jerfmie	    1
+Exegetiska och filantropiska sällskapet i Stockholm	    1
+Exegetiska Sällskapet	    1
+Eyres	    1
+Feind	    1
+Flodström	    1
+Forster	    1
+Förster	    1
+Förstern	    1
+Fougt;Grefing	    1
+Fr. B. Nestius	    1
+Freckell	    1
+Freckellianis	    1
+Fredrik Schonberg och Björckegrens enka (1787-1793)	    1
+Frenkell	    1
+Friessem	    1
+Fritsch	    1
+Fritsche	    1
+Fromm	    1
+Fuesz	    1
+Gadelius (Stockholm)	    1
+Garcia Morràs	    1
+Gebauer	    1
+Geo. Löwegren	    1
+Georg Adlersparre	    1
+Gerdes	    1
+Gerle	    1
+Gillberga surbrunn	    1
+Gleditsch;Weidmann	    1
+Godische	    1
+Goetze;Schultze	    1
+Goldenau;Billingsley	    1
+Göpner;Grosse	    1
+Gormann	    1
+Gosse	    1
+Götheborgs kongl. wettenskaps och witterhets samhälle	    1
+Götheborgska wetenskaps och witterhets samhället	    1
+Götiska förbundet	    1
+Gotlands läns hushållningssällskap	    1
+Göze;Fritsch	    1
+Graesler	    1
+Grattenauer	    1
+Green	    1
+Grefing;Edman	    1
+Grefing;Fougt	    1
+Grefing;Gercken	    1
+Grefingska tryckeriet;Fougt, Henric	    1
+Grefve	    1
+Grewfe	    1
+Grosse	    1
+Groth	    1
+Grund;Holle	    1
+Guillemoth	    1
+Haberegger;Junghans	    1
+Haeggström (Stockholm)	    1
+Hæggström;Ortman	    1
+Hageman (Göteborg)	    1
+Hahn	    1
+Hake	    1
+Hallervord	    1
+Hallervord;Andreae	    1
+Hampel	    1
+Hanson	    1
+Hansson Wall;Keyser	    1
+Happenius	    1
+Harberg;Hesselberg	    1
+Harlow	    1
+Hasselrot, E	    1
+Hautt	    1
+Hecht	    1
+Heckel	    1
+Hedman	    1
+Hedmanska	    1
+Heidegger	    1
+Heil;;Sverige.	    1
+Heinsius	    1
+Helsingfors universitet	    1
+Helwig;Röhner	    1
+Henckel	    1
+Henri	    1
+Henric Christofer Merckells änka (1730-1747);Merckell, Henric Christopher	    1
+Hering	    1
+Herold	    1
+Hertz	    1
+Heuman (Halmstad)	    1
+Hierat	    1
+Hilscher	    1
+Himburg	    1
+Historiographi Regni	    1
+Hoepfnerus	    1
+Höjer, Lars Magnus	    1
+Holmberg (Stockholm)	    1
+Holmberg & Wennberg	    1
+Holmberg, J. C.	    1
+Holmberg;Carlbohm	    1
+Holmberg;Ekmanson	    1
+Holmerus;Holmberg	    1
+Holwein	    1
+Höpfner	    1
+Hörberg, Johan	    1
+Horn	    1
+Horn, Johan Laurentius	    1
+Horrn (Stockholm)	    1
+Horrn;Salvius	    1
+Ibarra	    1
+Imnelius;Eckstein	    1
+Iversen	    1
+Jackson;Johnson;Byrne;Balfour	    1
+Jämtlands läns hushållningssällskap	    1
+Jansonius	    1
+Janssonius van Waesberge	    1
+Janssonius van Waesberge;Schultze	    1
+Janssonius, Johannes	    1
+Janssoons van Waesberge	    1
+Jernkontoret	    1
+Jobin	    1
+Joh. Höjers enckia	    1
+Jones	    1
+Junghans, Adam;Haberegger	    1
+Kask	    1
+Keyfer	    1
+keyser	    1
+Keyser II	    1
+Keyser, Henrich;Sverige.	    1
+Kiellbeck	    1
+Kiesewetter;Haak	    1
+Kiøpping	    1
+Knoch;Andreae	    1
+Knoch;Wust	    1
+Kohles	    1
+Kongl. acad. boktr.	    1
+Kongl. Finska boktryckeriet;Kungl. Tryckeriet	    1
+Königliche Regierungs-Buchdruckerei	    1
+Koppe	    1
+Kraus	    1
+Krause	    1
+Kumblin, Lars	    1
+Kumblin;Edman	    1
+Kumblin;Nordström	    1
+Kungl Vetenskapsakademien	    1
+Kungl. Maj:t	    1
+Kungl. Samfundet för utgivande av handskrifter rörande Skandinaviens historia	    1
+Kungl. Samfundet för utgivande av handskrifter rörande Skandinaviens historia;Elmén;Granberg	    1
+Kungl. tryckeriet (Stockholm)	    1
+Kungl. Tryckeriet;Momma, Peter	    1
+Kungl. Tryckeriet;Momma, Peter,;Grefingska tryckeriet;Kungl. Tryckeriet	    1
+Kungl. tryckeriet;Wankijff;Werner	    1
+Kungliga akademien i Åbo	    1
+Kungliga Vetenskaps-Societeten i Uppsala	    1
+Lago	    1
+Lamprecht;Moltke	    1
+Lamprecht;Moltken	    1
+Lang (Göteborg)	    1
+Lange;Kallmeyer	    1
+Lange;Nordström	    1
+Lange;Smitt	    1
+Langhoff	    1
+Laurelius (Stockholm)	    1
+Lauringerus	    1
+Lazarus	    1
+Le Bas	    1
+Le Petit	    1
+Lehmann, Gotthilff	    1
+Leroy	    1
+Lewerentz	    1
+Lewerentz (Skara)	    1
+Liebezeit	    1
+Liebezeit;Aubry	    1
+Liebzeit;Spiering	    1
+Lillie	    1
+Lindgren	    1
+Lippoldt	    1
+Lochmann;Zander	    1
+Löffler;Saalbachen	    1
+Löffler;Struck	    1
+Londicer;Björckegren	    1
+Ludwig	    1
+Lunds universitet;Akademiska föreningen (Lund)	    1
+Luzac	    1
+Maeurer	    1
+Marcus, Jacob	    1
+Marenigh	    1
+Mariette;Delespine	    1
+Marquard (Stockholm)	    1
+Marquard;Elmén;Granberg	    1
+Marquard;Müller	    1
+Marquard;Wiborg	    1
+Marteau	    1
+Matthiae;Horrn	    1
+Mattsson;Sivert	    1
+Mattsson;Thiles	    1
+Mercell	    1
+Merckel	    1
+Merckell, Jacob	    1
+Meurer, Ignatius	    1
+Meurer;Sverige.	    1
+Meuris	    1
+Meyer	    1
+Minerva	    1
+Moberg	    1
+Molini;Landi	    1
+Møller	    1
+Möller;Sverige.	    1
+Momma, Peter,;Kungl. Tryckeriet	    1
+Momma, Peter,;Sverige.;Sverige.	    1
+Morison	    1
+Morsing	    1
+Mortier	    1
+Moutard	    1
+Muller	    1
+Müller	    1
+Myliander	    1
+Mylius	    1
+Nicolai	    1
+Nilsson Grefwe	    1
+Nordström;Carlbohm	    1
+Norrbottens läns hushållningssällskap	    1
+Ocampo	    1
+Oelreich	    1
+Officina Endteriana	    1
+Olofsson Helsing;Sülken	    1
+Oluffson	    1
+Palmblad & C.	    1
+Palmblad et C.	    1
+Paolini;Burchioni	    1
+Pasquali	    1
+Patriotiska sällskapet.	    1
+Paulinus Gothus;Enaeus	    1
+Paulinus Gothus;Grefwe	    1
+Paulinus;Barkenius	    1
+Pepelow	    1
+Peter Hesselberg och Harberg	    1
+Peter van Selow	    1
+Petré	    1
+Petri	    1
+Poletti	    1
+Pomeray	    1
+Popp	    1
+Pougens	    1
+Probst	    1
+Probst;Nordström	    1
+Prost	    1
+Raam;Björn	    1
+Rampen	    1
+Rasp	    1
+Rauch	    1
+Ravesteyn	    1
+Rebenlein	    1
+Reg,. Acad.	    1
+Regni	    1
+Reichel	    1
+Reimer	    1
+Reistrup	    1
+Renouard	    1
+Reumannus	    1
+Reumers	    1
+Reusner;Diener	    1
+Reycends	    1
+Rhetian	    1
+Ribbius	    1
+Ricciardi	    1
+Richardson	    1
+Richel	    1
+Richolff	    1
+Riegel	    1
+Rikets råd (1768-04-26)	    1
+Rikets råd;Kongl. Finska boktryckeriet	    1
+Rönberg : Krahn	    1
+Rosenbusch;Fleischer	    1
+Roth	    1
+Rotterdam	    1
+Ruarus	    1
+Russworm	    1
+Salig Johan Höjers enka (1738-1743/1751)	    1
+Salvii	    1
+Salvius;Carlbohm	    1
+Sara;Paslé	    1
+Sartorius	    1
+Sartorius;Moltken	    1
+Sarzina	    1
+Saugrain	    1
+Saurman	    1
+Schedel	    1
+Schiötz;Mandra	    1
+Schmidtgen	    1
+Schneiderska boktryckeriet (1726-1739)	    1
+Schonberg;Fredrik Schonberg och Björckegrens enka (1787-1793)	    1
+Schönfels	    1
+Schönnerstädt	    1
+Schönwetter	    1
+Schoonwald	    1
+Schröder	    1
+Schubothe;Thiele	    1
+Schultz	    1
+Schultze;Görlin	    1
+Schultzius	    1
+Schulz	    1
+Schürer	    1
+Schwartz	    1
+Schwechten	    1
+Schwiegerau	    1
+Segerdal;Stolpe	    1
+Seidelin	    1
+Shultz	    1
+Simon	    1
+Snörmakare-ämbetet (Stockholm);Wennberg och Nordström	    1
+Spach	    1
+Spiering	    1
+Spoor	    1
+Spörl	    1
+Spottiswoode;Longman	    1
+Springer	    1
+Springius;Liebezeit	    1
+Ståhlberg	    1
+Starck	    1
+Starkey	    1
+Stehnammar;Palmblad	    1
+Stein;Den Arnamagnæanske Kommission	    1
+Stenhammar;Palmblad	    1
+Stolpe;Horrn	    1
+Stolpe;Segerdahl	    1
+Strinnholm;Haeggström	    1
+Strinnholm;Hæggström;Bruzelius	    1
+Sundqwist	    1
+Svedbom	    1
+Svenska akademien	    1
+Svenska läkaresällskapet	    1
+Svenska Patriotiska Sällskapet	    1
+Sverige.;Grefwe	    1
+Sverige.;Hesselberg, Peter	    1
+Sverige.;Königliche Regierungs-Buchdruckerei	    1
+Sverige.;Kungl. Tryckeriet;Sverige.	    1
+Sverige.;Mattson	    1
+Sverige.;Schroderus	    1
+Sverige.;Sverige.;Gutterwitz	    1
+Sverige.;Sverige.;Laurentsson	    1
+Sverige.;Sverige.;meurer	    1
+Sverige.;Sverige.;Sverige.;Kumblin	    1
+Sverige.;Sverige.;Sverige.;Meurer	    1
+Sverige.;Sverige.;Sverige.;Sverige.	    1
+Sverige.;Sverige.;Sverige.;Sverige.;Sverige.;Meurer	    1
+Sverige.;Sverige.;Sverige.;Sverige.;Sverige.;Sverige.	    1
+Sverige.;Sverige.;Sverige.;Sverige.;Sverige.;Wankijff	    1
+Sverige.;Sverige.;Sverigeg.	    1
+Sverige.;Wankijfs änka	    1
+Swanholm	    1
+Swederus;Carlbohm	    1
+Sweerts	    1
+Sympher	    1
+Typis Wernerianis (Uppsala)	    1
+Unge	    1
+Uppsala universitet	    1
+Urban	    1
+Uytwerf	    1
+van Merlen	    1
+Van Poolsum	    1
+Vandenhoeck & Ruprecht	    1
+Varennes	    1
+Varrentrapp	    1
+Västerås landskansli	    1
+Vaucrosson & son	    1
+Velsen	    1
+Vinkvist	    1
+Vogel, Johannes	    1
+Volgenua	    1
+Volland	    1
+Wankijff;Curio	    1
+Wankijff;Kungl. Tryckeriet	    1
+Wankijff;Sverige.;Sverige.;Sverige.	    1
+Wankijfs änka;Kungl. Tryckeriet	    1
+Warren	    1
+Weitbrecht	    1
+Wennberg & C:o	    1
+Wennberg & Nordström	    1
+Wennlund	    1
+Werlin	    1
+Werner;Kungliga tryckeriet	    1
+Weygand	    1
+Widblad	    1
+Widmanstetter	    1
+Wiering	    1
+Wiering;Härtel	    1
+Wijngaerden	    1
+Wijngaerden;Moyaerd	    1
+Wilcke	    1
+Wilkenius	    1
+Winter;Gezelius	    1
+Wishoff	    1
+Witte	    1
+Wolter	    1
+Wrigseen	    1
+Wrigsén	    1
+Wust	    1
+Wyngaerden	    1
+Zieervogel	    1
+Ziervogel	    1
+Zimmermann	    1
+Zunner;Andreæ	    1

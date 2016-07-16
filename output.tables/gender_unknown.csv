@@ -1,165 +1,782 @@
 Name	Count
-anders	52
-olof	50
-jacob	23
-lars	21
-samuel	19
-sven	17
-peter	16
-jonas	15
-john	14
-emanuel	8
-thomas	8
-bengt	7
-joachim heinrich	7
-michael	7
-elias	6
-arvid	5
-hans	5
-laurentius	5
-anders jahan	4
-clas	4
-mårten	4
-peter jonas	4
-stéphanie félicité	4
-åke	3
-axel	3
-christoph	3
-esaias	3
-frans michael	3
-herman	3
-israel	3
-laurentius olai	3
-levin	3
-lorentz	3
-wilhelm	3
-ahasver	2
-albert	2
-algot	2
-aloys wilhelm	2
-antonio	2
-christer	2
-edward	2
-elias emanuel	2
-engelbert	2
-erland	2
-flavius	2
-frans	2
-hans jacob	2
-hans olof	2
-heinrich	2
-isaac	2
-james	2
-jesper	2
-johanna	2
-karl	2
-marcus	2
-nathan	2
-per	2
-petter	2
-pierre	2
-sven anders	2
-sven wilhelm	2
-tobias	2
-wilhelm peter	2
-abbé	1
-albertus	1
-anders lorentz	1
-anders s	1
-antoine-léonard	1
-antonine françois	1
-antonius	1
-augustin	1
-aurelius	1
-axel p	1
+anders	1120
+olof	843
+jacob	530
+samuel	426
+sven	404
+jonas	341
+lars	339
+peter	286
+john	212
+thomas	174
+emanuel	138
+bengt	115
+michael	101
+hans	91
+mårten	88
+clas	85
+wilhelm	85
+esaias	79
+per	79
+israel	76
+jesper	76
+laurentius	76
+elias	74
+marcus	62
+frans michael	60
+caspar	55
+jacob axelsson	55
+stéphanie félicité	55
+arvid	51
+anders jahan	47
+pierre	46
+herman	43
+nicolaus	43
+joachim heinrich	42
+peter jonas	42
+ahasver	41
+christoph	40
+jöns	40
+joachim	38
+nicolas	37
+petter	37
+åke	36
+tobias	36
+isaac	35
+axel	34
+håkan	34
+james	34
+engelbert	33
+edward	32
+sven anders	32
+heinrich	30
+laurentius olai	30
+christoph wilhelm	29
+hans jacob	27
+joachim wilhelm	27
+algot	26
+christer	26
+philipp	25
+augustin	24
+erland	24
+ernst moritz	24
+lars peter	24
+peter jacob	24
+albert	23
+nathan	23
+arthur	22
+gustav	22
+johanna	22
+hans olof	21
+jöran jacob	21
+evald	20
+göran	20
+anders peter	19
+nathanael	19
+jens dinesen	18
+roland	18
+erland samuel	17
+francesco	17
+françois	17
+gottfried	17
+casten	16
+emmanuel-augustin-dieudonné-joseph	16
+michael olai wexionius	16
+rasmus	16
+samuel jackson	16
+herman anders	15
+laurentius erici	15
+levin	15
+per wilhelm	15
+anders lorentz	14
+claudius	14
+jacobus	14
+lorentz	14
+michael m	14
+sven peter	14
+antoine-léonard	13
+cicero	13
+domenico	13
+elias emanuel	13
+jonathan	13
+lorenz	13
+nicolaus petri	13
+frans	12
+jeremias	12
+mathias	12
+olof hansson	12
+schering	12
+wilhelm maximilian	12
+gaius	11
+laurentius jonae	11
+philipp jacob	11
+roloff	11
+theophilus	11
+thorbjörn	11
+anders jacobsson	10
+antonio	10
+dorothea	10
+ernst	10
+hermann wilhelm	10
+jacob jonas	10
+jacob wilhelmsson	10
+jacobus petri	10
+jens kragh	10
+olof p	10
+per olof	10
+samuel christoph	10
+samuel nicolai	10
+sigfrid lorentz	10
+axel p	9
+gottfried wilhelm	9
+herman arnold	9
+immanuel	9
+jöns peter	9
+karl	9
+karl wilhelm	9
+lovisa	9
+lucas	9
+tiburtz	9
+aloys wilhelm	8
+anders e	8
+anders wilhelm	8
+antonius	8
+bengt anders	8
+claus	8
+eberhard	8
+laurentius laurentii	8
+nathanaël	8
+nicolaus nicolai	8
+ole	8
+olof rudolf	8
+olof swensson	8
+ulrik	8
+alain-rené	7
+aloys	7
+bengt jakobsson	7
+brynolph	7
+catharina	7
+hans peter	7
+hugo	7
+joh	7
+martinus	7
+nicolas edmé	7
+reinerus	7
+sven hansson	7
+anders h	6
+anders jacob	6
+anders jonsson	6
+arnold	6
+ebbe	6
+ebbe samuel	6
+elieser	6
+flavius	6
+françois rené	6
+gaetano	6
+galeazzo	6
+hugh	6
+jens	6
+joachim christoph	6
+jonas petri	6
+jöran wilhelm	6
+lars jacob	6
+lars julius	6
+louis-joseph	6
+margareta ericsdotter	6
+mathias jacob	6
+mattias	6
+olof abrahamsson	6
+peter lorenz	6
+peter p	6
+philip	6
+willem	6
+andrew	5
+berge	5
+claës wilhelm	5
+erich	5
+eschill	5
+franz	5
+hermann	5
+j g c c	5
+jacob wilhelm	5
+jöran ulrik	5
+lars anders	5
+lorens münter	5
+lorenz peter	5
+måns	5
+martinus erici	5
+narcisse achille	5
+olof bidenius	5
+patrick	5
+peter sven	5
+samuel conradsson	5
+stephen	5
+swen	5
+thure	5
+ulrik emanuel	5
+valentin	5
+valentin ernst	5
+wilhelm julius	5
+albertus	4
+anders lars	4
+anders matthiesen	4
+armande	4
+aurelius	4
+brita	4
+carolus	4
+christoph heinrich	4
+elias petri	4
+eliza fowler	4
+eugène	4
+franz jacob	4
+gilbert	4
+guillaume-hyacinthe	4
+guillaume-thomas	4
+hans karl	4
+haquinus	4
+jacob heinrich	4
+jacob israel	4
+jacob michael	4
+jeanne-louise-henriette	4
+jehuda	4
+jonas albin	4
+jonas laurentii	4
+jonas samuel	4
+laurentius nicolai	4
+margaretha	4
+michaël	4
+philippe	4
+samuel olof	4
+severin	4
+skogekär	4
+sten	4
+sven ingemarsson	4
+thore	4
+wilhelm heinrich	4
+wilhelm peter	4
+willibald	4
+anders erici	3
+anders ulrik	3
+andré	3
+antonine françois	3
+arild	3
+axel julius	3
+barthélemi	3
+bengt jacob	3
+birger	3
+børge	3
+bulstrode	3
+carsten	3
+clemens	3
+edmund	3
+ernestus	3
+esaias zachariae	3
+étienne	3
+felix	3
+françois hédelin d'	3
+françois-joachim	3
+frédéric	3
+g ustaf u lric	3
+göstaf	3
+hans heinrich	3
+hans nielsen	3
+honorè-gabriel riquetti	3
+israël	3
+j tobias	3
+jacob jacobsson	3
+jacques-marie	3
+jahan	3
+james justinian	3
+jonas arvid	3
+jonas friedrichsson	3
+lars herman	3
+marc-antoine	3
+marcus junianus	3
+margareta	3
+marie-catherine d'	3
+nicolaus olavi	3
+nicolaus suenonis	3
+paulus	3
+per ulrik	3
+petr pavlovič	3
+petter jonas	3
+petter jöransson	3
+samuel christer	3
+samuel petri	3
+saverio	3
+sigfrid	3
+sven paulus	3
+sven wilhelm	3
+tiberius	3
+tobias heinrich	3
+vincent	3
+vincent emanuel	3
+werner	3
+wilhelm anders	3
+abbé	2
+æschillus	2
+anders jansson	2
+anders n	2
+anders nicolaus	2
+anders s	2
+anders severinsson	2
+anne-jean-marie-rené	2
+basil	2
+benedikte	2
+berndt joachim	2
+berndt peter	2
+carlo	2
+carolus nicolai	2
+cesare	2
+christer ivarsson	2
+christiaan	2
+ditlevus	2
+ehrenhold	2
+elizabet	2
+emanuele	2
+enoch	2
+ernst gottfried	2
+franciscus	2
+franciscus davidis	2
+franz christoph	2
+garlieb	2
+gebhardus	2
+gottfried immanuel	2
+gustavus erici	2
+hans samuel	2
+heinrich melchior	2
+heinricus martini	2
+hélie	2
+hemmingus	2
+henning	2
+henri-louis	2
+humphrey	2
+isaacus roslagius	2
+isacus petri	2
+israel israelis	2
+israel j	2
+j ohann f riedrich	2
+jacob matthiae	2
+jacobus zachariae	2
+jean-baptiste-claude	2
+jens lassen	2
+jens lorenz	2
+jeuns	2
+joachim michael	2
+joachim petter	2
+joël	2
+johanna carolina	2
+john gustavus	2
+john thomas	2
+jón	2
+jonas erici	2
+jonas peter	2
+jöran	2
+jørgen	2
+josephus	2
+josephus matthiae	2
+josiah	2
+jules-alexis-bernard	2
+julius	2
+karl heinrich	2
+lars bengtson	2
+lars erichsson	2
+lars samuelsson	2
+laurentius andreæ	2
+laurentius ingevaldi	2
+laurentius olavi	2
+laurentius petri	2
+leonhardus	2
+liévin-bonaventure	2
+lorens jacob	2
+louis-sébastien	2
+louise	2
+manoah	2
+marcus porcius	2
+märta	2
+martinus matthaei	2
+meyer	2
+mikael	2
+moritz	2
+nicolas françois	2
+nicolaus erici	2
+nicolaus jonae	2
+nicolaus olai	2
+oddur	2
+olof d y	2
+olof jonae	2
+olof jonas	2
+olof mårtensson	2
+paolo	2
+pär	2
+påve	2
+per anders	2
+per samuel	2
+peter emanuel	2
+peter julius	2
+peter olof	2
+peter outzen	2
+philip ernst	2
+philipp ernst	2
+rené	2
+rutgerus	2
+samuel erici	2
+samuel peter	2
+sigvardus olai	2
+sören	2
+sven caspersson	2
+sven lorens	2
+theodosius	2
+thure peter	2
+urbain	2
+virgilio	2
+vittorio	2
+wilhelmina	2
+-t	1
+a f astron observator	1
+achille-guillaume	1
+adolphe	1
+aeneas	1
+aîné	1
+alertus	1
+alf	1
+almerthé	1
+amalie	1
+ander j	1
+anders a	1
+anders arvid	1
+anders brodersson	1
+anders håkansson	1
+anders jacob d	1
+anders jonas	1
+anders l	1
+anders m	1
+anders matthisen	1
+anders rudolf	1
+anthony	1
+antoine-isaac	1
+antonio matteucci	1
+apostolo	1
+archibald	1
+arnobius	1
+arvid sture	1
+augustin françois	1
+axel patrik	1
 axel wilhelm	1
-caspar	1
-casten	1
-cicero	1
-claudius	1
-claus	1
-domenico	1
-dorothea	1
-eberhard	1
-elias petri	1
-elizabet	1
+baron d'	1
+barthélemy	1
+benct jeansson	1
+bengt erland franc-	1
+bengt gabrielsson	1
+bengt olof	1
+bengt p	1
+berndt j	1
+berndt wilhelm	1
+boethius	1
+boetius birgeri	1
+bothvidus jonae	1
+brita m	1
+c arl	1
+c arl f rederik	1
+c arl g ustaf p:son	1
+c arl j	1
+c hristoph	1
+c j e h d'	1
+canutus	1
+carolina	1
+carolus erici	1
+carolus jonae	1
+cassandra	1
+cecilia	1
+charles-louis	1
+clas håkansson	1
+clas ulrik	1
+claude-marie	1
+claudius israelis	1
+claudius olai	1
+constantia	1
+constantin	1
+coupé	1
+d'	1
+dictys	1
+dietericus	1
+dietricus heinrici	1
+donald	1
+dorothe	1
+eberhard werner	1
+edward thomas	1
+efraim axelsson	1
+eilhard	1
+elias andreæ	1
+elias martini	1
+elias nicolai	1
+elias wilhelm	1
+emanuel frederic	1
 emanuel jacob	1
-emmanuel-augustin-dieudonné-joseph	1
+émilie	1
+engelbertus	1
 enoch haqvini	1
-erland samuel	1
-ernestus	1
-ernst moritz	1
-evald	1
+enoch israelis	1
+ephraim	1
+erico	1
+ernst heinrich	1
+ernst petter	1
+ernst wilhelm	1
+esaias gregorii	1
+esdras heinrich	1
+eustachius	1
+f riderik	1
 faderus arvidi	1
-francesco	1
-françois	1
+fartyget	1
+fe'dor ivanovič	1
+françois benoît	1
 françois joachim	1
-franz	1
-gebhardus	1
-göran	1
-gustav	1
+françois nicolas	1
+françoise marguerite	1
+frans a	1
+frans ernst	1
+frans wilhelm	1
+franz ambros	1
+franz ernst	1
+frederic	1
+g ustaf	1
+gedaliae	1
+georges	1
+gevaliensis	1
+giacinto	1
+gideon herman	1
+gillis	1
+giorgio	1
+gísli	1
+giuspanio	1
+gregorios	1
+guglielmo della	1
+gunde	1
+günther	1
+gust	1
+gustav danielsson	1
 gustav olof	1
-håkan	1
-hans peter	1
+gustavus	1
+gutmundus	1
+h åkan	1
+halfdán	1
+hans detloffsson	1
+hans heinrich wilhelm	1
+hans leierdahl	1
+hans petter	1
 hans philip	1
-haquinus	1
-hermann wilhelm	1
-hugh	1
+hedvig	1
+hemmingius laurentii	1
+herbert	1
+herlac	1
+herman ehrenfest	1
+herman heinrich	1
+hermann heinrich	1
+hippolito	1
+huldrych	1
 ʻumar	1
-j tobias	1
-jacob axelsson	1
-jacobus petri	1
-jeanne-louise-henriette	1
-jens dinesen	1
-jeremias	1
-joachim	1
-joachim wilhelm	1
-jonas albin	1
-jonathan	1
-jöns	1
-jöran	1
-josephus matthiae	1
-lars herman	1
+ignatius	1
+ignatius mouradgea	1
+ingemarus petri	1
+isaac askegren	1
+isaac e	1
+isaacus	1
+israel jonae	1
+israel m attsson	1
+israel nicolai	1
+iwarus iwari	1
+j hind	1
+jac	1
+jacob anders	1
+jacob arndt	1
+jacob baerent	1
+jacob bartheol	1
+jacob benignus	1
+jacob elias	1
+jacob nicolai	1
+jacob nicolas	1
+jacobus andreæ	1
+jacobus bergeri	1
+jacobus eliæ	1
+jacobus martini	1
+jacobus nicolai	1
+james n	1
+jean-benoît	1
+jean-françois	1
+jean-joseph	1
+jean-louis	1
+jean-rodolphe d'	1
+jens lorentz	1
+jeremias jacob	1
+joachim samuel	1
+joachim wilhelm bröms	1
+joh h	1
+joh jac	1
+johanhesselius	1
+john dunn	1
+john hamilton	1
+jonas birgeri	1
+jonas gothonis	1
+jonas israel	1
+jonas j	1
+jonas joachim	1
+jonas jonae	1
+jonas jonæ	1
+jonas leonhardi	1
+jonas nicolai	1
+jonas olai	1
+jonn	1
+jörgen	1
+jörgen jörgensen	1
+joseph-chěrade	1
+józsef	1
+julius richart	1
+k arl e hregott	1
+karl philipp	1
+kasper	1
+kronprinz	1
+l'abbé	1
+lars a	1
+lars axel	1
+lars b	1
+lars christersson	1
+lars danielsson	1
 lars petter	1
+laurens	1
+laurent d'	1
+laurentius amberni	1
+laurentius arvidi	1
+laurentius brynolphi	1
+laurentius estonis	1
+laurentius l	1
+laurentius lorentsson	1
+laurentius matthiæ	1
+laurentius suenonis	1
+laurentius zachariae	1
+laurits	1
+lepidus philalethes	1
+levin hirsch	1
+levin p	1
+lewin	1
+löjtnant	1
 lorenz philipp gottfried	1
-måns	1
-marcus porcius	1
-margareta ericsdotter	1
-märta	1
-mathias jacob	1
+louis-auguste	1
+louis-jean-marie	1
+m agnus	1
+m årten	1
+magnús	1
+malcolm	1
+marcus antonius	1
+marcus elieser	1
+marianne	1
+marinus	1
+martino	1
+martinus laurentii	1
+martinus nicolai	1
+mats	1
+mattias erici	1
+mattihas	1
+mattis	1
+matts mattsson	1
+michael sørensen	1
+móric	1
+morris	1
 morten	1
-nathanael	1
-nicolas	1
-nicolaus nicolai	1
-nicolaus olai	1
-olof bidenius	1
-olof swensson	1
+morten thrane	1
+n ils	1
+nathanel	1
+nathaniel	1
+niccolò	1
+nicolai	1
+nicolas médard	1
+nicolaus arvidi	1
+nicolaus ernst	1
+nicolaus holgeri	1
+nicolaus jonæ	1
+nicolaus p	1
+nikeforos	1
+nikolas	1
+nikolas laurent	1
+noël	1
+o brukspatron	1
+odhner	1
+öfverstelöjtnant	1
+olof mårten	1
+olof philip	1
+olof r	1
+olof wilhelm	1
+paco	1
+påhl	1
+paul-jérémie	1
 pedro	1
-per ulrik	1
-per wilhelm	1
-peter jacob	1
-peter lorenz	1
-peter outzen	1
-petter jonas	1
-philip	1
-philipp	1
-philipp jacob	1
+penelope	1
+per emanuel	1
+per erland	1
+per ernst	1
+peter atke	1
+peter gudmundsson	1
+peter lotharius	1
+peter s	1
+peter schvantesson	1
+peter treschow	1
+peter wilhelm	1
+petr ivanovič	1
+petter j	1
+philipp karl	1
 philippe françois nazaire	1
+pierre philippe	1
+pierre-jean-baptiste	1
 pierre-joseph	1
-rasmus	1
+pierre-rené	1
+pieter	1
+pileus	1
+pridbiörn	1
+pseud	1
 réginald	1
-roland	1
-roloff	1
-samuel christoph	1
-samuel conradsson	1
+rombout	1
+rudolph	1
+rudolph haddar ahlberg	1
+rudolph heinrich	1
+salvador jacinto	1
+samuel crispin	1
+samuel heinrich	1
 samuel hermansson	1
-schering	1
-severin	1
+saxo	1
+séïd	1
+sibout	1
+simplex	1
 sixtinus	1
-sten	1
-sven hansson	1
-sven peter	1
-theophilus	1
-thore	1
+sofia	1
+stanislas	1
+stanisław	1
+sten engelbert	1
+stephano	1
+sven dieteric	1
+sven jacobsson	1
+sven jonas	1
+sven petter	1
+tang	1
+täpp matts	1
+tarmini	1
+tepp lars	1
+théodore	1
+theodosios	1
+thomas campanius	1
+thomas martini	1
+thomas olai	1
+thomas tregenna	1
+thorbern	1
+thore l	1
+tilemann	1
 torerus erici	1
-ulrik	1
+troelius olai	1
+turo	1
+uno	1
+vilhelmus	1
+virginio	1
+vitus	1
+wetenhall	1
+wilhelm günther	1
+wilhelm ignatius	1
+willem jacob 's	1
+wolffgang	1

@@ -8,9 +8,9 @@ output: markdown_document
 
 ### Publishers
 
- * 20 [unique publishers](output.tables/publisher_accepted.csv)
+ * 243 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 3800 documents have unambiguous publisher information (100%). 
+ * 73174 documents have unambiguous publisher information (100%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -33,17 +33,17 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher               | titles|     paper|
-|:-----------------------|------:|---------:|
-|                        |   3774| 292084.68|
-|kungl                   |      8|   3297.83|
-|migneret desenne        |      1|      0.00|
-|n vankijf               |      1|    106.94|
-|nestler                 |      1|      0.00|
-|pet momma               |      1|    234.38|
-|pfeiffer                |      1|     42.88|
-|redaktionen             |      1|      0.00|
-|salvius                 |      1|    106.94|
-|volfgang moritz endters |      1|      0.00|
+|publisher | titles|      paper|
+|:---------|------:|----------:|
+|          |  72594| 5819325.30|
+|edman     |     22|    1069.36|
+|ekmanson  |     11|     458.51|
+|ekmark    |      9|     336.46|
+|frenkel   |     10|     791.49|
+|kungl     |    168|   81881.51|
+|lang      |      8|    1066.15|
+|lindh     |     10|     127.00|
+|salvius   |      8|     535.24|
+|svederus  |      7|     364.24|
 
 

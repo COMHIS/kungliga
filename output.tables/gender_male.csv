@@ -1,190 +1,1182 @@
 Name	Count
-Pehr	31
-Magnus	26
-Johannes	23
-Petrus	23
-Gustaf	22
-Nils	17
-Matthias	11
-Friedrich	9
-Jacob Gustaf	7
-Torbern	7
-Henric	6
-Henrik	6
-Publius	6
-Jacob Albrecht	5
-Per Adolf	5
-Clas Blechert	4
-Henrik Andersson	4
-Ludvig	4
-Quintus	4
-Thure Gustaf	4
-Zacharias	4
-Giuseppe	3
-Haqvin	3
-Jacob Henrik	3
-Nils Magnus	3
-Petrus Johannis	3
-Samuel Gustaf	3
-Thorsten	3
-Torsten	3
-Adolf Göran	2
-Aegidius	2
-Anders Gustaf	2
-Axel Fredrik	2
-Balthasar	2
-Bernhard	2
-Fredrik	2
-Friedrich Gustav	2
-Gerardus Joannis	2
-Gottlieb Wilhelm	2
-Gudmund	2
-Gustaf Adolf	2
-Gustaf Henric	2
-Gustaf Philip	2
-Henric Jacob	2
-Henric Julius	2
-Isak	2
-Jan	2
-Johannes Canuti	2
-Jöran Andersson	2
-Niels	2
-Nils Henrik	2
-O Lof G Ustaf	2
-Pehr Niclas	2
-Per Henrik	2
-Philipp Balthasar	2
-Sacharias	2
-Vilhelm Fredrik	2
-Adolf Ludvig	1
-Adolphus Elai	1
-Aegidius Matthiæ	1
-Albrecht Julius	1
+Pehr	591
+Johannes	542
+Petrus	449
+Nils	385
+Gustaf	367
+Magnus	341
+Matthias	207
+Friedrich	121
+Henrik	106
+Torbern	104
+Fredric	90
+Zacharias	88
+Henrik Andersson	76
+Fredrik	70
+Ludvig	70
+Per Adolf	68
+Jacob Gustaf	67
+Haqvin	63
+Clas Blechert	60
+Nils Magnus	60
+Haquin	59
+Henric Jacob	59
+Gudmund Jöran	56
+Henric	55
+Publius	49
+Nils Henrik	45
+Peder	42
+Salomon	42
+Gustaf Adolf	40
+Olaus	40
+Quintus	40
+Jacob Henrik	39
+Erlandus Brodderi	38
+Jacob Albrecht	37
+Marcus Tullius	36
+Karl Friedrich	34
+Gustaf Fredrik	33
+Gottlieb	32
+Axel Fredrik	31
+Henric Gottfrid	31
+Henric Julius	31
+Pehr Niclas	31
+Vilhelm Fredrik	31
+Jöran Andersson	30
+Pehr Gustaf	30
+Anders Fredrik	29
+Olaus Petri	29
+Jacob Fredrik	28
+Petrus Johannis	28
+Urban	27
+Adolf	26
+Bernhard	26
+Jan	26
+Gottlieb Wilhelm	25
+Samuel Gustaf	25
+Samuel Johansson	25
+Anders Gustaf	24
+Anders Magnus	24
+Thure Gustaf	24
+Corfitz Ludvig	23
+Magnus Friedrich	23
+Per Henrik	23
+Ericus	22
+Georgius	22
+Gerardus Joannis	22
+Isac	22
+Isak	22
+Magnus Laurentius	22
+Snorre	22
+Vilhelm	22
+Adolf Göran	20
+Gerhard	20
+Harald	20
+Lars Gustaf	20
+Ernst Ludwig	19
+Henricus Matthiae	19
+Adolf Fredrik	18
+Jonas Magnus	18
+Balthasar	17
+Claes	17
+François Guillaume	17
+Jacob Friedrich	17
+Michael Gustaf	17
+Nicolaus Johannis	17
+Pietro	17
+Albrecht Julius	16
+Elof	16
+Fredrik Bogislaus	16
+Niels	16
+Arnold Herrmann Ludwig	15
+Edvard	15
+Peter Petersson	15
+Arvid Bernhard	14
+Jöns Henric	14
+Laurids	14
+Ludwig	14
+Erasmus	13
+Fredrik Wilhelm	13
+Fromholt Torsten	13
+Håkan Fredrik	13
+Hemming	13
+Jakob	13
+James Fenimore	13
+Lars Magnus	13
+Legh	13
+Magnus Jacob	13
+Arvid Henrik	12
+Eberhard Zacharias	12
+Ericus Johannis	12
+Friedrich Gottlieb	12
+Gajus Julius	12
+Gustaf Fredric	12
+Leonhard	12
+Magnus Olai	12
+Basilius	11
+Enevald	11
+Franz Volkmar	11
+Gotthold Ephraim	11
+Heinrich Siegmund	11
+Henric Theophilus	11
+Henricus	11
+Johannes Henrici	11
+Mathurin	11
+Nils Hufwedsson	11
+Washington	11
+Barthold	10
+Birger Fredrik	10
+Edvard Fredric	10
+Elisaeus	10
+Frederik	10
+Giuseppe	10
+Gustaf Mauritz	10
+Ifvar	10
+Johannes J	10
+Johannes Johannis	10
+Pehr Magnus	10
+Pehr Wilhelm	10
+Regner	10
+Theodor Heinrich	10
+Torsten	10
+Aegidius Matthiæ	9
+Arnaud	9
+Friedrich Gustav	9
+Friedrich Wilhelm	9
+Gustaf Wilhelm	9
+Jean-pierre	9
+Johannes Canuti	9
+Johannes Petri	9
+Josef	9
+Laurentius Johannis	9
+Maximilian Friedrich Christoph	9
+Pehr Jacobsson	9
+Reinhold	9
+Simon Svenonis	9
+Sven Ingemar	9
+Theodor	9
+Thorsten	9
+Aegidius	8
+Arvidus	8
+Broor	8
+Christophorus	8
+Ericus Jonæ	8
+Jöns Bernhard	8
+Lars Fredric	8
+Niclas	8
+Nicolaus Ingewald	8
+Petrus Andreae	8
+Philipp Balthasar	8
+Aelius	7
+Barthold Heinrich	7
+Benedictus Jonae	7
+Dionysius	7
+Ericus Laurentii	7
+Ericus Petri	7
+Gustaf Gottfrid	7
+Gustaf Magnus	7
+Hans Gustaf	7
+Johannes Bernhard	7
+Johannes Elai	7
+Johannes Jonae	7
+Knut Nilsson	7
+Mauritz	7
+Nils Gustaf	7
+Nils Jacob	7
+Nils Lorents	7
+Olof Johansson	7
+Pehr Ulric	7
+Per Gustaf	7
+Seved Gustav	7
+Stephanus Laurentii	7
+Ulric	7
+Adolphus Elai	6
+Barthold Anders	6
+Bengt Reinhold	6
+Berndt Harder	6
+Detlof	6
+Eiler	6
+Emund	6
+Gustaf Philip	6
+Henrik Albrekt	6
+Jean-jacques	6
+Johannes Henricus	6
+Jonas Germundi	6
+Jonas Johansson	6
+Jonas Reinhold	6
+Jonas Theodor	6
+Jöns Magnus	6
+Lars Henrik	6
+Laurentius Gunnari	6
+Leonhard Henric	6
+Leonhard Magnus	6
+Matthaeus	6
+Nils Fredrik	6
+Nils Petter	6
+Olof Andreae	6
+Peder Håkansson	6
+Pehr Bernhard	6
+Petrus Andreæ	6
+Petrus Laurentii	6
+Sveno	6
+Ambrosius	5
+Andreas Andreae	5
+Bengt Gustaf	5
+Berent	5
+Christfrid	5
+Claës Didrich	5
+Claës Gustaf	5
+Didrik	5
+Eerik	5
+Eustache	5
+Fredric Emanuel	5
+Gabriel Andreae	5
+Gotthelf Friedrich	5
+Gudmund	5
+Gustaf Bernhard	5
+Gustaf Henric	5
+Gustaf Ulric	5
+Hampus Gustaf	5
+Henning Gustaf	5
+Henrik Adolf	5
+Henrik Wilhelm	5
+Herman Diedrich	5
+Hindrich	5
+Hugo Adolf	5
+Isac Reinhold	5
+Ivar Ejlert	5
+Jakob Peter	5
+Jan Eric	5
+Jan Evert	5
+Johannes Andreae	5
+Knut	5
+Lars Niclas	5
+Lars Nilsson	5
+Nils Matsson	5
+Olaus Johannis	5
+Olaus Stephani	5
+Pehr Nathanael	5
+Peter Erasmus	5
+Petrus Nicolai	5
+Petrus Petri	5
+Petrus Simonius	5
+Philipp Konrad	5
+Reinhold Gustaf	5
+Sacharias	5
+Stephanus Johannis	5
+Sven Gustaf	5
+Villads	5
+Wolfgang Dominicus	5
+Zacharias Laurentii	5
+Zacharias M	5
+Zacharias Zachariae	5
+Adolf Ludvig	4
+Assar	4
+Augustinus	4
+Axel Gottlieb	4
+Axel Magnus	4
+Bengt Magnus	4
+Benvenuto	4
+Bernt	4
+Caspar Friedrich	4
+Christianus	4
+Christofer Larsson	4
+Clas Fredric	4
+Diedrich	4
+Emanuel Friedrich	4
+Ericus Erici	4
+Ernst Salomon	4
+Fredric Wilhelm	4
+Fredrik Folkqvardt	4
+Girolamo	4
+Gottfrid	4
+Hartwig	4
+Henrik Olofsson	4
+Herman Henric	4
+Herman Niclas	4
+Ibn	4
+Israel Gustaf	4
+Joachim Friedrich	4
+Johannes Erici	4
+Johannes Fridericus	4
+Johannes Jacobi	4
+Johannes Laurentii	4
+Johannes Nicolai	4
+Johannes Olai	4
+Johannes Svenonis	4
+Knud	4
+Knut Reinhold	4
+Konrad Ludwig	4
+Lucius Annaeus	4
+Magnus Brynolph	4
+Magnus Laurentii	4
+Magnus S	4
+Nikolaj Michajlovič	4
+Nils Jonas	4
+Nils Reinhold	4
+Nils Wilhelm	4
+O Lof G Ustaf	4
+Olaus Nicolai	4
+Peter Frederik	4
+Petrus Caroli	4
+Petrus Nicolaus	4
+Petrus Svenonis	4
+Samuel Magnus	4
+Stephanus	4
+Sven Niclas	4
+Sylvestre	4
+Th	4
+Timotheus	4
+Torkel	4
+Aegidius Laurentii	3
+Ambernus Andreae	3
+Anders Adolf	3
+Anders Andersson	3
+Andreas Samuelis	3
+Axel Leonhard	3
+Benedictus	3
+Benedictus Johannis	3
+Benedictus Petri	3
+Casper	3
+Christofer	3
+Christofer Retzius	3
+Christoffer Bogislaus	3
+Claes Anders	3
+Claes Gustaf	3
+Claes Urban	3
+Clas Fredrik	3
+Clas Ludvig	3
+Dithmar	3
+Emanuel Christoffer	3
+Engelbrecht	3
+Erdmann	3
+Fredrich	3
+Fredrik Ludvig	3
+Fredrik Magnus	3
+Friedrich Adolf	3
+Friedrich Christoph	3
+Friedrich Ludwig	3
+Frosten	3
+Gaspar	3
+Giambattista	3
+Gotthilf Traugott	3
+Gustaf Filip	3
+Gustaf Lars	3
+Gustaf Peringer	3
+Hampus Kristoffer	3
+Haraldus	3
+Henric Denisson	3
+Henric Gustaf	3
+Herman Henrik	3
+Hindric Jacob	3
+Horatio	3
+J Ohan F Rederik W Ilhelm	3
+Jacob Fredric	3
+Jacobus Henrici	3
+Jacobus Johannis	3
+Jean-baptiste	3
+Joachimus	3
+Johannes Matthiae	3
+Jonas Adolf	3
+Jonas Olofsson	3
+Jöns Persson	3
+Josua	3
+Karl Friedrich Adolf	3
+Klaus Henrik	3
+Lars Fredrik	3
+Leopold Elias	3
+Lorentz Ludvig	3
+Lorentz Wolter	3
+Ludwig Ferdinand	3
+Ludwig Theobul	3
+Magnus Fredric	3
+Magnus Petri	3
+Mallet	3
+Martinus Johannis	3
+Matthias Maximilianus à	3
+Nicolaus Hieronymus	3
+Niels Lauridssen	3
+Nikolaj Petrovič	3
+Nils Emil	3
+Nils Harald	3
+Nils Peter	3
+Nils Samuel	3
+Olavus	3
+Olof Gustaf	3
+Olof Olofsson	3
+Peder Månsson	3
+Peter Hinrich	3
+Peter Niclas	3
+Peter Reinhold	3
+Petrus Erici	3
+Petrus Jonae	3
+Petter Niclas	3
+Rabbe Gottlieb	3
+Sigismund Friedrich	3
+Svante	3
+Svante Didrik	3
+Sven Gudmund	3
+Thomas Skinner	3
+Torquato	3
+Wilhelm Mauritz	3
+Wojciech	3
+Wolfgang	3
+Abr	2
+Abrahamus	2
+Abrahamus Jonae	2
+Adolf Emanuel	2
+Adolf Ivar	2
+Adolphus Adolphi	2
+Agricole Hippolyte	2
+Albrecht	2
+Ambrosio	2
+Anders Ludvig	2
+André Guillaume	2
+Andreas Jacobi	2
+Andrzej	2
+Anthon	2
+Anund	2
+Apollonius	2
+Athanasius	2
+Axelius Nicolai	2
+Baltzar	2
+Bartholomeus	2
+Battista	2
+Bengt Didric	2
+Bengt Johansson	2
+Bernhard Christoph	2
+Bernhard Severin	2
+Bonde	2
+Carolus Caroli	2
+Casparus	2
+Christianus Andreæ	2
+Christiernus Henrici	2
+Christoffer	2
+Christoph Friedrich	2
+Christoph Gerhard Wilhelm	2
+Claes Magnus	2
+Clas Gustaf	2
+Claudius Johannis	2
+Cyriacus	2
+Didrik Reinhold	2
+Eliakim Jacob	2
+Engelbrekt	2
+Ericus Andreae	2
+Ericus Andreæ	2
+Ericus Christophori	2
+Ericus Matthiæ	2
+Ericus Nicolai	2
+Ericus Thomae	2
+Erland Zacharias	2
+Erlandus Erlandi	2
+Esbern	2
+Ferdinand Henrik	2
+Filippo	2
+Fredric Jacob	2
+Fredric Ulric	2
+Fredrik Adolf	2
+Fredrik Ludwig	2
+Fredrik Reinhold	2
+Fredrik Vilhelm	2
+Friedric	2
+Friedric Wilhelm	2
+Friedrich Arnold	2
+Friedrich Casimir	2
+Friedrich Konrad	2
+Friedrich Ludwig Zacharias	2
+Georgius Henrici	2
+Georgius Matthiae	2
+Gerhard Störning	2
+Gottlob Friedrich	2
+Gregorius Laurentii	2
+Gudmundus Jacobi	2
+Gustaf -	2
+Gustaf Casten	2
+Gustaf Ernest	2
+Gustaf F	2
+Gustaf Henrik	2
+Gustaf Hindrik	2
+H Erman H Enrik	2
+Hans Joch	2
+Hans Reinhold	2
+Haquinus Andreae	2
+Heinrich Balthasar	2
+Heinrich Friedrich	2
+Heinrich Friedrich Theodor	2
+Henric Bernhard	2
+Henricus Martini	2
+Henricus Olai	2
+Henrik Magnus	2
+Hieronymus	2
+Hindric	2
+Hjalmar	2
+Ignaz Ferdinand	2
+Ingemund	2
+Isaak	2
+Isac Mårten	2
+J Ohann C Hristian	2
+J Oseph	2
+Jacob Fredrik Emanuel	2
+Jacob Johannis	2
+Jacob Ludvig	2
+Jakob Axel	2
+Jakob Hornemann	2
+Jakob Magnus	2
+Jakob Wilhelm	2
+Jan De	2
+Joachim Christoph Friedrich	2
+Joannes	2
+Joaquim	2
+Joaquim José Antonio	2
+Johannes Arvidi	2
+Johannes Christierni	2
+Johannes Haquini	2
+Johannes Holmius	2
+John Gerhard	2
+Jonas Fredric	2
+Jonas Matthias	2
+Josephus Svenonis	2
+Josias	2
+Karl Gottlieb	2
+Karl Ludwig Methusalem	2
+Knut Henric	2
+Knut Pehr	2
+Konung Av Preussen	2
+Kurt Polycarp Joachim	2
+Lars Carlsson	2
+Latinus	2
+Lorens Gustaf	2
+Ludvig Adolf Peter	2
+Ludvig Detlof	2
+Ludwig Gotthard	2
+Magnus Andreae	2
+Magnus Peter	2
+Magnus Samuelis	2
+Malte	2
+Matthias Andreæ	2
+Michail Illarionovič Goleniščev	2
+Mohammed	2
+N Athaniel	2
+Nicodemus	2
+Nicolaus Andreae	2
+Nicolaus Joannis	2
+Nicolaus Theodori	2
+Niels Ditlev	2
+Niklas N	2
+Nils Anders	2
+Nils Isak	2
+Olaus Jonae	2
+Olaus Jonæ	2
+Olaus Laurentii	2
+Olaus Nicolai H	2
+Peder Nielsen	2
+Pehr Olof	2
+Pehr P	2
+Pehr Samuelsson	2
+Peter Fredrik	2
+Peter Heinrich Christof	2
+Peter Olivarius	2
+Petronius	2
+Petrus Elias	2
+Petrus Gustaf	2
+Petrus Hans	2
+Petrus Haquini	2
+Petrus Jonæ	2
+Petrus Olai	2
+Piotr Henryk	2
+Reinhold Galle	2
+Reinhold R	2
+Reinholdt	2
+Romanus	2
+Romble	2
+Rudolf Zacharias	2
+S Amuel T Homasson	2
+Salmon	2
+Salomon L	2
+Sergej Semenovič	2
+Sigismund	2
+Simon Caroli	2
+Sturla	2
+Sulpice	2
+Sven Fredrik	2
+Sven Henric	2
+Sven Josef	2
+Sven Magnus	2
+Sveno Holgeri	2
+Szymon	2
+Theodorus	2
+Thomas Rasmussen	2
+Tufwe	2
+Tyge Jesper	2
+Urbanus	2
+Volrad Joachim	2
+Wilhelm Fredrik	2
+Wilhelm Gottlieb	2
+Wilhelmus	2
+A Nders C Arl	1
+Abrahamus Abrahami	1
+Abrahamus Georgii	1
+Abrahamus Johannis	1
+Achatius Samuelis	1
+Adolf Henrik	1
+Agostini	1
+Agustino	1
+Ahasverus	1
+Aleksandr Borisovič	1
 Aleksandr Semenovič	1
-Anders Fredrik	1
-Apollonius	1
-Arnaud	1
-Arvidus	1
-Augustinus	1
-Axel Magnus	1
-Christiernus Henrici	1
-Claes	1
-Clas Fredric	1
-Corfitz Ludvig	1
-Edvard Fredric	1
+Aleksej	1
+Alessandro	1
+Ambernus Haquini	1
+Ambernus Laurentii	1
+Ambrosius E	1
+Anders Fredric	1
+Anders Gottlieb	1
+Anders Ol Ofsson	1
+Anders Salomon	1
+Anders Theodor	1
+Andr	1
+Andreas Andreae Jr	1
+Andreas Stephanus	1
+Andreas Svenonis	1
+Andreij	1
+Anicius Manlius Severinus	1
+Anthonis	1
+Anundus Nicolai	1
+Apollonios	1
+Arved	1
+Arvid Magnus	1
+Arvidus Andreæ	1
+Arvidus Haqvini	1
+Arvidus Johannis	1
+Arvidus Laurentii	1
+Arvidus Magni	1
+Arvprins Av Baden	1
+Arwid	1
+Aulus	1
+Axel Didrik	1
+Axel Ehrenreich Gustaf	1
+Axel Fredrich	1
+Axel G Ottlieb	1
+Baltasar	1
+Balthasar Ludwig	1
+Balthazar	1
+Barthold G	1
+Barthold Rudolf	1
+Barthold Samuel	1
+Barthollus	1
+Bartolomeo	1
+Benct Andersson	1
+Benedictus Andreae	1
+Benedictus Andreæ	1
+Benedictus Christierni	1
+Benedictus Haraldi	1
+Benedictus Laurentii	1
+Benedictus Matthiæ	1
+Benedictus Matthiaesson	1
+Benedictus Nicolai	1
+Benedictus Olai	1
+Bengt Adolf	1
+Bengt Jakob	1
+Berendt Joch	1
+Bernhard Anders	1
+Bernhard Gertsson	1
+Bernhard Henric	1
+Bernhardus Svenonis	1
+Blasius Ludovicus	1
+Bone Falch	1
+Bror	1
+Brynolf	1
+C Arl J Acob	1
+C Arl Magn Us	1
+C Hristian D Aniel	1
+C Hristian F Riedrich	1
+Cajus	1
+Canutus Jacobi	1
+Carl Chr	1
+Carlo Alessandro	1
+Carolus Magnus	1
+Caspar Gottlob	1
+Casper Henrik	1
+Chr Istian Gotth Ilf	1
+Christ Ian Wilh Elm	1
+Christianus Christiani	1
+Christianus Joachimi	1
+Christiernus Caroli	1
+Christoff	1
+Christoffer Fritz	1
+Christopherus Johannis	1
+Christophorus Erici	1
+Christophorus Johannis	1
+Christophorus Jonae	1
+Christophorus Laurentii	1
+Claes G	1
+Claes Håkansson	1
+Claes Josef	1
+Clas Friedrich	1
+Clas Henric	1
+Cordt	1
+Corvinus	1
+Cristof Hermann	1
+Daniel Andreae	1
+Daniel Svenonis	1
+Diedrich Hermann	1
+Diedrich Johannes	1
+Diokles	1
+E Rik S Amuel	1
+Eduard Heinrich	1
+Edvard Gustaf	1
 Edvardus Johannis	1
-Eiler	1
-Enevald	1
+Egidius Günther	1
+Ejlert	1
+Elaus Laurentii	1
+Elavus Andreae	1
+Elias Andreae	1
+Elias Gustaf	1
+Enevold Nielsen	1
+Enok	1
+Erasmus Peter	1
 Eric Th Omas	1
-Ericus	1
+Ericus Aronis	1
+Ericus Claudii	1
 Ericus Haquini	1
-Ericus Johannis	1
-Erlandus Brodderi	1
-Ernst Ludwig	1
+Ericus Holstenii	1
+Ericus Nicolavi	1
+Ericus Olai	1
+Ericus Petrus	1
+Ericus Simonius	1
+Ernestus Fridericus	1
+Ernst Adolf	1
+Ernst Ferdinand	1
+Ernst Friedrich	1
+Ernst Henrik	1
+Ernst Ludv	1
+Ernst Theodor	1
+Esaias Magnus	1
+Eschillus Svenonis	1
+Eucharius	1
 Fabricio	1
+Ferdinand	1
+Ferrante	1
 Fr Chr	1
-François Guillaume	1
-Franz Volkmar	1
-Fredric	1
-Fredrik Ludvig	1
-Fredrik Magnus	1
-Fredrik Wilhelm	1
-Friedrich Christoph	1
-Fromholt Torsten	1
+Frans Didrik	1
+Frans Fredrik	1
+Franz Fredric	1
+Franz Xaver	1
+Frederik Julius	1
+Frederik Ludvig	1
+Frederik Wilhelm	1
+Fredric Adolf Ulric	1
+Fredric Albrecht	1
+Fredrik Bengt	1
+Fredrik Ferdinand	1
+Fredrik Larsson	1
+Fredrik Samuel	1
+Fredrik Wilhelm Bruenech	1
+Fridericus	1
+Fridericus Werner	1
+Fridrik Reinhold	1
+Friederich Peter	1
+Friedrich Christlieb	1
+Friedrich Ernst	1
+Friedrich Germanus	1
+Friedrich Gotthelf	1
+Friedrich Königsmarck	1
+Friedrich Wilhelm Jonathan	1
+Fromhold Torsten	1
+Fulvius	1
+G Ustaf A Dolf	1
+Gaspard	1
+Gehard	1
+Gennaro Antonio	1
+Georgius Andreae	1
+Georgius Canuti	1
+Georgius Gudmundi	1
+Georgius Johannis	1
+Georgius Michaelis	1
+Germund	1
+Gisle	1
+Gomer	1
+Göran Magnus	1
+Gottfried Balthasar	1
+Gotthardt	1
+Gotthelf Wilhelm Christoph	1
 Gotthelf Wilhelm Rupert	1
-Gottlieb	1
-Gudmund Jöran	1
-Gustaf Casten	1
-Gustaf Fredric	1
-Gustaf Fredrik	1
-Gustaf Lars	1
-Gustaf Peringer	1
-Gustaf Ulric	1
-Gustaf Wilhelm	1
-Hans Joch	1
-Haquin	1
-Harald	1
-Haraldus	1
-Hemming	1
-Henning Gustaf	1
-Henricus Matthiae	1
+Gottlieb Friedrich	1
+Gottlieb Jacob	1
+Gottlob	1
+Gregers	1
+Gudbrand	1
+Guillaume	1
+Guillaume Hyacinthe	1
+Gustaf Christer	1
+Gustaf Ernst	1
+Gustaf Gustafsson	1
+Gustaf Hindrich	1
+Gustaf Hinric	1
+Gustaf Johanson	1
+Gustaf Ludviq	1
+Gustaf Olofsson	1
+Gustaf Peter	1
+Gustaf Ulfsson	1
+Gustaf Ulrik	1
+Gustaf Wathier	1
+Gustav Ludvig	1
+Gustav Nicklas	1
+Gustavus Andreae	1
+H Ans C Hristopher	1
+H Gottlob	1
+Håkan Andersson	1
+Hans Ancher	1
+Hans Andreae	1
+Hans Christoffer	1
+Hans Egede	1
+Hans Friederich	1
+Hans Henric	1
+Hans Henrik	1
+Hans Niclas	1
+Hans Peder	1
+Hans Ulrich	1
+Haqvinus Petri	1
+Haraldus Johannis	1
+Haraldus Petri	1
+Heinrich Ferdinand	1
+Heinrich Gottlieb	1
+Heinrich Leopold	1
+Heinrich Matthias	1
+Heirich Basilius	1
+Heizo	1
+Hendrik	1
+Henman	1
+Henning Reinhold	1
+Henric Wilhelm	1
+Henricus Abrahami	1
+Henricus Henrici	1
+Henricus Joachimi	1
+Henricus Johannis	1
+Henricus Laurentii	1
 Henricus Petri	1
-Henrik Wilhelm	1
-Hindric	1
-Hindrich	1
-Hugo Adolf	1
-Isac Mårten	1
+Henrik G	1
+Herrman	1
+Hieronymus Justesen	1
+Honoré Sebastien	1
+Ignaz	1
+Ignaz Franz	1
+Imm Joh Gerh	1
+Ingemar	1
+Isaacus Jacobi	1
+Isaacus Svenonis	1
+Isac E	1
+Isac Herman	1
+Isak Jakob	1
+Israel Persson	1
+J Ens L Assen	1
 J Ohan	1
+J Ohan A Dolf	1
 J Ohan F Redrik W Ilhelm	1
+J Ohann B Enjamin	1
+J Ohann G Ottfried	1
+J Ohn	1
+Jacob Edvard	1
+Jacob Gerhard	1
+Jacob Godfried	1
+Jacob Hornemann	1
+Jacob Theodor	1
 Jacobus Andreae	1
-Jan Eric	1
-Jan Evert	1
-Jean-baptiste	1
-Jean-jacques	1
-Joachim Christoph Friedrich	1
-Johannes Johannis	1
+Jacopo	1
+Jacopo Dal	1
+Jakob Algoth	1
+Jakob Fredrik	1
+Jakob Ludwig Salomo	1
+Jakobus	1
+James Ferdinand	1
+Jan Gustaf	1
+Jens Henrik	1
+Jens Jakob	1
+Jens Thomsen	1
+Jens Wilken	1
+Jeppe	1
+Joachim Adolf	1
+Joachim Hartwig	1
+Joachim Vilhelm	1
+Joakim	1
+Jobst	1
+Joh An Chr Istopher	1
+Joh Ann Gerhard	1
+Joh Jonass	1
+Joh Mich	1
+Johan Chr	1
+Johann Chr	1
+Johannes A	1
+Johannes æstani	1
+Johannes Broderi	1
+Johannes Christfried	1
+Johannes Christophorus	1
+Johannes D ä	1
+Johannes D y Kyrkoherde F	1
+Johannes Eberhard	1
+Johannes Franciscus	1
+Johannes Gilij	1
+Johannes Gregorii	1
+Johannes Isaci	1
+Johannes Jacobus	1
+Johannes Joachimi	1
+Johannes Josua	1
+Johannes L	1
 Johannes Laur	1
-Johannes Nicolai	1
-Johannes Svenonis	1
-Jonas Fredric	1
-Jonas Germundi	1
+Johannes Stephani	1
+Johannes Theodoricus	1
+Johannes Thomae	1
+Johannes Tobias	1
+John Dundas	1
+John Gustaf	1
+Jonas Christophori	1
+Jonas Fredrik	1
+Jonas Gustaf	1
+Jonas Henrici	1
 Jonas Jacobi	1
-Jonas Reinhold	1
+Jonas Johannis	1
 Jonas Svenonis	1
-Jöns Bernhard	1
-Jöns Henric	1
-Josef	1
-Karl Gottlieb	1
-Knut Nilsson	1
-Knut Pehr	1
-Konrad Ludwig	1
+Jonas Zacharias	1
+Jöns Henr Ik	1
+Jöns Henrik	1
+Jöran Ulric	1
+Jørgen Henrik	1
+Josef Wilhelm	1
+Karl Adolf	1
+Karl Eduard	1
+Karl Fridrich	1
+Karl Gottlieb Theodor	1
+Karl Gottlob	1
+Karl Magnus	1
+Karl Magnus Didrik Mårtensson	1
+Kasper Magnus	1
+Knud Rold	1
+Knut Nikolaus	1
+Konrad Ludvig	1
+Lambert Ignatius	1
+Lampertus	1
+Lantgreve Av Hessen-rheinfels	1
+Lars Adolf	1
 Lars Chr	1
-Lars Magnus	1
-Lars Niclas	1
-Lars Nilsson	1
-Legh	1
+Lars Christoffer	1
+Lars Johansson	1
+Lars Niklas	1
+Lars Reinhold Nils	1
+Laurentius Andreae	1
+Laurentius Gabrieli	1
+Laurentius Svenonis	1
+Lauritz	1
+Lauritz Fredrik	1
+Lazare	1
+Lechard	1
 Liborius	1
-Ludwig	1
-Magnus Andreae	1
-Magnus Friedrich	1
-Magnus Laurentius	1
-Magnus Olai	1
-Marcus Tullius	1
+Lorens Wolter	1
+Lorentz Benedict	1
+Lorenz Diderich	1
+Lorenz Gustaf	1
+Ludovicus	1
+Ludovicus Ludovici	1
+Ludvig Ferdinand	1
+Ludvig Isaksson	1
+Ludvig Stoud	1
+Ludwig Albrecht	1
+Ludwig Ernst	1
+Ludwig Melchior	1
+Luigi	1
+Magnus Didrik	1
+Magnus Fredrik Ferdinand	1
+Magnus Gabrielis	1
+Magnus Henric	1
+Magnus Laurentii Westadius	1
+Magnus Nicolai	1
+Magnus Samuel	1
+Magnus Svenonis	1
+Magnus Wilhelm	1
+Marcus Henrici	1
+Martinus Andreae	1
+Mathieu François	1
+Mathieu Noël	1
+Mattheus	1
+Matthias Andreae	1
+Matthias Christophori	1
+Matthias Erici	1
+Matthias Isaci	1
+Matthias J	1
+Matthias Matthiae	1
 Matthias Rudolph	1
-Mauritz	1
-Niclas	1
-Nicolaus Theodori	1
+Matthijs	1
+Mauritz Casimir	1
+Melcher	1
+Mich	1
+Michael Gustavi	1
+Michael Johannis	1
+Michael Samuelis	1
+Michail	1
+Michail Vasilʹevič	1
+Mogens	1
+Muhammad	1
+Mungo	1
+N Ils A Dolf	1
+Nicolai Edinger	1
+Nicolas Gustaf	1
+Nicolaus Svenonis	1
+Niels Arvid	1
+Niklas	1
+Niklas Mathias	1
+Nikolai Frederik Severin	1
 Nikolaj Ivanovič	1
-Nils Harald	1
-Nils Samuel	1
-Olaus	1
-Olaus Nicolai	1
-Olaus Petri	1
-Olavus	1
-Olof Johansson	1
-Peder	1
+Nikolaus Bendix	1
+Nils Berndt	1
+Nils Bernt	1
+Nils Birger	1
+Nils Christoffer	1
+Nils Eskilsson	1
+Nils Harald Joachim	1
+Nils Hufvudsson	1
+Nils J	1
+Nils M	1
+Nils Matthias	1
+Nils Nilsson	1
+Nils Olof	1
+Nils Philip	1
+Nils Rienhold	1
+Nils Rudolf	1
+Nils Rudolph	1
+Nils Samuelsson	1
+O Lof A Braham	1
+Odert Albrecht	1
+Olaus Elias	1
+Olaus Michælis	1
+Olaus Olai	1
+Olaus Samuelis	1
+Olaus Zachariae	1
+Olavus Olavi	1
+Olof Andreae F	1
+Olof Eriksson	1
+Olof Jakob	1
+Olof Ulric	1
+Oluff	1
+Oluff Nilszon	1
+Oscar Ludwig Bernhard	1
+Osip	1
+Pappus Johannis	1
+Paulus Svenonis	1
+Peder Hansen	1
+Peder Nilsson	1
+Peder Pedersen	1
+Pehr Axelsson	1
+Pehr Börje	1
+Pehr Eberhard	1
 Pehr Gottfrid	1
-Pehr Gustaf	1
-Pehr Wilhelm	1
+Pehr Gullbrand	1
+Pehr Håkansson	1
+Pehr Henric Achatius	1
+Pehr Isac	1
+Pehr Isr	1
+Pehr Ivar	1
+Pehr Joh:sson	1
+Pehr Olofsson	1
+Pehr Ulrik	1
+Per Erikson	1
+Per Gottlieb	1
+Per Hieronymus	1
+Peter Adolf	1
 Peter Christoffer	1
 Peter Eriksson	1
 Peter Gustaf	1
-Peter Niclas	1
-Petrus Jonae	1
-Petrus Jonæ	1
+Peter Salomon	1
+Petrus Abelis	1
+Petrus Arvidi	1
+Petrus Birgeri	1
+Petrus Brynolphi	1
+Petrus C	1
+Petrus Esberni	1
+Petrus Gabrielsson	1
+Petrus Georgius	1
+Petrus Gislesson	1
+Petrus Gudmundi	1
+Petrus Laurentii Laurentinus	1
 Petrus Matthiæ	1
+Petrus P	1
+Petrus Simonsson	1
+Petrus T	1
+Petrus Torstani	1
+Petrus Zachariæ	1
+Philip Ludwig	1
+Philippus Mathiæ	1
+Pietro Antonio	1
+Pietro Battista	1
+Poul	1
+Ragvald	1
+Reinhard	1
+Reinhold Wilhelm	1
 Richardus Richardi	1
-Salomon	1
+Rochus Friedrich	1
+Rodolphus	1
+Rudolph Gustaf	1
+S Kulo Th Ordsen	1
+Samuel Friedrich Nathanael	1
+Samuel Johannis	1
 Samuel Niclas	1
 Samuel Niklas	1
-Sigismund Friedrich	1
-Sven Gustaf	1
-Theodor Heinrich	1
-Theodorus	1
+Samuel Thomae	1
+Schoultz	1
+Sextus Aurelius	1
+Siegmund Jakob	1
+Sigismund Gottfried	1
+Sigvard Reinhold	1
+Silius	1
+Silvestre François	1
+Stanislaus	1
+Stanislaw	1
+Steno Joachimi	1
+Stephanus Nicolai	1
+Sulpicius	1
+Svante Gustaf	1
+Sven Friedric	1
+Sven Haqvin	1
+Sveno Jacobi	1
+Sveno Jonae	1
+Sveno L	1
+Sveno Laurentii	1
+Sveno Matthiae	1
+Sveno Nicolai	1
+Sveno Svenonis	1
+Sveno Theodori	1
+Sveno Trottonis	1
+Swen Ingemar	1
+T Homas	1
+T önnes C Hristian Bruun	1
+Teodor	1
+Terkel Christenson	1
+Tertius	1
+Th W	1
+Theodor Wolther	1
+Theophil	1
+Theophil Caelestin	1
+Theophil Cælestin	1
 Thomas Andersson	1
-Tufwe	1
-Ulric	1
+Thomas Fowell	1
+Thomas Hales D'	1
+Thomas Michaelis	1
+Thorkil	1
+Timoteus Merzahn	1
+Tobias Benedict	1
+Tormod	1
+Torstenius	1
+Traiano	1
+Tyge	1
+Uddo	1
+Ulric Gottlieb	1
+Ulric Gustaf	1
+Vargas	1
+Vasilij Nikitič	1
 Wassili	1
-Wilhelm Mauritz	1
-Wolfgang Dominicus	1
-Zacharias Laurentii	1
+Watkin	1
+Wentzel Friedrich	1
+Wilhelm Adolf	1
+Wilhelmus Petri	1
+Wincenty	1
+Wolfgangus Matthaeus	1
+Wolfhart	1
+Zachris	1

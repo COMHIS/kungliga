@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-16"
+date: "2016-07-17"
 output: markdown_document
 ---
 
@@ -25,6 +25,9 @@ output: markdown_document
 This documents the conversions from raw data to the final preprocessed version (accepted, discarded, conversions). Only some of the key tables are explicitly linked below. The complete list of all summary tables is [here](output.tables/).
 
 ## Annotated documents
+
+  * 385771 documents in the original raw data
+  * 73176 documents in the final preprocessed data (18.97%)
 
 Fraction of documents with data:
 

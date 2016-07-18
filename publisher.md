@@ -38,17 +38,17 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher           | titles|    paper|
-|:-------------------|------:|--------:|
-|norstedt            |   7251| 17002.13|
-|ahlen akerlund      |   2110|  4244.44|
-|almqvist viksell    |   2073|  4157.12|
-|b vahlström         |   1901|   252.26|
-|geber               |   2414|  2458.16|
-|gleerup             |   2670|  2560.07|
-|lindblad            |   2160|  1662.33|
-|natur kultur        |   2313|  3089.58|
-|tiden               |   1786|  2245.49|
-|vahlström vidstrand |   3208|  5049.83|
+|publisher           | titles|      paper|
+|:-------------------|------:|----------:|
+|norstedt            |   7251| 3544323.35|
+|ahlen akerlund      |   2110|  499099.65|
+|almqvist viksell    |   2073|  633013.19|
+|b vahlström         |   1901|   30410.76|
+|geber               |   2414|  581714.06|
+|gleerup             |   2670|  464496.18|
+|lindblad            |   2160|  347976.22|
+|natur kultur        |   2313|  658512.67|
+|tiden               |   1786|  360247.22|
+|vahlström vidstrand |   3208|  777831.94|
 
 

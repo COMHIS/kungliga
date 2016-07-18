@@ -67,7 +67,7 @@ Popularity of different document sizes over time. Left: absolute title counts. R
 
 
 
-<img src="figure/dimension-title_vs_paper-1.png" title="plot of chunk title_vs_paper" alt="plot of chunk title_vs_paper" width="430px" />
+![plot of chunk title_vs_paper](figure/dimension-title_vs_paper-1.png)
 
 <!--
 

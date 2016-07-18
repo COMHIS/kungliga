@@ -1,7 +1,7 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-18"
+date: "2016-07-19"
 output: markdown_document
 ---
 
@@ -40,15 +40,15 @@ Title count versus paper consumption (top publishers):
 
 |publisher           | titles|      paper|
 |:-------------------|------:|----------:|
-|norstedt            |   7251| 3544323.35|
-|ahlen akerlund      |   2110|  499099.65|
-|almqvist viksell    |   2073|  633013.19|
-|b vahlström         |   1901|   30410.76|
-|geber               |   2414|  581714.06|
-|gleerup             |   2670|  464496.18|
-|lindblad            |   2160|  347976.22|
-|natur kultur        |   2313|  658512.67|
-|tiden               |   1786|  360247.22|
-|vahlström vidstrand |   3208|  777831.94|
+|norstedt            |   7251| 1772161.68|
+|ahlen akerlund      |   2110|  249549.83|
+|almqvist viksell    |   2073|  316506.60|
+|b vahlström         |   1901|   15205.38|
+|geber               |   2414|  290857.03|
+|gleerup             |   2670|  232248.09|
+|lindblad            |   2160|  173988.11|
+|natur kultur        |   2313|  329256.34|
+|tiden               |   1786|  180123.61|
+|vahlström vidstrand |   3208|  388915.97|
 
 

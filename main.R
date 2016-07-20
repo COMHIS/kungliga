@@ -7,6 +7,11 @@ library(bibliographica)
 # I/O definitions
 fs <- list.files("~/data/Kungliga/preprocessed", full.names = TRUE, pattern = ".csv.gz")
 output.folder <- "output.tables/"
+
+# Languages to consider in cleanup.
+# TODO: recognize the necessary languages automatically ?
+languages <- c("swedish")
+
 catalog <- "kungliga"
 
 # Remove selected fields
@@ -39,7 +44,6 @@ source(system.file("extdata/validation.R", package = "bibliographica"))
 # -------------------------------------------------
 
 source(system.file("extdata/enrich.R", package = "bibliographica"))
-source("enrich.kungliga.R") # Kungliga-specific
 
 write.table(dim.estimates, sep = ",", row.names = F,
   file = paste(output.folder, "sheetsize_means.csv", sep = "/"),

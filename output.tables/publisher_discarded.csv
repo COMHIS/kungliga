@@ -1,7 +1,9 @@
 Name	Count
-Total count: 	109308
+Total count: 	127833
 Bonnier	12873
-Norstedt	 6237
+Sverige.	10017
+Norstedt	 6242
+Riksdagen	 3449
 Wahlström & Widstrand	 3026
 Kongl. tryckeriet	 2845
 Gleerup	 2352
@@ -22,6 +24,7 @@ Utg.	  934
 Ljus	  907
 Natur o. kultur	  860
 [s.n.]	  855
+Sverige.;Sverige.	  806
 Schildt	  804
 [Förf.]	  682
 Beijer	  676
@@ -39,7 +42,9 @@ Fosterl.-stift.	  450
 Romanförl.	  450
 Chelius	  427
 Forum	  419
+Edman	  418
 Rabén & Sjögren	  416
+Berling	  408
 Arbetarkultur	  375
 Fosterlandsstift	  367
 Centraltr.	  361
@@ -57,6 +62,7 @@ Gehrmans musikförl.	  306
 Björck & Börjesson	  304
 Folket i bild	  296
 Sv. andelsförl.	  290
+Mattsson	  286
 Wettergren & Kerber	  278
 Southern Music	  275
 Fahlcrantz	  271
@@ -72,6 +78,7 @@ utg.	  240
 Gleerupska univ.-bokh.	  238
 Natur och Kultur	  231
 Nord. förl.	  230
+Werner	  228
 Lundequistska bokh.	  226
 P. A. Norstedt & S:r	  225
 Gumpert	  219
@@ -81,6 +88,7 @@ C. W. K. Gleerup	  198
 Fritzes bokf.	  194
 Förb.	  191
 Västra Sverige	  191
+Frenckell	  189
 Samson & Wallin	  187
 [förf.]	  186
 Askerberg	  184
@@ -95,18 +103,20 @@ Sv. bokförl.	  170
 Åhlén & söner	  166
 Sörlin	  166
 Ed. Sylvain	  164
+Keyser	  156
 Radiotjänst	  156
+Hæggström	  155
 [Kungl. tryckeriet]	  154
 Åhlén & Åkerlund :;Bonnier	  153
 Fröléen	  152
 Reuter & Reuter	  152
-Hæggström	  149
 Holmquist	  149
 Palmquist	  149
 Federativ	  147
 S. Flodin	  145
 Bille	  144
 Hierta	  142
+Wankijff	  142
 Nordisk rotogravyr	  138
 Almqvist & Wiksell/Geber	  136
 Gleerupska bokh.	  134
@@ -116,11 +126,13 @@ Missionsförb.	  132
 Norstedts	  132
 Nutiden	  132
 Pingvinförl.	  128
+Salvius	  126
 Utrikespolitiska institutet :;Kooperativa förb. [distributör]	  126
 Exp.	  125
 Norblads bokh.	  125
 [Fritzes bokf.]	  121
 Fritzes bokförl.	  119
+Meurer	  119
 Kooperativa förb.	  118
 C. E. Fritzes bokf.-a.-b.	  116
 Sv. kyrkans diakonistyrelse	  116
@@ -133,12 +145,13 @@ Johnson	  111
 B.-M:s bokförl.	  109
 Svenska missionsförb.	  109
 Ad. Johnson	  108
+Nationalmuseum	  108
 Ehrling & Löfvenholm	  106
 Gummesson	  106
-Nationalmuseum	  105
 Appelberg	  104
 Esselte	  104
 Nordiska musikförl.	  104
+Nordström	  104
 Fram.	  103
 Sällsk.	  103
 Seligmann	  103
@@ -152,6 +165,7 @@ C. W. K. Gleerup.	   96
 Lindfors	   96
 Thule	   96
 Allhem	   94
+Olofsson Helsing	   94
 Svenska kyrkans diakonistyrelse	   94
 K. boktr.	   93
 B.-M:s bokf.	   92
@@ -162,26 +176,31 @@ H. Ohlsson	   90
 Ed. Lundén	   89
 Bohlin	   88
 Edlund	   88
+Hansson	   88
 Hjalmar Lundberg & Gösta Olzon	   88
 I. Hæggström	   87
 Kooperativa förbundet	   87
 Nordiska bokhandeln	   87
 Wennerberg	   87
+Reusner	   86
 Idun	   85
 Nordiska förl.	   85
 Sv. alliansmissionen	   83
+Wahlström	   83
 Lagerström	   82
 Svenska andelsförl.	   82
 Looström & K.	   81
 Fosterlands-stift.	   80
 Hellström	   79
+Merckell	   79
 Norden	   79
 Sv. visförl.	   78
-Wahlström	   78
+Lindh	   77
 Nationaltemplarordens förl.	   77
 Sv. bokförl. (Bonnier)	   76
 Sv. bokförl. (Norstedt)	   76
 Westerberg	   76
+Carlbohm	   75
 Nord. rotogravyr	   75
 Nya tr.-a.-b.	   75
 Världslitteraturen	   74
@@ -191,6 +210,7 @@ Ad. Bonnier	   71
 Svenska kyrkans diakonistyr.	   71
 Gernandt	   70
 Svithiod	   70
+Horrn	   69
 Almqvist & Wiksells skolböcker/Geber	   68
 Frennesson	   68
 Lindstedts bokh.	   68
@@ -200,9 +220,9 @@ s.n.	   66
 Svea rike	   66
 Svenska kyrkans diakonistyrelses bokförlag	   66
 Wilhelmsson	   66
+Beckman	   65
 Kooperativa förbundets bokförlag	   65
 Lelands musikförl.	   65
-Beckman	   64
 Huldberg	   63
 Ingeniörsvetenskapsakad.	   63
 Inst.	   63
@@ -212,11 +232,13 @@ K. L. Beckman	   62
 Looström	   62
 Birkagården	   61
 Sandbergs bokh.	   61
+Sverige.;Sverige.;Sverige.	   61
 And. L. Löfströms förl.	   60
 Nordiska museet	   60
 Smålandsposten	   60
 Svenska bokförl.	   60
 Framåt	   59
+Kongl. Finska boktryckeriet	   57
 Verdandi	   57
 Frihet	   56
 Norstedt & S.	   56
@@ -231,14 +253,14 @@ Brevskolan	   53
 Ekman	   53
 Fosterlandsstift.	   53
 Grönstedts musikförl.	   53
-Lindh	   53
 Wretman	   53
+Höjer	   52
 The Continental book co.	   52
 Arbetarnes tr.	   51
 Bergvall	   51
-Berling	   51
 Bonnier ;;Schildt	   51
 Ahlins musikförl.	   50
+Biörkman	   50
 C. A. V. Lundholm	   50
 Fosterl.-stift	   50
 Fylgia	   50
@@ -260,6 +282,7 @@ F. & G. Beijer	   46
 Nordiska bokh.	   46
 Svea	   46
 Sveriges kyrkl. studie-förl.	   46
+Kempe	   45
 Kooperativa förbundets bokförl.	   45
 Lindstedts univ.-bokh.	   45
 Bröd. Lagerström	   44
@@ -278,6 +301,7 @@ Pro caritate	   42
 Åhlén & Åkerlund :;[Bonnier]	   41
 Ed. Odeon	   41
 Gleerup.	   41
+Hesselberg, Peter	   41
 Kvinnliga missions arbetare	   41
 Löfström	   41
 ÖM	   41
@@ -286,9 +310,12 @@ Sveriges kristliga studentrörelse	   41
 Tullberg	   41
 Univ.	   41
 Fost.-stift.	   40
+Günther	   40
 Schmidt	   40
+Wall	   40
 [Förbundet]	   39
 [utg.]	   39
+Brockenius	   39
 Brudin	   39
 Engberg-Holmberg Publ. Co.	   39
 Fritze i distr.	   39
@@ -311,6 +338,8 @@ Diakonistyrelsen	   36
 Ed. Kejving	   36
 G. Chelius	   36
 Hasse W. Tullberg	   36
+Hesselberg	   36
+Hjerta	   36
 T. Ehrling	   36
 Almqvist & Wiksell [distributör]	   35
 Ev. fosterl.-stift.	   35
@@ -331,6 +360,7 @@ Schlager-förl.	   34
 Wahlström & Widstrand i distr.	   34
 X-böckerna	   34
 Åhlén & Åkerlund (Bonnier)	   33
+Deleen	   33
 Fr. Skoglund	   33
 Helgelseförb.	   33
 Hermes	   33
@@ -340,7 +370,6 @@ Lundholm	   33
 M. Bergvall	   33
 Aftonbladet	   32
 Brand	   32
-Hjerta	   32
 J. Zetterlund	   32
 Svenska bokförlaget	   32
 Sverges kommunistiska parti	   32
@@ -352,9 +381,12 @@ Sällsk. Bokvännerna	   31
 Strömberg	   31
 Sv. landsbygdens studieförb.	   31
 V. Petterson	   31
+Wald	   31
+Grefing	   30
 Karnevalslagret	   30
 Ph. Lindstedts univ.-bokh.	   30
 Berlingska boktr.	   29
+Curio	   29
 Gleerupska univ:s bokh.	   29
 I. Marcus	   29
 Kärnan	   29
@@ -376,6 +408,7 @@ Jordbrukstekniska institutet	   27
 Länstidn:s	   27
 N. P. Pehrsson	   27
 Norlin	   27
+Palmblad	   27
 Sv. journalen	   27
 Vingförl.	   27
 [Lundequistska bokh.]	   26
@@ -387,6 +420,7 @@ Gleerups	   26
 Lundequist	   26
 O. L. Lamm	   26
 Schmidts	   26
+Winter	   26
 Zetterlund & Thelander	   26
 Ardor	   25
 Axel Holmström	   25
@@ -394,6 +428,10 @@ Bolinder	   25
 Centraltryckeriet	   25
 Föreningsvaror	   25
 Gleerupska univ:s-bokh.	   25
+Gutterwitz	   25
+Holmberg	   25
+Kungl. Tryckeriet	   25
+Leffler	   25
 Sonora	   25
 Sv. missionsförbundet	   25
 Svantesson	   25
@@ -411,6 +449,7 @@ Tammi	   24
 Åhlén	   23
 Alga	   23
 Appelbergs	   23
+Eberdt	   23
 Gumperts bokh.	   23
 H. Geber	   23
 Huldbergs bokh.	   23
@@ -420,10 +459,13 @@ Sv. turistfören.	   23
 Svensk läraretidnings förlag	   23
 Teaterförl.	   23
 Z. Hæggströms förlagsexp.	   23
+Zeipel et Palmblad	   23
 Boktr.-a.-b.	   22
+Burchardi	   22
 Diakonissanstalten	   22
 Fahlstedt	   22
 Gebers	   22
+Grefingska tryckeriet	   22
 H. Pettersson	   22
 Hasselgren	   22
 Kåbe	   22
@@ -435,8 +477,10 @@ Sigurdsson	   22
 Sv. kristl. studentrör	   22
 Svanbäck	   22
 T. Ehrling musik	   22
+Wahlström & Låstbom	   22
 Wahlström & Widstrand i kommission	   22
 Wald. Zachrisson	   22
+Wallius	   22
 Åhlen & Åkerlund	   21
 Exportfören.	   21
 förb.	   21
@@ -445,6 +489,7 @@ Gen.-stab:s lit. anst. (distr.)	   21
 H. Schildt	   21
 Hanselli	   21
 Industriens upplysningstjänst	   21
+Kämpe	   21
 Litteraturförlaget	   21
 Meijel	   21
 Sv. nykterhetsförl.	   21
@@ -471,6 +516,7 @@ Norrköpings tidningar	   20
 Örebro Dagblad	   20
 Saxon & Lindström :;[Seelig]	   20
 Statens provningsanstalt	   20
+Stenhammar et Palmblad	   20
 Sveriges kyrkliga studieförb.	   20
 Tr.-a.-b.	   20
 [Fritzes bokförl.]	   19
@@ -478,6 +524,7 @@ Tr.-a.-b.	   20
 [Observatoriet]	   19
 Aura	   19
 Borelius	   19
+Decreaux	   19
 EFS	   19
 Exp. (Karol. sjukhuset)	   19
 Fahlcrantz & K.	   19
@@ -485,7 +532,9 @@ Favoritböcker	   19
 Fosterlands-stiftelsen	   19
 Gustafson & Påhlson	   19
 H. Carlsons bokh.	   19
+Hörberg	   19
 J. A. Lindblad	   19
+Janssonius	   19
 Julbudskapets förl.	   19
 Klemmings antiqv.	   19
 Kungsholmens bokh.	   19
@@ -497,7 +546,6 @@ W. Schultz	   19
 Abr. Lundquist	   18
 Ferm	   18
 Fören. för svensk undervisningshistoria	   18
-Frenckell	   18
 H. Ohlssons	   18
 Hedlund	   18
 Lundquist	   18
@@ -524,6 +572,7 @@ Församlingen	   17
 Fosterlandsstiftelsen	   17
 G. Tisells tekn. förl.	   17
 Gothia	   17
+Haeggström	   17
 Hæggströms förlagsexp.	   17
 Hälsovännen	   17
 Högerns riksorganisation	   17
@@ -550,15 +599,14 @@ Förf	   16
 Fournir	   16
 Fritzes bokf. i distr.	   16
 G. Lindström	   16
-Haeggström	   16
 Handelstr.	   16
 Hemmets vän	   16
 K. Gustafsson	   16
+Lauringer	   16
 Lundequistska bokh. :;O. Harrassowitz	   16
 M. W. Wallberg	   16
 Museet	   16
 Östgöta Corresp.	   16
-Palmblad	   16
 Palmquists aktieb.	   16
 Partiförl.	   16
 Sandbergs bokh. i distr.	   16
@@ -566,6 +614,7 @@ Seelig i distr.	   16
 Svensk natur	   16
 Svenska förl.	   16
 Svenska journalen	   16
+Svenska turistföreningen	   16
 Svenska vitterhetssamf.	   16
 Sveriges kristliga studentrörelses förl.	   16
 W. Michelsen	   16
@@ -588,6 +637,7 @@ K. L. Svensson	   15
 K. L. Svenssons eftr.	   15
 Klippans Nya accidenstr.	   15
 Kultis-förl.	   15
+Lange	   15
 Natur o. Kultur	   15
 Nordiska bokh. [distributör]	   15
 Nordiska förlaget	   15
@@ -603,10 +653,10 @@ Sundqvist & Emond	   15
 Almqvist & Wiksell (distr.)	   14
 Aug. Collin	   14
 Bagge	   14
+Billingsley	   14
 Dalamagasinet	   14
 Eget förl.	   14
 Exp., Norstedt	   14
-Hörberg	   14
 Informationsbyrån Mellanfolkligt samarbete för fred	   14
 J. Seligmann & K.	   14
 KF:s bokförlag	   14
@@ -616,7 +666,9 @@ Littorin Rydén	   14
 Nord. bokförl.	   14
 Norrköpings Tidn.	   14
 Nya bokförl.-ab.	   14
+Nyström	   14
 P. A. Huldbergs bokförlagsaktieb.	   14
+Reg. Acad.	   14
 SMF	   14
 Suomalainen tiedeakatemia	   14
 Svenska nykterhetsförlaget	   14
@@ -645,8 +697,12 @@ Hey'l	   13
 Jan	   13
 Klara civiltr.	   13
 Länstidn.	   13
+Leffler och Sebell	   13
+Lundblad	   13
 Marcus'	   13
+Marquard	   13
 Nils Georgs musikförl.	   13
+Norberg	   13
 Normans förlagsexp	   13
 Norstedt & Söner	   13
 Nya bokförl.-a.-b.	   13
@@ -661,6 +717,7 @@ Svenska folkets tidnings förl.	   13
 Svenska tr.-a.-b.	   13
 Tidens förlag	   13
 Tomas	   13
+Zetterberg	   13
 [Koop. förb.]	   12
 [Wettergren & Kerber]	   12
 Affärsekonomi	   12
@@ -670,6 +727,7 @@ Bonnier ;;Söderström	   12
 Bröd. Lindström	   12
 Cederquist	   12
 Dahlberg & C:o	   12
+Eckhardt	   12
 Edquist & Berglund	   12
 Ernst Bauer	   12
 Fahlcrantz'	   12
@@ -683,21 +741,23 @@ K. Grönstedts musikförl.	   12
 L. Rydén	   12
 Länstidningen	   12
 Länstr.	   12
-Leffler och Sebell	   12
 Lindstedt	   12
 Luftskyddsinspektionen	   12
 Norblad	   12
 Nord. museet	   12
 Ny Nord.	   12
+Nyström och Stolpe (1759-1766)	   12
 O. Isacson	   12
 Örebro Dagbl.	   12
 P. Palmquists aktb.	   12
 P. Palmquists aktieb.	   12
+Riksdagen;Riksdagen	   12
 Riksförb. för Sveriges försvar	   12
 Riksluftskyddsförb.	   12
 Schlagerförl.	   12
 Skånska Dagbl.	   12
 Södermanlands läns tidn.	   12
+Stolpe	   12
 Suomalaisen kirjallisuuden seura	   12
 Sv. teosofiska bokf.	   12
 Svenska teknologföreningen	   12
@@ -707,11 +767,14 @@ Zetterlund	   12
 Aftonbl:s	   11
 Aurora	   11
 Barnaserien	   11
+Berg	   11
 Bergh	   11
 Bibliotekstjänst	   11
 Bjurström	   11
 Bokförlagsbyrån	   11
+Christofer Reusner	   11
 Continental Book	   11
+Deleen;Forsgren	   11
 Ehrlingförl.	   11
 Ernst Westerberg	   11
 Folket	   11
@@ -723,7 +786,10 @@ Gen.-stab. lit. anst.	   11
 Generalstabens litografiska anst.	   11
 Gruppverksamheten, Koop. förb.	   11
 H. W. Tullberg	   11
+Hagen	   11
 Hedberg & Björklund	   11
+Hellsten	   11
+Holm	   11
 Johansson	   11
 Kommunikationsdepartementet	   11
 Kooperativa förbundets förlag	   11
@@ -761,13 +827,16 @@ Förl.-a.-b:s i Malmö boktr.	   10
 Förl.-a.-b.	   10
 Förlagsfören. A. S.	   10
 Generalstabens litografiska anstalt	   10
+Gercken	   10
 Gleerup ;;Harrassowitz	   10
+Haberegger	   10
 Halls	   10
 Hansa	   10
-Hellsten	   10
-Holm	   10
+Hantsch	   10
+Jernkontoret	   10
 Julin & Hedenschougs förl.	   10
 Libris	   10
+Liljevalchs konsthall	   10
 Natur & Kultur	   10
 Nautiska förl.	   10
 Nermans trycksaker	   10
@@ -789,7 +858,6 @@ SKS	   10
 Smålänningen	   10
 Söndagsskolfören	   10
 Spegeln	   10
-Svenska turistföreningen	   10
 Tidskriftsböckerna	   10
 Tisell	   10
 Utg	   10
@@ -806,7 +874,6 @@ ABF	    9
 Aktieb. Hiertas bokförlag	    9
 Anders Flood	    9
 Beijer ;;Gernandt	    9
-Berg	    9
 Bonnier i distr.	    9
 C.W.K. Gleerup	    9
 Cirkelförl.	    9
@@ -818,10 +885,12 @@ Evangeliska fosterlandsstiftelsen	    9
 Fahlcrantz & Co.	    9
 Falu nya boktr.	    9
 Forsner	    9
+Fougt	    9
 Fritzes bokh. i distr.	    9
 Fritzes hofbokh.	    9
 Fröléen & C:o.	    9
 Geflepostens	    9
+Grefwe	    9
 Hugo Gebers förlag	    9
 inst.	    9
 Jämtlands-Posten	    9
@@ -829,7 +898,7 @@ Joh. Lundén	    9
 Jonson & Winter	    9
 Landskrona tr.-a.-b.	    9
 Lantbrukssällsk:s tidskr.-ab.	    9
-Leffler	    9
+Leffler & Sebell	    9
 Lindgren	    9
 Linkoln Blom	    9
 Lundequistska bokhandeln	    9
@@ -914,6 +983,7 @@ Ringnér & Enewald	    8
 Romantidningsförl.	    8
 Sanningens härold	    8
 Seelig & C:o i distr.	    8
+Selow	    8
 Sigfrid Flodin	    8
 Skand. förlagsexp.	    8
 Skolornas läroboksförl.	    8
@@ -932,12 +1002,14 @@ Swedish M.E. Book Concern	    8
 Syndikalistens förl.	    8
 Teosof. bokf.	    8
 Thall & Carlsson	    8
+Turistföreningen (Finland)	    8
 Ungdomsstjärnan	    8
 Ungsocialistiska partiet	    8
 Universella broderskapet	    8
 Vänersborgs boktr.	    8
 Västermalm	    8
 Vetenskapsakademien	    8
+Wankijff;Sverige.;Sverige.	    8
 Weijmer	    8
 Wessman	    8
 Westgöta-Posten	    8
@@ -957,11 +1029,13 @@ Beijer ;;Bohlin	    7
 Bergianska trädg.	    7
 Bibeltrogna vänners förl.	    7
 Bröd. Forssell	    7
+Buisson	    7
 C. Suneson	    7
 Carl Blom	    7
 Dagens bokf.	    7
 Djurskyddet	    7
 E. Westerberg	    7
+Ekmanson	    7
 Emil Jansson	    7
 Engberg & Holmberg	    7
 Eranos	    7
@@ -978,18 +1052,21 @@ Handelstidn:s	    7
 Härolden	    7
 Hemmets veckotidn.	    7
 Hirsch	    7
+Hultman	    7
 Ica	    7
 Internat. offertbladet	    7
-Jernkontoret	    7
 Johansson & Svenson	    7
 K. Göranzon	    7
 Kalmartidn. Barometern	    7
 Kansankirja	    7
 Karisto	    7
 Karl Sjöwalls bokh. i distr.	    7
+Keyser;Schroderus	    7
 KF, Gruppverksamheten	    7
+Kongl. Svenska landtbruks-academien	    7
 Kristianstads Läns Tidn.	    7
 Kultisförl.	    7
+Kungl. Vetenskapsakademien	    7
 Kvinnl. miss.-arb:s förl.	    7
 L. Hökerberg	    7
 Lindhska bokh.	    7
@@ -1013,8 +1090,12 @@ Nova Ecclesia	    7
 Ny Nord	    7
 Nya Växjöbladet	    7
 Parnass	    7
+Pauli	    7
+Rahm	    7
+Regiae Academiae typographi	    7
 Riksförb. för sexuell upplysning	    7
 Sahlströms bokh.	    7
+Schneider	    7
 Scoutförl.	    7
 Sěvernye ogni	    7
 Södermanlands hembygdsförb.	    7
@@ -1073,6 +1154,7 @@ Carlsons bokh.	    6
 Caslon press	    6
 Centralförbundet för nykterhetsundervisning	    6
 Clarté	    6
+Collin	    6
 Damernas värld	    6
 Damm	    6
 Dollarböckerna	    6
@@ -1080,7 +1162,6 @@ E. Edquist	    6
 E. Lindgren	    6
 Eginostiftelsen	    6
 Egnell	    6
-Ekmanson	    6
 Ewald Elander	    6
 Folkupplysningsföretagets förlag	    6
 Förbundet	    6
@@ -1098,8 +1179,10 @@ Industriens utredningsinstitut	    6
 Internationella offertbladet	    6
 J. P. Killberg & Son	    6
 Jan förl.	    6
+Kiesewetter	    6
 Kongl. boktryckeriet	    6
 Koop. förb., Gruppverksamheten	    6
+Kumblin	    6
 Kyrkliga förb.	    6
 Lantförsvarets kommandoexp.	    6
 Lärlingsrådet för hotell och restauranger	    6
@@ -1144,6 +1227,8 @@ Svea rikes förl.	    6
 Svensk advent härold	    6
 Svenska amerikanska postens förl.	    6
 Svensson	    6
+Sverige.;Wankijff	    6
+Sverige.;Werner, Johan Heinrich	    6
 Sveriges folkskollärarinneförbund	    6
 Sveriges industriförb.	    6
 Sveriges scoutförb.	    6
@@ -1158,7 +1243,6 @@ Värmlands Folkblad	    6
 Vestmanlands Läns Tidn.	    6
 W. Bille	    6
 W. Billes Bokf.-aktb.	    6
-Wahlström & Låstbom	    6
 Westerbergs	    6
 Wistrand & Thulins förl.	    6
 'Kalmar'	    5
@@ -1192,6 +1276,7 @@ Billow	    5
 Birgin :;[Seelig]	    5
 Birkagårdens förl.	    5
 Birkagårdens förl. i distr.	    5
+Björckegren	    5
 Bohlin & C:o	    5
 Bohlin & Co.	    5
 Bokf. Norden	    5
@@ -1199,7 +1284,6 @@ Bonnier (Sv. bokf.)	    5
 Bröd. Töpel	    5
 C. E. Fritzes hofbokh. i distr.	    5
 Central-tryckeriet	    5
-Collin	    5
 Dala-magasinet	    5
 Die Welt	    5
 E. Rolfs musikförl.	    5
@@ -1207,6 +1291,7 @@ Ebeling & K.	    5
 Eesti raamat	    5
 Ehlins	    5
 Ekblad	    5
+Enaeus	    5
 Engberg-Holmberg Pub. Co.	    5
 Europa ed.	    5
 Evangeliska fosterlands-stift.	    5
@@ -1222,12 +1307,14 @@ Fredrikson	    5
 Fris. landsföreningen	    5
 Fröléen & Co.	    5
 G. Carlson	    5
+Gadelius	    5
 Gehrmans musikförlag	    5
 Generalstabens litogr. anst.	    5
 Gleerup (distr.)	    5
 Göteborgs handelstidn.	    5
 Göteborgs handelstidning	    5
 Göteborgs univ. geografiska inst.	    5
+Grahn	    5
 Grundel	    5
 Gumperts bokh. i distr.	    5
 Gust. Österberg	    5
@@ -1253,7 +1340,6 @@ Länstidn	    5
 Lantbruksförb:s tidskr.-ab [Seelig]	    5
 Lantbruksförbundets tidskriftsaktiebolag	    5
 Läroboksförl.	    5
-Leffler & Sebell	    5
 Lindberg	    5
 Lindblad i distr.	    5
 Ljusdals Tidn.	    5
@@ -1283,6 +1369,7 @@ Puritas	    5
 R. Lagerblad	    5
 Rikets allm. kartverk	    5
 Romantidning	    5
+Rönberg	    5
 Sahlströms bokh. i distr.	    5
 Sederholm	    5
 Skånetr.	    5
@@ -1307,9 +1394,11 @@ Svenska amerikanaren	    5
 Svenska bokförl./Bonnier	    5
 Svenska Bokförlaget	    5
 Svenska litteratursällskapet	    5
+Svenska metallindustriarbetareförbundet	    5
 Svenska skolornas fredsförening	    5
 Svenska turistfören.	    5
 Sverges kommunistiska ungdomsförbund	    5
+Sverige.;Werner	    5
 T. Hedlund	    5
 The Engberg-Holmberg Publ. Co.	    5
 Thulebolagen	    5
@@ -1318,11 +1407,14 @@ Tidskr. Byggmästaren (distr.)	    5
 Tõrvik	    5
 tr. a.-b. Thule	    5
 Trycksaker	    5
+Ungsocialistiska partiets förlag	    5
 Utställningsförlaget	    5
 Vakttornets bibel- och traktatsällsk. :;Internationella bibelstudiesällsk.	    5
 Vårt hems förl.	    5
 Västerbottens nyh:s	    5
 Vestmanlands läns tidn.	    5
+Wennberg	    5
+Wennberg och Nordström	    5
 Westin	    5
 Z. Hæggströms f.-exp.	    5
 Zetterström & Persson	    5
@@ -1354,6 +1446,7 @@ Amiralitetstr.	    4
 Appelberg i distr.	    4
 Appelbergs boktr.	    4
 Arbetarkultur :;[Seelig]	    4
+Arbetarnas bildningsförbund	    4
 Arbetarne	    4
 Augustana Book Concerns tr.	    4
 Axling	    4
@@ -1372,6 +1465,7 @@ Bronellska bokh.	    4
 Credo	    4
 Diakonistyrelsens bokförl.	    4
 E. Jansson	    4
+Eckstein	    4
 Ed. W. Kejving	    4
 Engberg, Holmberg & Lindells förl.	    4
 Enhetsprisförl.	    4
@@ -1426,6 +1520,7 @@ K. Gustafssons tr.	    4
 KF:s bokförl.	    4
 Kristianstads Läns Tidning	    4
 Kulturförlaget	    4
+Kungl. tryckeriet	    4
 Kvällsstunden	    4
 Kvinnl. miss.-arb.	    4
 L. J. Hjerta	    4
@@ -1442,12 +1537,15 @@ Löfving	    4
 LT :;Seelig	    4
 Lundequistska bokh. (distr.)	    4
 Lundgrenska boktr.	    4
+Lunds kristliga studentförbund	    4
 M. C. Aaröe	    4
 Maass	    4
 Malmö konsttryckanst.	    4
 Mellerstedt	    4
+Möllemann	    4
 Natur & kultur	    4
 Natur o. kultur.	    4
+Nestius	    4
 Neutrala institutet	    4
 Nora boktr.	    4
 Nordiska musikförl. :;Warner/Chappell Music Scandinavia	    4
@@ -1468,8 +1566,10 @@ P. M. Sahlströms bokh.	    4
 P. Palmquist	    4
 Palmquist i distr.	    4
 Perfekta-tr.	    4
+Petré	    4
 Postverkets undervisningsanst	    4
 Radiotjänst; Seelig	    4
+Regiae Academiae Typographi	    4
 Riksdagshögerns kansli	    4
 Ringström & Ringström	    4
 Rolfs musikförl.	    4
@@ -1518,6 +1618,7 @@ Svenska nykterhetsförl	    4
 Svenska teknologföreningen,;Svenska teknologföreningen,;Svenska teknologföreningen	    4
 Sverges kommunistiska ungdomsförb.	    4
 Sveriges allm. lantbrukssällskap	    4
+Sveriges industriförbund	    4
 Sveriges scoutförbund. Förlagsavd	    4
 Sydöstra Sveriges dagbl.	    4
 Sydsv. dagbl.	    4
@@ -1543,6 +1644,8 @@ Västmanlands Folkblad	    4
 Veckotidn. Vi/KF	    4
 Vingförlaget	    4
 Wallentin	    4
+Wallius;Wald	    4
+Wankijff;Sverige.	    4
 Wegastift	    4
 Wennerholm & Béwe	    4
 Wennerholm & Béwes	    4
@@ -1593,8 +1696,8 @@ Anst	    3
 Antikrigsrörelsens förl.	    3
 Arbetarkulturs förlag	    3
 Arbetarnas bildningsförb.	    3
-Arbetarnas bildningsförbund	    3
 Asplund	    3
+Axmar	    3
 B.-M:s bokförlag	    3
 Baltiska förlaget	    3
 Barnevik	    3
@@ -1606,6 +1709,7 @@ Billsten	    3
 Björsell	    3
 Blom	    3
 Bloms	    3
+Blume	    3
 Bokf. Brand	    3
 Bokförl. Brand	    3
 Bokförl. Norden	    3
@@ -1622,6 +1726,7 @@ Bröd. Wahlborg	    3
 Bröderna Olofsson	    3
 Bronellska bokh:s tr.	    3
 Budkavelns förl.	    3
+C. A. Leffler	    3
 C. Davidson	    3
 C. E. Fritzes bokh. i distr.	    3
 C. Rehnskog	    3
@@ -1642,7 +1747,7 @@ Diakonistyr. i distr.	    3
 E. Holmberg	    3
 E. Wessman	    3
 Ed. Karl-Gerhard	    3
-Edman	    3
+Edman, Johan	    3
 Elanders	    3
 EMP	    3
 Enander & Bohman	    3
@@ -1682,14 +1787,17 @@ G. Österberg	    3
 G. Wallén	    3
 Gad	    3
 Geber ;;Schildt	    3
+Genath	    3
 Giron	    3
 Gleerup ;;Munksgaard	    3
 Gleerups förlag	    3
 Göta	    3
+Groth;Petré	    3
 H. Sandström	    3
 H. Struve	    3
 Hallmans boktr.	    3
 Hälsingborgs litogr. a.-b.	    3
+Hammarin	    3
 Härnösands-Posten	    3
 Hasse W. Tullbergs	    3
 Hedlund;Norstedt	    3
@@ -1765,6 +1873,7 @@ Luleå boktr.-a.-b.	    3
 Lundequistska bokh. ;;Harrassowitz	    3
 Lundeqvist	    3
 Lundgrens söners	    3
+Lundström;Westberg	    3
 Lutheran Augustana Book Concerns tr.	    3
 Lutherstiftelsen	    3
 M. B:s bokf.-a.-b.	    3
@@ -1777,6 +1886,7 @@ Mangs, F.	    3
 Militaria	    3
 Missionsbladets exp.	    3
 Missionsförbundets förlag	    3
+Möller	    3
 Muhr	    3
 N. J. Schedin	    3
 N. O. Mauritzon	    3
@@ -1785,7 +1895,6 @@ Natur o kultur	    3
 Nerikes allehanda	    3
 Nord. bokh. [distributör]	    3
 Nord. rotogravyr i distr.	    3
-Nordström	    3
 Norrmalmstr.	    3
 Norstedt (Svenska bokförlaget)	    3
 Nova ecclesia	    3
@@ -1805,7 +1914,6 @@ P. A. Huldbergs bokförlagsaktieb	    3
 P. A. Norstedt & S:r i distr.	    3
 P. A. Norstedt & S.	    3
 Palmblad & co.	    3
-Petré	    3
 Ph. Lindstedts univ.-bokh. i distr.	    3
 R. Erikson	    3
 R. W. Statlander	    3
@@ -1813,6 +1921,7 @@ Red.	    3
 Richard	    3
 Riksförbundet för Sveriges försvar	    3
 Riksluftskyddsförbundet	    3
+Rivington	    3
 S. Kristjánsson	    3
 S. Magnus	    3
 S.V. Publ. House	    3
@@ -1825,6 +1934,8 @@ Sandberg	    3
 Sanningsvittnets förl.	    3
 Schildt.	    3
 Scientia	    3
+Segerstedt	    3
+Segerstedt, Albrecht Julius	    3
 Serrander	    3
 SFI	    3
 Sigfrid Flodins förlag	    3
@@ -1844,15 +1955,18 @@ Söderström & C:o Förlagsaktiebolag	    3
 Södertörns tr.	    3
 Södertörns tr. a.-b.	    3
 Södra Missionsbokh.	    3
+Sohm	    3
 Sölvesborgs boktr. ab.	    3
 Söndagsnisse-Strix	    3
 Sparbanken	    3
+Stakberg	    3
 Stenström & Bartelsons	    3
 Stiftsbyrån	    3
 Stockholms bokindustri a.-b.	    3
 Stockholms högsk. miner. inst.	    3
 Strömberg & Åhlén	    3
 Succémelodier	    3
+Sundqvist	    3
 Sundsvalls Tidn.	    3
 Sv. alliansmiss	    3
 Sv. boktr.-a.-b.	    3
@@ -1881,16 +1995,17 @@ Svenska folkförb.	    3
 Svenska kyrkans diakonistyr. bokförl.	    3
 Svenska Kyrkans Diakonistyrelse	    3
 Svenska litteratursällsk. i Finland förl.	    3
+Svenska missionsförbundets juniorer	    3
 Svenska sällskapet för nykterhet och folkuppfostran	    3
 Svenska socialvårdsförb.	    3
 Svenska teosofiska bokförl.	    3
 Svenska visförlaget	    3
 Sveriges allmänna folkskollärareförenings litteratursällskap	    3
+Sveriges arbetares centralorganisation	    3
 Sveriges folkskollärarinneförb.	    3
 Sveriges gummitekniska förening	    3
 Sveriges handtverksorganisation	    3
 Sveriges industriförb. :;Gen.-stab:s lit. anst.	    3
-Sveriges industriförbund	    3
 Sveriges kristl. studentrör	    3
 Swings sportdepå	    3
 Sydsv. Dagbl. Snällposten	    3
@@ -1920,6 +2035,8 @@ Veckonovellen	    3
 Vestg.-post:s	    3
 Vetenskapsakad :;Natura :;H. K. Lewis :;C. Klincksieck	    3
 Visförlaget	    3
+Vogelius	    3
+Walldén	    3
 Wirsell	    3
 Z. Hæggströms förlagsexp. i distr.	    3
 Zander & Sagers bokh.	    3
@@ -2073,8 +2190,11 @@ Brill	    2
 Broberg	    2
 Bröd. Lagerström i distr.	    2
 Bröderna Lagerström	    2
+Broocman	    2
 Bruzelius	    2
+Bruzelius;Oudar	    2
 Budbärarens förl.	    2
+Burchardi;Genath	    2
 Byggnadsnämndsförb.	    2
 C. & E. Gernandt	    2
 C. A. Andersson & Co.	    2
@@ -2095,9 +2215,12 @@ Capital Publishing Co.	    2
 Carl B. Svensson	    2
 Carl R. Larsson	    2
 Caslon Press	    2
+Cederborgh	    2
 Centraltr., Oscar Ericson	    2
 Charme	    2
+Chatelain	    2
 Chelius ;;Söderström	    2
+Christopher Günther	    2
 Cirkelförlaget	    2
 Civiltr.	    2
 Clouberg	    2
@@ -2106,9 +2229,11 @@ Cornell U.P.; Oxford U.P	    2
 Cronholmska bokh.	    2
 D. F. Bonnier	    2
 Dagens böcker :;Svensk-tyska litteratursällsk.	    2
+Dahl	    2
 Dahlberg & C:o.	    2
 Dalarnes tidnings- & boktr.-a.-b.	    2
 De unga	    2
+Deutsche Landwirtschafts-Gesellschaft	    2
 Diakonissanst.	    2
 Diakonistyr:s bokförl.	    2
 Diakonistyr. (distr.)	    2
@@ -2135,6 +2260,7 @@ Elektr. svetsnings-ab.	    2
 Eliassons konstförlag	    2
 Elkan & Schildknecht, Emil Carelius	    2
 Elmén & Granberg	    2
+Elmén;Granberg	    2
 Emil Holmberg	    2
 Enander & Bohmans tr.	    2
 Engberg & Holmberg Publ. Co.	    2
@@ -2148,6 +2274,7 @@ Ev. fosterlandsstift.	    2
 Evang. fosterlandsstift.	    2
 Evangeliska bokförl.	    2
 exp.	    2
+Falck	    2
 Falkmans bokh.	    2
 Fälth	    2
 Falu nya boktr. ab.	    2
@@ -2184,6 +2311,7 @@ Församl.	    2
 Forsner [Seelig]	    2
 Fosterlands-stift	    2
 Fosterlandsvännen	    2
+Fougt, Henric	    2
 FPU:s förl.	    2
 Fr. Aldor	    2
 Frälsningsarmén,;Frälsningsarmén,;Frälsningsarmén	    2
@@ -2211,6 +2339,7 @@ Gleerupska univ:s bokh. i distr.	    2
 Gleerupska univ.-bokh. :;E. Munksgaard	    2
 Godtemplarordens studieförb.	    2
 Godvil	    2
+Goldenau	    2
 Göteborgs handels- o. sjöfartstidn.	    2
 Göteborgs Handelstidning	    2
 Göteborgs högskolas geografiska inst.	    2
@@ -2241,13 +2370,16 @@ Härnösands boktr. a.-b.	    2
 Härnösandsposten	    2
 Häroldens tr.	    2
 Hasselgren ;;Söderström	    2
+Hedenius	    2
 Heimbygdas förl.	    2
 Hellco	    2
 Helsingb. dagbl:s	    2
 Helsingborgs dagblad	    2
 Hemmets väns förlag	    2
+Henrik Keyser	    2
 Henrik Lindståhl	    2
 Hesse-musik	    2
+Historiographi Regni Boktryckeri (1722-1755/58)	    2
 Hj. Hansson	    2
 Hj. Möller	    2
 Hj. Möllers bokh., Fr. W. Remahl	    2
@@ -2257,6 +2389,7 @@ Hodge	    2
 Hoffotograf Lundh	    2
 Höglund	    2
 Holger Schildts förlag	    2
+Holmerus;Medelplan	    2
 Holmqvist	    2
 Höök	    2
 Horisont	    2
@@ -2329,7 +2462,6 @@ Kristianstads boktr. a.-b.	    2
 Kronobergaren	    2
 Kroonder	    2
 Kultur och vetande	    2
-Kungl. tryckeriet	    2
 Kungsholms bokförl.	    2
 Kungsholms bokh.	    2
 Kursverksamheten	    2
@@ -2344,6 +2476,7 @@ Lahure	    2
 Landsföreningen för kvinnans politiska rösträtt	    2
 Landskrona tr.	    2
 Landskrona tr. ab.	    2
+Landsorganisationen i Sverige	    2
 Länstr.-ab.	    2
 Lantarbetarförb.	    2
 Lantbrukssällsk:s tidskr.-ab	    2
@@ -2367,6 +2500,7 @@ Linnström	    2
 Litteris	    2
 Littorin Rydén)	    2
 Littorin Rydéns	    2
+Lönbohm	    2
 Looström & Co.	    2
 Löwgren	    2
 LT ;;Söderström	    2
@@ -2378,9 +2512,9 @@ Lundequistska bokh. [distributör]	    2
 Lundequistska bokh. i komm.	    2
 Lundgrens Söner	    2
 Lundin	    2
+Lundström	    2
 M.W. Wallberg	    2
 Magn. Bergvall i distr.	    2
-Marquard	    2
 Mayer & Müller	    2
 Medén ;;Schildt	    2
 Medéns bokh. i distr.	    2
@@ -2397,6 +2531,7 @@ Mölndals-tr.	    2
 Motala affärstr.	    2
 Motorförarnas helnykterhetsförbund	    2
 Müller	    2
+Müllman	    2
 Museum of Far Eastern antiquities (Östasiatiska samlingarna)	    2
 Musikförl. Lundquist	    2
 Musiklagret	    2
@@ -2443,6 +2578,7 @@ Nya Wecko-postens förl.	    2
 Nya Werml.-tidn:s	    2
 Nyblom :;[Seelig]	    2
 Nyblom & Hårshagen	    2
+Nyström;Stolpe	    2
 O. Eklunds	    2
 O.L. Lamm	    2
 Öberg & Son	    2
@@ -2477,8 +2613,10 @@ R. Orstadius	    2
 Rabén & Sjögren :;Folket i bild	    2
 Rabén & Sjögren/Tidningen Vi	    2
 Realtr.	    2
+Regiæ academiæ typographi	    2
 Reuter & Reuter :;Schlagerförl.	    2
 Richards	    2
+Richardson;Egerton	    2
 Ridderstads förlagsexp.	    2
 Riksutskottet för de kristnas förbudsrörelse	    2
 Röhsska konstslöjdmuseet	    2
@@ -2504,6 +2642,7 @@ Sanningens härolds tryckeribolag	    2
 Sanningens väktare	    2
 Scheel & Sjögrens	    2
 Schmidts boktr. a.-b.	    2
+Schroderus	    2
 Scoutförlaget	    2
 Seelig [distributör]	    2
 Seelig & K.	    2
@@ -2544,6 +2683,7 @@ Specialförl.	    2
 Spektrum :;[Seelig]	    2
 Stadsarkivet	    2
 Statens arbetsmarknadskommission	    2
+Statens historiska museum	    2
 Statens informationsstyrelse	    2
 Statens reprod.-anst.	    2
 Stiftelsen Pro caritates förl.	    2
@@ -2552,6 +2692,7 @@ Stjärnbokförl.	    2
 Stock	    2
 Stockholms bokindustri ab.	    2
 Stockholms högsk:s jurid. fören.	    2
+Stockholms läsesalong	    2
 Stockholms-tidn.	    2
 Stockholms-Tidn.	    2
 Stockholms-tidningen	    2
@@ -2603,6 +2744,7 @@ Svenska bokförl. Norstedt	    2
 Svenska bokförlaget, Norstedt	    2
 Svenska bokförlaget/Bonniers	    2
 Svenska bokförlagsfören.	    2
+Svenska cypernexpeditionen	    2
 Svenska dagbladet	    2
 Svenska förlaget	    2
 Svenska journalen/Hemmet och familjen	    2
@@ -2613,6 +2755,7 @@ Svenska litteratursällskapet i Finland	    2
 Svenska missionens i Kina förl.	    2
 Svenska Missionsförbundet	    2
 Svenska pressbyrån i distr.	    2
+Svenska Röda korset	    2
 Svenska skogsvårdsfören:s förl.	    2
 Svenska skogsvårdsföreningen	    2
 Svenska stadsförb.	    2
@@ -2622,6 +2765,8 @@ Svenska tribunens förl.	    2
 Svenska turistföreningens förl.	    2
 Svenska visförl.	    2
 Sverges kommunistiska parti, studieavd	    2
+Sverige.;Meurer	    2
+Sverige.;Zetterberg	    2
 Sveriges kommunistiska parti	    2
 Sveriges kristl. stud.-rör.	    2
 Sveriges kristliga studentrörelses bokförlag	    2
@@ -2670,7 +2815,6 @@ Turitz & Co.	    2
 Typ. anst.	    2
 Ultraförl.	    2
 Ungdomens bokförl.	    2
-Ungsocialistiska partiets förlag	    2
 Univ.-forl.	    2
 Universalbibliotekets exp.	    2
 Universalforlaget	    2
@@ -2700,11 +2844,14 @@ Västergötlands tr. a.-b.	    2
 Västergötlands tr.-ab.	    2
 Västgöta Korresp.	    2
 Vegastiftelsen [Daugava]	    2
+Veterinärhögskolan	    2
 Victor Åström	    2
 Viking	    2
 Vingförl. ...	    2
+Vogel	    2
 Waerlands Monatsmagazin	    2
 Wahledow i distr.	    2
+Wahlström & C.	    2
 Wahlström & Widstrand ;;Söderström	    2
 Wahlström & Widstrand :;Seligmann	    2
 Wahlström & Widstrand [distributör]	    2
@@ -2714,18 +2861,22 @@ Walléns	    2
 Wallerströms boktr.	    2
 Wasatr.	    2
 Wasmuth	    2
+Wennberg, Lars	    2
+Wennberg;Nordström	    2
 Werner Söderström	    2
 Westerlundska boktr.	    2
 Westgöta-posten	    2
 Wettergren & Kerber i distr.	    2
 Wezäta, Göteborgslitografen	    2
 Wikander & Sjöstedt	    2
+Wilde	    2
 Wilhelmsson i distr.	    2
 Wisénska bokh.	    2
 World Production	    2
 WSOY	    2
 Zacharias Hæggström	    2
 Zander & Sager	    2
+Zeipel;Palmblad	    2
 Zelta ābele [M. Goppers]	    2
 Zetterström	    2
 Ziemelblāzma, J. Abučs	    2
@@ -3088,6 +3239,7 @@ American-Step institut	    1
 Amerikanska traktat-sällskapets förl.	    1
 Amiralitetsboktr	    1
 Amiralitetsboktr.	    1
+Amiralitetstryckeriet	    1
 And. L. Löfström	    1
 Andelsförl. 99Libro99. För del	    1
 Ander	    1
@@ -3150,6 +3302,7 @@ B.-M:s bokförlags a.-b.	    1
 B.-M.	    1
 Bagge ;;förf. ;;Jæger	    1
 Baltiska	    1
+Baltiska utställningen.	    1
 Bandybokens förl. :;[Seelig]	    1
 Banken	    1
 Baptistmissionens bokförlag	    1
@@ -3187,6 +3340,7 @@ Bergianska trädg	    1
 Bergmans distr.-affär.	    1
 Bergmans distributionsaffär	    1
 Bergsjö	    1
+Bergskollegium	    1
 Bergslagernas Tidning	    1
 Bergstens	    1
 Bergvalls förlag	    1
@@ -3213,10 +3367,12 @@ Björck & Börjesson ;;Söderström	    1
 Björck & Börjesson ;;Söderström & co.	    1
 Björck & Börjesson i distr.,;Vestkusten)	    1
 Björck & Börjesson;Björck & Börjesson	    1
+Björckman	    1
 Björcks antikv.	    1
 Björk & Börjeson	    1
 Björk & Börjesson	    1
 Björkmans eftr.	    1
+Björn	    1
 Björnlunds	    1
 Björstedt	    1
 Blomgren	    1
@@ -3296,6 +3452,7 @@ Bosrups tr.	    1
 Bostadsstyr.	    1
 Brand i distr.	    1
 Bredberg	    1
+Brendeken	    1
 Brevskolan :;Folkrörelsernas konstfrämjande	    1
 Brevskolan :;K.F.s husmodersavd.	    1
 Bröd. Boberg	    1
@@ -3306,6 +3463,7 @@ Bröderna Lagerströms Förlag	    1
 Bröderna Ohlséns	    1
 Bröderna Sandberg	    1
 Bröderna Töpel	    1
+Brodin	    1
 Bronellska bokhandeln	    1
 Broströms	    1
 Brudins förl.	    1
@@ -3387,7 +3545,6 @@ Chatto & Windus	    1
 Chelius ;;Blaedel	    1
 Chelius (distr.)	    1
 Christianstads nya accidenstr.	    1
-Christofer Reusner	    1
 Cirkelförl. :;[Seelig]	    1
 Clarendon Press	    1
 Clartés förl.	    1
@@ -3399,6 +3556,7 @@ Conference Press	    1
 Covenant Press	    1
 Cromwell Music :;T. Ehrling	    1
 Cronholm	    1
+Cronland	    1
 Cronquists bokh. [distributör] i distr.	    1
 Curth Hson	    1
 D:r H. W. Sjögren	    1
@@ -3409,7 +3567,6 @@ Dagens böcker A.-B.	    1
 Dagens böcker.	    1
 Dagens bokf. AB	    1
 Dagens bokförl. a.-b.	    1
-Dahl	    1
 Dahlberg & Andersson	    1
 Dahlberg & c:o	    1
 Dahlbergs bokhandel	    1
@@ -3427,9 +3584,12 @@ De ungas förlag	    1
 De ungas förlag :;[Seelig]	    1
 De unges Forlag	    1
 Deléen & K.	    1
+Delén	    1
+Des Hayes;Cellier	    1
 Det norske oplysningskontor	    1
 Detaljhandlarnas propagandaorganisation i Stockholm	    1
 Deutsche Buch-Gemeinschaft	    1
+Devall	    1
 Diakonissanst	    1
 Diakonissanstaltens bokförråd	    1
 Diakonistyr. ;;Pro ecclesia	    1
@@ -3467,7 +3627,6 @@ E. W. Högberg	    1
 E. Wingrens förl.	    1
 Ebeling	    1
 Eben-Hards förl.	    1
-Eckstein	    1
 Ed. H. Andersson	    1
 Ed. L-A	    1
 Ed. Reymers	    1
@@ -3499,6 +3658,8 @@ Ekenäs tryckeri AB	    1
 Eklund ;;Fröléen	    1
 Eklundh	    1
 Ekman i distr.	    1
+Ekmansson	    1
+Ekmarck	    1
 Ekmark	    1
 Elander ;;Västra Sverige	    1
 Elanders bokförl.	    1
@@ -3508,9 +3669,11 @@ Elektriska svetsnings-AB	    1
 Elektriska svetsnings-aktiebolaget	    1
 Elis Österberg	    1
 Elkan & Schildknecht :;Emil Carelius	    1
+Elzevier	    1
 Emecé Editores	    1
 Emil Holmberg i 200 numr. ex.	    1
 Emil Kihlström	    1
+Enæus	    1
 Enander & Bohmans förl.	    1
 Engberg & Holmberg förl.	    1
 Engberg-Holmberg Publishing Co.	    1
@@ -3527,6 +3690,7 @@ Envalls bokh. i distr.	    1
 Eranos' förl.	    1
 Eric Ericssons bokh.	    1
 Erickson & Olson's förl.	    1
+Eriks-Syne	    1
 Ernst Lindgren :;Svenska gångförbundet	    1
 Ernst V. Hansson	    1
 Ernst Wasmuth	    1
@@ -3540,6 +3704,7 @@ Esseltes Göteborgsindustrier	    1
 Estica	    1
 Estonian theological society in exile (J. Aunver)	    1
 Etymologisk uppslagsboks förl.	    1
+Eucharius Lauringer	    1
 Europa Verlag	    1
 Ev. fosterl.-stift	    1
 Ev. fosterlandsstift	    1
@@ -3869,7 +4034,6 @@ Graf. reprod.	    1
 Grafia :;[Seelig]	    1
 Granbergs a.-b.	    1
 Grängesbergs tr.	    1
-Grefing	    1
 Groth & Petré	    1
 Grundt Tanum	    1
 Gullberg & Hallberg	    1
@@ -3897,6 +4061,7 @@ H. Pettersson :;Oscar L. Lamm	    1
 H. W. Andersson	    1
 H. Y. Larsons bok- & konstförl.	    1
 H.Schildt	    1
+Habereger	    1
 Hadorph	    1
 Hæggström (distr.)	    1
 Hagberg	    1
@@ -3923,6 +4088,9 @@ Handelshögskolan	    1
 Handelskammaren	    1
 Handelsnytt,;Handelsnytt,;Handelsanställdas förbund,;Handelsanställdas förbund	    1
 Handelstryckeriet	    1
+Hansell	    1
+Hansson Wall	    1
+Hantsch;Sverige.	    1
 Haparanda-Tornedalen	    1
 Haparanda-Tornedalens tr.	    1
 Haparanda-Tornedalens tr. a.-b.	    1
@@ -3933,6 +4101,7 @@ Harvard Univ. Press	    1
 Hasse W. Tullberg, Esselte	    1
 Hasselblads fotografiska ab	    1
 Hasselkvist	    1
+Hasselrot	    1
 Hawkinson & Engberg	    1
 Hedengrens bokh.	    1
 Heimbygda	    1
@@ -3945,6 +4114,7 @@ Hellstén	    1
 Hellström & Löhman	    1
 Helsingborgs Dagbl.	    1
 Helsingborgs Dagblad	    1
+Helsingfors universitet	    1
 Helsingin kustannus	    1
 Helsovännens förlagsexp.	    1
 Helsovårdsnämnden	    1
@@ -4017,6 +4187,7 @@ I. Hæggström i 100 numr. ex.	    1
 I. Kjellberg	    1
 I. M. Göthe	    1
 I. O. F. F.	    1
+Ibero-amerikanska institutet (Göteborg)	    1
 IC-skolan	    1
 ICA-Förlaget	    1
 Icaförl.	    1
@@ -4087,10 +4258,12 @@ J. P. Lundström	    1
 J. Sunessons bokh. i distr.	    1
 J. Torell	    1
 J. U. F.	    1
+J. W. Lundberg	    1
 J.A. Lindblads Förlag	    1
 J.U.F:s förl.	    1
 J.U.F.;Klubben för svenska lantrasfåret	    1
 Jacob Bagges söners aktieb.	    1
+Jacobsson Nordström	    1
 Jämtland o. Härjedalen	    1
 Jämtlands tidn:s	    1
 Jämtlands Tidning	    1
@@ -4100,6 +4273,7 @@ Jan förl.; Fritzes hovbokh.	    1
 Jan; Fritzes hovbokh. i distr.	    1
 Jan.	    1
 Jan.,;Ill	    1
+Järnvägsstyrelsen	    1
 Jiell	    1
 Joh. A. Svensson	    1
 Joh. Beckman	    1
@@ -4138,6 +4312,7 @@ Kalligrafia	    1
 Kalmar tr. ab.	    1
 Kalmar tr.a.-b.	    1
 Kalmar tryckeri aktiebolag	    1
+Kankel	    1
 Kanter	    1
 Karlskoga tidn.	    1
 Karlstads-tidn.	    1
@@ -4152,6 +4327,8 @@ Katrineholms stads anstalter för yrkesundervisning	    1
 Katrineholms-kuriren	    1
 Katrineholmskuriren	    1
 KB	    1
+Keyser;Sverige.	    1
+Keyser;Wall	    1
 KF ;;Schildt	    1
 KF ;;Veckotidningen Vi	    1
 KF :;Rabén & Sjögren	    1
@@ -4200,6 +4377,7 @@ Köpings-posten	    1
 Korsets budskaps exp.	    1
 Kosmos	    1
 Köster	    1
+Kraft	    1
 Kristianstads boktr. ab	    1
 Kristianstads boktr. ab.	    1
 Kristianstads boktr.-a.-b.	    1
@@ -4214,10 +4392,10 @@ Kulturhistoriska förl.	    1
 Kulturhistoriska förlaget	    1
 Kungl. akademien för de fria konsterna	    1
 Kungl. biblioteket	    1
+Kungl. finska boktryckeriet	    1
 Kungl. Landtbruksakademien	    1
 Kungl. Patent- och registreringsverket	    1
 Kungl. Väg- och vattenbyggnadsstyr.	    1
-Kungl. Vetenskapsakademien	    1
 Kungsbokh.	    1
 Kungsholm	    1
 Kungsholms Bokh.	    1
@@ -4257,7 +4435,6 @@ Landskommunernas förbunds förlag	    1
 Landskrona tr. ab	    1
 Landskrona typogr. anst.	    1
 Landsorganisationen	    1
-Lange	    1
 Langen	    1
 Läns-Demokraten	    1
 Länstidningens förl.	    1
@@ -4288,6 +4465,8 @@ Lars Hökerberg	    1
 Lars Hökerbergs förlag	    1
 Larssons	    1
 Läsning för hemmet,;Läsning för hemmet,;Läsning för hemmet,;Norstedt	    1
+Laurelius	    1
+Laurentius Segebadius	    1
 Ledins bokh.	    1
 Lektyrförl.	    1
 Lenanders	    1
@@ -4324,6 +4503,7 @@ Lindstedts univ.-bokhandel	    1
 Lindströms bokh.	    1
 Lindströms Bokh.	    1
 Linkoln Blom i 50 numr. ex.	    1
+Linköpings allmänna nykterhetskommitté	    1
 Linköpings elektriska kraft- och belysningsaktiebolag	    1
 Linköpings litogr. a.-b.	    1
 Linköpings tr.	    1
@@ -4339,6 +4519,7 @@ Ljus' Förlag	    1
 Ljusdals tidn.	    1
 Ljusdals tidning	    1
 Lockne hembygdsfören.	    1
+Londicer	    1
 Longman	    1
 Looström :;Böhlmark	    1
 Looström & C:o.	    1
@@ -4352,6 +4533,7 @@ LT :;Seelig [distributör]	    1
 LT:s Förlag	    1
 LTs förlag	    1
 Lublin	    1
+Lucius	    1
 Luleå boktr.	    1
 Luleå boktr.-ab.	    1
 Luleå boktr.a.-b.	    1
@@ -4368,7 +4550,7 @@ Lundequistska Bokhandeln	    1
 Lundequistska bokhandeln ;;Harrassowitz	    1
 Lundgrens söner i 20 numr. ex.	    1
 Lundholm,;Nya tr.-ab)	    1
-Lundström	    1
+Lunds universitet.	    1
 Lutheran Augustana Book Concerns förl.	    1
 Lysekilsposten	    1
 Lysekilspostens	    1
@@ -4404,9 +4586,13 @@ Martin Liljeblads förl.	    1
 Martinus Nijhoff	    1
 Maskinaktiebolaget Karlebo	    1
 Masson	    1
+Matthiae	    1
+Matthiæ	    1
+Mattsson;Tile	    1
 Mawman	    1
 Medborgarskolan	    1
 Medéns förl.	    1
+Meder	    1
 Meijels bokindustri	    1
 Meijerbergs institut för svensk etymologisk forskning	    1
 Meissner	    1
@@ -4432,10 +4618,13 @@ Minareten	    1
 Missions-vännens förl.	    1
 Missionsförb. :;Gummesson	    1
 Moderna. språk i distr.	    1
-Möller	    1
+Möllemann;Sülken	    1
+Mollyn	    1
 Montan	    1
+Mosaiska församlingen (Göteborg)	    1
 Muhlenberg Press	    1
 Munksgaard; Cambridge U.P	    1
+Musikaliska akademiens bibliotek	    1
 Musikförl. Eskil	    1
 Musikförl. Tre Kronor	    1
 Musikförlaget Aida	    1
@@ -4623,10 +4812,14 @@ O. S. Rumstedt	    1
 O. Sakārnis	    1
 O.A. Sjöström	    1
 O.A. Toffteen	    1
+Odd Fellow orden (Malmö)	    1
+Odd Fellow orden (Stockholm)	    1
 Odentr.	    1
 Oehlenschlägers eftr.	    1
+Olofsson Enaeus	    1
 Ombudshälsnings exp. :;Helgelseförb.	    1
 Orden Stjärnan	    1
+Ordenstryckeriet;Pfeiffer	    1
 Örebro Dagbl	    1
 Örebro dagbl.	    1
 Örebro Dagblads tr.	    1
@@ -4649,6 +4842,7 @@ Oskarshamns-Tidningen	    1
 Östergötlands Dagblad tr.	    1
 Östergötlands Dagblads tr.	    1
 Österling	    1
+Östersund.	    1
 Östeuropa förlag	    1
 Östg. corresp:s	    1
 Östg. Corresp.	    1
@@ -4682,6 +4876,7 @@ P.A. Norstedt & Söner :;Kongl. Svenska Vetenskaps-akademien	    1
 P.A. Norstedt & söner,;P.A. Norstedt & söner,;Almqvist & Wiksells boktryckeri-A.-B.,;Almqvist & Wiksells boktryckeri-A.-B.	    1
 P.B Eklund	    1
 Palmblad :;Sebell	    1
+Palmblad & Sebell	    1
 Palmers eftr.	    1
 Palmquists förlag	    1
 Palmquists tr.	    1
@@ -4690,21 +4885,29 @@ Paravan	    1
 Parnass; Wegastift	    1
 Påskliljors förl.	    1
 Paul Cassirer	    1
+Paulssen	    1
 Pedone	    1
 Pehrssons förlag	    1
 Pellervo-seura	    1
 Peterson & K.	    1
 Petersson & K.	    1
+Petré (Linköping)	    1
+Petré;Abrahamsson	    1
 Petrus de Dacia fören.	    1
 Petrus de Daciafören.	    1
 Pettersonska boktr:s eftr.	    1
 Pezzati	    1
+Pfeiffer	    1
 Ph. Lindstedts bokh.	    1
 Ph. Lindstedts univ:s-bokh.	    1
 Ph. Lindstedts universitetsbokhandel	    1
 Phoenix House	    1
+Pilecan	    1
+Pitra	    1
+Pitteri	    1
 Plon-Nourrit	    1
 Politiken	    1
+Popp;Malling	    1
 Postfack 37	    1
 Postverket	    1
 Postverkets undervisningsanst. i distr.	    1
@@ -4721,6 +4924,7 @@ R. Almqvist & J. Wiksell i komm	    1
 R. In de Betou	    1
 R. Lindstams förl.	    1
 R. Olsson	    1
+Raam;Lötström	    1
 Rabén & Sjögren ;;Vi	    1
 Rabén & Sjögren, Vi	    1
 Rabén och Sjögren	    1
@@ -4742,7 +4946,9 @@ Reissner	    1
 Reitzels forlag	    1
 Reklamtr.	    1
 Review & Herald förlags- och tryckerifören.	    1
+Revis	    1
 Richards a.-b. tr.	    1
+Richter;Stein	    1
 Ridelius	    1
 Rietz	    1
 Rietz' bokh.	    1
@@ -4753,10 +4959,14 @@ Riksutskottet för de kristnas nykterhetsrörelse	    1
 Ringnér & Enewalds bokh.	    1
 RLF	    1
 Robert Olsson	    1
+Robinson (London)	    1
 Röhr	    1
 Roos	    1
+Röse	    1
 Rud. Frennesson	    1
+Rudbeck	    1
 Rumstedt	    1
+Rußworm	    1
 Rylander ;;Wåhlin ;;Hintze	    1
 Rylanders boktr.	    1
 S:t Ragnhilds gille	    1
@@ -4781,6 +4991,7 @@ Saisonen	    1
 Sällsk. Bokvännerna ;;Schildt	    1
 Sällsk. f. god läsning	    1
 Sällsk. för evangelii utbredande i Ryssland	    1
+Sällskapet för utgivande av lantmäteriets historia	    1
 Sällskapet Pellervo	    1
 Samarbetsnämnden för konstföreningar i Göteborg	    1
 Samarbetsnämnden för kristl. bildningsarbete	    1
@@ -4814,6 +5025,7 @@ Schildt;;Wahlström & Widstrand	    1
 Schildt;Wahlström & Widstrand	    1
 Schildts förl.	    1
 Schmidts boktr.	    1
+Schultze	    1
 Schumburg	    1
 Schwedisches Institut	    1
 Schwedisches Institut :;Forum	    1
@@ -4841,6 +5053,7 @@ Sjöförsvarets kommandoexp., Marinens bokdetalj	    1
 Sjuhäradsbygden	    1
 Sjuhäradsbygdens tr.-a.-b.	    1
 Sjuhäradsbygdens tr.-ab.	    1
+Skådebanan	    1
 Skallrans förl.	    1
 Skämttidn. Smålänningens förl.	    1
 Skand. förlagsexp	    1
@@ -4896,15 +5109,18 @@ SLU:s studentförbund	    1
 Smål.-post:s	    1
 Smålands idrottsnytt	    1
 Smålands museum	    1
+Smålands nation (Lunds universitet)	    1
 Smålandspostens	    1
 Smålandspostens boktr.	    1
 Smålandspostens boktr. i 58 ex.	    1
 Smålandstidn:s	    1
 Smålandstidn.	    1
+Smitt	    1
 Snabbräkningsförlaget	    1
 Snabbtryck	    1
 Social-medicinsk tidskr.	    1
 Socialdemokratiska partistyrelsens informationsavdelning	    1
+Socialdemokratiska ungdomsförbundet	    1
 Socialdemokratiska vänsterpartiet	    1
 Socialistiska partidistriktet	    1
 Socialstyr. :;Nordiska bokh. [distributör]	    1
@@ -4951,7 +5167,6 @@ Stål	    1
 Standard-edition	    1
 Starton	    1
 Statens egnahemsstyrelse	    1
-Statens historiska museum	    1
 Statens järnvägar	    1
 Statens meteorologisk-hydrografiska anstalt	    1
 Statens nämnd för utgivande av förvaltningsrättsliga publikationer	    1
@@ -4965,6 +5180,7 @@ Stjernan och spiran	    1
 Stjernan och spirans expedition [distributör] ;;R. Jakobson [distributör]	    1
 Stockh. Dagbl:s	    1
 Stockholms	    1
+Stockholms arbetareinstitut	    1
 Stockholms arbetarekommun	    1
 Stockholms bokindustri ;;S.R. Mark	    1
 Stockholms elverks samarbetsnämnd	    1
@@ -4976,6 +5192,7 @@ Stockholms spårvägar	    1
 Stockholms stads barnavårdsnämnd	    1
 Stockholms stads hälsovårdsnämnd. Fosterbarnsinspektionen	    1
 Stockholms stads kristidsnämnd	    1
+Stockholms stads stadsbyggnadskontor	    1
 Stockholms stads yrkesskolor	    1
 Stockholms tekn. institut	    1
 Stockholms tr. & bokförl.	    1
@@ -4996,7 +5213,6 @@ Studieförb. Näringsliv och samhälle	    1
 Studieförbundet Medborgarskolan	    1
 Studiekamraten :;Seelig i distr.	    1
 Sturetr.	    1
-Sundqvist	    1
 Sundqvist och Emond	    1
 Sundsvalls tidning	    1
 Sunesons förlag	    1
@@ -5187,13 +5403,15 @@ Svenska pressbyrån	    1
 Svenska riksförbundet för sedlig kultur	    1
 Svenska riksförbundet mot osedlighet i litteratur, präss och bild	    1
 Svenska röda korset	    1
-Svenska Röda korset	    1
 Svenska Sällsk. för nykterhet	    1
+Svenska sällskapet för antropologi och geografi	    1
 Svenska slöjdföreningen	    1
 Svenska slöjdföreningen,;Svenska slöjdföreningen,;Föreningen Svensk form,;It Is Media :;Föreningen Svensk form,;Arvinius förlag :;Föreningen Svensk form,;Mandelgren magazine :;Föreningen Svensk form	    1
 Svenska socialvårdsförbundet	    1
 Svenska sockerfabriks aktiebolaget	    1
 Svenska stadsförbundet	    1
+Svenska stadsförbundet.	    1
+Svenska tandläkaresällskapet	    1
 Svenska tekniska vetenskapsakad. i Finland	    1
 Svenska teknologfören	    1
 Svenska teknologfören.	    1
@@ -5213,13 +5431,16 @@ Sverges kommunist. ungdomsförb.	    1
 Sverges kommunistiska parti ;;Sverges kommunistiska ungdomsförbund	    1
 Sverges soc.-demokratiska ungdomsförbund	    1
 Sverges socialdemokratiska ungdomsförbund, Studierådet	    1
+Sverige.;Gutterwitz	    1
+Sverige.;Holmberg	    1
+Sverige.;Momma	    1
+Sverige.;Sverige.;Momma, Peter	    1
 Sveriges allm. landtbrukssällskaps förl.-a.-b.	    1
 Sveriges allm. lantbrukssällskaps förl. a.-b.	    1
 Sveriges allmänna folkskollärare förenings litteratursällskap	    1
 Sveriges allmänna folkskollärareförenings litteratursällsk.	    1
 Sveriges allmänna konstförening	    1
 Sveriges allmänna tulltjänstemannaförening	    1
-Sveriges arbetares centralorganisation	    1
 Sveriges Filatelistförening	    1
 Sveriges flickors scoutförb.	    1
 Sveriges hantverks- och småindustriorganisation, utställningsnämnden	    1
@@ -5241,8 +5462,10 @@ Sveriges mekanförbund	    1
 Sveriges scoutförbunds förlagsa.-b.	    1
 Sveriges scoutförbunds förlagsaktiebolag	    1
 Sveriges socialdem. arbetareparti	    1
+Sveriges socialdemokratiska arbetareparti	    1
 Sveriges socialdemokratiska arbetareparti,;Sveriges socialdemokratiska arbetareparti,;Tankesmedjan Tiden	    1
 Sveriges studenters förl.	    1
+Sveriges studerande ungdoms helnykterhetsförbund	    1
 Sveriges tandläkarförb.	    1
 Sveriges tobakshandlares riksförbund,;Sveriges tobakshandlares riksförbund,;Svensk jul, 1918	    1
 Sveriges ungdoms exped.	    1
@@ -5267,6 +5490,7 @@ Sydsvenska dagbl. Snällposten	    1
 Sydsvenska Dagbladet	    1
 Sydsvenska Dagbladets Aktiebolag	    1
 Sylve Norrbys bokh. i distr.	    1
+Sylvenius	    1
 Systembolagsföreningarnas förtroendenämnd	    1
 T. Ehrling Musik	    1
 T. Rödin	    1
@@ -5295,6 +5519,8 @@ The Society	    1
 The Swedish institute :;Forum	    1
 The University of Illinois press	    1
 Thelin & Beckman	    1
+Thetzell;Hultman	    1
+Thimgren	    1
 Thorsné & Erlandsson förlag,;Thorsné & Erlandsson förlag,;Ströget,;Strögets förlag	    1
 Thule ; [Livrustkammaren]	    1
 Tiden ;;Söderström	    1
@@ -5327,6 +5553,7 @@ Töpel	    1
 Töreboda bokh. i distr.	    1
 Törnqvist	    1
 Torsell	    1
+Torssell	    1
 Tr. a.-b. Norrköping	    1
 Tr. a.-b. Småland	    1
 Tr. ab Blekinge	    1
@@ -5378,7 +5605,9 @@ Turitz	    1
 Turun yliopisto	    1
 Typogr. anst.	    1
 Typogr. anstalt	    1
+Typographia regia	    1
 Tyska informationsbyrån	    1
+Uddeholms AB	    1
 Udv. for Folkeoplysn. fremme	    1
 Ulricehamns tidning	    1
 Umeå bokförings- o. rev.-byrå	    1
@@ -5403,6 +5632,7 @@ Universella broderskapets förlag,;Universella broderskapets förlag,;Universell
 Universella broderskapets teosof. förl.	    1
 Universitas	    1
 Universitas :;[Seelig]	    1
+Universitet (Uppsala)	    1
 University of California press	    1
 University of Chicago Press	    1
 University of Oklahoma press	    1
@@ -5462,6 +5692,7 @@ Västra Sverige i distr.	    1
 Västra Sverige,;Elander)	    1
 Västsvenska hembygdsnämnden	    1
 Vattenfallsstyr.	    1
+Vattenfallsstyrelsen	    1
 Vecko-spegeln	    1
 Veckoblad för folkundervisn.	    1
 Veckobladet	    1
@@ -5484,6 +5715,7 @@ Visby tr.-a.-b.	    1
 Visnums socken	    1
 Vita bandet	    1
 Volym	    1
+Voth	    1
 W. Bille i komm	    1
 W. Billes bokf.-aktb.	    1
 W. de Gruyter & C:o.	    1
@@ -5515,7 +5747,9 @@ Wald. Zachrisson i 15 numr. ex.	    1
 Waldemar J. Adams & Co.	    1
 Wallberg (komm.)	    1
 Wallén & C:o.	    1
+Wallencrona	    1
 Walles bokh.	    1
+Wallius;Eriksson Wald	    1
 Wändahl & Anderson	    1
 Watchtower Bible and Tract Society :;International Bible Students Association	    1
 Weibullsholms växtförädlingsanst	    1

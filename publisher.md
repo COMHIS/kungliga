@@ -8,7 +8,7 @@ output: markdown_document
 
 ### Publishers
 
- * 20416 [unique publishers](output.tables/publisher_accepted.csv)
+ * 19923 [unique publishers](output.tables/publisher_accepted.csv)
 
  * 56799 documents have unambiguous publisher information (15%). 
 
@@ -47,8 +47,8 @@ Title count versus paper consumption (top publishers):
 |författare         |    166|  33897.48|
 |Fritze             |    158|  30734.38|
 |Gleerup            |    228|  60234.81|
-|Häggström          |    149|  94236.37|
+|Häggström          |    169| 104965.62|
 |kungliga           |    311|  69104.51|
-|Norstedt           |    364| 187040.62|
+|Norstedt           |    362| 187040.62|
 
 

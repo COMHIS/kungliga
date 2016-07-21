@@ -74,7 +74,7 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |first_edition                             |        88.4|          11.6|         44941|          3|
 |physical_details                          |        87.7|          12.3|         47515|        834|
 |440a                                      |        85.9|          14.1|         54552|      25284|
-|publisher                                 |        85.3|          14.7|         56799|      20416|
+|publisher                                 |        85.3|          14.7|         56799|      19923|
 |paper                                     |        84.2|          15.8|         60773|       4049|
 |700a                                      |        84.2|          15.8|         61108|      32895|
 |obl                                       |        83.0|          17.0|         65653|          3|
@@ -213,10 +213,10 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |obl.original                              |         0.0|         100.0|        385771|          2|
 |original_row                              |         0.0|         100.0|        385771|     385771|
 |author_pseudonyme                         |         0.0|         100.0|        385771|          2|
-|gatherings                                |         0.0|         100.0|        385771|         15|
 |singlevol                                 |         0.0|         100.0|        385771|          2|
 |multivol                                  |         0.0|         100.0|        385771|          2|
 |issue                                     |         0.0|         100.0|        385771|          2|
+|gatherings                                |         0.0|         100.0|        385771|         15|
 
 
 

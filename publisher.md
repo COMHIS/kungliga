@@ -8,9 +8,9 @@ output: markdown_document
 
 ### Publishers
 
- * 2658 [unique publishers](output.tables/publisher_accepted.csv)
+ * 20416 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 6270 documents have unambiguous publisher information (31%). 
+ * 56799 documents have unambiguous publisher information (15%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -27,7 +27,7 @@ Title count
 
 
 ```
-## Warning: Removed 3 rows containing missing values (position_stack).
+## Warning: Removed 5 rows containing missing values (position_stack).
 ```
 
 ![plot of chunk summaryTop10pubtimeline](figure/summaryTop10pubtimeline-1.png)
@@ -38,17 +38,17 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher             | titles|    paper|
-|:---------------------|------:|--------:|
-|488                   |    172| 92985.07|
-|Almqvist & Wiksell    |     47|     0.00|
-|Bonnier               |    125| 39633.20|
-|författare            |     80|  2850.00|
-|Geber                 |     53|     0.00|
-|Gleerup               |     60| 13835.94|
-|kungliga              |    149| 31330.90|
-|Lindblad              |     46|     0.00|
-|Norstedt              |    103| 11441.23|
-|Wahlström & Widstrand |     63| 11236.20|
+|publisher          | titles|     paper|
+|:------------------|------:|---------:|
+|5486               |    373| 227541.32|
+|5525               |    186|  98072.22|
+|Almqvist & Wiksell |    212| 111289.06|
+|Bonnier            |    405| 137718.19|
+|författare         |    166|  33897.48|
+|Fritze             |    158|  30734.38|
+|Gleerup            |    228|  60234.81|
+|Häggström          |    149|  94236.37|
+|kungliga           |    311|  69104.51|
+|Norstedt           |    364| 187040.62|
 
 

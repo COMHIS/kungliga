@@ -7,11 +7,11 @@ output: markdown_document
 
 ### Publication places
 
- * 600 [publication places](output.tables/publication_place_accepted.csv)
- * 30 [publication countries](output.tables/country_accepted.csv) 
- * Publication place is identified for 19148 documents (96%). 
- * Publication country is identified for 17605 documents (88%).
- * 99% of the documents could be matched to geographic coordinates (based on the [Geonames](http://download.geonames.org/export/dump/) database). See the [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv). Altogether ``1.03``% of the documents have missing geocoordinates.
+ * 2628 [publication places](output.tables/publication_place_accepted.csv)
+ * 38 [publication countries](output.tables/country_accepted.csv) 
+ * Publication place is identified for 369154 documents (96%). 
+ * Publication country is identified for 339269 documents (88%).
+ * 99% of the documents could be matched to geographic coordinates (based on the [Geonames](http://download.geonames.org/export/dump/) database). See the [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv). Altogether ``1.04``% of the documents have missing geocoordinates.
  * [Places with unknown publication country](output.tables/publication_place_missingcountry.csv) (can be added to [country mappings](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/reg2country.csv))
  * [Ambiguous publication places](output.tables/publication_place_ambiguous.csv)
  * [Potentially ambiguous region-country mappings](output.tables/publication_country_ambiguous.csv) (these may occur in the data in various synonymes and the country is not always clear when multiple countries have a similar place name; the default country is listed first)
@@ -30,10 +30,10 @@ Top-20 publication places are shown together with the number of documents.
 
 |Country | Documents (n)| Fraction (%)|
 |:-------|-------------:|------------:|
-|Sweden  |         14861|         74.3|
-|Finland |          1126|          5.6|
-|Germany |           403|          2.0|
-|Denmark |           285|          1.4|
-|USA     |           209|          1.0|
-|France  |           138|          0.7|
+|Sweden  |        286354|         74.2|
+|Finland |         21285|          5.5|
+|Germany |          8257|          2.1|
+|Denmark |          5176|          1.3|
+|USA     |          3787|          1.0|
+|Norway  |          2999|          0.8|
 

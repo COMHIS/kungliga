@@ -1,51 +1,112 @@
 original	polished	Count
-Total count: 	20000	
-swe	Swedish	16481
-ger	German	  724
-eng	English	  601
-und	NA	  399
-lat	Latin	  379
-fre	French	  292
-fin	Finnish	  252
-dan	Danish	  238
-NA	NA	  123
-nor	Norwegian	  102
-dut	Dutch	   50
-zxx	No linguistic content	   49
-rus	Russian	   44
-ita	Italian	   44
-spa	Spanish	   23
-mul	Multiple languages	   22
-cze	Czech	   20
-lav	Latvian	   18
-ice	Icelandic	   15
-est	Estonian	   13
----	NA	   11
-pol	Polish	   10
-por	Portuguese	    9
-hun	Hungarian	    9
-grc	Greek Ancient to 1453 	    8
-non	Old Norse	    8
-hrv	Croatian	    7
-epo	Esperanto	    7
-jpn	Japanese	    7
-smi	Sami	    5
-bul	Bulgarian	    3
-ukr	Ukrainian	    3
-nno	Norwegian Nynorsk 	    3
-tur	Turkish	    3
-tir	Tigrinya	    2
-heb	Hebrew	    2
-bnt	Bantu Other 	    2
-swa	Swahili	    1
-nds	Low German	    1
-gre	Greek Modern 1453- 	    1
-slv	Slovenian	    1
-chi	Chinese	    1
-fao	Faroese	    1
-smj	Lule Sami	    1
-kon	Kongo	    1
-tig	Tigré	    1
-kal	Kalâtdlisut	    1
-slo	Slovak	    1
-ara	Arabic	    1
+Total count: 	385771	
+swe	Swedish	318288
+ger	German	 14340
+eng	English	 10793
+und	NA	  8080
+lat	Latin	  7351
+fre	French	  5967
+fin	Finnish	  4434
+dan	Danish	  4358
+NA	NA	  2423
+nor	Norwegian	  2143
+dut	Dutch	  1155
+zxx	No linguistic content	   903
+ita	Italian	   808
+rus	Russian	   726
+spa	Spanish	   445
+mul	Multiple languages	   367
+cze	Czech	   338
+pol	Polish	   327
+est	Estonian	   313
+ice	Icelandic	   293
+---	NA	   226
+lav	Latvian	   211
+hun	Hungarian	   199
+grc	Greek Ancient to 1453 	   154
+non	Old Norse	   138
+por	Portuguese	   115
+smi	Sami	    83
+hrv	Croatian	    80
+epo	Esperanto	    77
+bul	Bulgarian	    69
+jpn	Japanese	    68
+heb	Hebrew	    46
+tur	Turkish	    37
+gre	Greek Modern 1453- 	    34
+ara	Arabic	    34
+yid	Yiddish	    25
+rum	Romanian	    22
+slo	Slovak	    18
+tir	Tigrinya	    18
+chi	Chinese	    17
+tig	Tigré	    14
+fao	Faroese	    14
+ukr	Ukrainian	    14
+bnt	Bantu Other 	    11
+slv	Slovenian	    10
+amh	Amharic	    10
+ido	Ido	    10
+swa	Swahili	    10
+kon	Kongo	     9
+srp	Serbian	     9
+lit	Lithuanian	     7
+pli	Pali	     7
+nds	Low German	     6
+nno	Norwegian Nynorsk 	     6
+afr	Afrikaans	     6
+arm	Armenian	     5
+zul	Zulu	     5
+syr	Syriac Modern	     4
+9fs	NA	     4
+got	Gothic	     4
+nic	Niger-Kordofanian Other 	     3
+fry	Frisian	     3
+san	Sanskrit	     3
+cat	Catalan	     3
+fro	French Old ca. 842-1300 	     3
+gez	Ethiopic	     3
+smj	Lule Sami	     3
+art	Artificial Other 	     3
+per	Persian	     2
+sme	Northern Sami	     2
+mlg	Malagasy	     2
+wel	Welsh	     2
+ind	Indonesian	     2
+fiu	Finno-Ugrian Other 	     2
+orm	Oromo	     2
+frm	French Middle ca. 1300-1600 	     2
+enm	English Middle 1100-1500 	     2
+arc	Aramaic	     2
+ssa	Nilo-Saharan Other 	     2
+uig	Uighur	     2
+hin	Hindi	     2
+9fd	NA	     2
+geo	Georgian	     2
+roh	Raeto-Romance	     2
+alb	Albanian	     2
+9ft	NA	     1
+9mk	NA	     1
+kua	Kuanyama	     1
+ber	Berber Other 	     1
+mal	Malayalam	     1
+rom	Romani	     1
+som	Somali	     1
+hil	Hiligaynon	     1
+cus	Cushitic Other 	     1
+sma	Southern Sami	     1
+mac	Macedonian	     1
+kin	Kinyarwanda	     1
+gmh	German Middle High ca. 1050-1500 	     1
+kor	Korean	     1
+ori	Oriya	     1
+kal	Kalâtdlisut	     1
+wen	Sorbian Other 	     1
+pro	Provençal to 1500 	     1
+alg	Algonquian Other 	     1
+kho	Khotanese	     1
+oci	Occitan post-1500 	     1
+ty	NA	     1
+da	NA	     1
+tre	NA	     1
+sp	NA	     1

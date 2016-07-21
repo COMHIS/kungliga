@@ -10,9 +10,9 @@ output: markdown_document
 
 ## Page counts
 
-  * Page count missing and estimated for 0 documents (0%).
+  * Page count missing and estimated for 2031 documents (0.5%).
 
-  * Page count missing and could not be estimated for 7752 documents (38.8%).
+  * Page count missing and could not be estimated for 147340 documents (38.2%).
 
   * Page count updated for 0 documents.
   
@@ -25,7 +25,7 @@ output: markdown_document
   * [Automated tests for page count conversions](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/tests_polish_physical_extent.csv)
 
 
-Left: Gatherings vs. overall pagecounts (original + estimated). Right: Only the estimated page counts (for the 0 documents that have missing pagecount info in the original data):
+Left: Gatherings vs. overall pagecounts (original + estimated). Right: Only the estimated page counts (for the 2031 documents that have missing pagecount info in the original data):
 
 <img src="figure/pagecount-size-estimated-1.png" title="plot of chunk size-estimated" alt="plot of chunk size-estimated" width="430px" /><img src="figure/pagecount-size-estimated-2.png" title="plot of chunk size-estimated" alt="plot of chunk size-estimated" width="430px" />
 
@@ -37,21 +37,23 @@ Left: Gatherings vs. overall pagecounts (original + estimated). Right: Only the 
 Multi-volume documents average page counts are given per volume.
 
 
-|doc.dimension | mean.pages.singlevol|median.pages.singlevol | n.singlevol| mean.pages.multivol|median.pages.multivol | n.multivol| mean.pages.issue|median.pages.issue | n.issue|
-|:-------------|--------------------:|:----------------------|-----------:|-------------------:|:---------------------|----------:|----------------:|:------------------|-------:|
-|2fo           |                  NaN|NA                     |          86|                  NA|NA                    |         NA|               NA|NA                 |      NA|
-|4to           |                  NaN|NA                     |        1613|                  NA|NA                    |         NA|               NA|NA                 |      NA|
-|8vo           |                  NaN|NA                     |        1314|                 NaN|NA                    |          9|              NaN|NA                 |       2|
-|12mo          |                  NaN|NA                     |         181|                  NA|NA                    |         NA|               NA|NA                 |      NA|
-|16mo          |                  NaN|NA                     |          77|                  NA|NA                    |         NA|               NA|NA                 |      NA|
-|18mo          |                  NaN|NA                     |           6|                  NA|NA                    |         NA|               NA|NA                 |      NA|
-|24mo          |                  NaN|NA                     |           6|                  NA|NA                    |         NA|               NA|NA                 |      NA|
-|64mo          |                  NaN|NA                     |           4|                  NA|NA                    |         NA|               NA|NA                 |      NA|
-|NA            |                  NaN|NA                     |       16534|                 NaN|NA                    |        102|              NaN|NA                 |     194|
+|doc.dimension | mean.pages.singlevol|median.pages.singlevol | n.singlevol| mean.pages.multivol| median.pages.multivol| n.multivol| mean.pages.issue| median.pages.issue| n.issue|
+|:-------------|--------------------:|:----------------------|-----------:|-------------------:|---------------------:|----------:|----------------:|------------------:|-------:|
+|2fo           |                  NaN|NA                     |        1858|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|4to           |                  NaN|NA                     |       32051|                  NA|                    NA|         NA|              NaN|                 NA|       7|
+|6to           |                  NaN|NA                     |          28|                  NA|                    NA|         NA|              NaN|                 NA|       1|
+|8long         |                  NaN|NA                     |          14|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|8vo           |                  NaN|NA                     |       25060|                   1|                     1|         95|                1|                  1|      30|
+|12long        |                  NaN|NA                     |           1|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|12mo          |                  NaN|NA                     |        3288|                 NaN|                    NA|         20|              NaN|                 NA|       3|
+|16mo          |                  NaN|NA                     |        1599|                 NaN|                    NA|          6|               NA|                 NA|      NA|
+|18mo          |                  NaN|NA                     |          95|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|24mo          |                  NaN|NA                     |         171|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|32mo          |                  NaN|NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|48mo          |                  NaN|NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|64mo          |                  NaN|NA                     |          35|                  NA|                    NA|         NA|               NA|                 NA|      NA|
+|NA            |                  NaN|NA                     |      318072|                   1|                     1|       1941|                1|                  1|    3596|
 
-
-```
-## Error in eval(expr, envir, enclos): object 'value' not found
-```
+![plot of chunk size-pagecountsmulti2](figure/pagecount-size-pagecountsmulti2-1.png)
 
 -->

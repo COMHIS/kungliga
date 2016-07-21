@@ -9,9 +9,9 @@ output: markdown_document
 
 
 
-  * 1830 [unique accepted subject topics](output.tables/subject_topic_accepted.csv)
+  * 22254 [unique accepted subject topics](output.tables/subject_topic_accepted.csv)
   * [List of discarded subject topics](output.tables/subject_topic_discarded.csv)
-  * 2190 documents (11%) are assigned a subject topic 
+  * 42890 documents (11%) are assigned a subject topic 
 
 
 Top-20 subject topics and number of documents for each.

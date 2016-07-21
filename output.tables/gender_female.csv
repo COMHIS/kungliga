@@ -1,143 +1,818 @@
 Name	Count
-Fredrika	21
-Astrid	20
-Gertrud	15
-Ingeborg	13
-Mathilda	12
-Eva	10
-Margit	8
-Helena	7
-Kerstin	6
-Barbra	4
-Barbro	4
-Dagmar	4
-Fanny	4
-Gurli	4
-Mayne	4
-Birgitta	3
-Carita	3
-Emilia	3
-Eva Von	3
-Hilma	3
-Magda	3
-Marita	3
-Marta	3
-Amalia	2
-Ann Margret	2
-Anne Charlotte	2
-Annik	2
-Efr	2
-Elisabet	2
-Ethel M	2
-Eva Marianne	2
-Florence	2
-Gunhild	2
-Gunilla	2
-Hedda	2
-Hedvig Charlotta	2
-Helene	2
-Hildegard	2
-Hilja	2
-Hulda	2
-Irja	2
-Kajsa	2
-Karolina	2
+Astrid	317
+Fredrika	304
+Mathilda	253
+Eva	244
+Margit	213
+Ingeborg	202
+Gertrud	165
+Helena	135
+Dagmar	127
+Kerstin	122
+Hilma	110
+Gunhild	83
+Gurli	78
+Anne Charlotte	73
+Fanny	73
+Irja	68
+Ingegerd	66
+Emilia	65
+Elisabet	63
+Magda	60
+Birgitta	56
+Charlotte	48
+Barbro	47
+Helene	46
+Lotten	45
+Hulda	39
+Siri	39
+Anna-lisa	38
+Lucie	38
+Hedvig Charlotta	37
+Ann Margret	35
+Mayne	35
+Barbra	34
+Emmuska	31
+Florence	31
+Hedda	31
+Disa	29
+Ethel S	29
+Ragnhild	29
+Richmal	29
+Vendela	29
+Eira	28
+Hildegard	28
+Karolina	28
+Hildegard Johanna	27
+Berit	26
+Grazia	26
+Ad	25
+Ethel M	25
+Louisa May	25
+Marita	25
+Amalia	24
+Gunilla	24
+Cajsa	23
+Charlotta	22
+Thekla	22
+Wendela	22
+Annik	21
+Eva Margareta	21
+Kjerstin	21
+Hilja	20
+Gustafva	19
+Eva Von	18
+Gulli	18
+Julli	18
+Margarete	18
+Anni	17
+Dikken	17
+Hesba	17
+Kathrine	17
+Mirjam	17
+Frigga	16
+Netta	16
+Inga-britt	15
+Marta	15
+Mazo	15
+Ann-mari	14
+Carita	14
+Kersti	14
+Tilda	14
+Viveka	14
+Efr	13
+Ethel	13
+Carolin	12
+Lizzy	12
+Maj-britt	12
+Margery	12
+Sofie	12
+Annemarie	11
+Eleanor	11
+Eleanor H	11
+Ngaio	11
+Ulrika	11
+Annalisa	10
+Elswig	10
+Eva Marianne	10
+Fia	10
+Katri	10
+Lisbeth	10
+Majken	10
+Wissa	10
+Ad Olf Alarik	9
+Florence L	9
+Gipsy	9
+Helena Sofia	9
+Lullu	9
+Melita	9
+Abela	8
+Christianna	8
+Friederike Helene	8
+Kathlyn	8
+Kl	8
+Lolo	8
+Margot	8
+Marie-louise	8
+Ursula	8
+Aivva	7
+Alvilde	7
+Bitte	7
+Ingeborg Wærn	7
+Kitty	7
+Liisa	7
+Mathilde	7
+Signhild	7
+Teres	7
+Tyyni	7
+Visen	7
+Viveca	7
+Annika	6
+Bolette	6
+Concordia	6
+Eivor	6
+Ellinor	6
+Evelina	6
+Friederike Henriette	6
+Gunila	6
+Inkeri	6
+Irmgard	6
+Kajsa	6
+Lillemor	6
+Loulou	6
+Ottilie	6
+Susanne	6
+Tekla	6
+Thorborg	6
+Toini	6
+Vilhelmina	6
+Walborg	6
+Airi	5
+Ann-marie	5
+Anna-maria	5
+Anna-stina	5
+Anne-charlotte	5
+Bengta	5
+C Arl Y Ngve	5
+Charlotte Von	5
+Dorette	5
+Eeva	5
+Ewa Ottilia	5
+Gertrud Karolina Amalia	5
+Halldis	5
+Helvi	5
+Honorine	5
+Jon Ad	5
+Katarina	5
+Kerttu	5
+Kirstine	5
+M Aximilian V Ictor	5
+Maikki	5
+Milly	5
+Nicolaus Benedicti	5
+Selma Ottiliana Lovisa	5
+Solvig	5
+Zenta	5
+Ad Olf	4
+Anna-lena	4
+Anna-liisa	4
+Astri	4
+C Arl Y Ngve N Iklas	4
+Charlotte Mary	4
+Charlotte Rose De	4
+Charmian	4
+Ditha	4
+Dorita Fairlie	4
+Eleonora	4
+Eva Agatha Stanislas	4
+Eva Troll	4
+Fride Bothild	4
+Greta Emilia Oskara	4
+Harriet Lummis	4
+Helene Von	4
+Kirsti	4
+Lovisa Charlotta	4
+Maija	4
+Maj-lis	4
+Margarethe	4
+Pernilla	4
+Rumer	4
+Signild	4
+Torborg	4
+Ulrica Carolina	4
+V Ictor	4
+Veronika	4
+Wivi	4
+A Gnes	3
+Aasta	3
+Ad L	3
+Adelheid	3
+Annuli	3
+Borghild	3
+Brigitta Catharina	3
+C Arl V Ictor	3
+Catri	3
+Charlotte Marie De	3
+Eleanor Frances	3
+Ettie A	3
+Eva Andreètta	3
+Florence Alice	3
+Friederike	3
+Georgette	3
+Gerda Elisabet	3
+Gullevi	3
+Helja	3
+Hilkka	3
+Hillewi	3
+Huldi	3
+I Ngeborg	3
+Ing-marie	3
+Ingalill	3
+Ingeborg Waern	3
+Ingunn	3
+Jadwiga	3
+Jeja	3
+Johanna Charlotta	3
+Kyllikki	3
+Lavinia R	3
+Lisbet	3
+M:me	3
+Madame	3
+Marga	3
+Mary Louisa	3
+Nanni	3
+Onoto	3
+Ortrud	3
+Phyllis Eleanor	3
+Ragnhild Thorborg	3
+Rauha	3
+Rebecka	3
+Rosalba	3
+Samuel Danielis	3
+Sigrid Hedda	3
+Sigyn	3
+Simonne	3
+Sirkka	3
+Sofia Ludovika Hildegard	3
+Thalia Mathilda	3
+Thyris Måns	3
+Vanja	3
+Zofia	3
+A Ugusta	2
+Adja	2
+Alette	2
+Anja	2
+Ann-sofi	2
+Anni Ruth F Rebenswurzel	2
+Annikki	2
+Axelina	2
+Beata Ulrika	2
+Belloc	2
+Birgitta V	2
+Britt-louise	2
+Carolina Beata	2
+Cecily	2
+Charlotte Perkins	2
+Cilette	2
+Coralie	2
+E Mma	2
+Edyth	2
+Eiluned	2
+Eleanor Hoyt	2
+Eleonor	2
+Elisabetta Rangoni	2
+Engard	2
+Esther Sofia Katarina	2
+Ethel Cook	2
+Ethel Lilian	2
+Etti	2
+Eulalia	2
+Eva Af	2
+Eva Julia Augusta	2
+Eva M	2
+Eva Troll Ainée	2
+Eva V	2
+Ferd Inand	2
+Fr Ad	2
+Franziska	2
+Freya	2
+Frideborg	2
+Gertrud M	2
+Giri	2
+Gundel	2
+Gust Ad	2
+Hedvig Beata	2
+Helene-charlotta Johanna Lolo	2
+Helma	2
+Helmy	2
+Hermania Fredrica	2
+Hildur Signild	2
+Hillevi	2
+I Gnaz B Ernhardt	2
+Inayat	2
+Ingegärd Eleonora	2
+Iso	2
+J Ohanna	2
+Jehanne D'	2
+Johanna Leontina	2
+Josef Ad Am Joach Im	2
+Josefine	2
+Jutta	2
+K Arl Ad Olf	2
+Kaethe	2
+Kaisa	2
+Kristiane	2
+Krystyna	2
+Lady	2
+Letta Rudnicka	2
+Lieselotte	2
+Liisi	2
+Lotten V	2
+Lovisa Jakobina Eleonora	2
+Lovisa Mathilda	2
+Lyydia	2
+Maiju	2
+Maj-brit	2
+Margareta Beata	2
 Margarete J	2
-Margot	2
-Richmal	2
-Rumer	2
-Tilda	2
-Wendela	2
+Margareth	2
+Margit Charlotta	2
+Margith	2
+Margret	2
+Maria Charlotte	2
+Marjatta	2
+Marjory	2
+Marta A	2
+Märta Pernilla Elisabet Gotthardsdotter	2
+Meta	2
+Milda	2
+Mimmi	2
+Mirdza	2
+Nadežda Aleksandrovna	2
+Naemi	2
+Nathalia	2
+Nathaly V	2
+Nella	2
+Ottilie A	2
+Philippine	2
+Ragni	2
+Riitta	2
+Rina	2
+Rosina	2
+Rosita	2
+Saara	2
+Saima	2
+Saini	2
+Selina	2
+Signi	2
+Sophie Charlotte Von	2
+Susanna	2
+Torun	2
+Una	2
+V Ictor L Aurentius	2
+Vala	2
+Vicko	2
+Vigdis	2
+Vissa	2
+W Illia M	2
+Zaida	2
+A Lexandere R Izo	1
+A Lfred V Ictor	1
+A Paget	1
+Ad D'	1
 Ad De	1
-Ad Olf Alarik	1
-Alvilde	1
+Ad G:son	1
+Ad M	1
+Ad Olf A Larik	1
+Ad Olf Abraham	1
+Ad Olf F Redrik	1
+Ad Olf Rob	1
+Ad Olf Rob Ert	1
+Adèle Eufrosyne	1
+Agatha Eleonora	1
+Agatha Lovise	1
+Agnes Jacquette Wilhelmina	1
+Agnete	1
+Agni	1
+Agni Kielland	1
+Agra	1
+Aleksandra Dmitrievna	1
+Aleksandra Ivanovna	1
+Aletta H	1
+Alida Charlotte Augusta	1
+Allfrida	1
+Amalia E	1
 Andréa Elisabet	1
-Ann-mari	1
-Anna-liisa	1
-Anna-lisa	1
-Anna-stina	1
+Andrietta	1
+Ann-louise	1
+Anna Charlotte	1
+Anna Charlotte Mathilda	1
+Anna-brita F Pålsson	1
+Anna-leena	1
+Anna-lisa F Schenström	1
+Anna-mia	1
 Annelise	1
-Astri	1
+Anni Dagmar	1
+Anni O	1
+Anni Ruth	1
+Annmarie	1
+Arabella	1
+Arij	1
+Astrid H	1
+August Ad Nath	1
+Aulikki	1
+Aune Annikki	1
+Barbet	1
+Beata Johanna	1
+Belle C	1
 Bergljot	1
-Borghild	1
-Britt-louise	1
-Cajsa	1
-Carolina Beata	1
-Charlotta	1
-Charlotte	1
-Eira	1
-Emmuska	1
-Ethel	1
-Ethel Cook	1
-Ethel S	1
-Eva Agatha Stanislas	1
+Bergta Olaidotter	1
+Berta Maj-britt	1
+Betti	1
+Bimala Churn	1
+Birgit Dagmar	1
+Birgitt	1
+Birgitta Birgit Oscarowna	1
+Birgitta Catharina	1
+Brigid	1
+Britt-marie	1
+C Ad	1
+C Ulr	1
+Carl Ad	1
+Catharina Charlotta	1
+Catharina Fredrika	1
+Charlotta Amalia	1
+Charlotta Dorothea	1
+Charlotte Amalia	1
+Charlotte Antoinette De Bressay De	1
+Charlotte Christine	1
+Charlotte Elisabeth Constantia Von Der	1
+Chio	1
+Chirstin	1
+Cilluf	1
+Cissela	1
+Colette	1
+Coralie Lydia F pålman	1
+Cotty	1
+Crona	1
+Dalida	1
+Dels Nya Statsanslag	1
+Diddie	1
+Dikta A	1
+Diza Ėduardovna	1
+Dormer	1
+E Nok H Ansen	1
+Edelgard	1
+Edit Alfhild Ingeborg	1
+Edith Florence Boyle	1
+Edith Ingeborg	1
+Editht Maude	1
+Edward Arthur Brayley	1
+Effe	1
+Efr N	1
+Eingeborg F Hässler	1
+Ekaterina	1
+Eleanor G	1
+Eleanor Hallowell	1
+Eleanor Holgate	1
+Eleanor M	1
+Eleanore	1
+Eleanore S	1
+Elenor	1
+Eleonora Charlotta	1
+Eleonora Charlotta Filippina Fredrika Lovisa	1
+Eleonore Florence Elizabeth	1
+Eleutherios	1
+Elfriede	1
+Elisabet Elenora	1
+Eliza Fanny	1
+Elsa-maria	1
+Else Merete	1
+Elspeth J	1
+Emilia F S	1
+Emilienne	1
+Enni Alfhild Ingeborg	1
+Ernst Ad Olf	1
+Esprit	1
+Essi	1
+Ethel C	1
+Ethel Colburn	1
+Ethel Daniels	1
+Ethel H	1
+Ethel Hand	1
+Ethel J	1
+Ethel Lina	1
+Ethel Watts	1
+Ethlyn T	1
+Etsu Inagaki	1
+Ev Fredrika	1
+Eva Andr:a	1
+Eva Augusta	1
+Eva Augusta F Cronstedt	1
+Eva Charlotta Henrika	1
+Eva Charlotta Vilhelmina Henrietta	1
+Eva Christina	1
+Eva E	1
+Eva Gudrun	1
 Eva Knox	1
+Eva Monika Von	1
+Eva T	1
+Eva-lisa	1
 Eveline	1
-Ewa Ottilia	1
-Fia	1
-Florence Alice	1
+Evelyne	1
+F Rances E Lizabeth	1
+Fanchette	1
+Fanny E	1
+Fanny M:me	1
+Florence A	1
+Florence Aiken	1
 Florence Alice B Price	1
-Friederike Helene	1
-Giri	1
-Grazia	1
-Gullevi	1
-Gulli	1
+Florence Edith	1
+Florence Holladay	1
+Florence Katherine	1
+Florence Page	1
+Florence Partello	1
+Foda	1
+Franciska	1
+Fredericus	1
+Fredrika Lovisa	1
+Fredrika Vilhelmina	1
+Frida Erdmute	1
+Fridborg	1
+Friderike M	1
+Friedrich Ad Olph Ludvig Ewald	1
+G Ad	1
+G Unne	1
+Gemma	1
+Georgiana M	1
+Gerda Amalia	1
+Gertie	1
+Gertrud Löfgren	1
+Giulia	1
+Greta Carola Vilhelmina	1
+Gudda	1
+Gullan	1
+Gungerd	1
+Gunhild Friesia	1
+Gunhild Linnea	1
 Gunnevi	1
+Guri	1
+Gurli Ingergerd	1
+Gust Af Ad Olf	1
+Gustaf Ad	1
+Gustaf Ad Olf	1
+Gustafva F	1
+Gustafva Fredrica F Ekenmark	1
+Gustava Hendriette F prahn	1
+Gwendoline	1
+Gwynneth	1
+H Enriette S Ophie	1
+Hanna Ingalill F rydh	1
+Hannen	1
+Haquinus Benedicti	1
+Hedda Agnes Ida	1
+Heddi	1
+Hedvig Amalia	1
+Hedvig Amalia Charlotta	1
+Hedvig Hedda Charlotta	1
+Hedvig Ulrika Vilhelmina	1
 Hedwig Eleonora	1
-Helene-charlotta Johanna Lolo	1
-Hesba	1
-Hilkka	1
+Helena Ester Florence	1
+Helene Sophie	1
+Helene Von F Von Boddien	1
+Helesine	1
+Hellas	1
+Helmina	1
+Hermanna	1
+Hervor	1
+Hilb	1
+Hildur Charlotta	1
+Hilja Helena	1
+Hilppa	1
+Hipp	1
 Huldine	1
-Inga-britt	1
+I Isakki E Emeli	1
+Ildegert	1
+Inetz W	1
+Ing Ad	1
+Inga-lisa	1
+Ingalisa	1
 Ingeborg Elfriede	1
-Ingeborg Waern	1
-Ingeborg Wærn	1
-Ingegerd	1
-Jon Ad	1
-Julli	1
+Ingeborg Fredrika	1
+Ingegerd Eleonora	1
+Ingegerd Tullberg	1
+Inte	1
+Iride	1
+Irja Ilona	1
+Irmelin	1
+J Akob V Ictor	1
+J Fraiser	1
+Jeanetta Charlotta	1
+Jekaterina Romanova	1
+Joh Ad	1
+Johanna Gustafva	1
+Johanna Sofia Charlotte Von	1
+John Kells	1
+Jonas Benedicti	1
+Josephina	1
+Julchen	1
+Juliet	1
+Juliette	1
+Julij Isaevič	1
 K Arl Y Ngve	1
-Katri	1
-Kirstine	1
-Kjerstin	1
-Kl	1
-Liisa	1
-Liisi	1
-Lizzy	1
-Lolo	1
-Louisa May	1
-Lucie	1
-Margareth	1
-Margery	1
-Margit Charlotta	1
+Kaarina	1
+Kaija	1
+Kaino	1
+Kaisu	1
+Kalila	1
+Kamma	1
+Karl Konr Ad	1
+Karolina Sidonia	1
+Karoline	1
+Katharina	1
+Kathi	1
+Kerstin Margareta	1
+Kerstin Sofia	1
+Kesar Filipovič	1
+Kreszentia	1
+L Iisi Vilhelmiina	1
+Lahja	1
+Laimi	1
+Lajla	1
+Lala	1
+Lalla	1
+Laurentius Georgii	1
+Lavinia	1
+Leena	1
+Leida	1
+Leisa	1
+Lella	1
+Lida E	1
+Lidija	1
+Lidija Alekseevna	1
+Lidija Nikolaevna	1
+Lili Amelie Margarete	1
+Liliane	1
+Lillan	1
+Lise-lotte	1
+Lisen F Josephsson	1
+Lizinka	1
+Ljudmila Aleksandrovna	1
+Lotten = H C W	1
+Louisa	1
+Louisa Amelie Charlotte	1
+Louisa I G	1
+Lovisa Ulrika	1
+Lucie E	1
+Luksa	1
+Luzie	1
+Lyyli	1
+M Ad	1
+M m Tabula	1
+M:me Ferdinand	1
+Madelaine	1
+Magdalene	1
+Maiken	1
+Maj Gunnel Viktoria	1
+Maja-lisa	1
+Marcus Georgii	1
+Maret	1
+Margareta Susanna	1
+Margaretta	1
+Margery Louise	1
+Margherita	1
+Margherita G	1
+Margrete	1
+Margrete Sofie F Pikulell	1
+Margrethe	1
 Margrit Burri-studhalter	1
-Marie-louise	1
+Margta	1
+Maria Louisa	1
+Marie-anne	1
+Marie-jeanne Bongourd	1
+Mariėtta Sergeevna	1
+Mariette	1
 Marija ėduardovna	1
+Marija Nikolaevna	1
+Maritta	1
+Märta Eleonora	1
+Märta F Aulin	1
+Märta Helena	1
+Martta	1
 Mary Eleanor Wilkins	1
+Marya	1
+Marynia F	1
+Mathilda Katarina Johanna	1
+Mathilde V	1
 Mattias Georgii	1
-Mazo	1
-Melita	1
-Mirjam	1
-Nadežda Aleksandrovna	1
-Nathalia	1
-Nella	1
-Ngaio	1
-Ortrud	1
-Ragnhild	1
+Mayling Soong	1
+Mette	1
+Michael Paget	1
+Miff	1
+Milly F Hermansen	1
+N Ad	1
+Natalʹja Aleksandrovna	1
+Natalija Aleksandrovna	1
+Nelle E	1
+Nicolete	1
+Nicoletta	1
+Niina	1
+Ninni	1
+Nj	1
+Oddlaug	1
+Odette	1
+Oksana	1
+Olaug	1
+Olga Charlotta	1
+Olympe	1
+Onerva	1
+Oscar Appi	1
+Oscaria	1
+Outi	1
+P Eter Conr Ad	1
+Pandita	1
+Philippa	1
+Phillis Eleanor	1
+Pirkko	1
 Ragnhild Modin	1
-Ragni	1
-Rosita	1
-Saima	1
+Rahel	1
+Reinholdine Frederikke Vilhelmine	1
+Ringa	1
+Romilly	1
+Rut Vivika	1
+S Akki J Edidja	1
+S Ulo N Estori	1
 Saini Signe	1
+Samuel Benedicti	1
+Samuel Georgii	1
+Sanni	1
 Santha	1
-Signhild	1
-Signild	1
+Seale	1
+Sibilla	1
+Siggen	1
+Signe Allona	1
+Signe Gertrud Eva	1
+Signe Nanna Ingeborg F gustafson	1
+Signe Nanna Ingeborg F Gustafsson	1
+Signe Viktoria	1
+Sigrid Alfhild Elisabet	1
 Sigrid Berit Lillebil	1
-Siri	1
-Susanne	1
-Tekla	1
-Teres	1
-Toini	1
-Tyyni	1
+Sigrid Emilia Charlotta	1
+Sigrid Ingeborg	1
+Siri Alfrida	1
+Siri Lovisa	1
+Siri Sigrid Elisabet	1
+Skulda Vanadis	1
+Sohvi	1
+Solange	1
+Solweig	1
+Som Icke Ovilkorligen Skola Ske I Kyrka	1
+Sulamith	1
+Svanhild	1
+Svea Helene Swensson	1
+Svenborg	1
+Swea	1
+Syster	1
+T Or V Ictor Valfrid	1
+Taeke Binnert	1
+Taimi	1
+Taina	1
+Tante	1
+Taru	1
+Tellervo	1
+Terttu	1
+Thecla	1
+Theli	1
+Thilda	1
+Thomasine	1
+Thorborg Tryggvesdotter	1
+Tiiu	1
+Tuomi	1
+Tuovi	1
+Tyyne Göta Zuleima	1
+U Unio	1
+Ulla Ulrika Charlotta	1
+Ulla Ulrika Ottiliana F Lewenhaupt	1
+Ulla-brita	1
+Ulla-britta	1
 Ulrica Helena	1
-Ulrika	1
-Wissa	1
+Ulrika Charlotta	1
+Ulrika Jakobina	1
+Ursula Moray	1
+V Alev	1
+V Ictor A Lexius	1
+V Ictor Emanuel	1
+V Ictor M Agnus	1
+Vahlborg	1
+Vardis	1
+Varpu	1
+Varvara Ivanovna	1
+Viia	1
+Vilma	1
+Vuokko	1
+Wendela Henrika	1
+Wilhelmine	1
+Zadel Barnes	1
+Zehra	1
+Zoja	1
+Zsuzsa	1

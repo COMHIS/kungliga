@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-22"
+date: "2016-08-17"
 output: markdown_document
 ---
 
@@ -84,15 +84,14 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |976a                                      |        72.6|          27.4|        105689|      29699|
 |976b                                      |        72.6|          27.4|        105689|      30434|
 |900d                                      |        66.8|          33.2|        127919|      19778|
+|self_published                            |        66.6|          33.4|        128713|          3|
 |900u                                      |        65.8|          34.2|        132073|      24249|
 |900a                                      |        65.8|          34.2|        132074|      24535|
 |note_general                              |        65.3|          34.7|        133786|      82777|
-|self_published                            |        65.1|          34.9|        134509|          3|
 |title_remainder                           |        56.7|          43.3|        166992|     132055|
 |author_death                              |        56.5|          43.5|        167770|        538|
 |author_gender                             |        55.7|          44.3|        170851|          4|
 |author_birth                              |        52.8|          47.2|        182045|        578|
-|publisher                                 |        52.7|          47.3|        182645|      18992|
 |pagecount.orig                            |        38.7|          61.3|        236400|       1415|
 |pagecount                                 |        38.2|          61.8|        238431|       1415|
 |852z                                      |        38.0|          62.0|        239278|      15781|
@@ -110,6 +109,7 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |latitude                                  |         1.0|          99.0|        381749|       1505|
 |longitude                                 |         1.0|          99.0|        381749|       1506|
 |title                                     |         0.6|          99.4|        383297|     333332|
+|publisher                                 |         0.4|          99.6|        384324|      16680|
 |language.Swedish                          |         0.0|         100.0|        385771|          2|
 |language.English                          |         0.0|         100.0|        385771|          2|
 |language.French                           |         0.0|         100.0|        385771|          2|
@@ -213,10 +213,10 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |obl.original                              |         0.0|         100.0|        385771|          2|
 |original_row                              |         0.0|         100.0|        385771|     385771|
 |author_pseudonyme                         |         0.0|         100.0|        385771|          2|
+|gatherings                                |         0.0|         100.0|        385771|         15|
 |singlevol                                 |         0.0|         100.0|        385771|          2|
 |multivol                                  |         0.0|         100.0|        385771|          2|
 |issue                                     |         0.0|         100.0|        385771|          2|
-|gatherings                                |         0.0|         100.0|        385771|         15|
 
 
 

@@ -1,16 +1,16 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-07-22"
+date: "2016-08-17"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 18992 [unique publishers](output.tables/publisher_accepted.csv)
+ * 16680 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 182645 documents have unambiguous publisher information (47%). 
+ * 384324 documents have unambiguous publisher information (100%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -38,17 +38,17 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher             | titles|     paper|
-|:---------------------|------:|---------:|
-|Bonnier               |  13618| 2327999.6|
-|författare            |   3835|  189329.4|
-|Geber                 |   2428|  290857.0|
-|Gleerup               |   2701|  232355.3|
-|kungliga              |   5395| 1162085.0|
-|Natur & Coultur       |   2316|  329256.3|
-|Norstedt              |   6843| 1734157.9|
-|Riksdagen             |   3466|       0.0|
-|Sverige               |  11643| 4949282.7|
-|Wahlström & Widstrand |   3237|  407840.8|
+|publisher             | titles|      paper|
+|:---------------------|------:|----------:|
+|                      | 217993| 80650826.2|
+|Bonnier               |  13634|  2327530.9|
+|författare            |   3846|   194712.7|
+|Geber                 |   2430|   290857.0|
+|Gleerup               |   2701|   230833.0|
+|kungliga              |   5359|  1088209.6|
+|Natur & Coultur       |   2318|   329256.3|
+|Norstedt              |   6885|  1750031.8|
+|Riksdagen             |   3453|        0.0|
+|Wahlström & Widstrand |   3240|   407840.8|
 
 

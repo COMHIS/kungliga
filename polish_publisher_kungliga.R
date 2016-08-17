@@ -40,20 +40,13 @@ polish_publisher_kungliga <- function (df.orig) {
   
   # CHECK THE contents of pubs$alt[1:10] !!!!
   # The combination of enriched part & the unprocessed part
-    combined_pubs <- clean_publisher(raw_publishers, languages=languages)
-    combined_pubs <- harmonize_publisher(combined_pubs, publication_year, languages=languages)
-    combined_pubs <- combined_pubs[,1:2]
+  combined_pubs <- clean_publisher(raw_publishers, languages=languages)
+  combined_pubs <- harmonize_publisher(combined_pubs, publication_year, languages=languages)[,1:2]
   
-  # Convert S.N. into NA and Author into <Author>
+  # Convert S.N. into NA 
   f <- system.file("extdata/NA_publishers.csv", package="bibliographica")
   synonymes <- read.csv(file=f, sep="\t", fileEncoding="UTF-8")
   combined_pubs$mod <- map(combined_pubs$mod, synonymes, mode="recursive")
-  
-  # Last unification: If author name is the same as the publisher name -> mark as self-published
-  # NB! This could be more refined!
-  inds <- which(df.orig$publisher==df.orig$author_name)
-  combined_pubs$mod[inds] <- "<Author>"
-
   mod <- combined_pubs$mod
   mod[mod == ""] <- NA
   

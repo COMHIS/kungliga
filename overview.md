@@ -84,11 +84,11 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |976a                                      |        72.6|          27.4|        105689|      29699|
 |976b                                      |        72.6|          27.4|        105689|      30434|
 |900d                                      |        66.8|          33.2|        127919|      19778|
-|self_published                            |        66.6|          33.4|        128713|          3|
+|self_published                            |        66.8|          33.2|        128191|          2|
 |900u                                      |        65.8|          34.2|        132073|      24249|
 |900a                                      |        65.8|          34.2|        132074|      24535|
 |note_general                              |        65.3|          34.7|        133786|      82777|
-|publisher                                 |        56.9|          43.1|        166331|      16679|
+|publisher                                 |        58.7|          41.3|        159230|      16699|
 |title_remainder                           |        56.7|          43.3|        166992|     132055|
 |author_death                              |        56.5|          43.5|        167770|        538|
 |author_gender                             |        55.7|          44.3|        170851|          4|
@@ -213,10 +213,10 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |obl.original                              |         0.0|         100.0|        385771|          2|
 |original_row                              |         0.0|         100.0|        385771|     385771|
 |author_pseudonyme                         |         0.0|         100.0|        385771|          2|
-|gatherings                                |         0.0|         100.0|        385771|         15|
 |singlevol                                 |         0.0|         100.0|        385771|          2|
 |multivol                                  |         0.0|         100.0|        385771|          2|
 |issue                                     |         0.0|         100.0|        385771|          2|
+|gatherings                                |         0.0|         100.0|        385771|         15|
 
 
 

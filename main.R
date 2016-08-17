@@ -42,6 +42,7 @@ source(system.file("extdata/validation.R", package = "bibliographica"))
 # -------------------------------------------------
 
 source(system.file("extdata/enrich.R", package = "bibliographica"))
+source("enrich.kungliga.R")
 
 write.table(dim.estimates, sep = ",", row.names = F,
   file = paste(output.folder, "sheetsize_means.csv", sep = "/"),

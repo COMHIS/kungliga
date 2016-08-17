@@ -53,7 +53,10 @@ polish_publisher_kungliga <- function (df.orig) {
   # NB! This could be more refined!
   inds <- which(df.orig$publisher==df.orig$author_name)
   combined_pubs$mod[inds] <- "<Author>"
+
+  mod <- combined_pubs$mod
+  mod[mod == ""] <- NA
   
-  return(combined_pubs$mod)
+  return(mod)
 
 }

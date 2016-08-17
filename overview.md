@@ -88,6 +88,7 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |900u                                      |        65.8|          34.2|        132073|      24249|
 |900a                                      |        65.8|          34.2|        132074|      24535|
 |note_general                              |        65.3|          34.7|        133786|      82777|
+|publisher                                 |        56.9|          43.1|        166331|      16679|
 |title_remainder                           |        56.7|          43.3|        166992|     132055|
 |author_death                              |        56.5|          43.5|        167770|        538|
 |author_gender                             |        55.7|          44.3|        170851|          4|
@@ -109,7 +110,6 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |latitude                                  |         1.0|          99.0|        381749|       1505|
 |longitude                                 |         1.0|          99.0|        381749|       1506|
 |title                                     |         0.6|          99.4|        383297|     333332|
-|publisher                                 |         0.4|          99.6|        384324|      16680|
 |language.Swedish                          |         0.0|         100.0|        385771|          2|
 |language.English                          |         0.0|         100.0|        385771|          2|
 |language.French                           |         0.0|         100.0|        385771|          2|

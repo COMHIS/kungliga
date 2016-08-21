@@ -49,7 +49,10 @@ polish_publisher_kungliga <- function (df.orig) {
   combined_pubs$mod <- map(combined_pubs$mod, synonymes, mode="recursive")
   mod <- combined_pubs$mod
   mod[mod == ""] <- NA
-  
+
+  # Capitalize
+  mod <- capitalize(mod)
+
   return(mod)
 
 }

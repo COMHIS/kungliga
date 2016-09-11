@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-08-21"
+date: "2016-09-11"
 output: markdown_document
 ---
 
@@ -84,31 +84,31 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |976a                                      |        72.6|          27.4|        105689|      29699|
 |976b                                      |        72.6|          27.4|        105689|      30434|
 |900d                                      |        66.8|          33.2|        127919|      19778|
-|self_published                            |        66.8|          33.2|        128191|          2|
+|self_published                            |        66.8|          33.2|        128196|          3|
 |900u                                      |        65.8|          34.2|        132073|      24249|
 |900a                                      |        65.8|          34.2|        132074|      24535|
 |note_general                              |        65.3|          34.7|        133786|      82777|
-|publisher                                 |        58.7|          41.3|        159230|      16575|
+|publisher                                 |        56.7|          43.3|        166857|      16687|
 |title_remainder                           |        56.7|          43.3|        166992|     132055|
 |author_death                              |        56.5|          43.5|        167770|        538|
-|author_gender                             |        55.7|          44.3|        170851|          4|
+|author_gender                             |        55.7|          44.3|        170875|          5|
 |author_birth                              |        52.8|          47.2|        182045|        578|
 |pagecount.orig                            |        38.7|          61.3|        236400|       1415|
 |pagecount                                 |        38.2|          61.8|        238431|       1415|
 |852z                                      |        38.0|          62.0|        239278|      15781|
 |author_name                               |        27.3|          72.7|        280293|      88144|
 |author                                    |        27.3|          72.7|        280293|      89407|
-|country                                   |        12.1|          87.9|        339269|         38|
+|country                                   |        12.1|          87.9|        339223|         38|
 |852j                                      |         8.7|          91.3|        352283|     133906|
-|publication_place                         |         4.3|          95.7|        369154|       2628|
+|publication_place                         |         4.3|          95.7|        369108|       2628|
 |publication_year_from                     |         3.8|          96.2|        371265|        501|
 |publication_year                          |         3.8|          96.2|        371287|        501|
 |publication_decade                        |         3.8|          96.2|        371287|         57|
 |language                                  |         2.8|          97.2|        375030|        100|
 |dissertation                              |         1.8|          98.2|        378851|          3|
 |synodal                                   |         1.8|          98.2|        378851|          2|
-|latitude                                  |         1.0|          99.0|        381749|       1505|
-|longitude                                 |         1.0|          99.0|        381749|       1506|
+|latitude                                  |         1.0|          99.0|        381795|       1505|
+|longitude                                 |         1.0|          99.0|        381795|       1506|
 |title                                     |         0.6|          99.4|        383297|     333332|
 |language.Swedish                          |         0.0|         100.0|        385771|          2|
 |language.English                          |         0.0|         100.0|        385771|          2|

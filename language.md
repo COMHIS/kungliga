@@ -7,7 +7,7 @@ output: markdown_document
 
 ## Language
 
- * 97 unique languages
+ * 97 [unique languages](output.tables/language_accepted.csv)
  * The languages may come in [combinations](output.tables/language_conversions.csv)
  * 367 multilingual documents (0.1%)  
  * 10741 docs (2.78%) with no recognized language 

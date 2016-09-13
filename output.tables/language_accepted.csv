@@ -2,7 +2,6 @@ Name	Count
 Swedish	318288
 German	14340
 English	10793
-Undetermined	8080
 Latin	7351
 French	5967
 Finnish	4434
@@ -18,7 +17,6 @@ Czech	338
 Polish	327
 Estonian	313
 Icelandic	293
----	226
 Latvian	211
 Hungarian	199
 Greek, Ancient (to 1453)	154
@@ -55,7 +53,6 @@ Low German	6
 Norwegian (Nynorsk)	6
 Armenian	5
 Zulu	5
-9fs	4
 Gothic	4
 Syriac, Modern	4
 Artificial (Other)	3
@@ -66,7 +63,6 @@ Frisian	3
 Lule Sami	3
 Niger-Kordofanian (Other)	3
 Sanskrit	3
-9fd	2
 Albanian	2
 Aramaic	2
 English, Middle (1100-1500)	2
@@ -83,12 +79,9 @@ Persian	2
 Raeto-Romance	2
 Uighur	2
 Welsh	2
-9ft	1
-9mk	1
 Algonquian (Other)	1
 Berber (Other)	1
 Cushitic (Other)	1
-da	1
 German, Middle High (ca. 1050-1500)	1
 Hiligaynon	1
 Kalâtdlisut	1
@@ -105,6 +98,3 @@ Romani	1
 Somali	1
 Sorbian (Other)	1
 Southern Sami	1
-sp	1
-tre	1
-ty	1

@@ -7,11 +7,14 @@ output: markdown_document
 
 ## Subject topics
 
+The topics are shown individually. Note that each document may have
+several assigned topics.
+
 
 
   * 22254 [unique accepted subject topics](output.tables/subject_topic_accepted.csv)
   * [List of discarded subject topics](output.tables/subject_topic_discarded.csv)
-  * 42890 documents (11%) are assigned a subject topic 
+  * 42890 documents (11%) are assigned one or more subject topics 
 
 
 Top-20 subject topics and number of documents for each.

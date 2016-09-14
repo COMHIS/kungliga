@@ -1,7 +1,7 @@
 ---
 title: "Publication year summaries"
 author: "Leo Lahti"
-date: "2016-09-13"
+date: "2016-09-14"
 output: markdown_document
 ---
 
@@ -20,7 +20,7 @@ Publication year is available for 371287 documents (96%). The publication years 
 
 Publication frequency is available for 2975 documents (1%). The links are invalid if the lists are empty.
 
-[Publication frequency accepted](output.tables/publication_frequency_discarded.csv)
+[Publication frequency accepted](output.tables/publication_frequency_accepted.csv)
 
 [Publication frequency conversions](output.tables/publication_frequency_conversion.csv)
 
@@ -31,7 +31,7 @@ Publication frequency is available for 2975 documents (1%). The links are invali
 
 Publication interval is available for 4814 documents (1%). 
 
-[Publication interval accepted](output.tables/publication_interval_discarded.csv)
+[Publication interval accepted](output.tables/publication_interval_accepted.csv)
 
 [Publication interval conversions](output.tables/publication_interval_conversion.csv)
 
@@ -58,9 +58,10 @@ This figure shows the number of first editions per decade.
 
 
 ```
-## Error in paste("First editions count (", catalogue, ")", sep = ""): object 'catalogue' not found
+## Error: <text>:12:44: unexpected INCOMPLETE_STRING
+## 12:        ggtitle(paste("First editionssep = ""))
+## 13: print(p)
+##                                                ^
 ```
-
-<img src="figure/firsteditions-1.png" title="plot of chunk firsteditions" alt="plot of chunk firsteditions" width="280px" />
 
 

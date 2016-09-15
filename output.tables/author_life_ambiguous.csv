@@ -16,7 +16,7 @@ Ahlqvist, Pehr	1793	1854
 åkerlund, Erik	1853	1932
 åkerlund, Erik	1888	1932
 åkerlund, Erik	1895	1932
-åkerlund, Erik	NA	1932
+åkerlund, Erik	1932	NA
 åkerman, Gustaf	1854	1922
 åkerman, Gustaf	1888	1959
 åkerman, Gustaf	NA	NA
@@ -36,8 +36,8 @@ Aminoff, Torsten G	1910	1985
 Anckarström, Jacob Johan	1729	1777
 Anckarström, Jacob Johan	1762	1792
 Anderson, Anders	1822	1892
+Anderson, Anders	1892	NA
 Anderson, Anders	1894	1892
-Anderson, Anders	NA	1892
 Anderson, Ivar	1891	1980
 Anderson, Ivar	1894	1953
 Anderson, John	1868	NA
@@ -58,7 +58,7 @@ Andersson, Anders	1912	NA
 Andersson, Anders	NA	NA
 Andersson, Anna	1872	1958
 Andersson, Anna	1898	1958
-Andersson, Anna	NA	1958
+Andersson, Anna	1958	NA
 Andersson, Aron	1869	NA
 Andersson, Aron	1901	1985
 Andersson, Aron	1919	1984
@@ -85,17 +85,17 @@ Andersson, Carl	NA	NA
 Andersson, Erik	1881	1956
 Andersson, Erik	1886	1956
 Andersson, Erik	1909	1956
-Andersson, Erik	NA	1956
+Andersson, Erik	1956	NA
 Andersson, Ernst	1876	1978
 Andersson, Ernst	1892	1978
-Andersson, Ernst	NA	1978
+Andersson, Ernst	1978	NA
 Andersson, Gösta	1909	1994
 Andersson, Gösta	1913	1997
 Andersson, Gösta	1920	NA
 Andersson, Gösta	NA	NA
 Andersson, Gunnar	1865	1928
+Andersson, Gunnar	1928	NA
 Andersson, Gunnar	1937	1928
-Andersson, Gunnar	NA	1928
 Andersson, Gustaf	1812	1864
 Andersson, Gustaf	1884	1961
 Andersson, Gustaf	NA	NA
@@ -110,10 +110,10 @@ Andersson, Johan	NA	NA
 Andersson, John	1868	1967
 Andersson, John	1886	1967
 Andersson, John	1905	1967
-Andersson, John	NA	1967
+Andersson, John	1967	NA
 Andersson, Karl	1874	1940
 Andersson, Karl	1914	1940
-Andersson, Karl	NA	1940
+Andersson, Karl	1940	NA
 Andersson, Nils	1864	1921
 Andersson, Nils	1891	1974
 Andersson, Nils	1891	NA
@@ -121,8 +121,8 @@ Andersson, Nils	1917	NA
 Andersson, Nils	NA	NA
 Andersson, Olof	1746	1806
 Andersson, Olof	1765	1836
+Andersson, Olof	1802	NA
 Andersson, Olof	1912	NA
-Andersson, Olof	NA	1802
 Andersson, Oskar	1813	1866
 Andersson, Oskar	1877	1906
 Andersson, Oskar	1903	NA
@@ -159,7 +159,7 @@ Anrep, Axel	1835	1897
 Anrep, Axel	1937	1897
 Antoni, Fride	1886	1938
 Antoni, Fride	1919	1938
-Antoni, Fride	NA	1938
+Antoni, Fride	1938	NA
 Anzelius, Adolf	1796	1801
 Anzelius, Adolf	1894	1979
 Arbman, Ernst	1818	1896
@@ -196,7 +196,7 @@ Bauer, Walter	1912	1994
 Bauer, Walter	NA	NA
 Bengtsson, Bengt	1910	1981
 Bengtsson, Bengt	1938	1981
-Bengtsson, Bengt	NA	1981
+Bengtsson, Bengt	1981	NA
 Benzelius, Erik	1632	1709
 Benzelius, Erik	1675	1743
 Benzelstierna, Lars	1680	1755
@@ -208,14 +208,14 @@ Berg, Alfred	1857	1929
 Berg, Alfred	NA	NA
 Berg, Erik	1897	1980
 Berg, Erik	1908	1980
-Berg, Erik	NA	1980
+Berg, Erik	1980	NA
 Berg, Gunnar	1888	1965
 Berg, Gunnar	1905	1965
 Berg, Gunnar	1906	1965
-Berg, Gunnar	NA	1965
+Berg, Gunnar	1965	NA
 Berg, Gustaf	1873	1947
 Berg, Gustaf	1877	1947
-Berg, Gustaf	NA	1947
+Berg, Gustaf	1947	NA
 Berg, John	1851	1931
 Berg, John	1887	1950
 Berg, John	NA	NA
@@ -242,7 +242,7 @@ Bergman, Nils	1867	NA
 Bergman, Nils	1908	NA
 Bergman, Sten	1895	1975
 Bergman, Sten	1929	1975
-Bergman, Sten	NA	1975
+Bergman, Sten	1975	NA
 Bergman, Sven	1904	1961
 Bergman, Sven	1922	1995
 Bergman, Sven	NA	NA
@@ -257,7 +257,7 @@ Berndtson, Gunnar	1854	1895
 Berndtson, Gunnar	1889	1954
 Bexell, Carl Emanuel	1786	1873
 Bexell, Carl Emanuel	1788	1873
-Bexell, Carl Emanuel	NA	1873
+Bexell, Carl Emanuel	1873	NA
 Bildt, Carl	1704	1759
 Bildt, Carl	1850	1931
 Bildt, Knut Reinhold	1702	1751
@@ -266,7 +266,7 @@ Bjerkén, Pehr Af	1731	1774
 Bjerkén, Pehr Af	1859	1919
 Björkman, Gunnar	1892	1973
 Björkman, Gunnar	1898	1973
-Björkman, Gunnar	NA	1973
+Björkman, Gunnar	1973	NA
 Björkman, Gustav	1889	NA
 Björkman, Gustav	1894	NA
 Blix, Magnus	1743	1805
@@ -293,10 +293,10 @@ Borg, Erik	1880	1967
 Borg, Erik	1903	1982
 Borgström, Gustaf	1830	1915
 Borgström, Gustaf	1903	1915
-Borgström, Gustaf	NA	1915
+Borgström, Gustaf	1915	NA
 Börjeson, John	1835	1910
 Börjeson, John	1855	1910
-Börjeson, John	NA	1910
+Börjeson, John	1910	NA
 Brahe, Per	1520	1590
 Brahe, Per	1602	1680
 Brandell, Simon	1822	1895
@@ -337,7 +337,7 @@ Carlquist, Gunnar	1860	1936
 Carlquist, Gunnar	1889	1963
 Carlsson, Anders Johan	1786	1829
 Carlsson, Anders Johan	1788	1829
-Carlsson, Anders Johan	NA	1829
+Carlsson, Anders Johan	1829	NA
 Carlsson, Carl Edvard	1856	NA
 Carlsson, Carl Edvard	1868	NA
 Carlsson, Carl Edvard	NA	NA
@@ -346,7 +346,7 @@ Carlsson, Gottfrid	1907	1986
 Carlsson, Gottfrid	NA	NA
 Carlsson, Gunnar	1894	1982
 Carlsson, Gunnar	1900	1982
-Carlsson, Gunnar	NA	1982
+Carlsson, Gunnar	1982	NA
 Carlsson, Olof	1872	NA
 Carlsson, Olof	1908	NA
 Carlsson, Olof	NA	NA
@@ -374,7 +374,7 @@ Collin, Esaias	1784	1849
 Collin, Esaias	1866	1906
 Corelli, Marie	1855	1924
 Corelli, Marie	1864	1924
-Corelli, Marie	NA	1924
+Corelli, Marie	1924	NA
 Courths-mahler, Hedwig	1867	1950
 Courths-mahler, Hedwig	1876	1950
 Coyet, Wilhelm Julius	1647	1709
@@ -403,10 +403,10 @@ De Geer, Louis	1818	1896
 De Geer, Louis	1854	1935
 Dennemark, Sigurd	1891	1965
 Dennemark, Sigurd	1911	1965
-Dennemark, Sigurd	NA	1965
+Dennemark, Sigurd	1965	NA
 Dickson, Charles	1814	1902
 Dickson, Charles	1876	1902
-Dickson, Charles	NA	1902
+Dickson, Charles	1902	NA
 Du Moulin, Pierre	1568	1658
 Du Moulin, Pierre	1601	1684
 Düben, Gustaf Von	1736	1811
@@ -439,7 +439,7 @@ Ekman, Karl	1895	NA
 Ekman, Karl	NA	NA
 Ekström, Arthur	1860	1991
 Ekström, Arthur	1899	1991
-Ekström, Arthur	NA	1991
+Ekström, Arthur	1991	NA
 Ekström, Gunnar	1857	1950
 Ekström, Gunnar	1859	1950
 Ekström, Gunnar	1891	1961
@@ -464,15 +464,18 @@ Engström, Lars Magnus	1867	1951
 Engström, Lars Magnus	NA	NA
 Erdmann, Axel	1814	1869
 Erdmann, Axel	1843	1926
+Ericson, Nils	1802	1870
+Ericson, Nils	1870	NA
+Ericson, Nils	1964	1870
 Ericson, Tore	1870	NA
 Ericson, Tore	1940	NA
 Ericsson, Eric	1834	1913
 Ericsson, Eric	1893	1962
 Ericsson, Eric	NA	NA
 Ericsson, John	1803	1889
+Ericsson, John	1889	NA
 Ericsson, John	1898	1889
 Ericsson, John	1922	1889
-Ericsson, John	NA	1889
 Eriksson, Allan	1911	1993
 Eriksson, Allan	1916	1963
 Eriksson, Anders	1868	1917
@@ -482,10 +485,10 @@ Eriksson, Anders	NA	NA
 Eriksson, Erik	1859	1932
 Eriksson, Erik	1873	1932
 Eriksson, Erik	1891	1932
-Eriksson, Erik	NA	1932
+Eriksson, Erik	1932	NA
 Eriksson, Johan	1862	1938
 Eriksson, Johan	1880	1938
-Eriksson, Johan	NA	1938
+Eriksson, Johan	1938	NA
 Eriksson, Karl	1878	NA
 Eriksson, Karl	1892	NA
 Eriksson, Karl	1909	NA
@@ -502,8 +505,8 @@ Esberg, Zacharias	1691	1734
 Eugénie	1826	1920
 Eugénie	1830	1889
 Fagerholm, Erik	1883	1944
+Fagerholm, Erik	1944	NA
 Fagerholm, Erik	1947	1944
-Fagerholm, Erik	NA	1944
 Falk, Erik	1873	1944
 Falk, Erik	1875	1952
 Falk, Erik	1875	NA
@@ -534,7 +537,7 @@ Forsberg, Sven	1912	NA
 Forsberg, Sven	NA	NA
 Forssell, Nils	1889	1969
 Forssell, Nils	1899	1969
-Forssell, Nils	NA	1969
+Forssell, Nils	1969	NA
 Francke, August Hermann	1663	1727
 Francke, August Hermann	1870	1930
 Francke, August Hermann	NA	NA
@@ -551,9 +554,11 @@ Fryxell, Fredrik	1804	1839
 Fryxell, Fredrik	NA	NA
 Geete, Erik	1587	1651
 Geete, Erik	1881	1952
+Geijer, Bengt Johan	1837	1907
+Geijer, Bengt Johan	1907	NA
 Geijer, Gustaf Reinhold	1847	1924
 Geijer, Gustaf Reinhold	1872	1924
-Geijer, Gustaf Reinhold	NA	1924
+Geijer, Gustaf Reinhold	1924	NA
 Geijerstam, Emanuel Af	1730	1788
 Geijerstam, Emanuel Af	1867	1928
 Geijerstam, Karl Af	1860	1899
@@ -563,8 +568,8 @@ Georg	1683	1760
 Gezelius, Johannes	1615	1690
 Gezelius, Johannes	1647	1718
 Göransson, Johan	1712	1769
+Göransson, Johan	1769	NA
 Göransson, Johan	1860	1769
-Göransson, Johan	NA	1769
 Gosselman, Carl August	1799	1843
 Gosselman, Carl August	1831	1893
 Gosselman, Carl August	NA	NA
@@ -587,7 +592,7 @@ Gunnarsson, Gunnar	1889	1975
 Gunnarsson, Gunnar	1899	1987
 Gunter, Archibald Clavering	1847	1907
 Gunter, Archibald Clavering	1849	1907
-Gunter, Archibald Clavering	NA	1907
+Gunter, Archibald Clavering	1907	NA
 Gustafsson, Karl	1868	NA
 Gustafsson, Karl	1873	NA
 Gustav	1496	1560
@@ -603,7 +608,7 @@ Gyllenkrok, Axel	1888	1946
 Gyllenkrok, Axel	1910	2002
 Gynther, Sven Wilhelm	1796	1873
 Gynther, Sven Wilhelm	1797	1873
-Gynther, Sven Wilhelm	NA	1873
+Gynther, Sven Wilhelm	1873	NA
 Haartman, Johan	1682	1737
 Haartman, Johan	1725	1787
 Hadorph, Johan	1630	1693
@@ -615,8 +620,8 @@ Hagerup, Eiler	1685	1743
 Hagerup, Eiler	1718	1789
 Hagerup, Eiler	NA	NA
 Haglund, Gustaf	1838	1900
+Haglund, Gustaf	1900	NA
 Haglund, Gustaf	1905	1900
-Haglund, Gustaf	NA	1900
 Hahr, August	1802	1885
 Hahr, August	1868	1947
 Hahr, August	NA	NA
@@ -625,7 +630,6 @@ Hallén, Lars	1888	1985
 Hallén, Lars	1888	NA
 Hammar, Hans Birger	1814	1862
 Hammar, Hans Birger	1862	NA
-Hammar, Hans Birger	NA	1862
 Hammarsten, Olof	1841	1932
 Hammarsten, Olof	1886	1958
 Hammarsten, Olof	NA	NA
@@ -675,8 +679,8 @@ Heurgren, Paul Gerhard	1864	1928
 Heurgren, Paul Gerhard	1886	1966
 Heurgren, Paul Gerhard	NA	NA
 Hildebrand, Bror Emil	1806	1884
+Hildebrand, Bror Emil	1884	NA
 Hildebrand, Bror Emil	1907	1884
-Hildebrand, Bror Emil	NA	1884
 Hilleström, Pehr	1732	1816
 Hilleström, Pehr	1743	1816
 Hjärne, Harald	1801	1885
@@ -688,7 +692,7 @@ Hofsten, Bengt Von	1747	1826
 Hofsten, Bengt Von	NA	NA
 Högnäs, Sven-olof	1810	1961
 Högnäs, Sven-olof	1910	1961
-Högnäs, Sven-olof	NA	1961
+Högnäs, Sven-olof	1961	NA
 Holm, åke	1909	1989
 Holm, åke	1912	1989
 Holm, Axel	1862	NA
@@ -696,7 +700,7 @@ Holm, Axel	1914	NA
 Holm, Axel	NA	NA
 Holm, Erik	1878	1945
 Holm, Erik	1882	1945
-Holm, Erik	NA	1945
+Holm, Erik	1945	NA
 Holmberg, åke	1907	1991
 Holmberg, åke	1915	NA
 Holmberg, åke	1919	2001
@@ -716,7 +720,7 @@ Holmbergson, Johan	1764	1842
 Holmbergson, Johan	1804	1835
 Holmgren, Anders	1864	1917
 Holmgren, Anders	1874	1917
-Holmgren, Anders	NA	1917
+Holmgren, Anders	1917	NA
 Holmgren, Frithiof	1831	1897
 Holmgren, Frithiof	1884	1965
 Holmgren, Nils	1877	1954
@@ -735,6 +739,9 @@ Hunter, John	1737	1821
 Hunter, John	1903	1980
 Hwasser, Daniel	1785	1816
 Hwasser, Daniel	1817	1871
+Hylander, Fride	1819	1898
+Hylander, Fride	1898	1988
+Hylander, Fride	NA	NA
 Hylander, Nils	1861	1929
 Hylander, Nils	1904	1970
 Hyltén-cavallius, Gunnar	1858	1926
@@ -765,10 +772,10 @@ Johanson, Bertil	1896	1970
 Johanson, Bertil	1916	1970
 Johansson, Adolf	1889	1934
 Johansson, Adolf	1892	1934
-Johansson, Adolf	NA	1934
+Johansson, Adolf	1934	NA
 Johansson, Albert	1888	1965
 Johansson, Albert	1899	1965
-Johansson, Albert	NA	1965
+Johansson, Albert	1965	NA
 Johansson, Albin	1886	1968
 Johansson, Albin	1889	1968
 Johansson, Anton	1858	NA
@@ -777,7 +784,7 @@ Johansson, Anton	NA	NA
 Johansson, Arthur	1876	1993
 Johansson, Arthur	1897	1993
 Johansson, Arthur	1912	1993
-Johansson, Arthur	NA	1993
+Johansson, Arthur	1993	NA
 Johansson, August	1853	NA
 Johansson, August	1871	NA
 Johansson, August	NA	NA
@@ -796,10 +803,10 @@ Johansson, Bertil	1918	NA
 Johansson, Bertil	NA	NA
 Johansson, Carl August	1866	1947
 Johansson, Carl August	1896	1947
-Johansson, Carl August	NA	1947
+Johansson, Carl August	1947	NA
 Johansson, David	1897	1965
 Johansson, David	1900	1965
-Johansson, David	NA	1965
+Johansson, David	1965	NA
 Johansson, Erik	1812	NA
 Johansson, Erik	1867	NA
 Johansson, Erik	1907	NA
@@ -811,7 +818,7 @@ Johansson, Frans August	1810	1910
 Johansson, Frans August	1864	1939
 Johansson, Gösta	1901	1990
 Johansson, Gösta	1911	1990
-Johansson, Gösta	NA	1990
+Johansson, Gösta	1990	NA
 Johansson, Gunnar	1900	NA
 Johansson, Gunnar	1903	1942
 Johansson, Gunnar	1906	NA
@@ -834,9 +841,9 @@ Johansson, Johan	1799	1878
 Johansson, Johan	1826	1907
 Johansson, Johan	1829	1901
 Johansson, Johan	1840	1905
+Johansson, Johan	1860	NA
 Johansson, Johan	1896	NA
 Johansson, Johan	1909	NA
-Johansson, Johan	NA	1860
 Johansson, Johan	NA	NA
 Johansson, Johan Fredrik	1810	1871
 Johansson, Johan Fredrik	1834	1871
@@ -846,20 +853,20 @@ Johansson, Johannes	1861	NA
 Johansson, Johannes	1867	1947
 Johansson, John	1863	1921
 Johansson, John	1890	1921
-Johansson, John	NA	1921
+Johansson, John	1921	NA
 Johansson, Karl Erik	1891	2002
 Johansson, Karl Erik	1914	2002
-Johansson, Karl Erik	NA	2002
+Johansson, Karl Erik	2002	NA
 Johansson, Nils	1873	1939
 Johansson, Nils	1890	1939
 Johansson, Nils	1893	1939
-Johansson, Nils	NA	1939
+Johansson, Nils	1939	NA
 Johansson, Oscar	1881	1973
 Johansson, Oscar	1889	1973
-Johansson, Oscar	NA	1973
+Johansson, Oscar	1973	NA
 Johansson, Sven	1880	1959
 Johansson, Sven	1925	1959
-Johansson, Sven	NA	1959
+Johansson, Sven	1959	NA
 Johansson, Viktor	1870	NA
 Johansson, Viktor	1892	NA
 Johansson, Viktor	NA	NA
@@ -868,12 +875,15 @@ Johansson, Yngve	1910	NA
 Johansson, Yngve	NA	NA
 Johnson, John	1822	1882
 Johnson, John	1855	1901
+Johnsson, John	1855	1901
+Johnsson, John	1901	NA
+Johnsson, John	1972	1901
 Jonae, Petrus	1559	1630
 Jonae, Petrus	1664	NA
-Jonae, Petrus	NA	1667
+Jonae, Petrus	1667	NA
 Jonsson, Eric	1901	1994
 Jonsson, Eric	1914	1994
-Jonsson, Eric	NA	1994
+Jonsson, Eric	1994	NA
 Kallstenius, Gottfrid	1861	1943
 Kallstenius, Gottfrid	1873	1942
 Karl	1200	NA
@@ -889,7 +899,7 @@ Karl	1826	1872
 Karl	NA	NA
 Karlgren, Anton	1862	1973
 Karlgren, Anton	1882	1973
-Karlgren, Anton	NA	1973
+Karlgren, Anton	1973	NA
 Karlsson, Erik	1885	NA
 Karlsson, Erik	1909	NA
 Karlsson, Erik	NA	NA
@@ -897,10 +907,10 @@ Karlsson, Gösta	1913	NA
 Karlsson, Gösta	1918	NA
 Karlsson, Sven	1899	1969
 Karlsson, Sven	1919	1969
-Karlsson, Sven	NA	1969
+Karlsson, Sven	1969	NA
 Kempe, Johan	1728	1806
+Kempe, Johan	1806	NA
 Kempe, Johan	1878	1806
-Kempe, Johan	NA	1806
 Kernell, Per	1728	1821
 Kernell, Per	1763	1807
 Keyser, Henrik	1640	1699
@@ -955,7 +965,7 @@ Larsson, Axel	1899	NA
 Larsson, Axel	NA	NA
 Larsson, Carl	1853	1919
 Larsson, Carl	1896	1919
-Larsson, Carl	NA	1919
+Larsson, Carl	1919	NA
 Larsson, Eric	1898	NA
 Larsson, Eric	1906	NA
 Larsson, Eric	NA	NA
@@ -965,7 +975,7 @@ Larsson, Gustaf	1893	1985
 Larsson, Gustaf	NA	NA
 Larsson, Johan	1862	1960
 Larsson, Johan	1898	1960
-Larsson, Johan	NA	1960
+Larsson, Johan	1960	NA
 Larsson, Karl	1868	1952
 Larsson, Karl	1868	1962
 Larsson, Karl	1874	NA
@@ -975,10 +985,10 @@ Larsson, Oscar	1880	1979
 Larsson, Oscar	1893	1954
 Larsson, Robert	1885	1956
 Larsson, Robert	1899	1956
-Larsson, Robert	NA	1956
+Larsson, Robert	1956	NA
 Larsson, Sven	1893	1931
 Larsson, Sven	1894	1931
-Larsson, Sven	NA	1931
+Larsson, Sven	1931	NA
 Larsson, Tage	1896	1974
 Larsson, Tage	1901	1987
 Larsson, Tage	1905	NA
@@ -1028,7 +1038,7 @@ Lindeberg, Gösta	1910	1995
 Lindeberg, Gösta	1911	2003
 Lindegård, Bengt	1927	1990
 Lindegård, Bengt	1929	1990
-Lindegård, Bengt	NA	1990
+Lindegård, Bengt	1990	NA
 Lindegren, Erik	1910	1968
 Lindegren, Erik	1919	1996
 Lindegren, Johan	1712	1790
@@ -1050,7 +1060,7 @@ Lindgren, Gustaf	1888	NA
 Lindgren, Gustaf	1903	1989
 Lindgren, Hugo	1874	1945
 Lindgren, Hugo	1904	1945
-Lindgren, Hugo	NA	1945
+Lindgren, Hugo	1945	NA
 Lindgren, John	1844	1920
 Lindgren, John	1895	1968
 Lindholm, Stig	1914	1985
@@ -1079,7 +1089,7 @@ Lindström, Arne	1905	1991
 Lindström, Arne	1911	1991
 Lindström, Erik	1858	1970
 Lindström, Erik	1891	1970
-Lindström, Erik	NA	1970
+Lindström, Erik	1970	NA
 Lindström, Gustaf	1829	1901
 Lindström, Gustaf	1838	1916
 Lindström, Gustaf	1877	1959
@@ -1139,7 +1149,7 @@ Lundberg, Gunnar	1892	1943
 Lundberg, Gunnar	1900	1943
 Lundberg, Gustaf	1882	1961
 Lundberg, Gustaf	1901	1961
-Lundberg, Gustaf	NA	1961
+Lundberg, Gustaf	1961	NA
 Lundberg, Hans	1795	1860
 Lundberg, Hans	1893	1971
 Lundberg, Hans	NA	NA
@@ -1147,7 +1157,7 @@ Lundberg, Oskar	1839	1921
 Lundberg, Oskar	1882	1956
 Lundberg, Sven	1891	1968
 Lundberg, Sven	1892	1968
-Lundberg, Sven	NA	1968
+Lundberg, Sven	1968	NA
 Lundblad, Johan	1753	1820
 Lundblad, Johan	1797	1859
 Lundblad, Sven	1776	1837
@@ -1167,7 +1177,7 @@ Lundgren, Hjalmar	1880	1953
 Lundgren, Hjalmar	1884	1980
 Lundh, Gunnar	1896	1960
 Lundh, Gunnar	1898	1960
-Lundh, Gunnar	NA	1960
+Lundh, Gunnar	1960	NA
 Lundqvist, Birger	1888	2004
 Lundqvist, Birger	1916	2004
 Lundqvist, Oscar	1884	NA
@@ -1194,7 +1204,7 @@ Malmsten, Carl	1814	1886
 Malmsten, Carl	1888	1972
 Månsson, Erik	1893	2001
 Månsson, Erik	1908	2001
-Månsson, Erik	NA	2001
+Månsson, Erik	2001	NA
 Månsson, Nils	1776	1837
 Månsson, Nils	1831	1916
 Månsson, Nils	NA	NA
@@ -1219,8 +1229,8 @@ Meyer, Ernst	NA	NA
 Moberg, Arvid	1885	1949
 Moberg, Arvid	1900	1986
 Moberger, Arvid	1801	1882
+Moberger, Arvid	1882	NA
 Moberger, Arvid	1885	1882
-Moberger, Arvid	NA	1882
 Möller, Axel	1830	1896
 Möller, Axel	1871	1896
 Möllerström, Jakob	1879	1971
@@ -1236,8 +1246,8 @@ Müller, Erik	1915	2003
 Müller, Heinrich	1631	1675
 Müller, Heinrich	1766	1833
 Müller, Johannes	1801	1858
+Müller, Johannes	1858	NA
 Müller, Johannes	1864	1858
-Müller, Johannes	NA	1858
 Munktell, Henrik	1841	1906
 Munktell, Henrik	1903	1962
 Munktell, Henrik	1903	NA
@@ -1248,7 +1258,7 @@ Nathorst-böös, Ernst	1891	1988
 Nathorst-böös, Ernst	1918	1988
 Neander, Gustaf	1874	1941
 Neander, Gustaf	1877	1941
-Neander, Gustaf	NA	1941
+Neander, Gustaf	1941	NA
 Nerman, Einar	1865	1940
 Nerman, Einar	1888	1983
 Nerman, Einar	NA	NA
@@ -1277,7 +1287,7 @@ Nilsson, Eric	NA	NA
 Nilsson, Erik	1889	1970
 Nilsson, Erik	1894	1970
 Nilsson, Erik	1916	1970
-Nilsson, Erik	NA	1970
+Nilsson, Erik	1970	NA
 Nilsson, Ernst	1874	1946
 Nilsson, Ernst	1895	1986
 Nilsson, Ernst	NA	NA
@@ -1287,11 +1297,11 @@ Nilsson, Frans	NA	NA
 Nilsson, Gunnar	1880	1970
 Nilsson, Gunnar	1903	1970
 Nilsson, Gunnar	1909	1970
-Nilsson, Gunnar	NA	1970
+Nilsson, Gunnar	1970	NA
 Nilsson, Gustaf	1868	1949
 Nilsson, Gustaf	1882	1949
 Nilsson, Gustaf	1895	1949
-Nilsson, Gustaf	NA	1949
+Nilsson, Gustaf	1949	NA
 Nilsson, Gustav	1897	NA
 Nilsson, Gustav	1908	NA
 Nilsson, Gustav	NA	NA
@@ -1301,10 +1311,10 @@ Nilsson, Hans	NA	NA
 Nilsson, Hjalmar	1856	1925
 Nilsson, Hjalmar	1860	1925
 Nilsson, Hjalmar	1886	1925
-Nilsson, Hjalmar	NA	1925
+Nilsson, Hjalmar	1925	NA
 Nilsson, Johan	1878	1983
 Nilsson, Johan	1891	1983
-Nilsson, Johan	NA	1983
+Nilsson, Johan	1983	NA
 Nilsson, John	1892	1971
 Nilsson, John	1898	1974
 Nilsson, John	1898	NA
@@ -1313,7 +1323,7 @@ Nilsson, Karl	1844	1926
 Nilsson, Karl	1885	1926
 Nilsson, Karl	1891	1926
 Nilsson, Karl	1901	1926
-Nilsson, Karl	NA	1926
+Nilsson, Karl	1926	NA
 Nilsson, Lennart	1916	NA
 Nilsson, Lennart	1922	NA
 Nilsson, Lennart	NA	NA
@@ -1327,8 +1337,8 @@ Nilsson, Nils	1917	NA
 Nilsson, Nils	NA	NA
 Nilsson, Sven	1787	1883
 Nilsson, Sven	1822	1883
+Nilsson, Sven	1883	NA
 Nilsson, Sven	1929	1883
-Nilsson, Sven	NA	1883
 Nilsson, Sven Johan	1844	1989
 Nilsson, Sven Johan	1898	1989
 Nilsson, Tage	1905	1986
@@ -1337,10 +1347,10 @@ Nilsson, Tage	1930	NA
 Nilsson, Tore	1912	1998
 Nilsson, Tore	1915	1998
 Nilsson, Tore	1919	1998
-Nilsson, Tore	NA	1998
+Nilsson, Tore	1998	NA
 Nilsson, Torsten	1888	1997
 Nilsson, Torsten	1905	1997
-Nilsson, Torsten	NA	1997
+Nilsson, Torsten	1997	NA
 Nilsson, Yngve	1902	1973
 Nilsson, Yngve	1908	NA
 Nilsson, Yngve	1912	1993
@@ -1385,7 +1395,7 @@ Nylén, Paul	NA	NA
 Nyman, Hilding	1870	1937
 Nyman, Hilding	1879	1937
 Nyman, Hilding	1909	1937
-Nyman, Hilding	NA	1937
+Nyman, Hilding	1937	NA
 Nyström, Erik	1842	1907
 Nyström, Erik	1877	NA
 Nyström, Erik	1879	1963
@@ -1396,7 +1406,7 @@ Nyström, Gunnar	NA	NA
 Nyström, Per	1887	1993
 Nyström, Per	1903	1993
 Nyström, Per	1904	1993
-Nyström, Per	NA	1993
+Nyström, Per	1993	NA
 Nyström, Per Olof	1764	1830
 Nyström, Per Olof	1864	1830
 öberg, Hans	1785	1852
@@ -1445,12 +1455,12 @@ Olsson, Ernst	1904	1948
 Olsson, Ernst	NA	NA
 Olsson, Gustaf	1878	1951
 Olsson, Gustaf	1899	1951
-Olsson, Gustaf	NA	1951
+Olsson, Gustaf	1951	NA
 Olsson, Herbert	1894	1969
 Olsson, Herbert	1899	1969
 Olsson, John	1858	1943
 Olsson, John	1891	1943
-Olsson, John	NA	1943
+Olsson, John	1943	NA
 Olsson, Nils	1887	NA
 Olsson, Nils	1890	1982
 Olsson, Nils	1890	NA
@@ -1507,13 +1517,13 @@ Persson, Edvard	1923	1978
 Persson, Edvard	NA	NA
 Persson, Erik	1887	1977
 Persson, Erik	1912	1977
-Persson, Erik	NA	1977
+Persson, Erik	1977	NA
 Persson, Gustaf	1882	NA
 Persson, Gustaf	1885	NA
 Persson, Gustaf	NA	NA
 Persson, Nils	1836	1916
 Persson, Nils	1895	1916
-Persson, Nils	NA	1916
+Persson, Nils	1916	NA
 Persson, Ola	1846	1932
 Persson, Ola	1876	1963
 Persson, Ola	NA	NA
@@ -1528,6 +1538,8 @@ Persson, Per	1870	NA
 Persson, Per	1881	1950
 Persson, Per	1926	NA
 Persson, Per	NA	NA
+Petersen, Elly	187	NA
+Petersen, Elly	1874	NA
 Petersen, Jan	1887	1967
 Petersen, Jan	1906	1969
 Petersen, Julius	1839	1910
@@ -1539,8 +1551,8 @@ Petrén, Gustaf	1917	1990
 Petri, Johannes	1500	NA
 Petri, Johannes	1600	NA
 Petri, Laurentius	1499	1573
+Petri, Laurentius	1573	NA
 Petri, Laurentius	1671	1573
-Petri, Laurentius	NA	1573
 Petri, Olaus	1493	1552
 Petri, Olaus	1600	1552
 Pettersson, Abraham	1724	1763
@@ -1549,9 +1561,9 @@ Pettersson, Gösta	1898	1959
 Pettersson, Gösta	1905	1959
 Pettersson, Gösta	1919	1959
 Pettersson, Johan	1795	1881
+Pettersson, Johan	1881	NA
 Pettersson, Johan	1906	1881
 Pettersson, Johan	1923	1881
-Pettersson, Johan	NA	1881
 Pettersson, Karl Gustaf	1856	1932
 Pettersson, Karl Gustaf	1954	1932
 Pettersson, Magnus	1727	1791
@@ -1622,7 +1634,7 @@ Rudenschöld, Thorsten	1798	1859
 Rudenschöld, Thorsten	1863	1926
 Rundbäck, Abraham	1823	1893
 Rundbäck, Abraham	1827	1893
-Rundbäck, Abraham	NA	1893
+Rundbäck, Abraham	1893	NA
 Rydberg, Gustaf	1835	1933
 Rydberg, Gustaf	1861	1938
 Rydberg, Sven	1789	1865
@@ -1637,7 +1649,7 @@ Sandberg, David	1895	NA
 Sandberg, David	NA	NA
 Sandberg, Erik	1879	1974
 Sandberg, Erik	1894	1974
-Sandberg, Erik	NA	1974
+Sandberg, Erik	1974	NA
 Sandberg, Gösta	1906	1974
 Sandberg, Gösta	1915	1995
 Sandberg, Ragnar	1902	1972
@@ -1660,6 +1672,8 @@ Santesson, Carl Gustaf	1862	1939
 Santesson, Carl Gustaf	NA	NA
 Santesson, Henrik	1847	1915
 Santesson, Henrik	1859	1912
+Säve, Johan Adolf	187	1800
+Säve, Johan Adolf	1800	1873
 Scheutz, Georg	1785	1873
 Scheutz, Georg	1873	1958
 Schönström, Peter	1682	1746
@@ -1683,7 +1697,7 @@ Selander, Nils	1845	1922
 Selander, Nils	1891	1979
 Sellergren, Peter Lorenz	1768	1843
 Sellergren, Peter Lorenz	1769	1843
-Sellergren, Peter Lorenz	NA	1843
+Sellergren, Peter Lorenz	1843	NA
 Selling, Magnus	1755	1825
 Selling, Magnus	1903	1986
 Selling, Magnus	NA	NA
@@ -1704,7 +1718,7 @@ Sjöberg, Gösta	NA	NA
 Sjöberg, Gustaf	1844	1931
 Sjöberg, Gustaf	1870	1931
 Sjöberg, Gustaf	1893	1931
-Sjöberg, Gustaf	NA	1931
+Sjöberg, Gustaf	1931	NA
 Sjöberg, Knut	1875	1962
 Sjöberg, Knut	1896	1975
 Sjöberg, Knut	1907	NA
@@ -1731,7 +1745,7 @@ Skytte, Johan	1577	1645
 Skytte, Johan	1612	1636
 Smith, Gustaf	1861	1978
 Smith, Gustaf	1884	1978
-Smith, Gustaf	NA	1978
+Smith, Gustaf	1978	NA
 Söderberg, Harald	1878	1958
 Söderberg, Harald	1913	1958
 Söderman, Anders	1600	1752
@@ -1743,6 +1757,8 @@ Söderström, Nils	1894	1956
 Söderström, Nils	1911	1984
 Sohlberg, Herman	1844	1909
 Sohlberg, Herman	1887	1909
+Solon	560	630
+Solon	1860	1940
 Sparre, Erik	1816	1886
 Sparre, Erik	1871	1950
 Sprinchorn, Carl	1851	1927
@@ -1769,7 +1785,7 @@ Stridsberg, Erik	1871	1950
 Stridsberg, Erik	1884	1949
 Ström, Erik	1883	1983
 Ström, Erik	1913	1983
-Ström, Erik	NA	1983
+Ström, Erik	1983	NA
 Sundberg, Carl	1724	1805
 Sundberg, Carl	1859	1931
 Sundberg, Carl	NA	NA
@@ -1800,7 +1816,7 @@ Svensson, Bernhard	1879	1965
 Svensson, Bernhard	1886	1964
 Svensson, Georg	1880	1998
 Svensson, Georg	1904	1998
-Svensson, Georg	NA	1998
+Svensson, Georg	1998	NA
 Svensson, Gösta	1890	NA
 Svensson, Gösta	1900	NA
 Svensson, Gösta	NA	NA
@@ -1808,8 +1824,8 @@ Svensson, Karl	1873	NA
 Svensson, Karl	1905	NA
 Svensson, Karl	NA	NA
 Svensson, Nils	1741	1815
+Svensson, Nils	1815	NA
 Svensson, Nils	1883	1815
-Svensson, Nils	NA	1815
 Svensson, Sigfrid	1901	1984
 Svensson, Sigfrid	1919	1997
 Svensson, Sven	1873	NA
@@ -1837,7 +1853,7 @@ Thorén, Gunnar	1887	1942
 Thorén, Gunnar	NA	NA
 Thulin, Ivar Svante Harald	1886	1917
 Thulin, Ivar Svante Harald	1887	1917
-Thulin, Ivar Svante Harald	NA	1917
+Thulin, Ivar Svante Harald	1917	NA
 Thulin, Olof	1897	1983
 Thulin, Olof	1906	1992
 Thurén, Erik	1872	NA
@@ -1846,15 +1862,15 @@ Tiburtius, Tiburtz	1684	1738
 Tiburtius, Tiburtz	1706	1787
 Tiburtius, Tiburtz	NA	NA
 Toll, Hans	1716	1792
+Toll, Hans	1792	NA
 Toll, Hans	1865	1792
-Toll, Hans	NA	1792
 Torén, Carl-axel	1813	1904
 Torén, Carl-axel	1887	1961
 Torén, Magnus	1720	1807
 Torén, Magnus	1770	1825
 Tschudi, Clara	1856	1945
 Tschudi, Clara	1859	1945
-Tschudi, Clara	NA	1945
+Tschudi, Clara	1945	NA
 Uggla, Gustaf	1846	NA
 Uggla, Gustaf	1880	NA
 Uggla, Gustaf	NA	NA
@@ -1890,13 +1906,13 @@ Wallenberg, Marcus	1864	1943
 Wallenberg, Marcus	1899	1982
 Waller, Erik	1875	1955
 Waller, Erik	1944	1955
-Waller, Erik	NA	1955
+Waller, Erik	1955	NA
 Wallin, Gunnar	1896	1975
 Wallin, Gunnar	1923	1975
-Wallin, Gunnar	NA	1975
+Wallin, Gunnar	1975	NA
 Wallin, Johan	1687	1759
+Wallin, Johan	1796	NA
 Wallin, Johan	1816	1876
-Wallin, Johan	NA	1796
 Wallin, Johan	NA	NA
 Wallin, John	1876	NA
 Wallin, John	1906	NA
@@ -1906,7 +1922,7 @@ Wallin, Ragnar	1896	NA
 Wallin, Ragnar	NA	NA
 Weber, Georg	1610	1888
 Weber, Georg	1808	1888
-Weber, Georg	NA	1888
+Weber, Georg	1888	NA
 Wehtje, Ernst	1863	1936
 Wehtje, Ernst	1891	1972
 Weibull, Martin	1835	1902

@@ -1,7 +1,7 @@
 ---
 title: "Publication year summaries"
 author: "Leo Lahti"
-date: "2016-09-14"
+date: "2016-09-16"
 output: markdown_document
 ---
 
@@ -12,13 +12,13 @@ output: markdown_document
 
 [Publication year discarded](output.tables/publication_year_discarded.csv)
 
-Publication year is available for 371287 documents (96%). The publication years span 1457-2012.
+Publication year is available for 372572 documents (97%). The publication years span 1457-2012.
 
 ![plot of chunk summarypublicationyear](figure/summarypublicationyear-1.png)
 
 ### Publication frequency
 
-Publication frequency is available for 2975 documents (1%). The links are invalid if the lists are empty.
+Publication frequency information is available for 2975 documents (NaN%). The links are invalid if the lists are empty.
 
 [Publication frequency accepted](output.tables/publication_frequency_accepted.csv)
 
@@ -29,11 +29,11 @@ Publication frequency is available for 2975 documents (1%). The links are invali
 
 ### Publication interval
 
-Publication interval is available for 4814 documents (1%). 
+Publication interval is available for 4168 documents (1%). 
 
 [Publication interval accepted](output.tables/publication_interval_accepted.csv)
 
-[Publication interval conversions](output.tables/publication_interval_conversion.csv)
+[Publication interval conversions](output.tables/publication_interval_conversion_nontrivial.csv)
 
 [Publication interval discarded](output.tables/publication_interval_discarded.csv)
 
@@ -47,21 +47,14 @@ are multiple instances from the same earliest year, they are all
 marked as potential first editions. Later need to check if this
 information is readily available in MARC.
 
-In this data we have 349340
-unique documents with an identical title and author. Out of these,
-16003
-have multiple occurrences, sometimes with different publication years.
-Where multiple publication years are seen, the earliest occurrence is
-suggested as the first edition.
+There are 349340 unique
+documents with an identical title and author; `r
+length(which(write_xtable(df[, c("title", "author")])$Count > 1))` of
+those have multiple occurrences, sometimes with different publication
+years.  The earliest occurrence is suggested as the first edition.
 
 This figure shows the number of first editions per decade.
 
-
-```
-## Error: <text>:12:44: unexpected INCOMPLETE_STRING
-## 12:        ggtitle(paste("First editionssep = ""))
-## 13: print(p)
-##                                                ^
-```
+![plot of chunk firsteditions](figure/firsteditions-1.png)
 
 

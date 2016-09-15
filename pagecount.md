@@ -1,7 +1,7 @@
 ---
 title: "Pagecount preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-09-14"
+date: "2016-09-16"
 output: markdown_document
 ---
 
@@ -43,7 +43,7 @@ Multi-volume documents average page counts are given per volume.
 |4to           |                  NaN|NA                     |       32051|                  NA|                    NA|         NA|              NaN|                 NA|       7|
 |6to           |                  NaN|NA                     |          28|                  NA|                    NA|         NA|              NaN|                 NA|       1|
 |8long         |                  NaN|NA                     |          14|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|8vo           |                  NaN|NA                     |       25060|                   1|                     1|         95|                1|                  1|      30|
+|8vo           |                  NaN|NA                     |       25060|                   1|                     1|         95|                1|                  1|      29|
 |12long        |                  NaN|NA                     |           1|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |12mo          |                  NaN|NA                     |        3288|                 NaN|                    NA|         20|              NaN|                 NA|       3|
 |16mo          |                  NaN|NA                     |        1599|                 NaN|                    NA|          6|               NA|                 NA|      NA|
@@ -52,7 +52,7 @@ Multi-volume documents average page counts are given per volume.
 |32mo          |                  NaN|NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |48mo          |                  NaN|NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |64mo          |                  NaN|NA                     |          35|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|NA            |                  NaN|NA                     |      318072|                   1|                     1|       1941|                1|                  1|    3596|
+|NA            |                  NaN|NA                     |      318072|                   1|                     1|       1941|                1|                  1|     623|
 
 ![plot of chunk size-pagecountsmulti2](figure/pagecount-size-pagecountsmulti2-1.png)
 

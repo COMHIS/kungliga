@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-09-16"
+date: "2016-09-18"
 output: markdown_document
 ---
 
@@ -55,14 +55,14 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |publication_frequency_text                |        99.2|           0.8|          2975|        161|
 |772c                                      |        99.1|           0.9|          3491|       1049|
 |650y                                      |        98.9|           1.1|          4071|        954|
-|publication_interval_from                 |        98.9|           1.1|          4163|        370|
-|publication_interval_till                 |        98.9|           1.1|          4168|        334|
+|publication_interval_from                 |        98.9|           1.1|          4160|        373|
+|publication_interval_till                 |        98.9|           1.1|          4165|        327|
 |subject_geography                         |        98.3|           1.7|          6626|       2225|
 |height.original                           |        97.9|           2.1|          7970|         88|
 |650x                                      |        97.8|           2.2|          8334|       2108|
 |110a                                      |        97.7|           2.3|          8868|       6373|
 |title_uniform                             |        97.4|           2.6|          9862|       6078|
-|publication_year_till                     |        96.8|           3.2|         12293|        373|
+|publication_year_till                     |        96.8|           3.2|         12272|        373|
 |772d                                      |        96.4|           3.6|         13724|       3221|
 |772t                                      |        96.4|           3.6|         13904|       4420|
 |650z                                      |        96.0|           4.0|         15554|       2636|
@@ -93,9 +93,9 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |note_general                              |        65.3|          34.7|        133786|      82777|
 |publisher                                 |        56.7|          43.3|        166857|      16687|
 |title_remainder                           |        56.7|          43.3|        166992|     132055|
-|author_death                              |        56.6|          43.4|        167290|        598|
+|author_death                              |        56.4|          43.6|        168134|        599|
 |author_gender                             |        55.7|          44.3|        170875|          5|
-|author_birth                              |        52.4|          47.6|        183750|        674|
+|author_birth                              |        52.6|          47.4|        182907|        649|
 |pagecount.orig                            |        38.7|          61.3|        236400|       1415|
 |pagecount                                 |        38.2|          61.8|        238431|       1415|
 |852z                                      |        38.0|          62.0|        239278|      15781|
@@ -104,7 +104,7 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |country                                   |        12.1|          87.9|        339223|         38|
 |852j                                      |         8.7|          91.3|        352283|     133906|
 |publication_place                         |         4.3|          95.7|        369108|       2628|
-|publication_year_from                     |         3.4|          96.6|        372533|        506|
+|publication_year_from                     |         3.4|          96.6|        372534|        506|
 |publication_year                          |         3.4|          96.6|        372572|        506|
 |publication_decade                        |         3.4|          96.6|        372572|         57|
 |language                                  |         2.8|          97.2|        375030|        100|

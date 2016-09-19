@@ -11,7 +11,7 @@ varannan vecka	140
 10 nr/ar	 93
 2 nr/ar	 90
 8 nr/ar	 58
-Annual	 47
+Annual	 58
 Every six Months	 38
 5 nr/ar	 37
 3 nr/ar	 35
@@ -62,8 +62,6 @@ ca 3-4 nr/ar	  3
 Every One or Two Years	  3
 Every two months	  3
 vart tredje ar	  3
-1.25	  2
-1.4	  2
 2-7 nr/ar	  2
 3-5 nr/ar	  2
 30 nr/ar	  2
@@ -80,7 +78,7 @@ ca 2 nr/vecka	  2
 ca 2-4 nr/ar	  2
 ca 6-7 nr/ar	  2
 ca vartannat ar	  2
-daglig	  2
+Daily	  2
 Every four Years	  2
 Five per Year	  2
 Seven per Year	  2
@@ -103,20 +101,12 @@ vart fjärde ar	  2
 1 nr/vecka (april-sept.)	  1
 1 nr/vecka (april-sept.), 2 nr/manad (okt.-mars)	  1
 1 nr/vecka med sommaruppehall, dvs ca 42 nr/ar	  1
-1.16176470588235	  1
-1.16666666666667	  1
-1.17857142857143	  1
-1.1875	  1
-1.35135135135135	  1
-1.375	  1
-1.41463414634146	  1
 10 nr /ar	  1
 10 nr/manad	  1
 10-11 nr/ar	  1
 11 nr/manad	  1
 11-12 nr/ar	  1
 12-13 nr/ar	  1
-13	  1
 13-17 nr/ar	  1
 16 nr/termin	  1
 19 nr/ar	  1
@@ -184,6 +174,7 @@ ett nr/manad	  1
 ett nr/vartannat ar	  1
 Every five Years	  1
 irregular	  1
+Monthly	  1
 sporadisk	  1
 tidigare 1 nr vart tredje ar, nu 1 nr/ar	  1
 varje vecka	  1

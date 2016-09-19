@@ -27,7 +27,7 @@ Title count
 
 
 ```
-## Warning: Removed 5 rows containing missing values (position_stack).
+## Warning: Removed 4 rows containing missing values (position_stack).
 ```
 
 ![plot of chunk summaryTop10pubtimeline](figure/summaryTop10pubtimeline-1.png)

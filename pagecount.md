@@ -52,7 +52,7 @@ Multi-volume documents average page counts are given per volume.
 |32mo          |                  NaN|NA                     |          32|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |48mo          |                  NaN|NA                     |           7|                  NA|                    NA|         NA|               NA|                 NA|      NA|
 |64mo          |                  NaN|NA                     |          35|                  NA|                    NA|         NA|               NA|                 NA|      NA|
-|NA            |                  NaN|NA                     |      318072|                   1|                     1|       1941|                1|                  1|     622|
+|NA            |                  NaN|NA                     |      318072|                   1|                     1|       1941|                1|                  1|     625|
 
 ![plot of chunk size-pagecountsmulti2](figure/pagecount-size-pagecountsmulti2-1.png)
 

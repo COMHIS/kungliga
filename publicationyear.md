@@ -12,7 +12,7 @@ output: markdown_document
 
 [Publication year discarded](output.tables/publication_year_discarded.csv)
 
-Publication year is available for 372572 documents (97%). The publication years span 1457-2012.
+Publication year is available for 372837 documents (97%). The publication years span 1457-2012.
 
 ![plot of chunk summarypublicationyear](figure/summarypublicationyear-1.png)
 
@@ -29,7 +29,7 @@ Publication frequency information is available for 3140 documents (1%). The link
 
 ### Publication interval
 
-Publication interval is available for 4165 documents (1%). 
+Publication interval is available for 4079 documents (1%). 
 
 [Publication interval accepted](output.tables/publication_interval_accepted.csv)
 

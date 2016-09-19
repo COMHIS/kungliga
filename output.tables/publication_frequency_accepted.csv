@@ -161,142 +161,138 @@ vartannat ar	NA	    22
 1 nr/kvartal	NA	   369
 oregelbunden	NA	   192
 NA	NA	382631
-NA	13.00000000	     1
-NA	 9.71428571	     1
-NA	 6.66666667	     1
-NA	 6.60000000	     1
-NA	 6.00000000	     1
-NA	 5.75000000	     1
-NA	 5.66666667	     1
-NA	 5.25000000	     1
-NA	 5.00000000	     1
-NA	 4.50000000	     2
-NA	 4.40000000	     1
-NA	 4.33333333	     1
-NA	 4.00000000	     1
-NA	 3.75000000	     1
-NA	 3.63636364	     1
-NA	 3.45000000	     1
-NA	 3.33333333	     1
-NA	 3.25000000	     1
-NA	 3.22222222	     1
-oregelbunden	 3.12500000	     1
-NA	 3.00000000	     2
-NA	 2.87500000	     1
-NA	 2.85714286	     1
-NA	 2.66666667	     1
-NA	 2.42857143	     1
-NA	 2.40000000	     1
-NA	 2.33333333	     2
-NA	 2.29411765	     1
-NA	 2.28571429	     1
-NA	 2.23809524	     1
-NA	 2.23076923	     1
-NA	 2.22222222	     1
-oregelbunden	 2.20000000	     1
-NA	 2.20000000	     1
-NA	 2.16666667	     2
-NA	 2.14285714	     1
-NA	 2.00000000	     3
-NA	 1.97297297	     1
-NA	 1.82608696	     1
-NA	 1.82142857	     1
-NA	 1.78378378	     1
-NA	 1.75000000	     2
-NA	 1.72727273	     1
-NA	 1.70000000	     1
-NA	 1.69565217	     1
-NA	 1.67241379	     1
-NA	 1.66666667	     3
-NA	 1.65000000	     1
-NA	 1.63636364	     1
-NA	 1.58620690	     1
-NA	 1.56521739	     1
-NA	 1.52631579	     1
-NA	 1.50000000	     3
-NA	 1.41463415	     1
-NA	 1.40000000	     2
-NA	 1.37500000	     1
-NA	 1.35135135	     1
-1-2 nr/ar	 1.33333333	     1
-NA	 1.33333333	     3
-NA	 1.30769231	     1
-NA	 1.30000000	     1
-NA	 1.25000000	     2
-NA	 1.18750000	     1
-NA	 1.17857143	     1
-NA	 1.16666667	     1
-NA	 1.16176471	     1
-NA	 1.06666667	     1
-NA	 1.03921569	     1
-NA	 1.02272727	     1
-arlig	 1.00000000	     1
-NA	 1.00000000	    11
-NA	 0.96078431	     1
-NA	 0.95652174	     2
-NA	 0.94871795	     1
-NA	 0.94444444	     1
-NA	 0.93750000	     1
-NA	 0.92857143	     1
-NA	 0.92307692	     1
-NA	 0.91666667	     1
-NA	 0.91304348	     1
-NA	 0.90000000	     1
-NA	 0.87500000	     1
-NA	 0.87012987	     1
-NA	 0.86363636	     1
-NA	 0.86111111	     1
-NA	 0.85869565	     1
-NA	 0.83333333	     1
-NA	 0.81914894	     1
-NA	 0.80952381	     1
-NA	 0.80000000	     1
-NA	 0.78571429	     1
-NA	 0.78181818	     1
-NA	 0.78125000	     1
-NA	 0.76000000	     1
-NA	 0.75000000	     2
-NA	 0.72000000	     1
-NA	 0.71153846	     1
-NA	 0.70422535	     1
-NA	 0.66666667	     2
-NA	 0.65384615	     1
-NA	 0.64102564	     1
-NA	 0.62222222	     1
-NA	 0.60975610	     1
-NA	 0.60000000	     2
-NA	 0.57142857	     1
-NA	 0.54545455	     1
-NA	 0.52941176	     1
-NA	 0.52173913	     1
-NA	 0.50000000	     2
-NA	 0.48717949	     1
-NA	 0.46153846	     1
-NA	 0.44444444	     1
-NA	 0.43333333	     1
-NA	 0.41666667	     1
-NA	 0.40000000	     2
-NA	 0.39682540	     1
-NA	 0.36363636	     1
-NA	 0.34453782	     1
-oregelbunden	 0.33333333	     2
-NA	 0.33333333	     1
-NA	 0.32352941	     1
-NA	 0.32258065	     1
-NA	 0.31578947	     1
-NA	 0.31111111	     1
-NA	 0.30769231	     2
-NA	 0.30434783	     1
-NA	 0.29090909	     1
-vart femte ar	 0.28947368	     1
-NA	 0.27272727	     1
-NA	 0.23684211	     1
-NA	 0.21739130	     1
-NA	 0.17391304	     1
-NA	 0.12500000	     1
-NA	 0.09278351	     1
-NA	 0.09090909	     1
-NA	 0.08421053	     1
-NA	 0.07692308	     1
-NA	 0.07142857	     1
-NA	 0.02884615	     1
+13	13.00000000	     1
+9.71428571428571	 9.71428571	     1
+Seven per Year	 6.66666667	     1
+Seven per Year	 6.60000000	     1
+Every two months	 6.00000000	     1
+Every two months	 5.75000000	     1
+Every two months	 5.66666667	     1
+Five per Year	 5.25000000	     1
+Five per Year	 5.00000000	     1
+Every three Months	 4.50000000	     2
+Every three Months	 4.40000000	     1
+Every three Months	 4.33333333	     1
+Every three Months	 4.00000000	     1
+Every three Months	 3.75000000	     1
+Every three Months	 3.63636364	     1
+Every four Months	 3.45000000	     1
+Every four Months	 3.33333333	     1
+Every four Months	 3.25000000	     1
+Every four Months	 3.22222222	     1
+Every four Months	 3.12500000	     1
+Every four Months	 3.00000000	     2
+Every four Months	 2.87500000	     1
+Every four Months	 2.85714286	     1
+Every four Months	 2.66666667	     1
+Every six Months	 2.42857143	     1
+Every six Months	 2.40000000	     1
+Every six Months	 2.33333333	     2
+Every six Months	 2.29411765	     1
+Every six Months	 2.28571429	     1
+Every six Months	 2.23809524	     1
+Every six Months	 2.23076923	     1
+Every six Months	 2.22222222	     1
+Every six Months	 2.20000000	     2
+Every six Months	 2.16666667	     2
+Every six Months	 2.14285714	     1
+Every six Months	 2.00000000	     3
+Every six Months	 1.97297297	     1
+Every six Months	 1.82608696	     1
+Every six Months	 1.82142857	     1
+Every six Months	 1.78378378	     1
+Every six Months	 1.75000000	     2
+Every six Months	 1.72727273	     1
+Every six Months	 1.70000000	     1
+Every six Months	 1.69565217	     1
+Every six Months	 1.67241379	     1
+Every six Months	 1.66666667	     3
+Every six Months	 1.65000000	     1
+Every six Months	 1.63636364	     1
+Every six Months	 1.58620690	     1
+Every six Months	 1.56521739	     1
+Every six Months	 1.52631579	     1
+Every six Months	 1.50000000	     3
+1.41463414634146	 1.41463415	     1
+1.4	 1.40000000	     2
+1.375	 1.37500000	     1
+1.35135135135135	 1.35135135	     1
+Annual	 1.33333333	     4
+Annual	 1.30769231	     1
+Annual	 1.30000000	     1
+1.25	 1.25000000	     2
+1.1875	 1.18750000	     1
+1.17857142857143	 1.17857143	     1
+1.16666666666667	 1.16666667	     1
+1.16176470588235	 1.16176471	     1
+Annual	 1.06666667	     1
+Annual	 1.03921569	     1
+Annual	 1.02272727	     1
+Annual	 1.00000000	    12
+Annual	 0.96078431	     1
+Annual	 0.95652174	     2
+Annual	 0.94871795	     1
+Annual	 0.94444444	     1
+Annual	 0.93750000	     1
+Annual	 0.92857143	     1
+Annual	 0.92307692	     1
+Annual	 0.91666667	     1
+Annual	 0.91304348	     1
+Annual	 0.90000000	     1
+Annual	 0.87500000	     1
+Annual	 0.87012987	     1
+Annual	 0.86363636	     1
+Annual	 0.86111111	     1
+Annual	 0.85869565	     1
+Annual	 0.83333333	     1
+Annual	 0.81914894	     1
+Annual	 0.80952381	     1
+Annual	 0.80000000	     1
+Annual	 0.78571429	     1
+Annual	 0.78181818	     1
+Annual	 0.78125000	     1
+Annual	 0.76000000	     1
+Annual	 0.75000000	     2
+Every One or Two Years	 0.72000000	     1
+Every One or Two Years	 0.71153846	     1
+Every One or Two Years	 0.70422535	     1
+Every two Years	 0.66666667	     2
+Every two Years	 0.65384615	     1
+Every two Years	 0.64102564	     1
+Every two Years	 0.62222222	     1
+Every two Years	 0.60975610	     1
+Every two Years	 0.60000000	     2
+Every two Years	 0.57142857	     1
+Every two Years	 0.54545455	     1
+Every two Years	 0.52941176	     1
+Every two Years	 0.52173913	     1
+Every two Years	 0.50000000	     2
+Every two Years	 0.48717949	     1
+Every two Years	 0.46153846	     1
+Every two Years	 0.44444444	     1
+Every two Years	 0.43333333	     1
+Every two Years	 0.41666667	     1
+Every two Years	 0.40000000	     2
+Every three Years	 0.39682540	     1
+Every three Years	 0.36363636	     1
+Every three Years	 0.34453782	     1
+Every three Years	 0.33333333	     3
+Every three Years	 0.32352941	     1
+Every three Years	 0.32258065	     1
+Every three Years	 0.31578947	     1
+Every three Years	 0.31111111	     1
+Every three Years	 0.30769231	     2
+Every three Years	 0.30434783	     1
+Every three Years	 0.29090909	     1
+Every three Years	 0.28947368	     1
+Every four Years	 0.27272727	     1
+Every four Years	 0.23684211	     1
+Every five Years	 0.21739130	     1
+0.173913043478261	 0.17391304	     1
+0.125	 0.12500000	     1
+0.0927835051546392	 0.09278351	     1
+0.0909090909090909	 0.09090909	     1
+0.0842105263157895	 0.08421053	     1
+0.0769230769230769	 0.07692308	     1
+0.0714285714285714	 0.07142857	     1
+0.0288461538461538	 0.02884615	     1

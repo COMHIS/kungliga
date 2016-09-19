@@ -52,7 +52,7 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |successor                                 |        99.5|           0.5|          1737|       1710|
 |volcount                                  |        99.4|           0.6|          2232|         40|
 |866x                                      |        99.4|           0.6|          2257|        273|
-|publication_frequency_text                |        99.2|           0.8|          2975|        161|
+|publication_frequency_text                |        99.2|           0.8|          3140|        192|
 |772c                                      |        99.1|           0.9|          3491|       1049|
 |650y                                      |        98.9|           1.1|          4071|        954|
 |publication_interval_from                 |        98.9|           1.1|          4160|        373|
@@ -216,10 +216,10 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |obl.original                              |         0.0|         100.0|        385771|          2|
 |original_row                              |         0.0|         100.0|        385771|     385771|
 |author_pseudonyme                         |         0.0|         100.0|        385771|          2|
-|gatherings                                |         0.0|         100.0|        385771|         15|
 |singlevol                                 |         0.0|         100.0|        385771|          2|
 |multivol                                  |         0.0|         100.0|        385771|          2|
 |issue                                     |         0.0|         100.0|        385771|          2|
+|gatherings                                |         0.0|         100.0|        385771|         15|
 
 
 

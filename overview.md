@@ -46,13 +46,13 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |note_granter                              |       100.0|           0.0|             8|          8|
 |note_510c                                 |       100.0|           0.0|            50|         48|
 |width.original                            |        99.9|           0.1|           333|         53|
-|publication_frequency_annual              |        99.9|           0.1|           421|        138|
 |note_source                               |        99.8|           0.2|           732|        672|
 |physical_accomppanied                     |        99.7|           0.3|          1310|        795|
 |successor                                 |        99.5|           0.5|          1737|       1710|
 |volcount                                  |        99.4|           0.6|          2232|         40|
 |866x                                      |        99.4|           0.6|          2257|        273|
-|publication_frequency_text                |        99.3|           0.7|          2789|         28|
+|publication_frequency_annual              |        99.2|           0.8|          2931|        191|
+|publication_frequency_text                |        99.2|           0.8|          3130|         62|
 |772c                                      |        99.1|           0.9|          3491|       1049|
 |publication_interval_till                 |        99.0|           1.0|          3753|        227|
 |publication_interval_from                 |        99.0|           1.0|          3790|        235|

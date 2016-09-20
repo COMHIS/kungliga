@@ -51,8 +51,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |successor                                 |        99.5|           0.5|          1737|       1710|
 |volcount                                  |        99.4|           0.6|          2232|         40|
 |866x                                      |        99.4|           0.6|          2257|        273|
-|publication_frequency_annual              |        99.2|           0.8|          2931|        191|
-|publication_frequency_text                |        99.2|           0.8|          3130|         62|
+|publication_frequency_annual              |        99.2|           0.8|          2933|        192|
+|publication_frequency_text                |        99.2|           0.8|          3132|         38|
 |772c                                      |        99.1|           0.9|          3491|       1049|
 |publication_interval_till                 |        99.0|           1.0|          3753|        227|
 |publication_interval_from                 |        99.0|           1.0|          3790|        235|

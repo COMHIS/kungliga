@@ -1,11 +1,10 @@
 publication_frequency_text	publication_frequency_annual	Count
 Total count: 	385771	
-ar	NA	     2
-month	NA	   687
+month	NA	   688
 week	NA	   259
 year	NA	  1228
 Irregular	NA	   193
-NA	NA	383203
+NA	NA	382982
 Daily	365.00000000	     2
 Monthly	 13.00000000	     1
 9.71428571428571	  9.71428571	     1
@@ -75,7 +74,7 @@ Annual	  1.16176471	     1
 Annual	  1.06666667	     1
 Annual	  1.03921569	     1
 Annual	  1.02272727	     1
-Annual	  1.00000000	    13
+Annual	  1.00000000	   230
 Annual	  0.96078431	     1
 Annual	  0.95652174	     2
 Annual	  0.94871795	     1
@@ -123,7 +122,7 @@ Every two Years	  0.40000000	     2
 Every three Years	  0.39682540	     1
 Every three Years	  0.36363636	     1
 Every three Years	  0.34453782	     1
-Every three Years	  0.33333333	     3
+Every three Years	  0.33333333	     6
 Every three Years	  0.32352941	     1
 Every three Years	  0.32258065	     1
 Every three Years	  0.31578947	     1
@@ -131,10 +130,10 @@ Every three Years	  0.31111111	     1
 Every three Years	  0.30769231	     2
 Every three Years	  0.30434783	     1
 Every three Years	  0.29090909	     1
-Every three Years	  0.28947368	     1
 Every four Years	  0.27272727	     1
 Every four Years	  0.23684211	     1
 Every five Years	  0.21739130	     1
+Every five Years	  0.20000000	     3
 0.173913043478261	  0.17391304	     1
 0.125	  0.12500000	     1
 0.0927835051546392	  0.09278351	     1

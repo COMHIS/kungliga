@@ -1,7 +1,7 @@
 ---
 title: "Publication year summaries"
 author: "Leo Lahti"
-date: "2016-09-20"
+date: "2016-09-21"
 output: markdown_document
 ---
 
@@ -18,7 +18,7 @@ Publication year is available for 372837 documents (97%). The publication years 
 
 ### Publication frequency
 
-Publication frequency information is available for 3132 documents (1%). The links are invalid if the lists are empty. The (estimated annual) frequencies are converted to plain text according to their closest match in [this table](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/frequency_conversions.csv).
+Publication frequency information is available for 3137 documents (1%). The links are invalid if the lists are empty. The (estimated annual) frequencies are converted to plain text according to their closest match in [this table](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/frequency_conversions.csv).
 
 [Publication frequency accepted](output.tables/publication_frequency_accepted.csv)
 
@@ -48,8 +48,8 @@ marked as potential first editions. Later need to check if this
 information is readily available in MARC.
 
 There are 349340 unique
-documents with an identical title and author; `r
-length(which(write_xtable(df[, c("title", "author")])$Count > 1))` of
+documents with an identical title and author;
+16003 of
 those have multiple occurrences, sometimes with different publication
 years.  The earliest occurrence is suggested as the first edition.
 

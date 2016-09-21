@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-09-20"
+date: "2016-09-21"
 output: markdown_document
 ---
 
@@ -51,8 +51,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |successor                                 |        99.5|           0.5|          1737|       1710|
 |volcount                                  |        99.4|           0.6|          2232|         40|
 |866x                                      |        99.4|           0.6|          2257|        273|
-|publication_frequency_annual              |        99.2|           0.8|          2933|        192|
-|publication_frequency_text                |        99.2|           0.8|          3132|         38|
+|publication_frequency_annual              |        99.2|           0.8|          2939|        192|
+|publication_frequency_text                |        99.2|           0.8|          3137|         37|
 |772c                                      |        99.1|           0.9|          3491|       1049|
 |publication_interval_till                 |        99.0|           1.0|          3753|        227|
 |publication_interval_from                 |        99.0|           1.0|          3790|        235|
@@ -216,10 +216,10 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |obl.original                              |         0.0|         100.0|        385771|          2|
 |original_row                              |         0.0|         100.0|        385771|     385771|
 |author_pseudonyme                         |         0.0|         100.0|        385771|          2|
+|gatherings                                |         0.0|         100.0|        385771|         15|
 |singlevol                                 |         0.0|         100.0|        385771|          2|
 |multivol                                  |         0.0|         100.0|        385771|          2|
 |issue                                     |         0.0|         100.0|        385771|          2|
-|gatherings                                |         0.0|         100.0|        385771|         15|
 
 
 

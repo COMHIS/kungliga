@@ -25,12 +25,11 @@ Ahmedabad	NA	     2
 Aix-en-Provence	France	     3
 Ajmer	NA	     1
 Åkarp	NA	    11
-Akers styckebruk	NA	     1
 Akersberga	NA	     1
+Akers styckebruk	NA	     1
 Akeshov	NA	     2
 Akranes	NA	     2
 Akureyri	Iceland	    21
-Al Qahira	NA	     1
 Ala	NA	     1
 Alafors	NA	     1
 Albany NY	USA	     4
@@ -63,6 +62,7 @@ Almeloo	NA	     4
 Älmhult	NA	    17
 Alnarp	NA	    28
 Alnön	NA	     2
+Al Qahira	NA	     1
 Alseda	NA	     4
 Alsen	NA	     1
 Alsike	NA	     1
@@ -201,9 +201,9 @@ Bäckefors	NA	     1
 Bäckseda	NA	     1
 Bacup	NA	     1
 Bad Ems	NA	     1
+Baden	NA	     5
 Bad Segeberg	NA	     1
 Bad Wörishofen	NA	    11
-Baden	NA	     5
 Bagnères-de-Luchon	NA	     1
 Baku	NA	     4
 Bale	NA	     2
@@ -218,13 +218,13 @@ Bandung	NA	     1
 Bangalore	NA	     1
 Bangor	NA	     1
 Bankeryd	NA	     1
-Bar Le Duc	NA	     1
 Bara	NA	     3
 Barcelona	Spain	    88
 Barga	NA	     1
 Barhöft	NA	     1
 Bari	NA	     2
 Barkakra	NA	     1
+Bar Le Duc	NA	     1
 Barmen	NA	     5
 Barsebäck	NA	     2
 Barsele	NA	     1
@@ -435,8 +435,8 @@ Centerville RI	NA	     1
 Cernauti	NA	     1
 Cesis	NA	     2
 Cetinje	NA	     2
-Chalon-sur-Saône	NA	     2
 Chalons	NA	     1
+Chalon-sur-Saône	NA	     2
 Chambery	NA	     1
 Chapel Hill	NA	    10
 Charkov	NA	     5
@@ -576,9 +576,9 @@ Duved	NA	     1
 Eagle Lake MN	NA	     1
 East Grand Forks mn	NA	     1
 East Lansing	NA	     1
-East Union MN	NA	     1
 Easton Pa	USA	     1
 Eastsound Wa	NA	     2
+East Union MN	NA	     1
 Edam	NA	     3
 Edesjö	NA	     1
 Edinburgh	Scotland	    56
@@ -1273,18 +1273,15 @@ Kvissleby	NA	     1
 Kvistbro	NA	     2
 Kyrkhult	NA	     1
 Kyustendil	NA	     1
+Labiau	NA	     1
 La Chaux-de-Fonds	NA	     1
 La Crosse Wi	NA	     1
-La Laguna	NA	     1
-La Paz	NA	     1
-La plata	NA	     1
-La Porte In	NA	     2
-Labiau	NA	     1
 Lagan	NA	     1
 Laholm	NA	    53
 Lahore	NA	     1
 Lahr	NA	     1
 Lahti	Finland	    16
+La Laguna	NA	     1
 Lämbacken	NA	     1
 Lammhult	NA	     1
 Lamoni IA	NA	     1
@@ -1305,7 +1302,10 @@ Lanna	NA	     1
 Lannabruk	NA	     1
 Lännäs	NA	     1
 Lannaskede	NA	     1
+La Paz	NA	     1
 Lapinjärvi	NA	     1
+La plata	NA	     1
+La Porte In	NA	     2
 Lappeenranta	Finland	     6
 Lapua	Finland	     1
 Larvik	NA	     1
@@ -1314,11 +1314,9 @@ Lausanne	Switzerland	    41
 Lawrence KS	NA	     1
 Laxå	NA	     3
 Laxsjö	NA	     2
-Le Caire	NA	     9
-Le Mans	France	     6
-Le Puy-en-Velay	NA	     1
 Leamington Spa	NA	     1
 Lebanon PA	USA	     1
+Le Caire	NA	     9
 Leeds	England	     3
 Leeuwarden	Netherlands	    11
 Legnica	NA	     3
@@ -1331,6 +1329,7 @@ Lekhyttan	NA	     1
 Leksand	NA	    42
 Leksberg	NA	     4
 Lekvattnet	NA	     1
+Le Mans	France	     6
 Lemberg	NA	     1
 Lemgo	Germany	     1
 Lemnhult	NA	     1
@@ -1339,6 +1338,7 @@ Lengerich	NA	     1
 Lenhovda	NA	     1
 Leobe	NA	     1
 Leopol	NA	     1
+Le Puy-en-Velay	NA	     1
 Lerum	NA	     4
 Lervik	NA	     1
 Lerviken	NA	     1
@@ -1407,8 +1407,8 @@ Lomma	NA	     1
 Lommaryd	NA	     2
 London	England	  2356
 Lönneberga	NA	     2
-Lons-le-Saunier	NA	     1
 Lönsboda	NA	     5
+Lons-le-Saunier	NA	     1
 Lorch	NA	     9
 Lorient	NA	     1
 Los Angeles CA	NA	     8
@@ -1631,15 +1631,15 @@ Neustrelitz	NA	     1
 Neutitschein	NA	     1
 Neuwied	NA	     2
 Nevers	NA	     1
+Newark	England	     1
+Newark NJ	USA	     2
 New Brunswick NJ	USA	     1
+Newcastle	England	     1
 New Haven Ct	USA	    33
 New Jersey NJ	NA	     1
 New London Ct	USA	     1
-New York NY	USA	  1081
-Newark	England	     1
-Newark NJ	USA	     2
-Newcastle	England	     1
 Newry	Ireland	     1
+New York NY	USA	  1081
 Nice	France	     3
 Nieuwediep	NA	     2
 Nijkerk	NA	     3
@@ -1664,8 +1664,8 @@ Nördlingen	NA	     4
 Nordmaling	NA	     2
 Nordnes	NA	     1
 Norman	NA	    14
-Norra Sandsjö	NA	    11
 Norrahammar	NA	     2
+Norra Sandsjö	NA	    11
 Norrbo	NA	     6
 Norrfjärden	NA	     1
 Norrhult	NA	     6
@@ -1845,10 +1845,10 @@ Pontoise	NA	     4
 Pori	Finland	    66
 Porrentruy	NA	     1
 Porsgrund	NA	     3
-Port Shepstone	NA	     1
 Portland Me	USA	     5
 Portland Or	USA	     7
 Porto	Portugal	     9
+Port Shepstone	NA	     1
 Porvoo	Finland	  1154
 Poschiavo	NA	     1
 Potsdam	Germany	    52
@@ -1941,8 +1941,8 @@ Robertsfors	NA	     1
 Rocca San Casciano	NA	     1
 Rochdale	England	     1
 Rochester	England	     3
-Rock Island IL	USA	   543
 Rockford IL	NA	     7
+Rock Island IL	USA	   543
 Rockneby	NA	     1
 Rödbo	NA	     3
 Rödelheim	NA	     2
@@ -1986,9 +1986,9 @@ Saarlouis	NA	     1
 Saarmund	NA	     3
 Säbrå	NA	     1
 Säffle	NA	    50
-Saint Paul MN	NA	     1
 Saint-Brieuc	NA	     1
 Saint-Gaudens	NA	     1
+Saint Paul MN	NA	     1
 Sala	NA	   264
 Salamanca	Spain	     3
 Salem	USA	     1
@@ -1997,20 +1997,20 @@ Sälen	NA	     1
 Salo	Finland	     5
 Salstad	NA	     1
 Salt Lake City Ut	NA	     5
+Saltsjöbaden	NA	    13
 Saltsjö-Duvnäs	NA	     3
 Saltsjö-Järla	NA	     4
-Saltsjöbaden	NA	    13
 Salzburg	NA	     2
 Salzkotten	NA	     1
 Samedan	NA	     1
 Samtens	NA	     1
-San Diego CA	NA	     4
-San Juan Puerto Rico	NA	     1
-San Severino Marche	NA	     1
 Sandared	NA	     2
 Sandhammaren	NA	     1
+San Diego CA	NA	     4
 Sandträsk	NA	     1
 Sandviken	NA	    53
+San Juan Puerto Rico	NA	     1
+San Severino Marche	NA	     1
 Santiago	NA	    11
 Santos	NA	     1
 Santpoort-Zuid	NA	     2
@@ -2118,8 +2118,8 @@ Slagelse	NA	     3
 Slaka	NA	     1
 Slite	NA	     1
 Smålands Burseryd	NA	     1
-Smalands Taberg	NA	     1
 Smalandsstenar	NA	     8
+Smalands Taberg	NA	     1
 Smedby	NA	     2
 Smedjebacken	NA	     9
 Smögen	NA	     1
@@ -2164,12 +2164,8 @@ Spokane Wa	NA	     1
 Spöland	NA	     2
 Spoleto	NA	     1
 Sprängsviken	NA	     1
-Spring Lake	NA	     1
 Springfield Ma	USA	     9
-St Chrischona	NA	     3
-St Gallen	NA	     5
-St Helier	England	     1
-St Petersburg	Russia	   446
+Spring Lake	NA	     1
 Stade	Germany	    16
 Staffanstorp	NA	     1
 Stäket	NA	     1
@@ -2179,6 +2175,7 @@ Stanton Ia	NA	     1
 Stara Rise	NA	     1
 Stassfurt	NA	     1
 Stavanger	NA	    22
+St Chrischona	NA	     3
 Steenbrugge	NA	     1
 Stehag	NA	     1
 Stenberga	NA	     3
@@ -2188,6 +2185,8 @@ Stensele	NA	     1
 Stensjöholm	NA	     1
 Stenungsund	NA	     1
 Stetten	NA	     1
+St Gallen	NA	     5
+St Helier	England	     1
 Stiens	NA	     1
 Stirling	Scotland	     2
 Stjärnhov	NA	     2
@@ -2202,16 +2201,17 @@ Stoke-on-Trent	England	     1
 Stora Karlsö	NA	     1
 Stora Klefva	NA	     2
 Stora mellösa	NA	     1
+Storängen	NA	     1
 Stora Skedv	NA	     2
 Stora skedvi	NA	     1
 Stora Slågarp	NA	    16
 Stora Tofthög	NA	     1
 Stora Torp	NA	     1
-Storängen	NA	     1
 Storebro	NA	     5
 Storfors	NA	     1
 Storuman	NA	     1
 Storvik	NA	    16
+St Petersburg	Russia	   446
 Strägnäs	NA	     2
 Stralsund	Germany	   147
 Strand	NA	     1
@@ -2376,8 +2376,8 @@ Trondheim	Norway	    30
 Trönödal	NA	     2
 Troppau	NA	     1
 Trosa	NA	    75
-Troy NY	USA	     1
 Troyes	NA	     3
+Troy NY	USA	     1
 Tšuhujiv	NA	     1
 Tübingen	Germany	    54
 Tucson	NA	     3

@@ -1,7 +1,7 @@
 ---
 title: "Publication year summaries"
 author: "Leo Lahti"
-date: "2016-09-22"
+date: "2016-09-30"
 output: markdown_document
 ---
 
@@ -48,9 +48,9 @@ marked as potential first editions. Later need to check if this
 information is readily available in MARC.
 
 There are 349340 unique
-documents with an identical title and author;
-16003 of
-those have multiple occurrences, sometimes with different publication
+documents with an identical title and author and
+16003
+of those have multiple occurrences, sometimes with different publication
 years.  The earliest occurrence is suggested as the first edition.
 
 This figure shows the number of first editions per decade.

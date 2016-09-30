@@ -1,5 +1,5 @@
 library(devtools)
-load_all("~/proj/2014-Aatelouhinta/bibliographica")
+load_all("bibliographica")
 #library(bibliographica)
 
 # I/O definitions

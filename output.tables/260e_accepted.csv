@@ -59,8 +59,8 @@ Stockholm	   47
 (Ystad	   36
 (Christianstad	   35
 (Åstorp	   34
-([Stockholm]	   33
 (Härnösand	   33
+([Stockholm]	   33
 (Vänersborg	   33
 (Westervik	   33
 (Köping	   32
@@ -130,10 +130,10 @@ Uppsala	   19
 (Skellefteå	   11
 (Stockholm)	   11
 (Turku	   11
-([s.l.]	   10
 (Askersund	   10
 (Greifswald	   10
 (Seattle, Wash.	   10
+([s.l.]	   10
 (Sundbyberg	   10
 (Sunne	   10
 (Wexiö	   10
@@ -147,12 +147,12 @@ Uppsala	   19
 (Uppsala)	    9
 (Viborg	    9
 ([Göteborg]	    8
-([S.l.]	    8
-([Stockholm	    8
 (Hangö	    8
 (København	    8
 (Lahti	    8
 (San Francisco, Calif.	    8
+([S.l.]	    8
+([Stockholm	    8
 (Tidaholm	    8
 (Hvetlanda	    7
 (Lysekil	    7
@@ -170,30 +170,29 @@ Uppsala	   19
 (Helsingfors)	    6
 (Kumla	    6
 (Nora	    6
+Örebro	    6
 (Tacoma, Wash.	    6
 (Wadstena	    6
 (Westerås	    6
 (Winnipeg	    6
 (Winnipeg, Man.	    6
-Örebro	    6
 (Boden	    5
 (Danmark)	    5
 (Fahlun	    5
+Göteborg	    5
+Helsingfors	    5
 (Köpenhamn)	    5
 (Ludvika	    5
 (Mellerud	    5
 (Moheda	    5
 (Vexiö	    5
 (Wasa	    5
-Göteborg	    5
-Helsingfors	    5
-( Stockholm	    4
-([Chicago]	    4
 (Alvesta	    4
 (Bengtsfors	    4
 (Borgholm	    4
 (Buenos Aires	    4
 (Carlstad	    4
+([Chicago]	    4
 (Decorah, Iowa	    4
 (Duluth, Minn.	    4
 (Galesburg, Ill.	    4
@@ -205,8 +204,9 @@ Helsingfors	    5
 (Nijmegen)	    4
 (Red Wing, Minn.	    4
 (Rock Island	    4
-(St. Paul, Minn.	    4
+( Stockholm	    4
 (Stockholmiæ	    4
+(St. Paul, Minn.	    4
 (Tandsbyn	    4
 (Vetland	    4
 (Vimmerby	    4
@@ -225,6 +225,7 @@ Helsingfors	    5
 (Lindsborg, Kan.	    3
 (Ljungby	    3
 (London)	    3
+Lund	    3
 (Lund)	    3
 (Mariehamn	    3
 (Mikkeli	    3
@@ -246,13 +247,7 @@ Helsingfors	    5
 (Vestervik	    3
 (Vexjö	    3
 (Wiborg	    3
-Lund	    3
 (	    2
-([Eskilstuna]	    2
-([Malmö]	    2
-([Minneapolis]	    2
-([Omsl.: Stockholm	    2
-([Rock Island, Ill.]	    2
 (Alby	    2
 (Älvdalen	    2
 (Arbrå	    2
@@ -264,9 +259,11 @@ Lund	    3
 (Denver, Colo.	    2
 (Edsbyn	    2
 (Ekesjö	    2
+([Eskilstuna]	    2
 (Flen	    2
 (Fredrikshald	    2
 (Gamlakarleby	    2
+Gävle	    2
 (Gislaved	    2
 (göteborg	    2
 (Grand Rapids, Mich.	    2
@@ -276,7 +273,9 @@ Lund	    3
 (Hälsningborg	    2
 (Hamburg	    2
 (Heby	    2
+Helsingborg	    2
 (Helsingissä	    2
+Helsinki	    2
 (Hemse	    2
 (Hjo	    2
 (Höör	    2
@@ -288,26 +287,33 @@ Lund	    3
 (Kungsbacka	    2
 (Laholm	    2
 (Ljusdal	    2
+Malmö	    2
+([Malmö]	    2
 (Markaryd	    2
+([Minneapolis]	    2
 (Mjölby	    2
 (Moline	    2
 (New Britain, Conn.	    2
 (New York, N.Y.	    2
 (Norkiöping	    2
 (Norköping	    2
+Norrköping	    2
 (Norrköping)	    2
+([Omsl.: Stockholm	    2
 (Örebro)	    2
 (Orebroæ	    2
 (Oscarshamn	    2
 (Oslo	    2
+Östersund	    2
 (Paris)	    2
 (Philadelphia	    2
 (Pori	    2
 (Portland, Or.	    2
 (Riihimäki	    2
+(Rock Island, ill.	    2
+([Rock Island, Ill.]	    2
 (Rock Island Ill.	    2
 (Rock Island, Ill	    2
-(Rock Island, ill.	    2
 (Ronneby	    2
 (San Francisco	    2
 (Sävsjö	    2
@@ -322,103 +328,65 @@ Lund	    3
 (Tomelilla	    2
 (Tomteboda	    2
 (Upsal	    2
+Västerås	    2
 (Warberg	    2
 (Winterthur)	    2
 (Wisby	    2
-Gävle	    2
-Helsingborg	    2
-Helsinki	    2
-Malmö	    2
-Norrköping	    2
-Östersund	    2
-Västerås	    2
-( Falun	    1
-( Linköping	    1
-( Uppsala	    1
-( Upsala	    1
 ([1-3:] Tranås ; [4-6:] Kristianstad ; [7:] Hässleholm	    1
+1900	    1
 ([1968:2:] Stockholm	    1
-([Alingsås]	    1
-([Arvika]	    1
-([Borås]	    1
-([Chicago, Ill.]	    1
-([Frankfurt])	    1
-([Grängesberg]	    1
-([Hälsingborg]	    1
-([Kalmar	    1
-([Karlstad]	    1
-([Laholm]	    1
-([Lund]	    1
-([Malmö	    1
-([Mariestad]	    1
-([Moline, Ill.]	    1
-([Nikolaistad	    1
-([Örnsköldsvik]	    1
-([Skara]	    1
-([Skellefteå]	    1
-([Södertälje]	    1
-([Stockholm] : Boktr. Gutenberg)	    1
-([Strängnäs	    1
-([Sundbyberg]	    1
-([Sundsvall]	    1
-([text:] Ekenäs ; [omsl.:] Stockholm	    1
-([text:] Helsingfors ; [omsl.:] Stockholm	    1
-([text:] Kristinehamn, [omsl.:] Vetlanda	    1
-([text:] Lindesberg ; [omsl.:] Örebro	    1
-([text:] Mariestad	    1
-([text:] Vadstena	    1
-([Tomelilla]	    1
-([Uppsala	    1
-([Upsala]	    1
-([Växjö]	    1
-([Washington, D.C.]	    1
-([Westervik]	    1
-([Winnipeg]	    1
-(á Stockholm	    1
 (A-B ÅETÅ tr., Åhlén & Åkerlund fotogravyranstalt)	    1
+Åbo	    1
 (Abr. Lundquist & C:o)	    1
 (Aftonbladets tr.)	    1
 (Åland	    1
 (Aledo, Ill.	    1
+([Alingsås]	    1
 (Almqvist & Wiksell	    1
-(Altenburg, Thür	    1
 (Altenburg)	    1
+(Altenburg, Thür	    1
 (Aneby	    1
 (Ängelholm	    1
 (Ariel	    1
 (Arosiæ	    1
 (Arvidsjaur	    1
+([Arvika]	    1
 (Askersundiæ	    1
+(á Stockholm	    1
 (Atockholm	    1
 (Attenburg)	    1
 (Attica, Ind.	    1
 (Austin, Tex.	    1
 (Austin, Texas	    1
-(B. Cronholm)	    1
 (Bandhagen	    1
 (Battle Creek, Mich	    1
 (Battle, Creek, Mich.	    1
+(B. Cronholm)	    1
 (Bergen	    1
 (Bernau)	    1
 (Bishop Hill, Ill.)	    1
+([Borås]	    1
 (Bosrup)	    1
 (Boxholm	    1
 (Bratislava)	    1
 (Braunschweig	    1
 (Brockton, Mass.	    1
-(Brookly, N.Y.	    1
 (Brooklyn	    1
-(C. Forssell)	    1
+(Brookly, N.Y.	    1
 (Cambridge, Mass.)	    1
 (Carlscrona	    1
-(Central-Tryckeriet)	    1
 (Centraltr., Esselte)	    1
-(Chicago ; W. Williamson)	    1
-(Chicago Ill.	    1
-(Chicago, Ill. ; J.V. Martensons tr.)	    1
-(Chicago, Ill. f W. Williamson	    1
+(Central-Tryckeriet)	    1
+(C. Forssell)	    1
 (Chicago)	    1
+([Chicago, Ill.]	    1
+(Chicago Ill.	    1
+(Chicago, Ill. f W. Williamson	    1
+(Chicago, Ill. ; J.V. Martensons tr.)	    1
+(Chicago ; W. Williamson)	    1
+Christianstad	    1
 (Christinehamn	    1
+Cimbrishamn	    1
 (Cincinnati	    1
 (Cleveland, Ohio	    1
 (College View, Neb.	    1
@@ -426,34 +394,44 @@ Västerås	    2
 (Dala-Demokraten)	    1
 (Danderyd	    1
 (Duvbo	    1
-(E. Westrell)	    1
 (Edinburgh)	    1
 (Edsbruk	    1
 (eksjö	    1
+Eksjö	    1
 (Enskede	    1
 (Ensköping	    1
 (Eskilstund	    1
 (Eskiltuna	    1
 (Eslöf	    1
+(E. Westrell)	    1
+Fahlun	    1
 (Fakun	    1
 (Falköping)	    1
+Falun	    1
+( Falun	    1
 (Falund	    1
+Filipstad	    1
 (Förenta staterna)	    1
+Forssa	    1
 (Forsvik	    1
+([Frankfurt])	    1
 (Fredikshamn	    1
 (Fredrikshamn	    1
+Frenckell	    1
 (Frenckellska Boktr.	    1
 (Fritsla	    1
 (Fürth)	    1
-(Gamla Karleby	    1
 (Gamlakarleby)	    1
+(Gamla Karleby	    1
 (Garden City, N.Y.	    1
+Gefle	    1
 (Gernandt ; Palmquist)	    1
 (Glendale, Calif.	    1
 (Glengale, Calif.	    1
 (Göreborg	    1
 (Grand Rapids	    1
 (Grängesberg	    1
+([Grängesberg]	    1
 (Gränna	    1
 (Grästorp	    1
 (Great Britain)	    1
@@ -466,15 +444,19 @@ Västerås	    2
 (Hållsta	    1
 (Hallstavik	    1
 (hälsingborg	    1
+([Hälsingborg]	    1
 (Hälsingfors	    1
+Härnösand	    1
 (Hartford	    1
+Hedemora	    1
+Hedlund & Lindskog	    1
 (Helsigfors	    1
 (Helsinfors	    1
 (Helsingborg)	    1
 (Helsingfirs	    1
 (Helsingford	    1
-(Helsingfors ; Centraltryckeriet)	    1
 (Helsingfors : Centraltr.)	    1
+(Helsingfors ; Centraltryckeriet)	    1
 (Helsingsors	    1
 (Hessleholm	    1
 (Huddinge	    1
@@ -482,19 +464,23 @@ Västerås	    2
 (Huskvarna	    1
 (Ishpeming, Mich.	    1
 (Järfva	    1
+Jönköping	    1
 (Jönköping ; Sandwall)	    1
 (Jönköping ; Småland)	    1
 (Jönsköping	    1
 (Jyväskylä)	    1
 (Jyväskylän)	    1
-(K.F. Puromiehen k.-p.)	    1
+([Kalmar	    1
 (Kansas City, Mo.	    1
 (Karlberg	    1
+Karlskoga	    1
+([Karlstad]	    1
 (Karlstad)	    1
 (Katalog- och tidskriftstr.)	    1
 (Katrineholm, Sverige	    1
 (Keuru	    1
 (Keuruu	    1
+(K.F. Puromiehen k.-p.)	    1
 (Kjöbenhavn)	    1
 (Kjøbenhavn)	    1
 (Kjöpenhamn)	    1
@@ -502,6 +488,7 @@ Västerås	    2
 (Knoxville, Ill.	    1
 (Kôbenhavn	    1
 (Köbenhavn)	    1
+Köpenhamn	    1
 (Köping)	    1
 (Kristianstad : Kristianstads boktr.-ab)	    1
 (Kristinestad	    1
@@ -510,7 +497,9 @@ Västerås	    2
 (Kungl. Boktryckeriet)	    1
 (Kuopiossa)	    1
 (Lachti	    1
+([Laholm]	    1
 (Lahtis	    1
+Landskrona :;Föreningstr.)	    1
 (Lappeenranta	    1
 (Lausanne	    1
 (Leiden	    1
@@ -518,16 +507,22 @@ Västerås	    2
 (Lessebo	    1
 (Limhamn	    1
 (linköping	    1
+Linköping	    1
+( Linköping	    1
 (Ljusdal : Ljusdals tidn.)	    1
 (Lond. Goth.	    1
 (Londini Scan.	    1
 (Los Angelses, Calif.	    1
 (Luelå	    1
+([Lund]	    1
 (Lundæ	    1
-(Malmö :;(Malmö	    1
-(Malmö :f Nya litografen)	    1
+([Malmö	    1
 (Malmö)	    1
+(Malmö :f Nya litografen)	    1
+(Malmö :;(Malmö	    1
 (Mariannelund	    1
+Mariestad	    1
+([Mariestad]	    1
 (Mariestad)	    1
 (McKeesport, Pa.	    1
 (Melle)	    1
@@ -536,45 +531,51 @@ Västerås	    2
 (Milwaukee	    1
 (Milwaukee, Wis.	    1
 (Minneapolis, Minn	    1
+([Moline, Ill.]	    1
 (Mölndal	    1
 (Mörbylånga	    1
 (Motala ; Br. Borgström)	    1
 (Motala : Bröderna Borgström)	    1
 (Myllykoski	    1
-(N. R. Munck af Rosenschölds Boktryckeri)	    1
 (Naumburg a. S.)	    1
 (Naumburg a.S.)	    1
 (New Milford, N.J.	    1
+([Nikolaistad	    1
 (Norberg	    1
 (Norcopiæ	    1
 (Norcopie	    1
 (Norkiäping	    1
-(Norrköping : M. W. Wallberg)	    1
 (Norrköpingf Wallberg)	    1
+(Norrköping : M. W. Wallberg)	    1
 (Norrrköping	    1
+Norstedt	    1
 (Norstedt	    1
 (Norwood, Mass.	    1
+(N. R. Munck af Rosenschölds Boktryckeri)	    1
 (Nynäshamn	    1
 (Oakland, Neb.	    1
 (Ockelbo	    1
 (Örebero	    1
 (örebro	    1
 (Örebro : Nerikes Allehandas Tryckeri)	    1
+([Örnsköldsvik]	    1
 (Örnsköldsvik)	    1
+[Örnsköldsvik	    1
 (Örsnsköldsvik	    1
-(Oskarshamn : Oskarshamns-bladet)	    1
 (Oskarshamn)	    1
+(Oskarshamn : Oskarshamns-bladet)	    1
 (Oskarshamnt	    1
+Oslo	    1
 (Oslo)	    1
 (Östersund)	    1
 (P. A. Norstedt & söner)	    1
-(P. Palmquists Aktiebolag	    1
 (P.A. Palmers eftr.)	    1
-(Philadelphia, Pa.	    1
 (Philadelphia)	    1
+(Philadelphia, Pa.	    1
 (Portland, Or. f F.W. Baltes & Company, Printers	    1
 (Porvoon	    1
 (Porvoossa	    1
+(P. Palmquists Aktiebolag	    1
 (Pressburg	    1
 (Providence, R.I.	    1
 (Råå	    1
@@ -583,8 +584,6 @@ Västerås	    2
 (Rockford, Ill.	    1
 (Rom	    1
 (Roma)	    1
-(s.l.	    1
-(S.l.	    1
 (Säby	    1
 (Salina, Kan.	    1
 (San Francisco, Cal.	    1
@@ -596,78 +595,108 @@ Västerås	    2
 (Sioux City, Iowa	    1
 (Sjövik)	    1
 (Skänninge	    1
+([Skara]	    1
+Skellefteå	    1
+([Skellefteå]	    1
 (Skillingaryd	    1
 (Sköfde)	    1
+(s.l.	    1
+(S.l.	    1
 (Smålandsstenar	    1
+([Södertälje]	    1
 (Södertelge	    1
 (Springfield, Mass.	    1
-(St. Paul	    1
 (Stocholm	    1
 (Stockhol	    1
 (Stockhol ;;Hjerta)	    1
-(STockholm	    1
-(Stockholm ; Norstedt)	    1
-(Stockholm ; Rydahl)	    1
-(Stockholm ; Stockholms-Tidningen)	    1
-(Stockholm ; Svenska tryckeriaktiebolaget)	    1
-(Stockholm ; Upsala	    1
-(Stockholm ; V. Petterson)	    1
-(Stockholm : Harald Lindström)	    1
-(Stockholm : Sv. tr.-ab.)	    1
-(Stockholm : Wilhelmssons boktr.)	    1
-(Stockholm :;(Strängnäs	    1
 (Stockholm .	    1
-(Stockholm K. boktr.)	    1
-(Stockholm Rud. Wall)	    1
-(Stockholm, Sverige	    1
+[Stockholm	    1
+(STockholm	    1
+([Stockholm] : Boktr. Gutenberg)	    1
 (Stockholmf Centraltr.)	    1
 (Stockholmf Sv. tr.-ab)	    1
+(Stockholm : Harald Lindström)	    1
+(Stockholm K. boktr.)	    1
+(Stockholm ; Norstedt)	    1
+(Stockholm Rud. Wall)	    1
+(Stockholm ; Rydahl)	    1
+(Stockholm ; Stockholms-Tidningen)	    1
+(Stockholm :;(Strängnäs	    1
+(Stockholm ; Svenska tryckeriaktiebolaget)	    1
+(Stockholm, Sverige	    1
+(Stockholm : Sv. tr.-ab.)	    1
+(Stockholm ; Upsala	    1
+(Stockholm ; V. Petterson)	    1
+(Stockholm : Wilhelmssons boktr.)	    1
 (Stocksholm	    1
 (Stokholm	    1
 (Storckholm	    1
+(St. Paul	    1
+([Strängnäs	    1
 (Strengnesiae	    1
 (Strengnesiæ	    1
 (Strömsbro	    1
 (Strömsund	    1
 (Stuttgart	    1
+([Sundbyberg]	    1
+([Sundsvall]	    1
+Svedala	    1
 (Sv. tr.-ab)	    1
 (Tammerfors)	    1
 (Tammmerfors	    1
 (Tarto	    1
 (Tavastehus	    1
 (Temmerfors	    1
+([text:] Ekenäs ; [omsl.:] Stockholm	    1
+([text:] Helsingfors ; [omsl.:] Stockholm	    1
+([text:] Kristinehamn, [omsl.:] Vetlanda	    1
+([text:] Lindesberg ; [omsl.:] Örebro	    1
+([text:] Mariestad	    1
+([text:] Vadstena	    1
 (Tibro	    1
 (tierp	    1
+Tierp	    1
 (Tjeckoslovakien)	    1
 (Tokyo	    1
+([Tomelilla]	    1
 (Torsby	    1
 (Torshälla	    1
 (Tours)	    1
+(Trälleborg	    1
 (tr. i Uppsala)	    1
 (tr. i Upsala)	    1
 (Tr. i utlandet)	    1
-(Trälleborg	    1
 (Turlock, Cal.	    1
 (Tyringe	    1
 (Uppland	    1
+( Uppsala	    1
+([Uppsala	    1
 (Uppsals	    1
+( Upsala	    1
+([Upsala]	    1
 (Upsalæ	    1
 (Upsaliae	    1
 (Upsalis	    1
 (Vadstena)	    1
 (Valka	    1
 (Valkeakoski	    1
+Vänersborg	    1
 (Vansbro	    1
 (Vänsersborg	    1
 (Vårgårda	    1
+Vasa	    1
 (Vaxholm	    1
+([Växjö]	    1
 (Viipuri	    1
 (Visingsö	    1
 (Vpsala	    1
+([Washington, D.C.]	    1
 (Weimar)	    1
 (Wenersborg	    1
 (Wenona	    1
 (Wenona, Ill.	    1
+Westervik	    1
+([Westervik]	    1
 (Westerwik	    1
 (Wexjö, tryckt hos Swen Kask, 1807.)	    1
 (Wibrog	    1
@@ -678,39 +707,10 @@ Västerås	    2
 (Wilmington, Del.	    1
 (Wimmerby	    1
 (Wingåker)	    1
+([Winnipeg]	    1
 (Winnipeg, Can.	    1
 (Winnipeg, Canada	    1
 (Wittenberg)	    1
 (Wocester, Mass.	    1
 (Worcester	    1
 (Worcester, Mass.)	    1
-[Örnsköldsvik	    1
-[Stockholm	    1
-1900	    1
-Åbo	    1
-Christianstad	    1
-Cimbrishamn	    1
-Eksjö	    1
-Fahlun	    1
-Falun	    1
-Filipstad	    1
-Forssa	    1
-Frenckell	    1
-Gefle	    1
-Härnösand	    1
-Hedemora	    1
-Hedlund & Lindskog	    1
-Jönköping	    1
-Karlskoga	    1
-Köpenhamn	    1
-Landskrona :;Föreningstr.)	    1
-Linköping	    1
-Mariestad	    1
-Norstedt	    1
-Oslo	    1
-Skellefteå	    1
-Svedala	    1
-Tierp	    1
-Vänersborg	    1
-Vasa	    1
-Westervik	    1

@@ -16,7 +16,9 @@ datafile <- "df.Rds"
 datafile.orig <- "df.raw.Rds"
 ntop <- 20
 author <- "Lahti, Marjanen, Roivainen, Tolonen"
-output.folder <- "output.tables/"
+
+# already in main.R
+# output.folder <- "output.tables/"
 
 # Read the preprocessed data
 df0 <- readRDS(datafile)

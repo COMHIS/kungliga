@@ -17,3 +17,6 @@ sf <- generate_summaryfiles(df.preprocessed, df.orig,
 # system("git add *.md")
 # system("git commit -a -m'Rmd update'")
 # system("git push origin master")
+
+# Specific analyses for research documents
+source("research.R")

@@ -1,0 +1,54 @@
+## TODO
+
+Subject topics: mielenkiintoista kuinka erilaiselta tämä näyttää
+Fennican suhteen. miten yliopistokaupungeissa yliopistojulkaisuissa
+toimii sekä kungligassa että fennicassa asiasanat. Tuleeko top-listaan
+eri paikkakunnilla ja eri aikoina samat asiasanat vai onko tässä
+suurtakin heittoa?
+
+
+### Publication time
+
+Discarded Interval Kungliga & Fennica: 1912-1913 -> Näitä tapauksia jonkun verran. En oikein hiffaa miksi täällä on näin paljon tavaraa, joka näyttää selvältä.
+
+Kungliga Interval konversiot: Näissä näyttäisi osassa tapauksista jostain syystä tuo loppuvuosi puuttuvan. Esim:
+
+ vol. 1(1924)-vol. 78(2001):no 3 1924 NA 1
+
+[årg. 1] (1913)-årg. 78 (2005) 1913 NA 1
+
+årg. 2(1933):nr 13-årg. 73(2004):nr 22 1933 NA 1
+
+1946-1996: nr 4 1946 1946 1
+
+1926: nr 1-1928: nr 4 ; årg. 4(1929): nr 1-årg. 19(1944): nr 2 ; 1944: nr 3-2005: nr 1 ; årg. 79(2005): nr 2- 1926 NA 1
+
+nr 1(1928)-nr. 19(2003) 1928 NA 1
+
+årg. 1(1914)-årg. 77(1991) ; årg. 78([19]92)-[årg. 100] 2014 1914 NA 1
+
+årg. 26(1941): nr 1-årg. 75(1990): nr 7 ; 1998: nr 1-2009: nr 2 1941 NA 1
+
+årg. 1(1949)-57(2005) 1949 NA 1
+
+årg. 1(1924)-årg. 83(2006) 1924 NA 1
+
+
+### Fields to be added (?), less urgent
+
+Some of these are available in the data but may not have preprocessing
+functions yet (check):
+
+740a (Uncontrolled related/analytical title)
+
+852z [TÄSSÄ MERKITTY KIRJAKOKO! ELI SIIS 4:o, 8:o jne. Tärkeää, pitää
+miettiä miten yhdistää sinne kirjakoko kenttään]
+
+110a (Corporate name or jurisdiction name as entry element) [tärkeä
+     kenttä, nyt siis osittain ainakin eroteltuna “Yhteisö” kirjan
+     kirjoittajana.
+     
+700a 
+
+700d 
+

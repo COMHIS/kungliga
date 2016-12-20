@@ -84,7 +84,13 @@ write.table(dim.estimates, sep = ",", row.names = F,
 source("validation.kungliga.R") # Year checks: must come after enrich
 data.validated.kungliga <- validation_kungliga(data.enriched.kungliga)
 
-df.preprocessed <- data.validated.kungliga$df.preprocessed
+# General validation for the final data one more time
+data.validated2 <- validate_preprocessed_data(data.validated.kungliga)
+
+# -------------------------------------------------
+
+df.preprocessed <- data.validated2$df.preprocessed
+
 # -------------------------------------------------
 
 print("Saving preprocessed data")

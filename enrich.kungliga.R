@@ -19,13 +19,16 @@ enrich_kungliga <- function(data.enriched) {
 
   # ------------------------------------------------------
 
-  message("-- Kungliga publishers")
-  source("polish_publisher_kungliga.R") # TODO
-  df.preprocessed$publisher <- polish_publisher_kungliga(df.preprocessed)
+  # ĹL 25.1.2017 switch off temporarily
+  #message("-- Kungliga publishers")
+  #source("polish_publisher_kungliga.R") # TODO
+  #df.preprocessed$publisher <- polish_publisher_kungliga(df.preprocessed)
 
   data.enriched.kungliga <- list(df.preprocessed = df.preprocessed,
                                  update.fields = update.fields,
                                  conversions = conversions) 
   
   return (data.enriched.kungliga)
+
 }
+

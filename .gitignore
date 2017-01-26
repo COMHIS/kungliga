@@ -1,3 +1,13 @@
+.Rhistory
+output.tables/author_age_accepted.csv
+output.tables/pagecount.arabic_accepted.csv
+output.tables/pagecount.multiplier_accepted.csv
+output.tables/pagecount.plate_accepted.csv
+output.tables/pagecount.roman_accepted.csv
+output.tables/pagecount.sheet_accepted.csv
+output.tables/pagecount.squarebracket_accepted.csv
+output.tables/pagecount_from_accepted.csv
+tmp.R
 old
 tests.R
 *.Rds

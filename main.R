@@ -1,6 +1,6 @@
 library(devtools)
-load_all("bibliographica")
-#library(bibliographica)
+#load_all("bibliographica")
+library(bibliographica)
 
 # I/O definitions
 # make daily output folders TODO convert into function -vv
@@ -63,7 +63,6 @@ rm(data.preprocessing)
 #           VALIDATE PREPROCESSED DATA
 # ----------------------------------------------------
 
-source(system.file("extdata/validation.R", package = "bibliographica"))
 data.validated <- validate_preprocessed_data(data.preprocessed)
 rm(data.preprocessed)
 
@@ -71,20 +70,25 @@ rm(data.preprocessed)
 #           ENRICH VALIDATED DATA
 # ----------------------------------------------------
 
-source(system.file("extdata/enrich.R", package = "bibliographica"))
 data.enriched <- enrich_preprocessed_data(data.validated, df.orig)
 
 source("enrich.kungliga.R")
 data.enriched.kungliga <- enrich_kungliga(data.enriched)
 
-write.table(dim.estimates, sep = ",", row.names = F,
-  file = paste(output.folder, "sheetsize_means.csv", sep = "/"),
-  quote = FALSE)
+#write.table(dim.estimates, sep = ",", row.names = F,
+#  file = paste(output.folder, "sheetsize_means.csv", sep = "/"),
+#  quote = FALSE)
 
 source("validation.kungliga.R") # Year checks: must come after enrich
 data.validated.kungliga <- validation_kungliga(data.enriched.kungliga)
 
-df.preprocessed <- data.validated.kungliga$df.preprocessed
+# General validation for the final data one more time
+data.validated2 <- validate_preprocessed_data(data.validated.kungliga)
+
+# -------------------------------------------------
+
+df.preprocessed <- data.validated2$df.preprocessed
+
 # -------------------------------------------------
 
 print("Saving preprocessed data")

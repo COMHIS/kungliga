@@ -1,16 +1,16 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-09-30"
+date: "2017-01-26"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 16687 [unique publishers](output.tables/publisher_accepted.csv)
+ * 24603 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 166857 documents have unambiguous publisher information (43%). 
+ * 158996 documents have unambiguous publisher information (43%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -25,11 +25,6 @@ The 20 most common publishers are shown with the number of documents.
 
 Title count
 
-
-```
-## Warning: Removed 4 rows containing missing values (position_stack).
-```
-
 ![plot of chunk summaryTop10pubtimeline](figure/summaryTop10pubtimeline-1.png)
 
 
@@ -38,17 +33,17 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher             | titles|     paper|
-|:---------------------|------:|---------:|
-|Almqvist & Wiksell    |   2124|  330622.2|
-|<Author>              |   3848|  194712.7|
-|Bonnier               |  13636| 2327530.9|
-|Geber                 |   2430|  290857.0|
-|Gleerup               |   2701|  230833.0|
-|Kungliga              |   5367| 1095709.6|
-|Natur & Coultur       |   2324|  329256.3|
-|Norstedt              |   6885| 1750031.8|
-|Riksdagen             |   3453|       0.0|
-|Wahlström & Widstrand |   3240|  407840.8|
+|publisher             | titles|       paper|
+|:---------------------|------:|-----------:|
+|[Kongl. tryckeriet]   |   2020| 10825038.19|
+|B. Wahlström          |   1893|    14038.72|
+|Bonnier               |  13166|  2133027.52|
+|Förf                  |   2158|    89749.22|
+|Geber                 |   2345|   293880.21|
+|Gleerup               |   2570|   215662.07|
+|Kongl. tryckeriet     |   3006| 10148912.15|
+|Lindblad              |   2075|   114343.84|
+|Norstedt              |   6542|  1789221.48|
+|Wahlström & Widstrand |   3113|   410167.80|
 
 

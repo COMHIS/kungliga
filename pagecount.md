@@ -22,7 +22,7 @@ output: markdown_document
 
   * [Discarded pagecount info](output.tables/pagecount_discarded.csv) For these cases the missing/discarded page count was estimated based on average page count estimates for [single volume](mean_pagecounts_singlevol.csv), [multi-volume](mean_pagecounts_multivol.csv) and [issues](mean_pagecounts_issue.csv), calculated from those documents where original pagecount info is available.
 
-  * [Automated tests for page count conversions](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/tests_polish_physical_extent.csv)
+  * [Automated tests for page count conversions](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/tests_polish_physical_extent.csv)
 
 
 Left: Gatherings vs. overall pagecounts (original + estimated). Right: Only the estimated page counts (for the 2031 documents that have missing pagecount info in the original data):

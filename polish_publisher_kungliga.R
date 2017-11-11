@@ -41,10 +41,11 @@ polish_publisher_kungliga <- function (df.orig) {
   # CHECK THE contents of pubs$alt[1:10] !!!!
   # The combination of enriched part & the unprocessed part
   combined_pubs <- clean_publisher(raw_publishers, languages=languages)
-  combined_pubs <- harmonize_publisher(combined_pubs, publication_year, languages=languages)[,1:2]
-  
+
+  combined_pubs <- harmonize_publisher_special(combined_pubs, publication_year, languages=languages)[,1:2]
+
   # Convert S.N. into NA 
-  f <- system.file("extdata/NA_publishers.csv", package="bibliographica")
+  f <- "NA_publishers.csv"
   synonymes <- read.csv(file=f, sep="\t", fileEncoding="UTF-8")
   combined_pubs$mod <- map(combined_pubs$mod, synonymes, mode="recursive")
   mod <- combined_pubs$mod

@@ -20,7 +20,7 @@ enrich_kungliga <- function(data.enriched) {
   # ------------------------------------------------------
 
   message("-- Kungliga publishers")
-  source("polish_publisher_kungliga.R") # TODO
+  source("polish_publisher_kungliga.R")
   df.preprocessed$publisher <- polish_publisher_kungliga(df.preprocessed)
 
   data.enriched.kungliga <- list(df.preprocessed = df.preprocessed,

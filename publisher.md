@@ -1,16 +1,18 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2016-09-30"
+date: "2017-11-11"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 16687 [unique publishers](output.tables/publisher_accepted.csv)
+ * 16968 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 166857 documents have unambiguous publisher information (43%). 
+ * 167212 documents have unambiguous publisher information (43.3%). This includes documents identified as self-published; the author name is used as the publisher in those cases (if known).
+
+ * 11 documents are identified as self-published (0%). 
 
  * [Discarded publisher entries](output.tables/publisher_discarded.csv)
 
@@ -27,7 +29,7 @@ Title count
 
 
 ```
-## Warning: Removed 4 rows containing missing values (position_stack).
+## Warning: Removed 5 rows containing missing values (position_stack).
 ```
 
 ![plot of chunk summaryTop10pubtimeline](figure/summaryTop10pubtimeline-1.png)
@@ -38,17 +40,36 @@ Title count versus paper consumption (top publishers):
 
 ![plot of chunk publishertitlespapers](figure/publishertitlespapers-1.png)
 
-|publisher             | titles|     paper|
-|:---------------------|------:|---------:|
-|Almqvist & Wiksell    |   2124|  330622.2|
-|<Author>              |   3848|  194712.7|
-|Bonnier               |  13636| 2327530.9|
-|Geber                 |   2430|  290857.0|
-|Gleerup               |   2701|  230833.0|
-|Kungliga              |   5367| 1095709.6|
-|Natur & Coultur       |   2324|  329256.3|
-|Norstedt              |   6885| 1750031.8|
-|Riksdagen             |   3453|       0.0|
-|Wahlström & Widstrand |   3240|  407840.8|
+|publisher             | titles|       paper|
+|:---------------------|------:|-----------:|
+|<Author>              |   3834|   190476.17|
+|Almqvist & Wiksell    |   2133|   373330.38|
+|Bonnier               |  13381|  2424862.41|
+|Geber                 |   2368|   296413.54|
+|Gleerup               |   2698|   240271.18|
+|Kungliga et           |   5332| 22618864.32|
+|Natur & kultur        |   2323|   346846.96|
+|Norstedt              |   6696|  1900777.91|
+|Riksdagen             |   3453|     2638.89|
+|Wahlström & Widstrand |   3239|   432169.70|
+
+
+### Corporates
+
+Summaries of the corporate field.
+
+ * 6474 [unique corporates](output.tables/corporate_accepted.csv)
+
+ * 35002 documents have unambiguous corporate information (9.1%). 
+
+ * [Discarded corporate entries](output.tables/corporate_discarded.csv)
+
+ * [Conversions from original to final names](output.tables/corporate_conversion_nontrivial.csv) (only non-trivial conversions shown)
+
+
+The 20 most common corporates are shown with the number of documents. 
+
+![plot of chunk summarycorporate2](figure/summarycorporate2-1.png)
+
 
 

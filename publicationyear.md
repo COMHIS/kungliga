@@ -1,7 +1,7 @@
 ---
 title: "Publication year summaries"
 author: "Leo Lahti"
-date: "2016-09-30"
+date: "2017-11-11"
 output: markdown_document
 ---
 
@@ -12,13 +12,13 @@ output: markdown_document
 
 [Publication year discarded](output.tables/publication_year_discarded.csv)
 
-Publication year is available for 372837 documents (97%). The publication years span 1457-2012.
+Publication year is available for 372136 documents (96%). The publication years span 1457-2012.
 
 ![plot of chunk summarypublicationyear](figure/summarypublicationyear-1.png)
 
 ### Publication frequency
 
-Publication frequency information is available for 3137 documents (1%). The links are invalid if the lists are empty. The (estimated annual) frequencies are converted to plain text according to their closest match in [this table](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/frequency_conversions.csv).
+Publication frequency information is available for 3137 documents (1%). The links are invalid if the lists are empty. The (estimated annual) frequencies are converted to plain text according to their closest match in [this table](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/frequency_conversions.csv).
 
 [Publication frequency accepted](output.tables/publication_frequency_accepted.csv)
 
@@ -47,9 +47,9 @@ are multiple instances from the same earliest year, they are all
 marked as potential first editions. Later need to check if this
 information is readily available in MARC.
 
-There are 349340 unique
+There are 349341 unique
 documents with an identical title and author and
-16003
+16001
 of those have multiple occurrences, sometimes with different publication
 years.  The earliest occurrence is suggested as the first edition.
 

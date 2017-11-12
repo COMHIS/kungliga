@@ -8,102 +8,99 @@ NA	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	311905
 12:o.	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	  1834
 2:o.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	  1341
 16:o.	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	  1143
-1:o	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	   872
+1:o	1to	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	   945
 20 cm	NA	NA	 20.0	FALSE	NA	 13.0	 20.0	NA	  260.00	   713
-23 cm	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	   634
-22 cm	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	   605
+23 cm	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	   634
+22 cm	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	   605
 19 cm	NA	NA	 19.0	FALSE	NA	 13.0	 19.0	NA	  247.00	   602
 18 cm	NA	NA	 18.0	FALSE	NA	 12.0	 18.0	NA	  216.00	   570
-24 cm	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	   555
+24 cm	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	   555
 21 cm	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	   536
 30 cm	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	   476
 12:o	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	   446
-25 cm	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	   424
+25 cm	NA	NA	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	   424
 12:o(6).	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	   397
 12:o(avl.).	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	   396
 2:o	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	   344
 16:o	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	   301
 29 cm	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	   269
-1:o.	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	   241
+1:o.	1to	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	   252
 4:o(2).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	   210
 17 cm	NA	NA	 17.0	FALSE	NA	 12.0	 17.0	NA	  204.00	   195
-26 cm	NA	NA	 26.0	FALSE	NA	 20.0	 26.0	NA	  520.00	   191
+26 cm	NA	NA	 26.0	FALSE	4to	 20.0	 26.0	 0	  520.00	   191
 31 cm	NA	NA	 31.0	FALSE	NA	 21.0	 31.0	NA	  651.00	   172
 16 cm	NA	NA	 16.0	FALSE	NA	 11.0	 16.0	NA	  176.00	   168
 28 cm	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	   163
 27 cm	NA	NA	 27.0	FALSE	NA	 20.0	 27.0	NA	  540.00	   150
 16:o(8).	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	   136
-32 cm	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	   131
+32 cm	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	   131
 8:o(4)	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	   128
-15 cm	NA	NA	 15.0	FALSE	NA	 12.0	 15.0	NA	  180.00	   100
-14 cm	NA	NA	 14.0	FALSE	NA	 11.0	 14.0	NA	  154.00	    91
+15 cm	NA	NA	 15.0	FALSE	16mo	 12.0	 15.0	 0	  180.00	   100
+14 cm	NA	NA	 14.0	FALSE	16mo	 11.0	 14.0	 0	  154.00	    91
 Hög 12:o.	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    86
 lit. 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    82
-1:o	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	    73
-1:o(tv.).	1to	NA	NA	FALSE	1to	 60.0	 90.0	 0	 5400.00	    65
-34 cm	NA	NA	 34.0	FALSE	NA	 22.0	 34.0	NA	  748.00	    65
-35 cm	NA	NA	 35.0	FALSE	NA	 23.0	 35.0	NA	  805.00	    65
-33 cm	NA	NA	 33.0	FALSE	NA	 22.0	 33.0	NA	  726.00	    63
+1:o(tv.).	1to	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	    74
+34 cm	NA	NA	 34.0	FALSE	2fo	 22.0	 34.0	 0	  748.00	    65
+35 cm	NA	NA	 35.0	FALSE	2fo	 23.0	 35.0	 0	  805.00	    65
+33 cm	NA	NA	 33.0	FALSE	2fo	 22.0	 33.0	 0	  726.00	    63
 24:o.	24mo	NA	NA	FALSE	24mo	  8.5	 12.5	 0	  106.25	    58
 18:o(12/6).	18mo	NA	NA	FALSE	18mo	 10.0	 16.0	 0	  160.00	    48
 24:o(12).	24mo	NA	NA	FALSE	24mo	  8.5	 12.5	 0	  106.25	    48
 2:o(tv.).	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	    44
 8:o(8 o.4).	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    42
-37 cm	NA	NA	 37.0	FALSE	NA	 25.0	 37.0	NA	  925.00	    39
+37 cm	NA	NA	 37.0	FALSE	2fo	 25.0	 37.0	 0	  925.00	    39
 24:o(8).	24mo	NA	NA	FALSE	24mo	  8.5	 12.5	 0	  106.25	    37
-40 cm	NA	NA	 40.0	FALSE	NA	 26.0	 40.0	NA	 1040.00	    37
-39 cm	NA	NA	 39.0	FALSE	NA	 26.0	 39.0	NA	 1014.00	    35
+40 cm	NA	NA	 40.0	FALSE	2fo	 26.0	 40.0	 0	 1040.00	    37
+39 cm	NA	NA	 39.0	FALSE	2fo	 26.0	 39.0	 0	 1014.00	    35
 2:o(4).	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	    33
 12:o(6)	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    31
 64:o(8).	64mo	NA	NA	FALSE	64mo	  5.0	  7.0	 0	   35.00	    31
 1/2:o	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	    30
 18:o.	18mo	NA	NA	FALSE	18mo	 10.0	 16.0	 0	  160.00	    30
-36 cm	NA	NA	 36.0	FALSE	NA	 24.0	 36.0	NA	  864.00	    29
+36 cm	NA	NA	 36.0	FALSE	2fo	 24.0	 36.0	 0	  864.00	    29
 8:o(2).	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    29
-19x12 cm	NA	 12.0	 19.0	FALSE	NA	 12.0	 19.0	NA	  228.00	    29
+19x12 cm	NA	 12.0	 19.0	FALSE	12mo	 12.0	 19.0	 0	  228.00	    29
 8:o(tv.).	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    28
 38 cm	NA	NA	 38.0	FALSE	NA	 35.0	 38.0	NA	 1330.00	    28
-13 cm	NA	NA	 13.0	FALSE	NA	 10.0	 13.0	NA	  130.00	    24
+13 cm	NA	NA	 13.0	FALSE	16mo	 10.0	 13.0	 0	  130.00	    24
 12:o (avl.)	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    23
 6:o	6to	NA	NA	FALSE	6to	NA	NA	 0	NA	    22
 57 cm	NA	NA	 57.0	FALSE	NA	 35.0	 57.0	NA	 1995.00	    20
 19x13 cm	NA	 13.0	 19.0	FALSE	NA	 13.0	 19.0	NA	  247.00	    20
 41 cm	NA	NA	 41.0	FALSE	NA	 27.0	 41.0	NA	 1107.00	    20
-42 cm	NA	NA	 42.0	FALSE	NA	 27.0	 42.0	NA	 1134.00	    18
+42 cm	NA	NA	 42.0	FALSE	2fo	 27.0	 42.0	 0	 1134.00	    18
 18x12 cm	NA	 12.0	 18.0	FALSE	NA	 12.0	 18.0	NA	  216.00	    18
-45 cm	NA	NA	 45.0	FALSE	NA	 29.0	 45.0	NA	 1305.00	    18
+45 cm	NA	NA	 45.0	FALSE	2fo	 29.0	 45.0	 0	 1305.00	    18
 4:o(tv.).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	    17
-23 cm.	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	    17
+23 cm.	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	    17
 12:o(avl.)	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    16
 21 cm.	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	    15
 60 cm	NA	NA	 60.0	FALSE	NA	 36.0	 60.0	NA	 2160.00	    14
 44 cm	NA	NA	 44.0	FALSE	NA	 29.0	 44.0	NA	 1276.00	    13
 8:o +	8long	NA	NA	FALSE	8long	 13.0	 22.0	 0	  286.00	    12
 Hög 12:o	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    11
-1:o.	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	    11
 12:o(8/4).	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	    11
-24 cm.	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	    11
-18x11 cm	NA	 11.0	 18.0	FALSE	NA	 11.0	 18.0	NA	  198.00	    11
+24 cm.	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	    11
+18x11 cm	NA	 11.0	 18.0	FALSE	18mo	 11.0	 18.0	 0	  198.00	    11
 48 cm	NA	NA	 48.0	FALSE	NA	 31.0	 48.0	NA	 1488.00	    10
 8:o(tv.) [40] s., s.	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	    10
 32:o(8).	32mo	NA	NA	FALSE	32mo	  7.0	 12.0	 0	   84.00	    10
-43 cm	NA	NA	 43.0	FALSE	NA	 28.0	 43.0	NA	 1204.00	    10
+43 cm	NA	NA	 43.0	FALSE	2fo	 28.0	 43.0	 0	 1204.00	    10
 17x12 cm	NA	 12.0	 17.0	FALSE	NA	 12.0	 17.0	NA	  204.00	    10
 50 cm	NA	NA	 50.0	FALSE	NA	 32.0	 50.0	NA	 1600.00	     9
 fol	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     9
-1:o(tv.).	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	     9
 4:o(2)	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     9
 Fol.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     9
 ill.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     9
-24 cm +	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     9
+24 cm +	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     9
 53 cm	NA	NA	 53.0	FALSE	NA	 33.0	 53.0	NA	 1749.00	     8
 4:o(8).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     8
 12:o(8/4)	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	     8
 4:o(4 o.2).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     8
 49 cm	NA	NA	 49.0	FALSE	NA	 31.0	 49.0	NA	 1519.00	     8
-20x14 cm	NA	 14.0	 20.0	FALSE	NA	 14.0	 20.0	NA	  280.00	     8
+20x14 cm	NA	 14.0	 20.0	FALSE	12long	 14.0	 20.0	 0	  280.00	     8
 18x13 cm	NA	 13.0	 18.0	FALSE	NA	 13.0	 18.0	NA	  234.00	     8
-21 x 28 cm	NA	 21.0	 28.0	FALSE	NA	 21.0	 28.0	NA	  588.00	     8
+21 x 28 cm	NA	 21.0	 28.0	FALSE	4to	 21.0	 28.0	 0	  588.00	     8
 11 cm	NA	NA	 11.0	FALSE	NA	  8.0	 11.0	NA	   88.00	     8
 st. 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     7
 51 cm	NA	NA	 51.0	FALSE	NA	 32.0	 51.0	NA	 1632.00	     7
@@ -140,13 +137,13 @@ Tv.-4:o.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     6
 4:o. (ins.: 1/2:o)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     5
 8:o(tv.)	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     5
 21-30 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     5
-20x15 cm	NA	 15.0	 20.0	FALSE	NA	 15.0	 20.0	NA	  300.00	     5
+20x15 cm	NA	 15.0	 20.0	FALSE	12long	 15.0	 20.0	 0	  300.00	     5
 22 cm (8:o)	8vo	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     5
 24 cm (8:o)	8vo	NA	 24.0	FALSE	8vo	 15.0	 24.0	 0	  360.00	     5
-10 cm	NA	NA	 10.0	FALSE	NA	  7.0	 10.0	NA	   70.00	     5
+10 cm	NA	NA	 10.0	FALSE	16mo	  7.0	 10.0	 0	   70.00	     5
 tv. 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     4
 4.o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     4
-15x12 cm	NA	 12.0	 15.0	FALSE	NA	 12.0	 15.0	NA	  180.00	     4
+15x12 cm	NA	 12.0	 15.0	FALSE	16mo	 12.0	 15.0	 0	  180.00	     4
 4:0	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     4
 24:o	24mo	NA	NA	FALSE	24mo	  8.5	 12.5	 0	  106.25	     4
 fol.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     4
@@ -172,7 +169,7 @@ st. 4:o	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     4
 Tvärfol.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     3
 67 cm	NA	NA	 67.0	FALSE	NA	 40.0	 67.0	NA	 2680.00	     3
 18:o	18mo	NA	NA	FALSE	18mo	 10.0	 16.0	 0	  160.00	     3
-14x11 cm	NA	 11.0	 14.0	FALSE	NA	 11.0	 14.0	NA	  154.00	     3
+14x11 cm	NA	 11.0	 14.0	FALSE	16mo	 11.0	 14.0	 0	  154.00	     3
 15x10 cm	NA	 10.0	 15.0	FALSE	NA	 10.0	 15.0	NA	  150.00	     3
 Avl. 4:o.	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     3
 8:o. obl.	8vo	NA	NA	 TRUE	8vo	 19.0	 13.0	 1	  247.00	     3
@@ -180,11 +177,11 @@ Avl. 4:o.	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     3
 2	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     3
 2:o(6)	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     3
 8 obl.	NA	NA	NA	 TRUE	NA	NA	NA	NA	NA	     3
-22 cm.	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     3
+22 cm.	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     3
 19x13 cm.	NA	 13.0	 19.0	FALSE	NA	 13.0	 19.0	NA	  247.00	     3
 20 cm (8:o)	8vo	NA	 20.0	FALSE	8vo	 13.0	 20.0	 0	  260.00	     3
 18 cm (8:o)	8vo	NA	 18.0	FALSE	8vo	 12.0	 18.0	 0	  216.00	     3
-13x10,5 cm	NA	 10.5	 13.0	FALSE	NA	 10.5	 13.0	NA	  136.50	     3
+13x10,5 cm	NA	 10.5	 13.0	FALSE	16mo	 10.5	 13.0	 0	  136.50	     3
 12:o.(avl.).	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	     3
 16:o(4).	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	     3
 18:o(12/6)	18mo	NA	NA	FALSE	18mo	 10.0	 16.0	 0	  160.00	     3
@@ -201,16 +198,16 @@ Avl. 4:o.	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     3
 4:o(avl.).	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     3
 17 cm (8:o)	8vo	NA	 17.0	FALSE	8vo	 12.0	 17.0	 0	  204.00	     3
 23x16 cm	NA	 16.0	 23.0	FALSE	NA	 16.0	 23.0	NA	  368.00	     3
-21x16 cm	NA	 16.0	 21.0	FALSE	NA	 16.0	 21.0	NA	  336.00	     3
+21x16 cm	NA	 16.0	 21.0	FALSE	4to	 16.0	 21.0	 0	  336.00	     3
 21x15 cm	NA	 15.0	 21.0	FALSE	NA	 15.0	 21.0	NA	  315.00	     3
 16x11 cm	NA	 11.0	 16.0	FALSE	NA	 11.0	 16.0	NA	  176.00	     3
 20 cm.	NA	NA	 20.0	FALSE	NA	 13.0	 20.0	NA	  260.00	     3
-25 cm.	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	     3
+25 cm.	NA	NA	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	     3
 15 x 21 cm	NA	 15.0	 21.0	FALSE	NA	 15.0	 21.0	NA	  315.00	     3
 21 cm +	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	     3
 31 cm.	NA	NA	 31.0	FALSE	NA	 21.0	 31.0	NA	  651.00	     3
 30 cm.	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     3
-28x22 cm	NA	 22.0	 28.0	FALSE	NA	 22.0	 28.0	NA	  616.00	     2
+28x22 cm	NA	 22.0	 28.0	FALSE	4to	 22.0	 28.0	 0	  616.00	     2
 fo	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 18x11,5 cm	NA	 11.5	 18.0	FALSE	NA	 11.5	 18.0	NA	  207.00	     2
 8vo.	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     2
@@ -224,24 +221,24 @@ fo	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 2:o (4)	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     2
 59 cm	NA	NA	 59.0	FALSE	NA	 36.0	 59.0	NA	 2124.00	     2
 4 :o	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     2
-26 cm.	NA	NA	 26.0	FALSE	NA	 20.0	 26.0	NA	  520.00	     2
+26 cm.	NA	NA	 26.0	FALSE	4to	 20.0	 26.0	 0	  520.00	     2
 21x13 cm	NA	 13.0	 21.0	FALSE	NA	 13.0	 21.0	NA	  273.00	     2
-16x12 cm	NA	 12.0	 16.0	FALSE	NA	 12.0	 16.0	NA	  192.00	     2
+16x12 cm	NA	 12.0	 16.0	FALSE	12mo	 12.0	 16.0	 0	  192.00	     2
 30 cm +	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     2
 1/2:o(tv.)	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     2
-34,5 cm	NA	NA	 34.5	FALSE	NA	 22.5	 34.5	NA	  776.25	     2
+34,5 cm	NA	NA	 34.5	FALSE	2fo	 22.5	 34.5	 0	  776.25	     2
 32:o	32mo	NA	NA	FALSE	32mo	  7.0	 12.0	 0	   84.00	     2
 28 cm.	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	     2
 52 cm	NA	NA	 52.0	FALSE	NA	 33.0	 52.0	NA	 1716.00	     2
 65 cm	NA	NA	 65.0	FALSE	NA	 39.0	 65.0	NA	 2535.00	     2
 8:o [8:o]	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     2
-16x10 cm	NA	 10.0	 16.0	FALSE	NA	 10.0	 16.0	NA	  160.00	     2
+16x10 cm	NA	 10.0	 16.0	FALSE	18mo	 10.0	 16.0	 0	  160.00	     2
 25cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
-32 cm.	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     2
+32 cm.	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     2
 25x18 cm	NA	 18.0	 25.0	FALSE	NA	 18.0	 25.0	NA	  450.00	     2
 14x10 cm	NA	 10.0	 14.0	FALSE	NA	 10.0	 14.0	NA	  140.00	     2
 27x20 cm	NA	 20.0	 27.0	FALSE	NA	 20.0	 27.0	NA	  540.00	     2
-15 x 24 cm	NA	 15.0	 24.0	FALSE	NA	 15.0	 24.0	NA	  360.00	     2
+15 x 24 cm	NA	 15.0	 24.0	FALSE	8vo	 15.0	 24.0	 0	  360.00	     2
 Pat.-fol.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 27 cm.	NA	NA	 27.0	FALSE	NA	 20.0	 27.0	NA	  540.00	     2
 2 vol.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
@@ -272,7 +269,7 @@ Pat.-fol.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 8:o(4 o.2).	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     2
 48:o(4).	48mo	NA	NA	FALSE	48mo	  6.5	 10.0	 0	   65.00	     2
 12:o(4).	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	     2
-22x15 cm	NA	 15.0	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     2
+22x15 cm	NA	 15.0	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     2
 27 cm (4:o)	4to	NA	 27.0	FALSE	4to	 21.0	 27.0	 0	  567.00	     2
 21-25 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 16 cm.	NA	NA	 16.0	FALSE	NA	 11.0	 16.0	NA	  176.00	     2
@@ -280,39 +277,39 @@ Pat.-fol.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 22cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 14 x 21 cm	NA	 14.0	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	     2
 18 cm +	NA	NA	 18.0	FALSE	NA	 12.0	 18.0	NA	  216.00	     2
-22 x 29 cm	NA	 22.0	 29.0	FALSE	NA	 22.0	 29.0	NA	  638.00	     2
+22 x 29 cm	NA	 22.0	 29.0	FALSE	4to	 22.0	 29.0	 0	  638.00	     2
 19 cm (8:o)	8vo	NA	 19.0	FALSE	8vo	 13.0	 19.0	 0	  247.00	     2
 ca 22-24 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     2
 17 x 26 cm	NA	 17.0	 26.0	FALSE	NA	 17.0	 26.0	NA	  442.00	     2
 22 x 30 cm	NA	 22.0	 30.0	FALSE	NA	 22.0	 30.0	NA	  660.00	     2
 12:o +	12long	NA	NA	FALSE	12long	 13.0	 20.0	 0	  260.00	     1
-7x11 cm	NA	  7.0	 11.0	FALSE	NA	  7.0	 11.0	NA	   77.00	     1
-39 x 49 cm	NA	 39.0	 49.0	FALSE	NA	 39.0	 49.0	NA	 1911.00	     1
-34 cm +	NA	NA	 34.0	FALSE	NA	 22.0	 34.0	NA	  748.00	     1
+7x11 cm	NA	  7.0	 11.0	FALSE	32mo	  7.0	 11.0	 0	   77.00	     1
+39 x 49 cm	NA	 39.0	 49.0	FALSE	1to	 39.0	 49.0	 0	 1911.00	     1
+34 cm +	NA	NA	 34.0	FALSE	2fo	 22.0	 34.0	 0	  748.00	     1
 4⁰.	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     1
 15 x 25 cm	NA	 15.0	 25.0	FALSE	NA	 15.0	 25.0	NA	  375.00	     1
 8:o(tv)	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 [16:o]	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	     1
-1:o (89x53 cm)	1to	 53.0	 89.0	FALSE	1to	 53.0	 89.0	 0	 4717.00	     1
-35 x 23 cm	NA	 23.0	 35.0	FALSE	NA	 23.0	 35.0	NA	  805.00	     1
+1:o (89x53 cm)	1to	 53.0	 89.0	FALSE	NA	 53.0	 89.0	NA	 4717.00	     1
+35 x 23 cm	NA	 23.0	 35.0	FALSE	2fo	 23.0	 35.0	 0	  805.00	     1
 210 x 144 mm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-27x21 cm	NA	 21.0	 27.0	FALSE	NA	 21.0	 27.0	NA	  567.00	     1
+27x21 cm	NA	 21.0	 27.0	FALSE	4to	 21.0	 27.0	 0	  567.00	     1
 24x16,5 cm	NA	 16.5	 24.0	FALSE	NA	 16.5	 24.0	NA	  396.00	     1
-22x28,5 cm	NA	 22.0	 28.5	FALSE	NA	 22.0	 28.5	NA	  627.00	     1
-19 x 11 cm	NA	 11.0	 19.0	FALSE	NA	 11.0	 19.0	NA	  209.00	     1
+22x28,5 cm	NA	 22.0	 28.5	FALSE	4to	 22.0	 28.5	 0	  627.00	     1
+19 x 11 cm	NA	 11.0	 19.0	FALSE	12mo	 11.0	 19.0	 0	  209.00	     1
 27,5x20 cm	NA	 20.0	 27.5	FALSE	NA	 20.0	 27.5	NA	  550.00	     1
 18x13	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 159 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 24 x16 cm	NA	 16.0	 24.0	FALSE	NA	 16.0	 24.0	NA	  384.00	     1
 4:o(6)	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     1
-26x20 cm	NA	 20.0	 26.0	FALSE	NA	 20.0	 26.0	NA	  520.00	     1
-10,5x13 cm	NA	 10.5	 13.0	FALSE	NA	 10.5	 13.0	NA	  136.50	     1
-37 x 23 cm	NA	 23.0	 37.0	FALSE	NA	 23.0	 37.0	NA	  851.00	     1
+26x20 cm	NA	 20.0	 26.0	FALSE	4to	 20.0	 26.0	 0	  520.00	     1
+10,5x13 cm	NA	 10.5	 13.0	FALSE	16mo	 10.5	 13.0	 0	  136.50	     1
+37 x 23 cm	NA	 23.0	 37.0	FALSE	2fo	 23.0	 37.0	 0	  851.00	     1
 64:o	64mo	NA	NA	FALSE	64mo	  5.0	  7.0	 0	   35.00	     1
 16x10,5 cm	NA	 10.5	 16.0	FALSE	NA	 10.5	 16.0	NA	  168.00	     1
 268, 223, 256 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 stor 4:o	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     1
-13,5x11 cm	NA	 11.0	 13.5	FALSE	NA	 11.0	 13.5	NA	  148.50	     1
+13,5x11 cm	NA	 11.0	 13.5	FALSE	16mo	 11.0	 13.5	 0	  148.50	     1
 30-37 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 31-34 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 25-27 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -325,14 +322,14 @@ liggande 2:o	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
 19-25 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 43-49 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30 cm (1933), 56 cm (1934)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
-42 x 31 cm	NA	 31.0	 42.0	FALSE	NA	 31.0	 42.0	NA	 1302.00	     1
+42 x 31 cm	NA	 31.0	 42.0	FALSE	1to	 31.0	 42.0	 0	 1302.00	     1
 4o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-21x17 cm	NA	 17.0	 21.0	FALSE	NA	 17.0	 21.0	NA	  357.00	     1
+21x17 cm	NA	 17.0	 21.0	FALSE	4to	 17.0	 21.0	 0	  357.00	     1
 24-29 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 20x11 cm	NA	 11.0	 20.0	FALSE	NA	 11.0	 20.0	NA	  220.00	     1
 26-28 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 28 x 48 cm	NA	 28.0	 48.0	FALSE	NA	 28.0	 48.0	NA	 1344.00	     1
-33 cm +	NA	NA	 33.0	FALSE	NA	 22.0	 33.0	NA	  726.00	     1
+33 cm +	NA	NA	 33.0	FALSE	2fo	 22.0	 33.0	 0	  726.00	     1
 17-21 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30-35 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 25-47 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -350,25 +347,25 @@ liggande 2:o	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
 30-60 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 21-34 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 13-19 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-9 x 17 cm (1952-1968:13), 17 cm (1968:14-1969)	NA	  9.0	 17.0	FALSE	NA	  9.0	 17.0	NA	  153.00	     1
-40 cm (1907-1916), 27 cm (1917-1970)	NA	NA	 40.0	FALSE	NA	 26.0	 40.0	NA	 1040.00	     1
+9 x 17 cm (1952-1968:13), 17 cm (1968:14-1969)	NA	  9.0	 17.0	FALSE	18mo	  9.0	 17.0	 0	  153.00	     1
+40 cm (1907-1916), 27 cm (1917-1970)	NA	NA	 40.0	FALSE	2fo	 26.0	 40.0	 0	 1040.00	     1
 12:o. (avl.)	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	     1
 22-36 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 st. 16:o	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	     1
 15x10,5 cm	NA	 10.5	 15.0	FALSE	NA	 10.5	 15.0	NA	  157.50	     1
 8:o ;;14 cm	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
-40 cm (1902-1928), 34 cm (1929-1967)	NA	NA	 40.0	FALSE	NA	 26.0	 40.0	NA	 1040.00	     1
+40 cm (1902-1928), 34 cm (1929-1967)	NA	NA	 40.0	FALSE	2fo	 26.0	 40.0	 0	 1040.00	     1
 36-38 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-26x19 cm	NA	 19.0	 26.0	FALSE	NA	 19.0	 26.0	NA	  494.00	     1
+26x19 cm	NA	 19.0	 26.0	FALSE	4to	 19.0	 26.0	 0	  494.00	     1
 34-49 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30-33 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 14x10,5 cm	NA	 10.5	 14.0	FALSE	NA	 10.5	 14.0	NA	  147.00	     1
-18 x 24 cm	NA	 18.0	 24.0	FALSE	NA	 18.0	 24.0	NA	  432.00	     1
+18 x 24 cm	NA	 18.0	 24.0	FALSE	4to	 18.0	 24.0	 0	  432.00	     1
 52 cm (1929-1930:15), 36 cm (1930:16-1931)	NA	NA	 52.0	FALSE	NA	 33.0	 52.0	NA	 1716.00	     1
 24 cm (st. 8:o)	8vo	NA	 24.0	FALSE	8vo	 15.0	 24.0	 0	  360.00	     1
 36-47 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30 cm (1944:1), 51 cm (1944:2-1945)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
-22x25 cm	NA	 22.0	 25.0	FALSE	NA	 22.0	 25.0	NA	  550.00	     1
+22x25 cm	NA	 22.0	 25.0	FALSE	4to	 22.0	 25.0	 0	  550.00	     1
 12x17 cm	NA	 12.0	 17.0	FALSE	NA	 12.0	 17.0	NA	  204.00	     1
 28 cm (1906:1-12), 35 cm (1906:13-18)	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	     1
 30-69 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -376,12 +373,12 @@ st. 16:o	16mo	NA	NA	FALSE	16mo	 12.0	 15.0	 0	  180.00	     1
 Ca 28-29 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 tv. 13x18 cm	NA	 13.0	 18.0	FALSE	NA	 13.0	 18.0	NA	  234.00	     1
 16x13 cm	NA	 13.0	 16.0	FALSE	NA	 13.0	 16.0	NA	  208.00	     1
-20x16 cm	NA	 16.0	 20.0	FALSE	NA	 16.0	 20.0	NA	  320.00	     1
+20x16 cm	NA	 16.0	 20.0	FALSE	4to	 16.0	 20.0	 0	  320.00	     1
 ca 26-27 (1933-1934), 29 cm (1935-1969), 30 cm (1970-2001)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
-36 cm (1925-1938), 23 cm (1940-1944)	NA	NA	 36.0	FALSE	NA	 24.0	 36.0	NA	  864.00	     1
-24 cm (1932-1934), 31 cm (1935-1940)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
-24 cm (1946), 30 cm (1948)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
-22 cm (1918-1919), 25 cm (1920-1940)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+36 cm (1925-1938), 23 cm (1940-1944)	NA	NA	 36.0	FALSE	2fo	 24.0	 36.0	 0	  864.00	     1
+24 cm (1932-1934), 31 cm (1935-1940)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
+24 cm (1946), 30 cm (1948)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
+22 cm (1918-1919), 25 cm (1920-1940)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 ca 21-23 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 49 cm (1938:1-okt.), 38 cm (1938:nov-1939:nov.), ca 29-31 cm (1939:dec.-1949)	NA	NA	 49.0	FALSE	NA	 31.0	 49.0	NA	 1519.00	     1
 ca 21-28 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -393,47 +390,47 @@ ca 25-30 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 12x10 cm	NA	 10.0	 12.0	FALSE	NA	 10.0	 12.0	NA	  120.00	     1
 27-29 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 16 x 14 cm	NA	 14.0	 16.0	FALSE	NA	 14.0	 16.0	NA	  224.00	     1
-22 cm (1900-1923)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
-40 cm (1949-1950), 28 cm (1951-1955)	NA	NA	 40.0	FALSE	NA	 26.0	 40.0	NA	 1040.00	     1
+22 cm (1900-1923)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
+40 cm (1949-1950), 28 cm (1951-1955)	NA	NA	 40.0	FALSE	2fo	 26.0	 40.0	 0	 1040.00	     1
 ca 30-31 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30 cm (1948), 22 cm (1949), 34 cm (1956-1962)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
-25 cm (1951-1957), 24 cm (1958-1966), 21 cm (1967-1968)	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	     1
+25 cm (1951-1957), 24 cm (1958-1966), 21 cm (1967-1968)	NA	NA	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	     1
 29 cm (1935-1936), 23 cm (1941)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
 29 cm (1939-1940), 22 cm (1941-1942)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
 36-39 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-32 cm (1900), 28 cm (1902-1903)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
+32 cm (1900), 28 cm (1902-1903)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
 47-49 cm (1921-1923:1, 1925), 58-60 cm (1923:2/3-1924)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 69 cm (1907:1-4), 60 cm (1907:5-1908:2), 23 cm (1908-1910)	NA	NA	 69.0	FALSE	NA	 42.0	 69.0	NA	 2898.00	     1
 21 cm (1943), 28 cm (1944-1947)	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	     1
-24 cm (1938), 22 cm (1939)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
-26 cm (1914:1-4), 28 cm (1914:5-1918)	NA	NA	 26.0	FALSE	NA	 20.0	 26.0	NA	  520.00	     1
+24 cm (1938), 22 cm (1939)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
+26 cm (1914:1-4), 28 cm (1914:5-1918)	NA	NA	 26.0	FALSE	4to	 20.0	 26.0	 0	  520.00	     1
 1899-1901	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30 cm (1925, 1928), 40 cm (1926)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
 30 cm (1900-1903)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
-24 cm (1910:1), 31 cm (1910:2-1911:1)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
+24 cm (1910:1), 31 cm (1910:2-1911:1)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
 27 cm (1911-1920), 24 cm (1921-1925)	NA	NA	 27.0	FALSE	NA	 20.0	 27.0	NA	  540.00	     1
 ca 30 cm (1914-1916:10, 1920:1, 1921:3/4-1926), 23-24 cm (1916:11-1919, 1920:2-1921:1/2)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
 35-39 cm (1906-1907, 1915-1941), 59-66 cm (1911-1913)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 41 cm (1900-1902), 36 cm (1903-1904) +	NA	NA	 41.0	FALSE	NA	 27.0	 41.0	NA	 1107.00	     1
 30 cm (1939-1957), 21 cm (1958-1960)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
-8 x 17 cm	NA	  8.0	 17.0	FALSE	NA	  8.0	 17.0	NA	  136.00	     1
-37 cm (1929-1948), 35 cm (1949-1951), 32 cm (1952-1957)	NA	NA	 37.0	FALSE	NA	 25.0	 37.0	NA	  925.00	     1
+8 x 17 cm	NA	  8.0	 17.0	FALSE	18mo	  8.0	 17.0	 0	  136.00	     1
+37 cm (1929-1948), 35 cm (1949-1951), 32 cm (1952-1957)	NA	NA	 37.0	FALSE	2fo	 25.0	 37.0	 0	  925.00	     1
 4:o (bil.: 1/2:o)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-37 cm (1922-1925, 1929-1947), 47 cm (1926-1928)	NA	NA	 37.0	FALSE	NA	 25.0	 37.0	NA	  925.00	     1
-22x17 cm	NA	 17.0	 22.0	FALSE	NA	 17.0	 22.0	NA	  374.00	     1
+37 cm (1922-1925, 1929-1947), 47 cm (1926-1928)	NA	NA	 37.0	FALSE	2fo	 25.0	 37.0	 0	  925.00	     1
+22x17 cm	NA	 17.0	 22.0	FALSE	4to	 17.0	 22.0	 0	  374.00	     1
 28-32 cm (1923-1959:5/6, 1995:1), 22 cm (1959:7/8-)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 28 cm (1952), 23 cm (1953-1955)	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	     1
 30 cm (1935-1962), 25 cm (1963-1964)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
-36 cm (1917-1933), 29 cm (1934-1947)	NA	NA	 36.0	FALSE	NA	 24.0	 36.0	NA	  864.00	     1
-42 cm (1933-1934), 39 cm (1934-1935), 27 cm (1936-1941)	NA	NA	 42.0	FALSE	NA	 27.0	 42.0	NA	 1134.00	     1
-25 cm (1900-1945), 30 cm (1946-1956), 34 cm (1957)	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	     1
-45 cm (1902-1903), 22 cm (1904-1946)	NA	NA	 45.0	FALSE	NA	 29.0	 45.0	NA	 1305.00	     1
-26 cm (1930), 28 cm (1931)	NA	NA	 26.0	FALSE	NA	 20.0	 26.0	NA	  520.00	     1
+36 cm (1917-1933), 29 cm (1934-1947)	NA	NA	 36.0	FALSE	2fo	 24.0	 36.0	 0	  864.00	     1
+42 cm (1933-1934), 39 cm (1934-1935), 27 cm (1936-1941)	NA	NA	 42.0	FALSE	2fo	 27.0	 42.0	 0	 1134.00	     1
+25 cm (1900-1945), 30 cm (1946-1956), 34 cm (1957)	NA	NA	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	     1
+45 cm (1902-1903), 22 cm (1904-1946)	NA	NA	 45.0	FALSE	2fo	 29.0	 45.0	 0	 1305.00	     1
+26 cm (1930), 28 cm (1931)	NA	NA	 26.0	FALSE	4to	 20.0	 26.0	 0	  520.00	     1
 4:o. (ins.: 2:o(tv.))	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-36 cm (1895-1906), 25 cm (1907-1918)	NA	NA	 36.0	FALSE	NA	 24.0	 36.0	NA	  864.00	     1
-36 cm (1902-1916:21), 32 cm (1916:22-1934), 30 cm (1935-1953)	NA	NA	 36.0	FALSE	NA	 24.0	 36.0	NA	  864.00	     1
+36 cm (1895-1906), 25 cm (1907-1918)	NA	NA	 36.0	FALSE	2fo	 24.0	 36.0	 0	  864.00	     1
+36 cm (1902-1916:21), 32 cm (1916:22-1934), 30 cm (1935-1953)	NA	NA	 36.0	FALSE	2fo	 24.0	 36.0	 0	  864.00	     1
 25-26 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-23 cm (1-45, utg. 1912-1925), 25 cm (46, utg. 1925-1942), 30 cm (1943-1951, 1972-1975), 21 cm (1952-1974)	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	     1
+23 cm (1-45, utg. 1912-1925), 25 cm (46, utg. 1925-1942), 30 cm (1943-1951, 1972-1975), 21 cm (1952-1974)	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
 57 cm (1924-1925), 22 cm (1926)	NA	NA	 57.0	FALSE	NA	 35.0	 57.0	NA	 1995.00	     1
 17,5x12 cm	NA	 12.0	 17.5	FALSE	NA	 12.0	 17.5	NA	  210.00	     1
 1/2:o(tv)	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
@@ -447,14 +444,14 @@ ca 30 cm (1914-1916:10, 1920:1, 1921:3/4-1926), 23-24 cm (1916:11-1919, 1920:2-1
 26-30 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 Tv. 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 ill. (vissa i färg)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-22 cm (1900-1910:6), ca 24-27 cm (1910:7-1938:28, 1938:36-1939), ca 30 cm (1938:39/31-35)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+22 cm (1900-1910:6), ca 24-27 cm (1910:7-1938:28, 1938:36-1939), ca 30 cm (1938:39/31-35)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 22-29 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 294, [1] s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 28 cm (1911), 29 cm (1912-1917)	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	     1
 20 x 31 cm	NA	 20.0	 31.0	FALSE	NA	 20.0	 31.0	NA	  620.00	     1
 tvärfol.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 4:o (20 cm)	4to	NA	 20.0	FALSE	4to	 17.0	 20.0	 0	  340.00	     1
-32.5 cm	NA	NA	 32.5	FALSE	NA	 21.5	 32.5	NA	  698.75	     1
+32.5 cm	NA	NA	 32.5	FALSE	2fo	 21.5	 32.5	 0	  698.75	     1
 16 cm +	NA	NA	 16.0	FALSE	NA	 11.0	 16.0	NA	  176.00	     1
 70 cm	NA	NA	 70.0	FALSE	NA	 42.0	 70.0	NA	 2940.00	     1
 24 x 16 cm	NA	 16.0	 24.0	FALSE	NA	 16.0	 24.0	NA	  384.00	     1
@@ -462,50 +459,50 @@ tvärfol.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 25-28 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 Avlång 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 8:o. [16:o.]	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-19 x 6 cm	NA	  6.0	 19.0	FALSE	NA	  6.0	 19.0	NA	  114.00	     1
+19 x 6 cm	NA	  6.0	 19.0	FALSE	12mo	  6.0	 19.0	 0	  114.00	     1
 lit. 8:o.	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
-22 cm. +	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+22 cm. +	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 32-48 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 6 x 10 cm	NA	  6.0	 10.0	FALSE	NA	  6.0	 10.0	NA	   60.00	     1
-20,5 cm	NA	NA	 20.5	FALSE	NA	 13.5	 20.5	NA	  276.75	     1
+20,5 cm	NA	NA	 20.5	FALSE	12long	 13.5	 20.5	 0	  276.75	     1
 32 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 36x30 cm	NA	 30.0	 36.0	FALSE	NA	 30.0	 36.0	NA	 1080.00	     1
 27 cm (1926-1927), 32 cm (1928), 30 cm (1929-1952)	NA	NA	 27.0	FALSE	NA	 20.0	 27.0	NA	  540.00	     1
-32 cm (1927-1939:1, 1941), 38 cm (1939:2-1940, 1943-1951), 57 cm (1942)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
-23 x 34 cm	NA	 23.0	 34.0	FALSE	NA	 23.0	 34.0	NA	  782.00	     1
+32 cm (1927-1939:1, 1941), 38 cm (1939:2-1940, 1943-1951), 57 cm (1942)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
+23 x 34 cm	NA	 23.0	 34.0	FALSE	2fo	 23.0	 34.0	 0	  782.00	     1
 18 cm (24:o)	24mo	NA	 18.0	FALSE	24mo	  8.5	 12.5	 0	  106.25	     1
 12:o (6:o)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 38-60 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 8:o [4:o]	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 29 cm (1936-1938), 22 cm (1939-1949)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
-32 cm (1905-1919), 29 cm (1920-1938)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
+32 cm (1905-1919), 29 cm (1920-1938)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
 12.o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 17 cm(8:o)	8vo	NA	 17.0	FALSE	8vo	 12.0	 17.0	 0	  204.00	     1
-tv. 21,5x26 cm	NA	 21.5	 26.0	FALSE	NA	 21.5	 26.0	NA	  559.00	     1
-5x3 cm	NA	  3.0	  5.0	FALSE	NA	  3.0	  5.0	NA	   15.00	     1
+tv. 21,5x26 cm	NA	 21.5	 26.0	FALSE	4to	 21.5	 26.0	 0	  559.00	     1
+5x3 cm	NA	  3.0	  5.0	FALSE	84mo	  3.0	  5.0	 0	   15.00	     1
 24-55 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 31x24 cm	NA	 24.0	 31.0	FALSE	NA	 24.0	 31.0	NA	  744.00	     1
-51 x 41 cm	NA	 41.0	 51.0	FALSE	NA	 41.0	 51.0	NA	 2091.00	     1
-23x11 cm	NA	 11.0	 23.0	FALSE	NA	 11.0	 23.0	NA	  253.00	     1
+51 x 41 cm	NA	 41.0	 51.0	FALSE	1to	 41.0	 51.0	 0	 2091.00	     1
+23x11 cm	NA	 11.0	 23.0	FALSE	8long	 11.0	 23.0	 0	  253.00	     1
 26-32 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30 cm (1935-1936), 35 cm (1936-1937)	NA	NA	 30.0	FALSE	NA	 20.0	 30.0	NA	  600.00	     1
-23 cm +	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	     1
+23 cm +	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
 8 cm	NA	NA	  8.0	FALSE	NA	  6.0	  8.0	NA	   48.00	     1
 51-64 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 Ca 53 cm	NA	NA	 53.0	FALSE	NA	 33.0	 53.0	NA	 1749.00	     1
 66 x 64 cm vikt i omslag 18 x 24 cm +	NA	 64.0	 66.0	FALSE	NA	 64.0	 66.0	NA	 4224.00	     1
-25,7x13 cm	NA	 13.0	 25.7	FALSE	NA	 13.0	 25.7	NA	  334.10	     1
+25,7x13 cm	NA	 13.0	 25.7	FALSE	8long	 13.0	 25.7	 0	  334.10	     1
 2 Tafeln	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 19cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 28 x 84 cm, i vikt form 28 x 22 cm	NA	 28.0	 84.0	FALSE	NA	 28.0	 84.0	NA	 2352.00	     1
-56 cm, i vikt form 28 x 21 cm	NA	 21.0	 28.0	FALSE	NA	 21.0	 28.0	NA	  588.00	     1
+56 cm, i vikt form 28 x 21 cm	NA	 21.0	 28.0	FALSE	4to	 21.0	 28.0	 0	  588.00	     1
 21 cm (1900), 24-25 cm (1901-1911)	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	     1
-58 x 43 cm	NA	 43.0	 58.0	FALSE	NA	 43.0	 58.0	NA	 2494.00	     1
+58 x 43 cm	NA	 43.0	 58.0	FALSE	1to	 43.0	 58.0	 0	 2494.00	     1
 Tvärfolio	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-14 x 20 cm	NA	 14.0	 20.0	FALSE	NA	 14.0	 20.0	NA	  280.00	     1
+14 x 20 cm	NA	 14.0	 20.0	FALSE	12long	 14.0	 20.0	 0	  280.00	     1
 63 cm (1916), 26 cm (1924)	NA	NA	 63.0	FALSE	NA	 38.0	 63.0	NA	 2394.00	     1
-15,5 cm	NA	NA	 15.5	FALSE	NA	 11.5	 15.5	NA	  178.25	     1
-34.5 cm	NA	NA	 34.5	FALSE	NA	 22.5	 34.5	NA	  776.25	     1
+15,5 cm	NA	NA	 15.5	FALSE	12mo	 11.5	 15.5	 0	  178.25	     1
+34.5 cm	NA	NA	 34.5	FALSE	2fo	 22.5	 34.5	 0	  776.25	     1
 211 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30 x 24 cm	NA	 24.0	 30.0	FALSE	NA	 24.0	 30.0	NA	  720.00	     1
 ill. ;;8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
@@ -515,36 +512,36 @@ ill. ;;8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 25-29 cm (1936-1945), 21-24 cm (1946-1979)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 44 cm (1921-1926), 32 cm (1927-1941)	NA	NA	 44.0	FALSE	NA	 29.0	 44.0	NA	 1276.00	     1
 31 cm (1914-1919), 24 cm (1920-1923)	NA	NA	 31.0	FALSE	NA	 21.0	 31.0	NA	  651.00	     1
-67 x 44 cm, i vikt form 34 x 22 cm	NA	 44.0	 67.0	FALSE	NA	 44.0	 67.0	NA	 2948.00	     1
-23 cm (1894), 27 cm (1900-1903)	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	     1
-15 x 20 cm	NA	 15.0	 20.0	FALSE	NA	 15.0	 20.0	NA	  300.00	     1
-24 cm (1900-1922), 48 cm (1923-1927)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
-32 cm (1942)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
-23 cm (1939-1941)	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	     1
+67 x 44 cm, i vikt form 34 x 22 cm	NA	 44.0	 67.0	FALSE	1to	 44.0	 67.0	 0	 2948.00	     1
+23 cm (1894), 27 cm (1900-1903)	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
+15 x 20 cm	NA	 15.0	 20.0	FALSE	12long	 15.0	 20.0	 0	  300.00	     1
+24 cm (1900-1922), 48 cm (1923-1927)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
+32 cm (1942)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
+23 cm (1939-1941)	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
 ca 23-24 cm (1900-1947), 30 cm (1955-1961)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 24cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-28.5 x 22 cm	NA	 22.0	 28.5	FALSE	NA	 22.0	 28.5	NA	  627.00	     1
-28 x 42 cm	NA	 28.0	 42.0	FALSE	NA	 28.0	 42.0	NA	 1176.00	     1
+28.5 x 22 cm	NA	 22.0	 28.5	FALSE	4to	 22.0	 28.5	 0	  627.00	     1
+28 x 42 cm	NA	 28.0	 42.0	FALSE	1to	 28.0	 42.0	 0	 1176.00	     1
 8:o(16)	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 38 cm.	NA	NA	 38.0	FALSE	NA	 35.0	 38.0	NA	 1330.00	     1
 191 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 98/67	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-14 cm.	NA	NA	 14.0	FALSE	NA	 11.0	 14.0	NA	  154.00	     1
+14 cm.	NA	NA	 14.0	FALSE	16mo	 11.0	 14.0	 0	  154.00	     1
 22-25 cm (1901-1929), 30-32 cm (1930-1972)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-14x9 cm	NA	  9.0	 14.0	FALSE	NA	  9.0	 14.0	NA	  126.00	     1
+14x9 cm	NA	  9.0	 14.0	FALSE	18mo	  9.0	 14.0	 0	  126.00	     1
 62 cm	NA	NA	 62.0	FALSE	NA	 37.0	 62.0	NA	 2294.00	     1
-13x10 cm	NA	 10.0	 13.0	FALSE	NA	 10.0	 13.0	NA	  130.00	     1
+13x10 cm	NA	 10.0	 13.0	FALSE	16mo	 10.0	 13.0	 0	  130.00	     1
 Stor fol.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
 sm. 8:o	8long	NA	NA	FALSE	8long	 13.0	 22.0	 0	  286.00	     1
 31x21 cm	NA	 21.0	 31.0	FALSE	NA	 21.0	 31.0	NA	  651.00	     1
 Tv.- 8:o.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 8::o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-Stor tv.-fol. (72x114 cm)	NA	 72.0	114.0	FALSE	NA	 72.0	114.0	NA	 8208.00	     1
+Stor tv.-fol. (72x114 cm)	NA	 72.0	114.0	FALSE	1to	 72.0	114.0	 0	 8208.00	     1
 198 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 192 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 20cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 tvär. 8:o (4)	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
-24 cm (1952-1965:1), 25 cm (1965:2-12), 21 cm (1966-1968)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
+24 cm (1952-1965:1), 25 cm (1965:2-12), 21 cm (1966-1968)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
 1914	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 tv. 7,5x9 cm	NA	  7.5	  9.0	FALSE	NA	  7.5	  9.0	NA	   67.50	     1
 4;o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -552,26 +549,26 @@ tv. 7,5x9 cm	NA	  7.5	  9.0	FALSE	NA	  7.5	  9.0	NA	   67.50	     1
 20,5x13 cm	NA	 13.0	 20.5	FALSE	NA	 13.0	 20.5	NA	  266.50	     1
 17,5x15,5 cm	NA	 15.5	 17.5	FALSE	NA	 15.5	 17.5	NA	  271.25	     1
 26 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-29 x 25 cm.	NA	 25.0	 29.0	FALSE	NA	 25.0	 29.0	NA	  725.00	     1
+29 x 25 cm.	NA	 25.0	 29.0	FALSE	4to	 25.0	 29.0	 0	  725.00	     1
 50 x 32 cm	NA	 32.0	 50.0	FALSE	NA	 32.0	 50.0	NA	 1600.00	     1
-13 x 10 cm	NA	 10.0	 13.0	FALSE	NA	 10.0	 13.0	NA	  130.00	     1
+13 x 10 cm	NA	 10.0	 13.0	FALSE	16mo	 10.0	 13.0	 0	  130.00	     1
 33 x 27 cm	NA	 27.0	 33.0	FALSE	NA	 27.0	 33.0	NA	  891.00	     1
 31 x 24 cm	NA	 24.0	 31.0	FALSE	NA	 24.0	 31.0	NA	  744.00	     1
 25 x 27 cm	NA	 25.0	 27.0	FALSE	NA	 25.0	 27.0	NA	  675.00	     1
 26cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 32cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 21,5 cm.	NA	NA	 21.5	FALSE	NA	 14.5	 21.5	NA	  311.75	     1
-40 cm +	NA	NA	 40.0	FALSE	NA	 26.0	 40.0	NA	 1040.00	     1
+40 cm +	NA	NA	 40.0	FALSE	2fo	 26.0	 40.0	 0	 1040.00	     1
 23 cm (4:o)	4to	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
-22 cm (1930-1933), 31 cm (1934-1956)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+22 cm (1930-1933), 31 cm (1934-1956)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 29 cm (1939-1943), 41 cm (1944-1955)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
-22 cm (1900-1907), 32 cm (1908-1913)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+22 cm (1900-1907), 32 cm (1908-1913)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 8°	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 28 cm (4:o)	4to	NA	 28.0	FALSE	4to	 22.0	 28.0	 0	  616.00	     1
 Tv.-8:o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 44 x 30 cm	NA	 30.0	 44.0	FALSE	NA	 30.0	 44.0	NA	 1320.00	     1
-24 cm (1935), 30 cm (1937-1943), 31 cm (1946)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
-tv. 18x22 cm	NA	 18.0	 22.0	FALSE	NA	 18.0	 22.0	NA	  396.00	     1
+24 cm (1935), 30 cm (1937-1943), 31 cm (1946)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
+tv. 18x22 cm	NA	 18.0	 22.0	FALSE	4to	 18.0	 22.0	 0	  396.00	     1
 17 cm.	NA	NA	 17.0	FALSE	NA	 12.0	 17.0	NA	  204.00	     1
 25 x 33 cm	NA	 25.0	 33.0	FALSE	NA	 25.0	 33.0	NA	  825.00	     1
 ¤:o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -604,7 +601,7 @@ Tv.-2:o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 2:o. (125 x 45 cm)	2fo	 45.0	125.0	FALSE	2fo	 45.0	125.0	 0	 5625.00	     1
 2 hopsatt av 3 ark.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 12 .	12mo	NA	NA	FALSE	12mo	 12.5	 19.0	 0	  237.50	     1
-27,5 × 15 cm	NA	NA	 15.0	FALSE	NA	 12.0	 15.0	NA	  180.00	     1
+27,5 × 15 cm	NA	NA	 15.0	FALSE	16mo	 12.0	 15.0	 0	  180.00	     1
 29 × 11,5 cm	NA	NA	 11.5	FALSE	NA	  8.5	 11.5	NA	   97.75	     1
 47 x 29 cm	NA	 29.0	 47.0	FALSE	NA	 29.0	 47.0	NA	 1363.00	     1
 14,5x9,5 cm	NA	  9.5	 14.5	FALSE	NA	  9.5	 14.5	NA	  137.75	     1
@@ -613,14 +610,14 @@ Tv.-2:o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 24-27 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 277 [3] s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 26 x 34 cm	NA	 26.0	 34.0	FALSE	NA	 26.0	 34.0	NA	  884.00	     1
-24x34 cm	NA	 24.0	 34.0	FALSE	NA	 24.0	 34.0	NA	  816.00	     1
-21 x 27 cm	NA	 21.0	 27.0	FALSE	NA	 21.0	 27.0	NA	  567.00	     1
+24x34 cm	NA	 24.0	 34.0	FALSE	2fo	 24.0	 34.0	 0	  816.00	     1
+21 x 27 cm	NA	 21.0	 27.0	FALSE	4to	 21.0	 27.0	 0	  567.00	     1
 27cm.	NA	NA	 27.0	FALSE	NA	 20.0	 27.0	NA	  540.00	     1
 29-30 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 50 x 50 cm	NA	 50.0	NA	FALSE	NA	 50.0	 50.0	NA	 2500.00	     1
 ca 29-33 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-34 cm (1953-1954:28), 29 cm (1954:29-1959)	NA	NA	 34.0	FALSE	NA	 22.0	 34.0	NA	  748.00	     1
-25 cm (1900-1950), ca 27-28 cm (1951-1967), 21 cm (1968-1969)	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	     1
+34 cm (1953-1954:28), 29 cm (1954:29-1959)	NA	NA	 34.0	FALSE	2fo	 22.0	 34.0	 0	  748.00	     1
+25 cm (1900-1950), ca 27-28 cm (1951-1967), 21 cm (1968-1969)	NA	NA	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	     1
 28-35 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 1929	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 16 x 11 cm	NA	 11.0	 16.0	FALSE	NA	 11.0	 16.0	NA	  176.00	     1
@@ -628,22 +625,22 @@ ca 29-33 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 22x14 cm	NA	 14.0	 22.0	FALSE	NA	 14.0	 22.0	NA	  308.00	     1
 30,5x19 cm	NA	 19.0	 30.5	FALSE	NA	 19.0	 30.5	NA	  579.50	     1
 32x23 cm	NA	 23.0	 32.0	FALSE	NA	 23.0	 32.0	NA	  736.00	     1
-19x11 cm	NA	 11.0	 19.0	FALSE	NA	 11.0	 19.0	NA	  209.00	     1
+19x11 cm	NA	 11.0	 19.0	FALSE	12mo	 11.0	 19.0	 0	  209.00	     1
 18x12 cm.	NA	 12.0	 18.0	FALSE	NA	 12.0	 18.0	NA	  216.00	     1
-39,5 cm	NA	NA	 39.5	FALSE	NA	 26.0	 39.5	NA	 1027.00	     1
+39,5 cm	NA	NA	 39.5	FALSE	2fo	 26.0	 39.5	 0	 1027.00	     1
 Lit. 8:o	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 10 x 15 cm	NA	 10.0	 15.0	FALSE	NA	 10.0	 15.0	NA	  150.00	     1
 20x13 cm.	NA	 13.0	 20.0	FALSE	NA	 13.0	 20.0	NA	  260.00	     1
 16x11 cm.	NA	 11.0	 16.0	FALSE	NA	 11.0	 16.0	NA	  176.00	     1
-19x12,5 cm	NA	 12.5	 19.0	FALSE	NA	 12.5	 19.0	NA	  237.50	     1
+19x12,5 cm	NA	 12.5	 19.0	FALSE	12mo	 12.5	 19.0	 0	  237.50	     1
 Tv.8:o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-51 x 40 cm	NA	 40.0	 51.0	FALSE	NA	 40.0	 51.0	NA	 2040.00	     1
-48 x 32 cm	NA	 32.0	 48.0	FALSE	NA	 32.0	 48.0	NA	 1536.00	     1
+51 x 40 cm	NA	 40.0	 51.0	FALSE	1to	 40.0	 51.0	 0	 2040.00	     1
+48 x 32 cm	NA	 32.0	 48.0	FALSE	1to	 32.0	 48.0	 0	 1536.00	     1
 19	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 17 x 12 cm	NA	 12.0	 17.0	FALSE	NA	 12.0	 17.0	NA	  204.00	     1
 8:o. [12:o.]	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 tv. 10x11 cm	NA	 10.0	 11.0	FALSE	NA	 10.0	 11.0	NA	  110.00	     1
-23x20 cm	NA	 20.0	 23.0	FALSE	NA	 20.0	 23.0	NA	  460.00	     1
+23x20 cm	NA	 20.0	 23.0	FALSE	4to	 20.0	 23.0	 0	  460.00	     1
 29-33 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 26-41 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 Ca 23-24 cm (1954-2003:2), 18 cm (2003:3-)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -660,34 +657,34 @@ Ca 21-24 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30-39 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30-33 cm (1940-1993:7, 1995-2001), 28 cm (1993:8/9-1994)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 28-29 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-34 cm (1902-1964), 38 cm (1965-1972), 30 cm (1973-1995)	NA	NA	 34.0	FALSE	NA	 22.0	 34.0	NA	  748.00	     1
+34 cm (1902-1964), 38 cm (1965-1972), 30 cm (1973-1995)	NA	NA	 34.0	FALSE	2fo	 22.0	 34.0	 0	  748.00	     1
 26-31 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 30-41 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-22 cm (1970-1976), 30 cm (1977-)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+22 cm (1970-1976), 30 cm (1977-)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 27-39 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 Ca 22-25 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 25-31 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 29-35 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 Ca 28-40 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 22-24 cm (1900-1906), 46-53 cm (1980-)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-39 cm (1916-1917), ca 44-46 cm (1918-1922), ca 29-32 cm (1923-1993)	NA	NA	 39.0	FALSE	NA	 26.0	 39.0	NA	 1014.00	     1
+39 cm (1916-1917), ca 44-46 cm (1918-1922), ca 29-32 cm (1923-1993)	NA	NA	 39.0	FALSE	2fo	 26.0	 39.0	 0	 1014.00	     1
 29 cm (1924-2011?), 21 cm (2011?-)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
 28 cm (1931-1962:39), 31 cm (1962:40-1997)	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	     1
 21 cm (1912-1947, 1964-1991), 26 cm (1948-1951)	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	     1
-32 cm (1942-1974), 30 cm (1975-1982)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
+32 cm (1942-1974), 30 cm (1975-1982)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
 22-27 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-37 cm (1948-1978)	NA	NA	 37.0	FALSE	NA	 25.0	 37.0	NA	  925.00	     1
-23 cm (1945-1958), 30 cm (1959-1990)	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	     1
+37 cm (1948-1978)	NA	NA	 37.0	FALSE	2fo	 25.0	 37.0	 0	  925.00	     1
+23 cm (1945-1958), 30 cm (1959-1990)	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
 ca 22-24 cm (1908-1974), 30 cm (1975-1976)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-23 cm (1941-1985), 30 cm (1985-1995)	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	     1
-25 cm (1908-1971), 30 cm (1972-2011)	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	     1
-25 cm (1946-1968), 30 cm (1969-1994)	NA	NA	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	     1
+23 cm (1941-1985), 30 cm (1985-1995)	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
+25 cm (1908-1971), 30 cm (1972-2011)	NA	NA	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	     1
+25 cm (1946-1968), 30 cm (1969-1994)	NA	NA	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	     1
 30-45 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 21-23 cm (1956-1999), 28 cm (2000-)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 56 cm (1903-1907), 25-28 cm (1908-1990), 40 cm (1991-1997)	NA	NA	 56.0	FALSE	NA	 35.0	 56.0	NA	 1960.00	     1
-32 cm (1911-1920, 1934-1984), 26 cm (1921-1933)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
-32 cm (1912-1920), 39 cm (1980-1997)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
-22 cm (1952-1978), 31 cm (1979-2004)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+32 cm (1911-1920, 1934-1984), 26 cm (1921-1933)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
+32 cm (1912-1920), 39 cm (1980-1997)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
+22 cm (1952-1978), 31 cm (1979-2004)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 ca 25-27 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 31 cm (1900), 41 cm (1980-)	NA	NA	 31.0	FALSE	NA	 21.0	 31.0	NA	  651.00	     1
 Ca 34-37 cm (1921-1970:12), ca 28-32 cm (1970:13-)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -696,7 +693,7 @@ Ca 32-42 cm (1924-1972, 1975-), ca 26-29 cm (1973-1974)	NA	NA	NA	FALSE	NA	NA	NA	
 44-48 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 21-29 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 ca 24-27 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-32 cm (1914-1919), 46 cm (1920-1927:21), 30 cm (1927:22-1971)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
+32 cm (1914-1919), 46 cm (1920-1927:21), 30 cm (1927:22-1971)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
 21-23 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 23-28 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 24-28 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
@@ -779,7 +776,7 @@ ca 24-27 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 24:o(8 o.4, avl.).	24mo	NA	NA	FALSE	24mo	  8.5	 12.5	 0	  106.25	     1
 8:o(2 o.1)	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
 2:o(4 tv.).	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
-1:o (tv.)	1to	NA	NA	FALSE	2fo	 60.0	 90.0	 0	 5400.00	     1
+1:o (tv.)	1to	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
 34 x 52 cm	NA	 34.0	 52.0	FALSE	NA	 34.0	 52.0	NA	 1768.00	     1
 2:o(tv.) [07] f.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
 8:o, [13:] 8:o(8 o.4).	8vo	NA	NA	FALSE	8vo	 13.0	 19.0	 0	  247.00	     1
@@ -799,27 +796,27 @@ ca 24-27 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 Ca 17-20 x 25-28 cm (1946-1948), ca 26-27 cm (1949-1957)	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 11 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 16 cm (1946), 30 cm (1948-)	NA	NA	 16.0	FALSE	NA	 11.0	 16.0	NA	  176.00	     1
-30 -34 cm	NA	NA	-34.0	FALSE	NA	  4.0	-34.0	NA	 -136.00	     1
-32 cm (1945-1947), 30 cm (1948-1959)	NA	NA	 32.0	FALSE	NA	 21.0	 32.0	NA	  672.00	     1
-21 x 16 cm	NA	 16.0	 21.0	FALSE	NA	 16.0	 21.0	NA	  336.00	     1
+30 -34 cm	NA	NA	-34.0	FALSE	64mo	  4.0	-34.0	 0	 -136.00	     1
+32 cm (1945-1947), 30 cm (1948-1959)	NA	NA	 32.0	FALSE	2fo	 21.0	 32.0	 0	  672.00	     1
+21 x 16 cm	NA	 16.0	 21.0	FALSE	4to	 16.0	 21.0	 0	  336.00	     1
 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-20x14 cm.	NA	 14.0	 20.0	FALSE	NA	 14.0	 20.0	NA	  280.00	     1
-24 cm (1910-1938), 29 cm (1939-1974), 30 cm (1975-1976)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
+20x14 cm.	NA	 14.0	 20.0	FALSE	12long	 14.0	 20.0	 0	  280.00	     1
+24 cm (1910-1938), 29 cm (1939-1974), 30 cm (1975-1976)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
 288 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-21 x 26 cm	NA	 21.0	 26.0	FALSE	NA	 21.0	 26.0	NA	  546.00	     1
+21 x 26 cm	NA	 21.0	 26.0	FALSE	4to	 21.0	 26.0	 0	  546.00	     1
 tv. 4:o	4to	NA	NA	FALSE	4to	 22.0	 28.0	 0	  616.00	     1
 Tv. fol.	2fo	NA	NA	FALSE	2fo	 30.0	 45.0	 0	 1350.00	     1
-18x10 cm	NA	 10.0	 18.0	FALSE	NA	 10.0	 18.0	NA	  180.00	     1
+18x10 cm	NA	 10.0	 18.0	FALSE	18mo	 10.0	 18.0	 0	  180.00	     1
 26 cm (8:o)	8vo	NA	 26.0	FALSE	8vo	 16.0	 26.0	 0	  416.00	     1
-25x19 cm	NA	 19.0	 25.0	FALSE	NA	 19.0	 25.0	NA	  475.00	     1
+25x19 cm	NA	 19.0	 25.0	FALSE	4to	 19.0	 25.0	 0	  475.00	     1
 ill. +	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-28 x 22 cm	NA	 22.0	 28.0	FALSE	NA	 22.0	 28.0	NA	  616.00	     1
+28 x 22 cm	NA	 22.0	 28.0	FALSE	4to	 22.0	 28.0	 0	  616.00	     1
 19 x 27 cm (oval)	NA	 19.0	 27.0	FALSE	NA	 19.0	 27.0	NA	  513.00	     1
 52 cm (1913-1924:48), 40 cm (1924:49-1936)	NA	NA	 52.0	FALSE	NA	 33.0	 52.0	NA	 1716.00	     1
 30 x 22 cm	NA	 22.0	 30.0	FALSE	NA	 22.0	 30.0	NA	  660.00	     1
 29 cm.	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
 20 cm +	NA	NA	 20.0	FALSE	NA	 13.0	 20.0	NA	  260.00	     1
-22x16 cm	NA	 16.0	 22.0	FALSE	NA	 16.0	 22.0	NA	  352.00	     1
+22x16 cm	NA	 16.0	 22.0	FALSE	8vo	 16.0	 22.0	 0	  352.00	     1
 28 cm (1936-1937), 19 cm (1945-1957)	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	     1
 32 x 38 cm	NA	 32.0	 38.0	FALSE	NA	 32.0	 38.0	NA	 1216.00	     1
 28 cm (1941-1942), 22 cm (1943-1956)	NA	NA	 28.0	FALSE	NA	 20.0	 28.0	NA	  560.00	     1
@@ -827,31 +824,31 @@ ill. +	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 18,5 cm.	NA	NA	 18.5	FALSE	NA	 12.5	 18.5	NA	  231.25	     1
 ill., 4 pl.-bl.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 l8 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-23cm.	NA	NA	 23.0	FALSE	NA	 18.0	 23.0	NA	  414.00	     1
+23cm.	NA	NA	 23.0	FALSE	4to	 18.0	 23.0	 0	  414.00	     1
 23	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 10x22	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 8 x 21 cm	NA	  8.0	 21.0	FALSE	NA	  8.0	 21.0	NA	  168.00	     1
 15 s.	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 16 x 23 cm	NA	 16.0	 23.0	FALSE	NA	 16.0	 23.0	NA	  368.00	     1
 17 x 23 cm	NA	 17.0	 23.0	FALSE	NA	 17.0	 23.0	NA	  391.00	     1
-15 x 22 cm	NA	 15.0	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
-22 cm +	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
-22 cm (1990-1927), 24 cm (1928-1934), 27 cm (1935-1966)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+15 x 22 cm	NA	 15.0	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
+22 cm +	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
+22 cm (1990-1927), 24 cm (1928-1934), 27 cm (1935-1966)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 13 x 19 cm	NA	 13.0	 19.0	FALSE	NA	 13.0	 19.0	NA	  247.00	     1
-14 cm +	NA	NA	 14.0	FALSE	NA	 11.0	 14.0	NA	  154.00	     1
-33 cm (1900-1908), 29 cm (1909-1910), 24 cm (1911-1937)	NA	NA	 33.0	FALSE	NA	 22.0	 33.0	NA	  726.00	     1
-Ca 40 cm	NA	NA	 40.0	FALSE	NA	 26.0	 40.0	NA	 1040.00	     1
+14 cm +	NA	NA	 14.0	FALSE	16mo	 11.0	 14.0	 0	  154.00	     1
+33 cm (1900-1908), 29 cm (1909-1910), 24 cm (1911-1937)	NA	NA	 33.0	FALSE	2fo	 22.0	 33.0	 0	  726.00	     1
+Ca 40 cm	NA	NA	 40.0	FALSE	2fo	 26.0	 40.0	 0	 1040.00	     1
 23 x 32 cm	NA	 23.0	 32.0	FALSE	NA	 23.0	 32.0	NA	  736.00	     1
-22 cm (1954-1967), 30 cm (1968)	NA	NA	 22.0	FALSE	NA	 15.0	 22.0	NA	  330.00	     1
+22 cm (1954-1967), 30 cm (1968)	NA	NA	 22.0	FALSE	8vo	 15.0	 22.0	 0	  330.00	     1
 27 x 35 cm	NA	 27.0	 35.0	FALSE	NA	 27.0	 35.0	NA	  945.00	     1
 30-42 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
-24 cm (1948-1957), 30 cm (1958-1961)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
+24 cm (1948-1957), 30 cm (1958-1961)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
 13 x 20 cm	NA	 13.0	 20.0	FALSE	NA	 13.0	 20.0	NA	  260.00	     1
 29 cm (1900-1919), 25 cm (1920-1927)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
 20-23 cm	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 c 21 cm	NA	NA	 21.0	FALSE	NA	 14.0	 21.0	NA	  294.00	     1
-24 cm (1926-1954), 31 cm (1955-1970)	NA	NA	 24.0	FALSE	NA	 19.0	 24.0	NA	  456.00	     1
-36 cm (1900-1948:8), 33 cm (1948:9-1952:46), 32 cm (1952:47-1963)	NA	NA	 36.0	FALSE	NA	 24.0	 36.0	NA	  864.00	     1
+24 cm (1926-1954), 31 cm (1955-1970)	NA	NA	 24.0	FALSE	4to	 19.0	 24.0	 0	  456.00	     1
+36 cm (1900-1948:8), 33 cm (1948:9-1952:46), 32 cm (1952:47-1963)	NA	NA	 36.0	FALSE	2fo	 24.0	 36.0	 0	  864.00	     1
 29 cm ; 25 cm (1951-1952)	NA	NA	 29.0	FALSE	NA	 20.0	 29.0	NA	  580.00	     1
 1926	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1
 12:o, 8:o	NA	NA	NA	FALSE	NA	NA	NA	NA	NA	     1

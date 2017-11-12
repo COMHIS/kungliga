@@ -1,5 +1,5 @@
 Name	Count
-Total count: 	6626
+Total count (na.rm TRUE): 	6626
 Sverige	636
 Karlskrona	175
 Stockholm	173
@@ -250,13 +250,13 @@ Riga	  4
 Ryssland;Polen;Vitryssland	  4
 Sachsen;Polen;Ryssland	  4
 Skellefteå	  4
-Stockholm;Stockholm	  4
 Stockholm (Sweden)	  4
+Stockholm;Stockholm	  4
 Stora Kopparberget	  4
 Sveaborg	  4
+Sverige och Ryssland	  4
 Sverige;Frankrike	  4
 Sverige;Norge	  4
-Sverige och Ryssland	  4
 Tallinn	  4
 Trelleborg	  4
 Trollhätte kanal;Vänern;Göteborg;Trollhättan;Göta älv	  4
@@ -335,8 +335,8 @@ Nederländerna	  3
 Netherlands	  3
 Nordkalotten	  3
 Norge;Danmark	  3
-Norrahammar	  3
 Norra Vram	  3
+Norrahammar	  3
 Norrbotten;Norrland	  3
 Norrbotten;Stockholm;Norrland	  3
 Nya Guinea	  3
@@ -413,9 +413,9 @@ Beijing	  2
 Bettna	  2
 Björneborg	  2
 Boda	  2
+Bohus-Malmön	  2
 Bohuslän;Elfsyssel;Älvsyssel	  2
 Bohuslän;Göteborg;Halland	  2
-Bohus-Malmön	  2
 Bolivia	  2
 Bollnäs	  2
 Bomhus;Gävle;Strömsbro	  2
@@ -535,8 +535,8 @@ Mark	  2
 Markaryd	  2
 Medevi	  2
 Mexiko	  2
-Milky Way.	  2
 Milky Way;Mars (Planet)	  2
+Milky Way.	  2
 Mörrum	  2
 München	  2
 Munkfors	  2
@@ -622,9 +622,9 @@ Spain	  2
 Spetsbergen	  2
 Stockholm;Arboga	  2
 Stockholm;Göteborg	  2
+Stockholm;Sverige	  2
 Stockholm: Klara	  2
 Stockholms skärgård	  2
-Stockholm;Sverige	  2
 Stora Kopparberg	  2
 Stora Kopparberget;Falun	  2
 Stora Tuna	  2
@@ -633,9 +633,9 @@ Stralsund;Svenska Pommern;Brandenburg	  2
 Sundsby	  2
 Svealand;Götaland	  2
 Svedala	  2
-Sverige;Danmark;Norge	  2
 Sverige och Nederländerna	  2
 Sverige och Tysk-romerska riket	  2
+Sverige;Danmark;Norge	  2
 Sverige;Ryssland	  2
 Sverige;Stockholm	  2
 Sverige;Sverige;Sverige	  2
@@ -690,9 +690,9 @@ Africa	  1
 Åkarp;Malmöhus län	  1
 Åkarp;Tågarp;Alnarp	  1
 Akkavare;Arvidsjaur;Bollnäs;Frösön;Gällivare;Gästrikland;Haparanda;Häslingland;Lappland;Ljusnan;Narvik;Norge;Norrbotten;Östersund;Övertorneå;Norrland	  1
+Ål;Dalarna	  1
 Åland question.	  1
 Alböke	  1
-Ål;Dalarna	  1
 Ålem	  1
 Aleppo	  1
 Alfredshem	  1
@@ -717,8 +717,8 @@ Alvesta;Moheda	  1
 Älvsborg (ort)	  1
 Älvsborgs län	  1
 Älvsbyn	  1
-Amazonfloden;Brasilien;Ecuador	  1
 Amazon River Valley	  1
+Amazonfloden;Brasilien;Ecuador	  1
 Ammarnäs	  1
 Ammarnäs;Norrland	  1
 Ånge (kommun);Borgsjö;Haverö;Torp	  1
@@ -751,8 +751,8 @@ Arvidsjaur;Glommersträsk	  1
 Arvika;Gunnarskog;Älgå;Ny	  1
 Åryd;Hemmesjö;Växjö	  1
 Åsaka	  1
-Åseda	  1
 Åse härad	  1
+Åseda	  1
 Åsele lappmark;Lappland;Norrland	  1
 Asia	  1
 Asien;Indien;Orienten	  1
@@ -800,12 +800,12 @@ Bjäre	  1
 Björlanda	  1
 Björnhyttan	  1
 Blasieholmen	  1
-Blekinge;Alnaryd	  1
-Blekinge län;Kronobergs län	  1
 Blekinge län (Sweden)	  1
+Blekinge län;Kronobergs län	  1
+Blekinge skärgård	  1
+Blekinge;Alnaryd	  1
 Blekinge;Ronneby	  1
 Blekinge;Skåne	  1
-Blekinge skärgård	  1
 Blockhusudden	  1
 Blomsholm;Skee	  1
 Blötberget	  1
@@ -825,10 +825,10 @@ Botkyrka. Kyrkan	  1
 Bottna	  1
 Bräcke	  1
 Bräkne-Hoby	  1
-Brandenburg;Frankrike	  1
-Brandenburg;Nederländerna	  1
 Brandenburg och Danmark;Doberan	  1
 Brandenburg och Nederländerna	  1
+Brandenburg;Frankrike	  1
+Brandenburg;Nederländerna	  1
 Brandenburg;Stettin	  1
 Brandstorp: Brandstorps kyrka	  1
 Brännkyrka	  1
@@ -848,8 +848,8 @@ Bullarens härad;Naverstad;Mo (Bohuslän)	  1
 Bullarens härad;Sörbygdens härad	  1
 Burlöv	  1
 Burs: Burs kyrka	  1
-Byarum	  1
 By (Dalarna)	  1
+Byarum	  1
 Byfjorden	  1
 Bysta;Brefven	  1
 Cēsis (Latvia);Lettland	  1
@@ -863,6 +863,7 @@ Cuba;Förenta staterna	  1
 Čukotka;Tjukotka	  1
 Cypern	  1
 Dala-Järna;Kopparbergs län	  1
+Dalarna (Sweden)	  1
 Dalarna;aBorlänge	  1
 Dalarna;Ål;Leksand	  1
 Dalarna;Älvdalen;Idre	  1
@@ -882,7 +883,6 @@ Dalarna;Smedjebacken;Söderbärke	  1
 Dalarna;Söderbärke;Smedjebacken	  1
 Dalarna;Sollerön;Etnologi	  1
 Dalarna;Stora Tuna;Borlänge	  1
-Dalarna (Sweden)	  1
 Dalarö	  1
 Dalby	  1
 Dals Ed	  1
@@ -906,8 +906,8 @@ Delaware (stat)	  1
 Delsbo	  1
 Dendra (Greece)	  1
 Dendra (Greece).	  1
-Denmark.	  1
 Denmark;Sweden;Poland	  1
+Denmark.	  1
 Dennewitz	  1
 Devon (England).	  1
 Direktörer;Flickor;Jämtland;Frösön;Östersund;Skåne;Norrland	  1
@@ -980,8 +980,8 @@ Fittja. Kyrkan	  1
 Flicka;Norrbotten;Boden;Stockholm;Norrland	  1
 Flisby	  1
 Flisby;Solberga	  1
-Floda	  1
 Flo;Sal;Ås	  1
+Floda	  1
 Flyttningar;Norrbotten;Lappland;Norrland	  1
 Föglö	  1
 Föra: Föra kyrkor	  1
@@ -1018,19 +1018,20 @@ Fundbo	  1
 Furulund	  1
 Furusund;Öregrund	  1
 Fyrisån	  1
+G: Göteborgs högre elem. lärowerk. bibliothek = Hvitfeldtska samlingen	  1
 Gagnef	  1
 Gáidum;Kaitumälven	  1
-Gällivare;Kiruna	  1
 Gällivare kommun	  1
+Gällivare;Kiruna	  1
 Gällivare;Malmberget;Kiruna;Luleå;Dalarna;Ludvika;Grängesberg	  1
 Gällivare;Riksgränsen	  1
-Gamlakarleby	  1
 Gamla Uppsala	  1
+Gamlakarleby	  1
 Gammalstorp	  1
 Gammalstorp;Ysane	  1
 Gammelstad;Norrbotten	  1
-Gårdeby	  1
 Garde: Garde kyrka	  1
+Gårdeby	  1
 Gårdsby	  1
 Gärdserum	  1
 Garphyttan	  1
@@ -1038,14 +1039,13 @@ Gåsinge-Dillnäs	  1
 Gästrikland;Åmot;Ockelbo;Norrland	  1
 Gästrikland;Norrland	  1
 Gaul	  1
-Gävleborgs län;Hälsingland;Hudiksvall	  1
-Gävleborgs län;Hudiksvall	  1
 Gävle;Gävle	  1
 Gävle;Öregrund	  1
+Gävleborgs län;Hälsingland;Hudiksvall	  1
+Gävleborgs län;Hudiksvall	  1
 Gdansk	  1
 Geografi	  1
 Geografi;Garpenberg;Hedemora	  1
-G: Göteborgs högre elem. lärowerk. bibliothek = Hvitfeldtska samlingen	  1
 Giebnegáisi	  1
 Gillberga	  1
 Gillöga	  1
@@ -1062,9 +1062,9 @@ Göteborg;Bohuslän	  1
 Göteborg;Göteborg	  1
 Göteborg;Landskrona	  1
 Göteborg;Särö;Marstrand;Varberg;Gustafsberg (Bohuslän);Strömstad;Lysekil	  1
+Göteborg;Vänersborg	  1
 Göteborgs och Bohus län;Älvsborgs län;Halland	  1
 Göteborgs skärgård;Bohusläns skärgård	  1
-Göteborg;Vänersborg	  1
 Gotland;Gotland	  1
 Gotland;Gotska Sandön	  1
 Gotlands län (Sweden)	  1
@@ -1124,8 +1124,8 @@ Hälsingland;Stockholm;Norrland	  1
 Hälsö	  1
 Hålta	  1
 Hålta;Jörlanda;Solberga (Bohuslän)	  1
-Hamburg-Altona (Hamburg, Germany)	  1
 Hamburg (Germany)	  1
+Hamburg-Altona (Hamburg, Germany)	  1
 Hamburg;Helsingör;Stralsund	  1
 Hammarlöv	  1
 Hammenhög;Hammenhög	  1
@@ -1145,8 +1145,8 @@ Härjedalen;Norrland;Norge	  1
 Harlösa	  1
 Harmånger	  1
 Harmånger;Jättendal	  1
-Härnösand;Ångermanälven	  1
 Härnösand (kommun);Säbrå	  1
+Härnösand;Ångermanälven	  1
 Härnösand;Sundsvall	  1
 Hasslarp	  1
 Hässleholm	  1
@@ -1160,8 +1160,8 @@ Helsingborg;Klippan;Luggude härad;Åstorp	  1
 Helsinge	  1
 Helsinge kyrkoby (Finland)	  1
 Helsingör;Hamburg	  1
-Hemsjö;Karlshamn;Ronnebyån	  1
 Hemsjö (Västergötland)	  1
+Hemsjö;Karlshamn;Ronnebyån	  1
 Herjolfsnes;Grönland	  1
 Herrestad	  1
 Herrestad;Tossene	  1
@@ -1187,8 +1187,8 @@ Humlegården;Kungsträdgården	  1
 Hunnebo;Hunnebostrand	  1
 Husaby	  1
 Husby	  1
-Husby-Oppunda	  1
 Husby socken	  1
+Husby-Oppunda	  1
 Huskvarna	  1
 Hyby	  1
 Idenor	  1
@@ -1228,10 +1228,10 @@ Jämtland;Lappland;Västerbotten;Norrland	  1
 Jämtland;Medelpad	  1
 Jämtland;Norrbotten;Västerbotten;Norrland	  1
 Jämtland;Östersund;Frösön;Norrland	  1
-Jämtlands län	  1
-Jämtlands län;Västernorrlands län	  1
 Jämtland;Uppsala;Norrland	  1
 Jämtland;Vålådalen;Dalarna;Norrland	  1
+Jämtlands län	  1
+Jämtlands län;Västernorrlands län	  1
 Järfälla	  1
 Järna (Dalarna)	  1
 Järnvägar;Järnvägar	  1
@@ -1259,10 +1259,10 @@ Kallhäll	  1
 Kallinge;Ronneby	  1
 Källö-Knippla	  1
 Källstorp	  1
+Kalmar län;Öland	  1
 Kalmar;Borgholm	  1
 Kalmar;Kalmar	  1
 Kalmar;Kalmar;Kalmar;Kalmar	  1
-Kalmar län;Öland	  1
 Kalmar;Slottsfjärden (Kalmar)	  1
 Kalmar;Vadstena	  1
 Kalskrona	  1
@@ -1277,10 +1277,10 @@ Karesuando;Enontekis	  1
 Karesuando;Rounala	  1
 Karesuando;Tromsö;Skibotn;Lyngseidet	  1
 Käringön	  1
-Karlbergsparken	  1
 Karl Gustav (Haparanda)	  1
 Karl Gustav;Skedesamma	  1
 Karl Johans stad;Haparanda	  1
+Karlbergsparken	  1
 Karlsbad	  1
 Karlshamn;Asarum	  1
 Karlskrona;Björkholmen	  1
@@ -1303,10 +1303,10 @@ Kemiö;Kimito	  1
 Kenya	  1
 Kiirunavaara;Malmberget	  1
 Kil	  1
+Kiruna kommun	  1
 Kiruna;Abisko;Torneträsk	  1
 Kiruna;Gällivare	  1
 Kiruna;Kiruna	  1
-Kiruna kommun	  1
 Kiruna;Torneträsk	  1
 Kirunavaara;Luossavaara	  1
 Kleckeberga	  1
@@ -1338,8 +1338,8 @@ Kristianstads län;Vinslöv	  1
 Kuba	  1
 Kuddby	  1
 Kuggeboda	  1
-Kullaberg;Arild	  1
 Kulla. Kyrkan;Hjälsta. Kyrkan	  1
+Kullaberg;Arild	  1
 Kulsiala (Finland)	  1
 Kumla	  1
 Kungahälla;Kungälv	  1
@@ -1364,12 +1364,18 @@ Länna (Norrtälje, Uppland)	  1
 Lannavaara	  1
 Laponia;Padjelanta;Sjaunja	  1
 Lappfjärd;Lappfjärd	  1
+Lappland (Sverige);Arjeplog;Arvidsjaur	  1
+Lappland (Sverige);Kiruna;Kebnekaise;Norrbotten;Kiruna;Torneträsk;Ångermanland;Döda fallet;Ragunda;Norrland	  1
+Lappland (Sverige);Norrbotten	  1
+Lappland (Sverige);Sorsele;Västerbotten;Ammarnäs;Karsbäcken;Tjulträsk;Åsele;Norrland	  1
+Lappland (Sverige);Västerbotten;Tärna;Ammarnäs;Tjulträsk;Biellojaure;Dåresvare;Norrland;Norge	  1
+Lappland (Sverige);Västerbottens län;Norrbottens län	  1
+Lappland i konsten	  1
 Lappland;Akkajaure;Luleå;Norge;Stora Sjöfallet;Norrland	  1
 Lappland;Åsele;Sundsvall;Norrland	  1
 Lappland;Fatmomakke;Norrland	  1
 Lappland;Finnmarken;Stockholm;Norrland	  1
 Lappland;Hornavan;Norrland	  1
-Lappland i konsten	  1
 Lappland;Jämtland;Norrland	  1
 Lappland;Kiruna;Norge;Tromsö;Norrland	  1
 Lappland;Kiruna;Vietas;Sjaunja;Suorva	  1
@@ -1381,12 +1387,6 @@ Lappland;Norrbotten;Råstaujaure;Norrland	  1
 Lappland;Norrbotten;Stora Sjöfallet;Norrland	  1
 Lappland;Norrbotten;Umeå;Västerbotten;Dalarna;Bergslagen;Småland;Amerika;Norrland	  1
 Lappland;Norrbotten;Västerbotten;Jämtland;Hälsingland;Färila;Norrland	  1
-Lappland (Sverige);Arjeplog;Arvidsjaur	  1
-Lappland (Sverige);Kiruna;Kebnekaise;Norrbotten;Kiruna;Torneträsk;Ångermanland;Döda fallet;Ragunda;Norrland	  1
-Lappland (Sverige);Norrbotten	  1
-Lappland (Sverige);Sorsele;Västerbotten;Ammarnäs;Karsbäcken;Tjulträsk;Åsele;Norrland	  1
-Lappland (Sverige);Västerbottens län;Norrbottens län	  1
-Lappland (Sverige);Västerbotten;Tärna;Ammarnäs;Tjulträsk;Biellojaure;Dåresvare;Norrland;Norge	  1
 Lappland;Uppland;Norrland	  1
 Lappland;Västerbotten;Ammarnäs;Lycksele;Sorsele;Tjulträsket;Norrland;Norge	  1
 Lappland;Västerbotten;Jovattsdalen;Björkvattnet;Tärna;Norrland;Norge	  1
@@ -1423,9 +1423,9 @@ Livland;Riga	  1
 Livland;Riga;Sachsen	  1
 Livland;Tallinn;Finska skärgård	  1
 Ljungaverk	  1
-Ljungby;Berga	  1
 Ljungby (Kronobergs län)	  1
 Ljungby (Kronobergs län);Åsnen;Alvesta;Huseby	  1
+Ljungby;Berga	  1
 Ljusdal	  1
 Ljusnarsberg	  1
 Löderup	  1
@@ -1444,21 +1444,21 @@ Lugnarohögen	  1
 Luleå;Bergnäslandet;Gülzaudden;Norrland	  1
 Luleå;Björsbyn	  1
 Luleå;Kalix	  1
-Luleälven	  1
-Luleälven;Hedensforsen	  1
 Luleå;Norrbotten;Västerbotten;Norrland;Tyskland	  1
 Luleå;Norrland	  1
 Luleå;Råneå;Kalix	  1
+Luleälven	  1
+Luleälven;Hedensforsen	  1
+Lund;Lund	  1
+Lund;Visby	  1
+Lund: Lunds domkyrka	  1
 Lunda	  1
 Lundby	  1
-Lund;Lund	  1
-Lund: Lunds domkyrka	  1
-Lund;Visby	  1
 Lyckå;Lyckeby	  1
 Lycksele	  1
 Lyrestad	  1
-Lysekil;Uddevalla	  1
 Lyse;Lysekil	  1
+Lysekil;Uddevalla	  1
 Macao, China.	  1
 Maeshowe (Scotland).	  1
 Mälaren;Hjälmaren;Strömsholms kanal	  1
@@ -1467,10 +1467,10 @@ Mälarne (Skåne)	  1
 Målhammar	  1
 Malmberget;Malmberget	  1
 Malmköping	  1
+Malmö (Sweden)	  1
 Malmöhus län	  1
 Malmöhus län;Åkarp;Hvilan	  1
 Malmöhus län;Kristianstad;Blekinge;Halland;Göteborg;Bohuslän	  1
-Malmö (Sweden)	  1
 Malta	  1
 Mangskog	  1
 Mariefred	  1
@@ -1506,8 +1506,8 @@ Mogata	  1
 Möklinta	  1
 Mölndal;Kållered;Råda	  1
 Molpe	  1
-Mörbylånga	  1
 Mörby;Viby	  1
+Mörbylånga	  1
 Muddus;Harsprånget	  1
 Mulseryd	  1
 Munich (Germany)	  1
@@ -1525,8 +1525,8 @@ Närke;Vättern	  1
 Narva	  1
 Narva;Riga	  1
 Näs	  1
-Näsby;Ervalla	  1
 Näsby (Östergötland)	  1
+Näsby;Ervalla	  1
 Nautanen	  1
 Naverstad	  1
 Nederkalix;Kalix	  1
@@ -1535,8 +1535,8 @@ Nedre Luledalen;Lule älvdal	  1
 Nedre Ullerud	  1
 Nepal;Tibet	  1
 New Orleans;Pensacola	  1
-New York;Förenta staterna;Förenta staterna;Sverige	  1
 New York (stad)	  1
+New York;Förenta staterna;Förenta staterna;Sverige	  1
 Niagarafallen	  1
 Nicaragua;Nicaragua	  1
 Nora	  1
@@ -1635,8 +1635,8 @@ Osmanska riket;Österrike;Tysk-romerska riket	  1
 Österåker	  1
 Österbotten;Gamla Karleby;Jämtland;Ångermanland;Härnösand;Omsjö;Ramsele;Ruske;Sollefteå;Sjougda;Tåsjön;Ådalen;Norrland	  1
 Österby;Gimo;Uppland;Uppland;Uppland;Uppland;Uppland	  1
-Östergötlands län	  1
 Östergötland;Södermanland;Södermanland	  1
+Östergötlands län	  1
 Östersjöländerna	  1
 Östersjön;Nordeuropa	  1
 Östersund;Frösön	  1
@@ -1711,12 +1711,12 @@ Rjazanʹ	  1
 Rödbo;Hisingen	  1
 Rödön	  1
 Rogberga	  1
+Rom - historia - forntiden	  1
 Romelanda	  1
 Romerska riket;Rome	  1
-Rom - historia - forntiden	  1
+Ronneby;Karlskrona	  1
 Ronnebyån	  1
 Ronnebyån;Ronneby;Kallinge	  1
-Ronneby;Karlskrona	  1
 Röra	  1
 Rosendal	  1
 Rosvik;Piteå	  1
@@ -1738,6 +1738,7 @@ Ryssland;Polen;Sachsen	  1
 Ryssland;Sovjetunionen	  1
 Ryssland;Systerbäck	  1
 Rytterne	  1
+S:t Petersburg	  1
 Säbro	  1
 Säby;Tranås	  1
 Sachalin	  1
@@ -1802,9 +1803,10 @@ Skaftö	  1
 Skagern	  1
 Skagerrak (Denmark and Norway).	  1
 Skagershult	  1
+Skandinavien och Spanien;Spanien;Skandinavien	  1
 Skandinavien;Frankrike	  1
 Skandinavien;Israel	  1
-Skandinavien och Spanien;Spanien;Skandinavien	  1
+Skåne (Sweden)	  1
 Skåne;Blekinge	  1
 Skåne;Blekinge;Halland	  1
 Skåne;Halland	  1
@@ -1814,13 +1816,12 @@ Skåne;Kristianstad	  1
 Skåne;Landskrona	  1
 Skåne;Skanör;Falsterbo	  1
 Skåne;Sverige	  1
-Skåne (Sweden)	  1
 Skåne;Ystad	  1
 Skanör;Falsterbo	  1
 Skansen	  1
 Skanslyckan;Sölvesborg	  1
-Skaraborgs län	  1
 Skara stift	  1
+Skaraborgs län	  1
 Skärkind	  1
 Skärstad	  1
 Skatelöv	  1
@@ -1892,20 +1893,20 @@ Stilla havet;Latinamerika	  1
 Stillingsön	  1
 Stjärnsund	  1
 Stjärnsunds bruk	  1
-Stockholm;Årsta	  1
-Stockholm: Gamla Stan: Kvarteret Castor	  1
-Stockholm;Göteborg;Karlskrona	  1
 Stockholm (Högalid)	  1
+Stockholm;Årsta	  1
+Stockholm;Göteborg;Karlskrona	  1
 Stockholm;Karlberg	  1
 Stockholm;Karlskrona	  1
 Stockholm;Kopparberg	  1
 Stockholm;Norrköping	  1
 Stockholm;Norrland	  1
+Stockholm: Gamla Stan: Kvarteret Castor	  1
 Stockholm: Oscarskyrkan	  1
 Stockholm: Skansen	  1
-Stockholms län;Gotlands län	  1
 Stockholm: Sofia Kyrka	  1
 Stockholm: Stockholms stadshus	  1
+Stockholms län;Gotlands län	  1
 Stokkseyrarhreppur;Stokkseyri	  1
 Stora Karlsö	  1
 Stora Karlsö;Lilla Karlsö	  1
@@ -1919,7 +1920,6 @@ Storbritannien;Ryssland	  1
 Storfors;Värmland	  1
 Storkyro	  1
 Storstockholm	  1
-S:t Petersburg	  1
 Stralsund;Svenska Pommern	  1
 Stralsund;Wittau	  1
 Stranda	  1
@@ -1958,28 +1958,6 @@ Svenska Pommern;Osmanska riket;Anklam	  1
 Svenska Pommern;Preussen	  1
 Svenska pommern;Stralsund	  1
 Svenska Pommern;Wismar	  1
-Sverige;Argentina	  1
-Sverige;Arild	  1
-Sverige;Blekinge	  1
-Sverige;Brandenburg;Frankrike	  1
-Sverige;Bremen;Hamburg;Lübeck	  1
-Sverige;Dalarna;Grängesberg;Ludvika	  1
-Sverige;Dalarna;Ludvika;Grängesberg	  1
-Sverige;Danmark;Norge;Finland	  1
-Sverige;Danmark;Norge;Polen	  1
-Sverige;Dresden	  1
-Sverige;Estland	  1
-Sverige;Europa	  1
-Sverige;Finland;Baltikum	  1
-Sverige;Finland;Nordkalotten	  1
-Sverige;Förenta staterna	  1
-Sverige;Lappland;Ammarnäs;Västerbotten;Abmoträsk;Norrland	  1
-Sverige;Lappland (Sverige)	  1
-Sverige;Linköping	  1
-Sverige;Nederländerna	  1
-Sverige;Norden	  1
-Sverige;Norge;Finland	  1
-Sverige;Norge;Finland;Ingermanland	  1
 Sverige och Brandenburg;Frankrike	  1
 Sverige och Finland	  1
 Sverige och Frankrike	  1
@@ -1995,8 +1973,31 @@ Sverige och Spanien	  1
 Sverige och Storbritannien	  1
 Sverige och Sydamerika	  1
 Sverige och Turkiet	  1
-Sverige och Tyskland	  1
 Sverige och Tysk-romerska riket;Brandenburg	  1
+Sverige och Tyskland	  1
+Sverige x juridik och lagstiftning	  1
+Sverige;Argentina	  1
+Sverige;Arild	  1
+Sverige;Blekinge	  1
+Sverige;Brandenburg;Frankrike	  1
+Sverige;Bremen;Hamburg;Lübeck	  1
+Sverige;Dalarna;Grängesberg;Ludvika	  1
+Sverige;Dalarna;Ludvika;Grängesberg	  1
+Sverige;Danmark;Norge;Finland	  1
+Sverige;Danmark;Norge;Polen	  1
+Sverige;Dresden	  1
+Sverige;Estland	  1
+Sverige;Europa	  1
+Sverige;Finland;Baltikum	  1
+Sverige;Finland;Nordkalotten	  1
+Sverige;Förenta staterna	  1
+Sverige;Lappland (Sverige)	  1
+Sverige;Lappland;Ammarnäs;Västerbotten;Abmoträsk;Norrland	  1
+Sverige;Linköping	  1
+Sverige;Nederländerna	  1
+Sverige;Norden	  1
+Sverige;Norge;Finland	  1
+Sverige;Norge;Finland;Ingermanland	  1
 Sverige;Pommern	  1
 Sverige;Skandinavien	  1
 Sverige;Sovjetunionen	  1
@@ -2011,7 +2012,6 @@ Sverige;Tysk-romerska riket	  1
 Sverige;Uddevalla	  1
 Sverige;Ungern	  1
 Sverige;Valsgärde	  1
-Sverige x juridik och lagstiftning	  1
 Svinnegarn: Svinnegarns kyrka;Enköpings-Näs: Enköpings-Näs kyrka;Teda: Teda kyrka	  1
 Svinnegran	  1
 Svinstad;Bankekind	  1
@@ -2054,8 +2054,8 @@ Tornedalen;Kuoksu	  1
 Tornedalen;Lappland	  1
 Tornedalen;Torneå	  1
 Torneträsk	  1
-Torpa	  1
 Torp (Medelpad);Medelpad	  1
+Torpa	  1
 Torreby	  1
 Torsåker	  1
 Torsö	  1
@@ -2076,6 +2076,7 @@ Tunisien;Tébessa;Timgad;Carthage (Extinct city);Tébessa (Algeria);Thamugadi (E
 Turkey;Iran	  1
 Tyresö	  1
 Tyrrhenian Sea.	  1
+Tysk-romerska riket;Osmanska riket	  1
 Tyskland;Danmark;Sverige	  1
 Tyskland;Polen	  1
 Tyskland;Schweiz;Italien;Frankrike	  1
@@ -2083,7 +2084,6 @@ Tyskland;Sovjetunionen	  1
 Tyskland;Storbritannien	  1
 Tyskland;Tyskland	  1
 Tyskland;Wismar	  1
-Tysk-romerska riket;Osmanska riket	  1
 Tystberga	  1
 Uddevalla;Bohuslän	  1
 Uddevalla;Kattegatt	  1
@@ -2103,9 +2103,9 @@ Ungern;Österrike	  1
 Ungern;Ungern	  1
 United States;United States	  1
 United States;United States;United States;United States	  1
-Upplands-Bro;Lejondal	  1
-Uppland;Stockholm	  1
 Uppland (Sweden : District)	  1
+Uppland;Stockholm	  1
+Upplands-Bro;Lejondal	  1
 Uppsala län;Stockholms län	  1
 Uppsala: Östgöta nation	  1
 Upptäckstresor	  1
@@ -2158,12 +2158,12 @@ Västerbotten;Norrbotten;Råneå;Umeå;Vindeln;Norrland	  1
 Västerbotten;Norrland;Hollywood	  1
 Västerbotten;Sävar;Umeå;Norrland	  1
 Västerbotten;Skellefteå;Norrland	  1
-Västerbottens län;Norrbottens län	  1
 Västerbotten;Stockholm;Norrland	  1
 Västerbotten;Stockholm;Östermalm;Gamla stan;Norrland	  1
 Västerbotten;Umeå;Ytterhiske;Norrland	  1
 Västerbotten;Vardofjället;Lycksele;Riovardo;Lappland;Norrland	  1
 Västerbotten;Vindeln;Umeå;Vindelälven;Norrland;Frankrike	  1
+Västerbottens län;Norrbottens län	  1
 Västergarn	  1
 Västergötland;Borås;Torpa;Brämhult	  1
 Västerlanda	  1
@@ -2188,9 +2188,9 @@ Vaxholm	  1
 Växjö;Turistinformation	  1
 Vedevåg;Närke	  1
 Ven	  1
+Ven Island (Sweden)	  1
 Vendel (Sweden)	  1
 Venedig;Portugal	  1
-Ven Island (Sweden)	  1
 Verona	  1
 Vette	  1
 Viborg (Ryssland)	  1

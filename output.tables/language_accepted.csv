@@ -1,100 +1,101 @@
 Name	Count
-Total count: 	261269
-Swedish	210902
-German	 12587
-English	  7570
-Latin	  7208
-French	  5321
-Finnish	  4421
-Danish	  4305
-Norwegian	  2088
-Dutch	  1153
-No linguistic content	   900
-Italian	   792
-Russian	   708
-Spanish	   396
-Czech	   334
-Polish	   306
-Icelandic	   291
-Multiple languages	   275
-Hungarian	   198
-Estonian	   194
-Greek, Ancient (to 1453)	   145
-Old Norse	   137
-Latvian	   133
-Portuguese	   114
-Sami	    83
-Croatian	    79
-Bulgarian	    69
-Japanese	    68
-Hebrew	    44
-Turkish	    37
-Arabic	    34
-Greek, Modern (1453-)	    34
-Esperanto	    27
-Yiddish	    24
-Romanian	    22
-Slovak	    18
-Tigrinya	    18
-Chinese	    17
-Faroese	    14
-Tigré	    14
-Ukrainian	    14
-Bantu (Other)	    11
-Amharic	    10
-Slovenian	    10
-Kongo	     9
-Serbian	     9
-Pali	     7
-Afrikaans	     6
-Lithuanian	     6
-Low German	     6
-Norwegian (Nynorsk)	     6
-Armenian	     5
-Gothic	     4
-Swahili	     4
-Syriac, Modern	     4
-Zulu	     4
-Catalan	     3
-Ethiopic	     3
-French, Old (ca. 842-1300)	     3
-Frisian	     3
-Ido	     3
-Niger-Kordofanian (Other)	     3
-Sanskrit	     3
-Albanian	     2
-Aramaic	     2
-English, Middle (1100-1500)	     2
-Finno-Ugrian (Other)	     2
-French, Middle (ca. 1300-1600)	     2
-Georgian	     2
-Hindi	     2
-Indonesian	     2
-Lule Sami	     2
-Malagasy	     2
-Nilo-Saharan (Other)	     2
-Northern Sami	     2
-Oromo	     2
-Persian	     2
-Raeto-Romance	     2
-Uighur	     2
-Welsh	     2
-Algonquian (Other)	     1
-Artificial (Other)	     1
-Berber (Other)	     1
-Cushitic (Other)	     1
-German, Middle High (ca. 1050-1500)	     1
-Hiligaynon	     1
-Kalâtdlisut	     1
-Khotanese	     1
-Kinyarwanda	     1
-Korean	     1
-Kuanyama	     1
-Macedonian	     1
-Malayalam	     1
-Oriya	     1
-Provençal (to 1500)	     1
-Romani	     1
-Somali	     1
-Sorbian (Other)	     1
-Southern Sami	     1
+Total count (na.rm TRUE): 	99
+Afrikaans	1
+Albanian	1
+Algonquian (Other)	1
+Amharic	1
+Arabic	1
+Aramaic	1
+Armenian	1
+Artificial (Other)	1
+Bantu (Other)	1
+Berber (Other)	1
+Bulgarian	1
+Catalan	1
+Chinese	1
+Croatian	1
+Cushitic (Other)	1
+Czech	1
+Danish	1
+Dutch	1
+English	1
+English, Middle (1100-1500)	1
+Esperanto	1
+Estonian	1
+Ethiopic	1
+Faroese	1
+Finnish	1
+Finno-Ugrian (Other)	1
+French	1
+French, Middle (ca. 1300-1600)	1
+French, Old (ca. 842-1300)	1
+Frisian	1
+Georgian	1
+German	1
+German, Middle High (ca. 1050-1500)	1
+Gothic	1
+Greek, Ancient (to 1453)	1
+Greek, Modern (1453-)	1
+Hebrew	1
+Hiligaynon	1
+Hindi	1
+Hungarian	1
+Icelandic	1
+Ido	1
+Indonesian	1
+Italian	1
+Japanese	1
+Kalâtdlisut	1
+Khotanese	1
+Kinyarwanda	1
+Kongo	1
+Korean	1
+Kuanyama	1
+Latin	1
+Latvian	1
+Lithuanian	1
+Low German	1
+Lule Sami	1
+Macedonian	1
+Malagasy	1
+Malayalam	1
+Multiple languages	1
+Niger-Kordofanian (Other)	1
+Nilo-Saharan (Other)	1
+No linguistic content	1
+Northern Sami	1
+Norwegian	1
+Norwegian (Nynorsk)	1
+Occitan (post-1500)	1
+Old Norse	1
+Oriya	1
+Oromo	1
+Pali	1
+Persian	1
+Polish	1
+Portuguese	1
+Provençal (to 1500)	1
+Raeto-Romance	1
+Romani	1
+Romanian	1
+Russian	1
+Sami	1
+Sanskrit	1
+Serbian	1
+Slovak	1
+Slovenian	1
+Somali	1
+Sorbian (Other)	1
+Southern Sami	1
+Spanish	1
+Swahili	1
+Swedish	1
+Syriac, Modern	1
+Tigré	1
+Tigrinya	1
+Turkish	1
+Uighur	1
+Ukrainian	1
+Welsh	1
+Yiddish	1
+Zulu	1

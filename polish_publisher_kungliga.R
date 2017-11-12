@@ -42,7 +42,8 @@ polish_publisher_kungliga <- function (df.orig) {
   # The combination of enriched part & the unprocessed part
   combined_pubs <- clean_publisher(raw_publishers, languages=languages)
 
-  combined_pubs <- harmonize_publisher_special(combined_pubs, publication_year, languages=languages)[,1:2]
+  # CHECK so far we use Fennica processing also with kungliga
+  combined_pubs <- harmonize_publisher_fennica2(combined_pubs, publication_year, languages=languages)[,1:2]
 
   # Convert S.N. into NA 
   f <- "NA_publishers.csv"

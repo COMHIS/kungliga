@@ -1,5 +1,5 @@
 original	polished	Count
-Total count: 	89460	
+Total count (na.rm TRUE): 	89423	
 Göteborg	Gothenburg	12581
 Helsingfors	Helsinki	 8439
 [Stockholm]	Stockholm	 6951
@@ -223,7 +223,6 @@ Stockholm, Tryckt i Kongl. Tryckeriet, 1792.	Stockholm	   35
 Stockholm, Tryckt i Kongl. Tryckeriet, 1794.	Stockholm	   35
 Stockholm, trykt i Kongl. tryckeriet	Stockholm	   35
 Stockholm, tryckt uti det Kongl. tryckeriet.	Stockholm	   35
-Den Haag	The Hague	   35
 Baltimore	Baltimore Md	   35
 [Södertälje]	Södertälje	   35
 [Norrköping]	Norrköping	   35
@@ -2488,7 +2487,6 @@ Cracovie	Krakow	    2
 Aboæ impressit Joh. Christoph. Frenckell.	Turku	    2
 Aboae impressit Joh. Christoph. Frenckell	Turku	    2
 Strasburg	Strasbourg	    2
-den Haag	The Hague	    2
 Sthlm & Gbg	Stockholm	    2
 København & Oslo	Copenhagen	    2
 New Haven..	New Haven Ct	    2
@@ -3352,7 +3350,7 @@ Götheborg, 1774. Trykt hos J. Smitt, K.G.B.	Gothenburg	    1
 Nyköping, på begäran, efter tryckt origin. uplagdt, 1772.	Nyköping	    1
 Jönkjöping, tryckte hos sal. Falcks änkia, med egen bekostnad, år 1755.	Jönköping	    1
 Stockholm, Kongl. Tryckeriet, Carl Stolpe, Johan A. Carlbohm, Henrik Andersson Nordström, 1756-1834.	Stockholm	    1
-Lichfield: printed by John Jackson. Sold by J. Johnson ... London. T. Byrne, Dublin. And J. Balfour, Edinburgh, MDCCLXXXVII.	London	    1
+Lichfield: printed by John Jackson. Sold by J. Johnson ... London. T. Byrne, Dublin. And J. Balfour, Edinburgh, MDCCLXXXVII.	St John New Brunswick	    1
 Berlin-Pankow	Berlin	    1
 Dresden und Leipzig	Dresden	    1
 Stockholm, Tryckt hos Samuel Rumstedt, 1833.	Stockholm	    1
@@ -6040,7 +6038,7 @@ Stockholm, hos J. A. Walldén, 1838	Stockholm	    1
 Lundæ, MDCCCXX. Literis Berlingianis.	Lund	    1
 Poznań ...	Poznań	    1
 Kjövenhavn	Copenhagen	    1
-Lebanon, Pa.	Lebanon PA	    1
+Lebanon, Pa.	Lebanon Pa	    1
 Aboæ, impr. Joh. Kiæmpe reg. acad. typ.	Turku	    1
 Duluth	Duluth MN	    1
 Grimma ...	Grimma	    1
@@ -6725,7 +6723,7 @@ Ulricehamn, tryckt hos Carl Fred. Deirich.	Ulricehamn	    1
 Eissleben	Eisleben	    1
 Aboae typis viduae Reg. Acad. typogr. J. C. Frenckell.	Turku	    1
 A Paris, chez Henry Sara, au Mont St. Hilaire, pres le Puits certain et chez Jean Paslé, au Palais a l'entrée de la sale Dauphine, à la Pomme d'Or couronnée et chez les auteurs au cinge d'Or rue s. honoré pres le palais cardinal. F. Bignon fecit et excudit cum privilegio regis.	Paris	    1
-Yarmouth Port, Mass	Boston Ma	    1
+Yarmouth Port, Mass	Yarmouth	    1
 Münster i.W.	Münster	    1
 Brandenburg a.d.H.	Berlin	    1
 Kopenhagen u. Leipzig	Copenhagen	    1
@@ -7191,7 +7189,7 @@ Malmö :;Malmö :;Malmö :;Axel Hjertstrand	Malmö	    1
 Londini Gothorum, ex officina Berlingiana, MDCCCXXII.	London	    1
 Stockholm :;Wiborg :;Åbo	Stockholm	    1
 Upsaliae, excudebant Reg. acad. typographi.	Uppsala	    1
-Wakefield, Massachusetts	Boston Ma	    1
+Wakefield, Massachusetts	Wakefield	    1
 Københvn	Copenhagen	    1
 Turusa, prändätty Frenckellin kirjan-prändisä, 1790.	Turku	    1
 A Copenhague, M.DCC.LV.	Copenhagen	    1
@@ -8038,7 +8036,7 @@ Stockholm, tryckt hos direct. Lars Salvius, 1764	Stockholm	    1
 Åbo, tryckt hos J. C. Frenckell, Kgl. Acad. boktr.	Turku	    1
 Åbo, tryckt hos directeuren och kongl. boktryckaren i Stor-förstendömet Finland, Jacob Merckell.	Turku	    1
 Skara. Peter Hedenius. 1840. På författarens förlag.	Skara	    1
-Bolton ;;London	London	    1
+Bolton ;;London	Bolton	    1
 [Aarhus]	Aarhus	    1
 Leipzig & Stockholm	Leipzig	    1
 Berlin & Dresden	Berlin	    1
@@ -8172,7 +8170,7 @@ Addis-Abeba	Addis Abeba	    1
 Öllösa..	Öllösa	    1
 Stockholm : [Föreningen Sveriges flotta]	Stockholm	    1
 Hafniae, 1778. Sumptibus Gyldendalii.	Copenhagen	    1
-Waltham, Mass	Boston Ma	    1
+Waltham, Mass	Waltham Ma	    1
 Filipstad..	Filipstad	    1
 Strassburg..	Strasbourg	    1
 Gryphiæ..	Greifswald	    1
@@ -8284,7 +8282,7 @@ Wästerås, tryckt hos Johan Laur. Horrn kongl. gymn. och const. boktryckare år
 Stockholm : [Judisk krönika]	Stockholm	    1
 Berlin-Grunwald	Berlin	    1
 Stockholm : Norstedt & Söner	Stockholm	    1
-Jersey City, N.J.	St Helier	    1
+Jersey City, N.J.	Jersey City NJ	    1
 Hälsingfors	Helsingborg	    1
 Stockholm, tryckt hos Carl Delén	Stockholm	    1
 Göteborg. Högskolan	Gothenburg	    1
@@ -8620,7 +8618,7 @@ Brännkyrka, Sthlm	Stockholm	    1
 [Hfors.]	Helsinki	    1
 Stockholm, L:s Gust. Nylander, bazarn å Norrbro.	Stockholm	    1
 Västervi	Västervik	    1
-[Den Haag]	The Hague	    1
+[Den Haag]	Den Haag	    1
 [La Haye]	The Hague	    1
 Toronto, Ont	Toronto	    1
 Leipzig ;;Wien ;;Zürich	Leipzig	    1
@@ -12998,7 +12996,7 @@ Andover, Ill.	Andover Ma	    1
 Chicago, Ill. :;[Huddinge]	Chicago IL	    1
 Stockholm ;;Chicago, Ill.	Stockholm	    1
 Minneapolis, Minn. :;[s.l.]	Minneapolis Mn	    1
-Waltham, Mass.	Boston Ma	    1
+Waltham, Mass.	Waltham Ma	    1
 Troy, Idaho	Troy NY	    1
 Turlock, Cal.	Turlock Ca	    1
 Uppsala :;Uppsala :;Falun :;Stensele :;Uppsala	Uppsala	    1

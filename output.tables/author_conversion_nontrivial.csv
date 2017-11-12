@@ -1,5 +1,5 @@
 original_name	original_date	final_author_id	final_author_birth	final_author_death	Count
-Total count: 	171198				
+Total count (na.rm TRUE): 	171198				
 Lagerlöf, Selma	1858-1940	Lagerlöf, Selma (1858-1940)	1858	1940	1145
 Strindberg, August	1849-1912	Strindberg, August (1849-1912)	1849	1912	 960
 Flygare-Carlén, Emilie	1807-1892	Flygare-carlén, Emilie (1807-1892)	1807	1892	 688
@@ -265,7 +265,6 @@ Nilsson-Tannér, Per	1904-1978	Nilsson-tannér, Per (1904-1978)	1904	1978	  61
 Billing, Gottfrid	1841-1925	Billing, Gottfrid (1841-1925)	1841	1925	  61
 Sivers, Henric Jacob	1709-1758	Sivers, Henric Jacob (1709-1758)	1709	1758	  60
 Möller, Johan	1738-1805	Möller, Johan (1738-1805)	1738	1805	  60
-Gustav	1778-1837	Gustav,  (1778-1837)	1778	1837	  60
 Browallius, Irja	1901-1968	Browallius, Irja (1901-1968)	1901	1968	  60
 Berger, Henning	1872-1924	Berger, Henning (1872-1924)	1872	1924	  60
 Lundstedt, Vilhelm	1882-1955	Lundstedt, Vilhelm (1882-1955)	1882	1955	  60
@@ -274,6 +273,7 @@ Dixelius, Hildur	1879-1969	Dixelius, Hildur (1879-1969)	1879	1969	  60
 Andersson, Dan	1888-1920	Andersson, Dan (1888-1920)	1888	1920	  60
 Hellström, Gustaf	1882-1953	Hellström, Gustaf (1882-1953)	1882	1953	  60
 Hylander, Anders	1750-1830	Hylander, Anders (1750-1830)	1750	1830	  59
+Gustav	1778-1837	Gustav,  (1778-1837)	1778	1837	  59
 Walberg, Carl Gustaf	1788-1821	Walberg, Carl Gustaf (1788-1821)	1788	1821	  59
 Rhodin, Sigurd	1856-1936	Rhodin, Sigurd (1856-1936)	1856	1936	  59
 Norrby, Johannes	1870-1936	Norrby, Johannes (1870-1936)	1870	1936	  59
@@ -924,7 +924,6 @@ Ingman-Manderfelt, Carl	1747-1813	Ingman-manderfelt, Carl (1747-1813)	1747	1813	
 Fénelon, François de Salignac de La Mothe	1651-1715	Fénelon, François De Salignac De La Mothe (1651-1715)	1651	1715	  29
 Carelius, Olaus Petri	1702-1758	Carelius, Olaus Petri (1702-1758)	1702	1758	  29
 Lannér, Israel	1737-1799	Lannér, Israel (1737-1799)	1737	1799	  29
-Hermelin, Olof	1658-1709	Hermelin, Olof (1658-1709)	1658	1709	  29
 Florian, Jean Pierre Claris de	1755-1794	Florian, Jean Pierre Claris De (1755-1794)	1755	1794	  29
 Skjöldebrand, Anders Fredrik	1757-1834	Skjöldebrand, Anders Fredrik (1757-1834)	1757	1834	  29
 Fresenius, Johann Philipp	1705-1761	Fresenius, Johann Philipp (1705-1761)	1705	1761	  29
@@ -996,6 +995,7 @@ Orrelius, Magnus	1717-1794	Orrelius, Magnus (1717-1794)	1717	1794	  28
 Scheutz, Georg	1785-1873	Scheutz, Georg (1785-1873)	1785	1873	  28
 Odel, Anders	1718-1773	Odel, Anders (1718-1773)	1718	1773	  28
 Höpken, Anders Johan von	1712-1789	Höpken, Anders Johan Von (1712-1789)	1712	1789	  28
+Hermelin, Olof	1658-1709	Hermelin, Olof (1658-1709)	1658	1709	  28
 Arvidsson, Adolf Ivar	1791-1858	Arvidsson, Adolf Ivar (1791-1858)	1791	1858	  28
 Wittrock, Veit Brecher	1839-1914	Wittrock, Veit Brecher (1839-1914)	1839	1914	  28
 Reuter, Jonatan	1859-1947	Reuter, Jonatan (1859-1947)	1859	1947	  28
@@ -3293,7 +3293,7 @@ Jolin, Severin	1852-1919	Jolin, Severin (1852-1919)	1852	1919	  11
 Key-Åberg, Karl	1861-1927	Key-åberg, Karl (1861-1927)	1861	1927	  11
 Helander, Gunnar	1915-2006	Helander, Gunnar (1915-2006)	1915	2006	  11
 Jönsson, Bengt	1849-1911	Jönsson, Bengt (1849-1911)	1849	1911	  11
-Burman, John	d. 1930.	Burman, John (1930-NA)	1930	NA	  11
+Burman, John	d. 1930.	Burman, John	NA	NA	  11
 Boije, Rolf	1863-1930	Boije, Rolf (1863-1930)	1863	1930	  11
 Svenonius, Enevald	1617-1688	Svenonius, Enevald (1617-1688)	1617	1688	  11
 Rudbeckius, Nicolaus Johannis	1622-1676	Rudbeckius, Nicolaus Johannis (1622-1676)	1622	1676	  11
@@ -3684,7 +3684,7 @@ Roth, Carl Anders	1764-1803	Roth, Carl Anders (1764-1803)	1764	1803	  10
 Fryxell, Olof	1806-1900	Fryxell, Olof (1806-1900)	1806	1900	  10
 Theorell, Sven Lorens	1784-1861	Theorell, Sven Lorens (1784-1861)	1784	1861	  10
 Bruce, Johan	1668-e.1736	Bruce, Johan (1668-1736)	1668	1736	  10
-Bennett	d. 1808	Bennett,  (1808-NA)	1808	NA	  10
+Bennett	d. 1808	Bennett, 	NA	NA	  10
 Wassenius, Torsten	1692-1765	Wassenius, Torsten (1692-1765)	1692	1765	  10
 La Serre, Jean Puget de	ca 1600-1665	La Serre, Jean Puget De (1600-1665)	1600	1665	  10
 Schütz, Johann Jacob	1640-1690	Schütz, Johann Jacob (1640-1690)	1640	1690	  10
@@ -3732,7 +3732,7 @@ Runeberg, Edvard Fredric	1721-1802	Runeberg, Edvard Fredric (1721-1802)	1721	180
 Rosenblad, Matthias	1758-1847	Rosenblad, Matthias (1758-1847)	1758	1847	  10
 Montgomery, Gustaf Adolph	1791-1861	Montgomery, Gustaf Adolph (1791-1861)	1791	1861	  10
 Bielke, Nils Adam	1724-1792	Bielke, Nils Adam (1724-1792)	1724	1792	  10
-Giese, Albert	l.1742	Giese, Albert (1742-NA)	1742	NA	  10
+Giese, Albert	l.1742	Giese, Albert	NA	NA	  10
 Luth, Axel P	1708-1781	Luth, Axel P (1708-1781)	1708	1781	  10
 Aurivillius, Pehr Fabian	1756-1829	Aurivillius, Pehr Fabian (1756-1829)	1756	1829	  10
 Floderus, Matthias	1766-1822	Floderus, Matthias (1766-1822)	1766	1822	  10
@@ -4211,7 +4211,7 @@ Wadstein, Elis	1861-1942	Wadstein, Elis (1861-1942)	1861	1942	   9
 Sjöstrand, Nils	1858-1897	Sjöstrand, Nils (1858-1897)	1858	1897	   9
 Rossander, Carl Jacob	1828-1901	Rossander, Carl Jacob (1828-1901)	1828	1901	   9
 Rogberg, Ina	f. 1862	Rogberg, Ina (1862-NA)	1862	NA	   9
-Philp, Hugo W	18??-1906	Philp, Hugo W (1906-NA)	1906	NA	   9
+Philp, Hugo W	18??-1906	Philp, Hugo W	NA	NA	   9
 Jørgensen, Johannes	1866-1956	Jørgensen, Johannes (1866-1956)	1866	1956	   9
 Höglund, Hjalmar	1865-1919	Höglund, Hjalmar (1865-1919)	1865	1919	   9
 Grytzell, Josef	1862-1908	Grytzell, Josef (1862-1908)	1862	1908	   9
@@ -5203,7 +5203,7 @@ Muraeus, Stephanus Laurentii	ca 1610-1675	Muraeus, Stephanus Laurentii (1610-167
 Jonas Magni	1583-1651	Magni, Jonas (1583-1651)	1583	1651	   7
 Hadorph, Johan	1630-1693	Hadorph, Johan (1630-1693)	1630	1693	   7
 Donatus, Aelius	300-talet e.Kr.	Donatus, Aelius (300-NA)	300	NA	   7
-Bodinus, Ericus Jonæ	d. 1696	Bodinus, Ericus Jonæ (1696-NA)	1696	NA	   7
+Bodinus, Ericus Jonæ	d. 1696	Bodinus, Ericus Jonæ	NA	NA	   7
 Nääs, Hans-Erik	1910-1984	Nääs, Hans-erik (1910-1984)	1910	1984	   7
 Baird, Robert	1798-1863	Baird, Robert (1798-1863)	1798	1863	   7
 Backman, Gustaf	f. 1789	Backman, Gustaf (1789-NA)	1789	NA	   7
@@ -5396,7 +5396,6 @@ Göransson, Johan	1712-1769	Göransson, Johan (1712-1769)	1712	1769	   7
 Broocman, Reinerus	1677-1738	Broocman, Reinerus (1677-1738)	1677	1738	   7
 Strahlenberg, Philip Johan von	1677-1747	Strahlenberg, Philip Johan Von (1677-1747)	1677	1747	   7
 Vegesack, Eugène von	1795-1876	Vegesack, Eugène Von (1795-1876)	1795	1876	   7
-Cederström, Anders	1778-1832	Cederström, Anders (1778-1832)	1778	1832	   7
 Hertzman, Johan Adolf	1765-1836	Hertzman, Johan Adolf (1765-1836)	1765	1836	   7
 Ziervogel, Evald	1728-65	Ziervogel, Evald (1728-1765)	1728	1765	   7
 Östergren, Gustaf Adolf	1791-1825	östergren, Gustaf Adolf (1791-1825)	1791	1825	   7
@@ -5911,7 +5910,7 @@ Rollin, Carl Gustaf	1797-1867	Rollin, Carl Gustaf (1797-1867)	1797	1867	   6
 Reuter, Enzio	1867-1951	Reuter, Enzio (1867-1951)	1867	1951	   6
 Prudentius Clemens, Aurelius	348-ca 410.	Prudentius Clemens, Aurelius	NA	NA	   6
 Post, Hans von	1852-1905	Post, Hans Von (1852-1905)	1852	1905	   6
-Pettersson, Victor	18??- 1919	Pettersson, Victor (1919-NA)	1919	NA	   6
+Pettersson, Victor	18??- 1919	Pettersson, Victor	NA	NA	   6
 Paludan-Müller, Caspar	1805-1882	Paludan-müller, Caspar (1805-1882)	1805	1882	   6
 Olsson, August	1844-1917	Olsson, August (1844-1917)	1844	1917	   6
 Odelberg, Wilhelm	1918-2002	Odelberg, Wilhelm (1918-2002)	1918	2002	   6
@@ -5993,7 +5992,6 @@ Stengel, Johan Peterson	1600-t.	Stengel, Johan Peterson (1600-NA)	1600	NA	   6
 Schomerus, Petrus Andreæ	1607-1660	Schomerus, Petrus Andreæ (1607-1660)	1607	1660	   6
 Rudbeckius, Petrus Johannis	1625-1701	Rudbeckius, Petrus Johannis (1625-1701)	1625	1701	   6
 Rimbert	d. 888	Rimbert,  (888-888)	888	NA	   6
-Laurentius Petri	d. ca 1671	Petri, Laurentius (1671-1573)	1671	1573	   6
 Petrus Petrejus	ca 1570-1622	Petrejus, Petrus (1570-1622)	1570	1622	   6
 Palma, Jonas Germundi	ca 1580-1642	Palma, Jonas Germundi (1580-1642)	1580	1642	   6
 Musaeus, Simon	1529-1582	Musaeus, Simon (1529-1582)	1529	1582	   6
@@ -6247,6 +6245,7 @@ Rüdling, Johann Georg	?-1742	Rüdling, Johann Georg (NA-1742)	NA	1742	   6
 Dunckel, David Wilhelm	1793-1851	Dunckel, David Wilhelm (1793-1851)	1793	1851	   6
 Bexell, Sven Peter	1775-1864	Bexell, Sven Peter (1775-1864)	1775	1864	   6
 Ahlqvist, Abraham	1794-1844	Ahlqvist, Abraham (1794-1844)	1794	1844	   6
+Cederström, Anders	1778-1832	Cederström, Anders (1778-1832)	1778	1832	   6
 Eberstein, Carl Johan	1758-1838	Eberstein, Carl Johan (1758-1838)	1758	1838	   6
 Lyth, Henrik	1782-1859	Lyth, Henrik (1782-1859)	1782	1859	   6
 Bergman, Hampus Gustaf	1796-1830	Bergman, Hampus Gustaf (1796-1830)	1796	1830	   6
@@ -6375,7 +6374,7 @@ Liljegren, S. Bodvar	1885-1984	Liljegren, S Bodvar (1885-1984)	1885	1984	   6
 Åkerlund, John	1884-1961	åkerlund, John (1884-1961)	1884	1961	   6
 Widén, Johan	1856-1933.	Widén, Johan (1856-1933)	1856	1933	   6
 Ward, Humphry	1851-1920.	Ward, Humphry (1851-1920)	1851	1920	   6
-Waller, Erik	d. 1944	Waller, Erik (1944-1955)	1944	1955	   6
+Waller, Erik	d. 1944	Waller, Erik (1875-1955)	1875	1955	   6
 Wallace, Alfred Russel	1823-1913	Wallace, Alfred Russel (1823-1913)	1823	1913	   6
 Fichte, Johann Gottlieb	1762-1814	Fichte, Johann Gottlieb (1762-1814)	1762	1814	   6
 Söderberg, Elsa	1880-1972	Söderberg, Elsa (1880-1972)	1880	1972	   6
@@ -6828,7 +6827,7 @@ Zetterholm, Delmar Olof	1905-1969	Zetterholm, Delmar Olof (1905-1969)	1905	1969	
 Weiland, Per	1860-1907	Weiland, Per (1860-1907)	1860	1907	   5
 Warburton, Thomas	1918-	Warburton, Thomas (1918-NA)	1918	NA	   5
 Uppström, Wilhelm	1844-1935	Uppström, Wilhelm (1844-1935)	1844	1935	   5
-Tiselius, Hans A. J:son	d. 1906	Tiselius, Hans A J:son (1906-NA)	1906	NA	   5
+Tiselius, Hans A. J:son	d. 1906	Tiselius, Hans A J:son	NA	NA	   5
 Tigerstedt, Karl Konstantin	1822-1902	Tigerstedt, Karl Konstantin (1822-1902)	1822	1902	   5
 Tigerstedt, Edvard Severin	1858-1911	Tigerstedt, Edvard Severin (1858-1911)	1858	1911	   5
 Bruzelius, Janne	1853-1899	Bruzelius, Janne (1853-1899)	1853	1899	   5
@@ -6982,7 +6981,7 @@ Aurell, Claes Johan Emil	1841-1915	Aurell, Claes Johan Emil (1841-1915)	1841	191
 Aulin, Lars Axel Alfred	1826-1869	Aulin, Lars Axel Alfred (1826-1869)	1826	1869	   5
 Ahlén, Konrad	1846-1941	Ahlén, Konrad (1846-1941)	1846	1941	   5
 Wallenius, Gabriel Andreae	1648-1690	Wallenius, Gabriel Andreae (1648-1690)	1648	1690	   5
-Ungius, Petrus Johannis	d. 1655	Ungius, Petrus Johannis (1655-NA)	1655	NA	   5
+Ungius, Petrus Johannis	d. 1655	Ungius, Petrus Johannis	NA	NA	   5
 Terserus, Adolphus Elai	1604-1659	Terserus, Adolphus Elai (1604-1659)	1604	1659	   5
 Skytte, Lars	ca 1610-1696	Skytte, Lars (1610-1696)	1610	1696	   5
 Schonæus, Cornelius	ca 1541-1611	Schonæus, Cornelius (1541-1611)	1541	1611	   5
@@ -6993,7 +6992,6 @@ Risingh, Johan	ca 1616-1672	Risingh, Johan (1616-1672)	1616	1672	   5
 Phaedrus	ca 20 f.Kr.-40 e.Kr.	Phaedrus, 	NA	NA	   5
 Thomas Petri	d. 1605	Petri, Thomas (1605-NA)	1605	NA	   5
 Oddur Snorrason	ca 1150-1200	Snorrason, Oddur (1150-1200)	1150	1200	   5
-Nicolaus Olai	d. 1657	Olai, Nicolaus (1657-1600)	1657	1600	   5
 Mejer, Johannes	1606-1674	Mejer, Johannes (1606-1674)	1606	1674	   5
 Kloot, Claudius	c:a 1612-1690	Kloot, Claudius (1612-1690)	1612	1690	   5
 Kempe, Axel	1623-1682	Kempe, Axel (1623-1682)	1623	1682	   5
@@ -7015,7 +7013,6 @@ Broman, August Theodor	1825-1863.	Broman, August Theodor (1825-1863)	1825	1863	 
 Bartholin, Caspar	1585-1629	Bartholin, Caspar (1585-1629)	1585	1629	   5
 Lehár, Franz	1870-1948	Lehár, Franz (1870-1948)	1870	1948	   5
 Backman, Carl Johan	1822-1898.	Backman, Carl Johan (1822-1898)	1822	1898	   5
-Cederschiöld, Maria	1856-1935.	Cederschiöld, Maria (1856-1935)	1856	1935	   5
 Bredow, G. G	1773-1814.	Bredow, G G (1773-1814)	1773	1814	   5
 Blomstrand, Fredrik Theodor	1824-1892	Blomstrand, Fredrik Theodor (1824-1892)	1824	1892	   5
 Dieterich, Udo Waldemar	1803-1865	Dieterich, Udo Waldemar (1803-1865)	1803	1865	   5
@@ -7166,7 +7163,7 @@ Kerndörffer, Heinrich August	1769-1846	Kerndörffer, Heinrich August (1769-1846
 Flamén, Pehr Niclas	1785-1823	Flamén, Pehr Niclas (1785-1823)	1785	1823	   5
 Fiévée, Joseph	1767-1839	Fiévée, Joseph (1767-1839)	1767	1839	   5
 La Roche, Sophie von	1731-1807	La Roche, Sophie Von (1731-1807)	1731	1807	   5
-Müller, Gotthelf Friedrich	d. 1814	Müller, Gotthelf Friedrich (1814-NA)	1814	NA	   5
+Müller, Gotthelf Friedrich	d. 1814	Müller, Gotthelf Friedrich	NA	NA	   5
 Le Noble, Eustache	1643-1711	Le Noble, Eustache (1643-1711)	1643	1711	   5
 Lundstedt, G. E	1786-1854	Lundstedt, G E (1786-1854)	1786	1854	   5
 Lund, Peter	1680?-1772	Lund, Peter (1680-1772)	1680	1772	   5
@@ -7230,7 +7227,7 @@ Posse, Mauritz	1712-1787	Posse, Mauritz (1712-1787)	1712	1787	   5
 Molander, Anders Jonsson	1719-1773	Molander, Anders Jonsson (1719-1773)	1719	1773	   5
 Kiesewetter, J. G. C.C	1744-1819	Kiesewetter, J G C c (1744-1819)	1744	1819	   5
 Marsy, François Marie de	1714-1763	Marsy, François Marie De (1714-1763)	1714	1763	   5
-Hardt, Richard von der	d. 1714	Hardt, Richard Von Der (1714-NA)	1714	NA	   5
+Hardt, Richard von der	d. 1714	Hardt, Richard Von Der	NA	NA	   5
 Holmberg, Olof	1727-1793	Holmberg, Olof (1727-1793)	1727	1793	   5
 Eenberg, Johan	d. 1709	Eenberg, Johan (1709-NA)	1709	NA	   5
 Bacon, Francis	1561-1626	Bacon, Francis (1561-1626)	1561	1626	   5
@@ -7482,7 +7479,6 @@ Ohnet, Georges	1848-1918.	Ohnet, Georges (1848-1918)	1848	1918	   5
 Norelius, Axel	f. 1858	Norelius, Axel (1858-NA)	1858	NA	   5
 Nordenskjöld, Rosa	1890-1950	Nordenskjöld, Rosa (1890-1950)	1890	1950	   5
 Möller, Birgit	1898-	Möller, Birgit (1898-NA)	1898	NA	   5
-Heiberg, Johan Ludvig	1854-1928	Heiberg, Johan Ludvig (1854-1928)	1854	1928	   5
 Göranzon, Kurt	1908-1986	Göranzon, Kurt (1908-1986)	1908	1986	   5
 Fremling, Stefan	1894-	Fremling, Stefan (1894-NA)	1894	NA	   5
 Strandberg, James	1883-1942	Strandberg, James (1883-1942)	1883	1942	   5
@@ -8308,10 +8304,11 @@ Bryce, James	1838-1922	Bryce, James (1838-1922)	1838	1922	   4
 Tiliander, Sven Ingemarsson	1637-1710	Tiliander, Sven Ingemarsson (1637-1710)	1637	1710	   4
 Ericus Svenonis	1558-1628	Svenonis, Ericus (1558-1628)	1558	1628	   4
 Schroderus, Ericus Benedicti	1575-1647	Schroderus, Ericus Benedicti (1575-1647)	1575	1647	   4
-Sabancorus, Nicolaus Johannis	d. ca 1621	Sabancorus, Nicolaus Johannis (1621-NA)	1621	NA	   4
+Sabancorus, Nicolaus Johannis	d. ca 1621	Sabancorus, Nicolaus Johannis	NA	NA	   4
 Rosenhane, Schering	1609-1663	Rosenhane, Schering (1609-1663)	1609	1663	   4
 Ragueau, François	d. 1605	Ragueau, François (1605-NA)	1605	NA	   4
 Pfeiff, Johann Jacob	1613-1676	Pfeiff, Johann Jacob (1613-1676)	1613	1676	   4
+Laurentius Petri	d. ca 1671	Petri, Laurentius (NA-1573)	NA	1573	   4
 Jonas Petri Gothus	1587-1644	Gothus, Jonas (1587-1644)	1587	1644	   4
 Petrejus, Johannes	1600-t.	Petrejus, Johannes (1600-NA)	1600	NA	   4
 Ericus Olai	ca 1420-1486	Olai, Ericus (1420-1486)	1420	1486	   4
@@ -8354,6 +8351,7 @@ Broman, Allan	1861-1947	Broman, Allan (1861-1947)	1861	1947	   4
 Andrae, Tor	1885-1947	Andrae, Tor (1885-1947)	1885	1947	   4
 Berlin, Anna Catharina	1801-1882	Berlin, Anna Catharina (1801-1882)	1801	1882	   4
 Agrell, Carl Magnus	1764-1840.	Agrell, Carl Magnus (1764-1840)	1764	1840	   4
+Cederschiöld, Maria	1856-1935.	Cederschiöld, Maria (1856-1935)	1856	1935	   4
 Daae, Ludvig	1834-1910	Daae, Ludvig (1834-1910)	1834	1910	   4
 Schrøder, Ludvig	1836-1908	Schrøder, Ludvig (1836-1908)	1836	1908	   4
 Dahlbäck, Carl Jonas	1829-1907	Dahlbäck, Carl Jonas (1829-1907)	1829	1907	   4
@@ -8430,14 +8428,14 @@ Larson, Leon	1883-1922	Larson, Leon (1883-1922)	1883	1922	   4
 Carlson, Birger	1873-	Carlson, Birger (1873-NA)	1873	NA	   4
 Klingstedt, Mårten Erik	f. 1843	Klingstedt, Mårten Erik (1843-NA)	1843	NA	   4
 Juhlin Dannfelt, Herman	1852-1937.	Juhlin Dannfelt, Herman (1852-1937)	1852	1937	   4
-Jahn, Jakob Julius	18??-1916	Jahn, Jakob Julius (1916-NA)	1916	NA	   4
+Jahn, Jakob Julius	18??-1916	Jahn, Jakob Julius	NA	NA	   4
 Huxley, Thomas Henry	1825-1895	Huxley, Thomas Henry (1825-1895)	1825	1895	   4
 Hesse-Wartegg, Ernst von	1854-1918	Hesse-wartegg, Ernst Von (1854-1918)	1854	1918	   4
 Gustafsson, A. Stef	1869-1949.	Gustafsson, A Stef (1869-1949)	1869	1949	   4
 Granlund, Johannes	1841-1914	Granlund, Johannes (1841-1914)	1841	1914	   4
 Boheman, Mauritz	1858-1908	Boheman, Mauritz (1858-1908)	1858	1908	   4
 Ångström, C. A	1821-1896	ångström, C A (1821-1896)	1821	1896	   4
-Almkvist, Johan Alfred	verksam ca 1880	Almkvist, Johan Alfred (1880-NA)	1880	NA	   4
+Almkvist, Johan Alfred	verksam ca 1880	Almkvist, Johan Alfred	NA	NA	   4
 Wiborgh, Johan Gustaf	1839-1903	Wiborgh, Johan Gustaf (1839-1903)	1839	1903	   4
 Lundgren, Bernhard	1843-1897	Lundgren, Bernhard (1843-1897)	1843	1897	   4
 Blomberg, Albert	1844-1922	Blomberg, Albert (1844-1922)	1844	1922	   4
@@ -8684,7 +8682,7 @@ Stiernswärd, Carl Georg	1767-1825	Stiernswärd, Carl Georg (1767-1825)	1767	182
 Fahlroth, Johan Anders	1766-1850	Fahlroth, Johan Anders (1766-1850)	1766	1850	   4
 Warberg, Petter Johan	1766-1833	Warberg, Petter Johan (1766-1833)	1766	1833	   4
 Hagström, Carl P	1743-1807	Hagström, Carl P (1743-1807)	1743	1807	   4
-Kutscher, Franz Jacob	d. 1821	Kutscher, Franz Jacob (1821-NA)	1821	NA	   4
+Kutscher, Franz Jacob	d. 1821	Kutscher, Franz Jacob	NA	NA	   4
 Schantz, Carl Ludvig von	1681-1734	Schantz, Carl Ludvig Von (1681-1734)	1681	1734	   4
 Harlingson, Samuel Gustaf	1740-1810	Harlingson, Samuel Gustaf (1740-1810)	1740	1810	   4
 Elfsberg, Adolf	1755-1824	Elfsberg, Adolf (1755-1824)	1755	1824	   4
@@ -8797,7 +8795,7 @@ Nordenankar, Johan	1722-1804	Nordenankar, Johan (1722-1804)	1722	1804	   4
 Regnér, Lars	1746-1810	Regnér, Lars (1746-1810)	1746	1810	   4
 Gertten, Carl Mauritz von	1731-98	Gertten, Carl Mauritz Von (1731-1798)	1731	1798	   4
 Wilde, Anders	1725-1795	Wilde, Anders (1725-1795)	1725	1795	   4
-Reftelius, Carl	d. 1758	Reftelius, Carl (1758-NA)	1758	NA	   4
+Reftelius, Carl	d. 1758	Reftelius, Carl	NA	NA	   4
 Löwe, Christian Petter	1700-t.	Löwe, Christian Petter (1700-NA)	1700	NA	   4
 Stålhammar, Carl Leonard	1736-1797	Stålhammar, Carl Leonard (1736-1797)	1736	1797	   4
 Sylvenius, Andreas	1747-1804	Sylvenius, Andreas (1747-1804)	1747	1804	   4
@@ -9028,6 +9026,7 @@ Möller, Axel	f. 1871	Möller, Axel (1871-1896)	1871	1896	   4
 Musäus, Johann Karl August	1735-1787	Musäus, Johann Karl August (1735-1787)	1735	1787	   4
 Hoffmann, Aline	1856-	Hoffmann, Aline (1856-NA)	1856	NA	   4
 Hilldoff, Ernst	1878-1932.	Hilldoff, Ernst (1878-1932)	1878	1932	   4
+Heiberg, Johan Ludvig	1854-1928	Heiberg, Johan Ludvig (1854-1928)	1854	1928	   4
 Hearn, Lafcadio	1850-1904	Hearn, Lafcadio (1850-1904)	1850	1904	   4
 Gränström, Peter Olof	1877-1927	Gränström, Peter Olof (1877-1927)	1877	1927	   4
 Gierow, Arvid	1873-1944	Gierow, Arvid (1873-1944)	1873	1944	   4
@@ -10247,7 +10246,7 @@ Ahlberg, August	1838-1918	Ahlberg, August (1838-1918)	1838	1918	   3
 Zephyrinus, Jonas	ca 1620-1682	Zephyrinus, Jonas (1620-1682)	1620	1682	   3
 Wudrian, Valentin	1584-1625	Wudrian, Valentin (1584-1625)	1584	1625	   3
 Westhius, Samuel	c:a 1635-1679	Westhius, Samuel (1635-1679)	1635	1679	   3
-Wallin, Joseph Petter	d. 1695	Wallin, Joseph Petter (1695-NA)	1695	NA	   3
+Wallin, Joseph Petter	d. 1695	Wallin, Joseph Petter	NA	NA	   3
 Wallenius, Anders	1615-1663	Wallenius, Anders (1615-1663)	1615	1663	   3
 Valeriani, Carolus	1600-t.	Valeriani, Carolus (1600-NA)	1600	NA	   3
 Utter, Peder Månsson	1566-1623	Utter, Peder Månsson (1566-1623)	1566	1623	   3
@@ -10264,12 +10263,13 @@ Stiernhöök, Johan Olofsson	1596-1675	Stiernhöök, Johan Olofsson (1596-1675)	
 Skytte, Johan	1612-1636	Skytte, Johan (1612-1636)	1612	1636	   3
 Savonarola, Girolamo	1452-1498	Savonarola, Girolamo (1452-1498)	1452	1498	   3
 Rosenhane, Gustaf	1619-1684	Rosenhane, Gustaf (1619-1684)	1619	1684	   3
-Reuter, Samuel	d. 1679	Reuter, Samuel (1679-NA)	1679	NA	   3
+Reuter, Samuel	d. 1679	Reuter, Samuel	NA	NA	   3
 Renner, Michael	ca 1660-ca 1698	Renner, Michael (1660-1698)	1660	1698	   3
 Petrides, Martinus	1600-t.	Petrides, Martinus (1600-NA)	1600	NA	   3
 Jacobus Petri	d. 1588	Petri, Jacobus (1588-NA)	1588	NA	   3
 Parasin, Matthias Maximilianus à	fl. 1638-1660	Parasin, Matthias Maximilianus à (1638-1660)	1638	1660	   3
 Olearius, Johannes	1611-1684	Olearius, Johannes (1611-1684)	1611	1684	   3
+Nicolaus Olai	d. 1657	Olai, Nicolaus (NA-1600)	NA	1600	   3
 Mårten Helsing	ca 1525-1568	Helsing, Mårten (1525-1568)	1525	1568	   3
 Niurenius, Nicolaus Petri	d. 1625	Niurenius, Nicolaus Petri (1625-NA)	1625	NA	   3
 Müller, Laurentius	1500-t.	Müller, Laurentius (1500-NA)	1500	NA	   3
@@ -10277,29 +10277,29 @@ Menius, Friedrich	ca 1593-1659	Menius, Friedrich (1593-1659)	1593	1659	   3
 Mathesius, Johannes	1504-1565	Mathesius, Johannes (1504-1565)	1504	1565	   3
 Luth, Johannes Olai	1630-1677	Luth, Johannes Olai (1630-1677)	1630	1677	   3
 Loftander, Nicolaus Olavi	1622-1666	Loftander, Nicolaus Olavi (1622-1666)	1622	1666	   3
-Petrus Laurentii	d. 1628 l. 1629	Laurentii, Petrus (1628-1629)	1628	1629	   3
+Petrus Laurentii	d. 1628 l. 1629	Laurentii, Petrus (NA-1683)	NA	1683	   3
 Lannerus, Abrahamus Jonae	1638-1697	Lannerus, Abrahamus Jonae (1638-1697)	1638	1697	   3
-Lagus, Gabriel Josephi	d. 1709	Lagus, Gabriel Josephi (1709-NA)	1709	NA	   3
+Lagus, Gabriel Josephi	d. 1709	Lagus, Gabriel Josephi	NA	NA	   3
 Kylander, Daniel Jonae	1611-1641	Kylander, Daniel Jonae (1611-1641)	1611	1641	   3
 Kuuth, Johannes Petri	1600-t.	Kuuth, Johannes Petri (1600-NA)	1600	NA	   3
 Krokius, Nicolaus	1575-1646	Krokius, Nicolaus (1575-1646)	1575	1646	   3
 Petrus Johannis Gothus	1530-1616	Gothus, Petrus (1530-1616)	1530	1616	   3
 Jakob	1566-1625	Jakob,  (1566-1625)	1566	1625	   3
 Nicolaus Jacobi	1578-1655	Jacobi, Nicolaus (1578-1655)	1578	1655	   3
-Humerus, Zacharias Laurentii	d. 1650	Humerus, Zacharias Laurentii (1650-NA)	1650	NA	   3
-Hermann, Martin Friedrich	d. 1698	Hermann, Martin Friedrich (1698-NA)	1698	NA	   3
+Humerus, Zacharias Laurentii	d. 1650	Humerus, Zacharias Laurentii	NA	NA	   3
+Hermann, Martin Friedrich	d. 1698	Hermann, Martin Friedrich	NA	NA	   3
 Herbinius, Johannes	1633-1676	Herbinius, Johannes (1633-1676)	1633	1676	   3
-Henckell, Balthasar	d. 1643	Henckell, Balthasar (1643-NA)	1643	NA	   3
+Henckell, Balthasar	d. 1643	Henckell, Balthasar	NA	NA	   3
 Heinl, Johannes	1600-t.	Heinl, Johannes (1600-NA)	1600	NA	   3
 Hedengran, Ambrosius	1660-1741	Hedengran, Ambrosius (1660-1741)	1660	1741	   3
 Gyllenius, Petrus	1622-1675	Gyllenius, Petrus (1622-1675)	1622	1675	   3
 Gutermuth, Coelestin Friedrich	d. 1702	Gutermuth, Coelestin Friedrich (1702-NA)	1702	NA	   3
 Gripenhielm, Emund	1622-1675	Gripenhielm, Emund (1622-1675)	1622	1675	   3
-Grimsten, Jonas Simonis	d. 1717	Grimsten, Jonas Simonis (1717-NA)	1717	NA	   3
-Fischer, Dionysius	d. efter 1642	Fischer, Dionysius (1642-NA)	1642	NA	   3
+Grimsten, Jonas Simonis	d. 1717	Grimsten, Jonas Simonis	NA	NA	   3
+Fischer, Dionysius	d. efter 1642	Fischer, Dionysius	NA	NA	   3
 Felgenhauer, Paul	1600-t.	Felgenhauer, Paul (1600-NA)	1600	NA	   3
 Fabricius, Jacobus	1593-1654	Fabricius, Jacobus (1593-1654)	1593	1654	   3
-Petrus Eschilli	d. 1651	Eschilli, Petrus (1651-NA)	1651	NA	   3
+Petrus Eschilli	d. 1651	Eschilli, Petrus	NA	NA	   3
 Mornay, Philippe de	1549-1623	Mornay, Philippe De (1549-1623)	1549	1623	   3
 Dalius, Sveno	1604-1693	Dalius, Sveno (1604-1693)	1604	1693	   3
 Dalinus, Samuel Danielis	d. 1674	Dalinus, Samuel Danielis (1674-NA)	1674	NA	   3
@@ -10307,13 +10307,13 @@ Cyprianus	ca 200-258.	Cyprianus, 	NA	NA	   3
 Coyet, Wilhelm Julius	1647-1709	Coyet, Wilhelm Julius (1647-1709)	1647	1709	   3
 Chærberus, Josephus Svenonis	d. 1651	Chærberus, Josephus Svenonis (1651-NA)	1651	NA	   3
 Carolstadius, Laurentius Johannis	1600-t.	Carolstadius, Laurentius Johannis (1600-NA)	1600	NA	   3
-Carolstadius, Johannes Jonae	d. 1671	Carolstadius, Johannes Jonae (1671-NA)	1671	NA	   3
+Carolstadius, Johannes Jonae	d. 1671	Carolstadius, Johannes Jonae	NA	NA	   3
 Cabiljau, Johannes	1600-1652	Cabiljau, Johannes (1600-1652)	1600	1652	   3
 Buddaeus, Nicolaus Suenonis	1595-1653	Buddaeus, Nicolaus Suenonis (1595-1653)	1595	1653	   3
 Brodinus, Andreas Canuti	ca 1630-1674	Brodinus, Andreas Canuti (1630-1674)	1630	1674	   3
 Brask, Samuel Petri	1613-1668	Brask, Samuel Petri (1613-1668)	1613	1668	   3
 Borastus, Gregorius Laurentii	1584-1656	Borastus, Gregorius Laurentii (1584-1656)	1584	1656	   3
-Bergius, Olaus Nicolai	d. ca 1670	Bergius, Olaus Nicolai (1670-NA)	1670	NA	   3
+Bergius, Olaus Nicolai	d. ca 1670	Bergius, Olaus Nicolai	NA	NA	   3
 Ericus Benedicti	1600-t.	Benedicti, Ericus (1600-NA)	1600	NA	   3
 Aroselius, Carl	1658-1690	Aroselius, Carl (1658-1690)	1658	1690	   3
 Arctander, Niels Lauridssen	d. 1616	Arctander, Niels Lauridssen (1616-NA)	1616	NA	   3
@@ -12355,7 +12355,7 @@ Bruse, Pehr	verksam ca 1945	Bruse, Pehr (1945-NA)	1945	NA	   2
 Percy, Gösta	1910-1998	Percy, Gösta (1910-1998)	1910	1998	   2
 Zedlitz, Joseph Christian von	1790-1862	Zedlitz, Joseph Christian Von (1790-1862)	1790	1862	   2
 Linder, Theodor	1818-1854	Linder, Theodor (1818-1854)	1818	1854	   2
-Hermannides, Rutgerus	d. 1680	Hermannides, Rutgerus (1680-NA)	1680	NA	   2
+Hermannides, Rutgerus	d. 1680	Hermannides, Rutgerus	NA	NA	   2
 Nordenström, Magnus N	1722-1790	Nordenström, Magnus N (1722-1790)	1722	1790	   2
 Hill, Joe	1879-1915	Hill, Joe (1879-1915)	1879	1915	   2
 Creiman, Anders	d. 1707	Creiman, Anders (1707-1707)	1707	NA	   2
@@ -12736,7 +12736,7 @@ Schoultz, Gösta von	1914-2003	Schoultz, Gösta Von (1914-2003)	1914	2003	   2
 Bohéme	1921-1967	Bohéme,  (1921-1967)	1921	1967	   2
 Schmidt, Måtte	1868--1929	Schmidt, Måtte (1868-1929)	1868	1929	   2
 Schlippenbach, Albert von	f. 1859	Schlippenbach, Albert Von (1859-NA)	1859	NA	   2
-Schlender, I. H	d. 1928.	Schlender, I H (1928-NA)	1928	NA	   2
+Schlender, I. H	d. 1928.	Schlender, I H	NA	NA	   2
 Schlegel, Friedrich	1772-1829.	Schlegel, Friedrich (1772-1829)	1772	1829	   2
 Schmidt-Phiseldeck, Kay	1894-1970	Schmidt-phiseldeck, Kay (1894-1970)	1894	1970	   2
 Schiller, Axel Lewton	1829-1907	Schiller, Axel Lewton (1829-1907)	1829	1907	   2
@@ -12987,7 +12987,7 @@ Martialis	ca 40-104	Martialis, 	NA	NA	   2
 Martin, Louis Aimé	1786-1847	Martin, Louis Aimé (1786-1847)	1786	1847	   2
 Malmgren, Anders Johan	1834-1897	Malmgren, Anders Johan (1834-1897)	1834	1897	   2
 Skúli Magnússon	1711-1794	Magnússon, Skúli (1711-1794)	1711	1794	   2
-Lyth	1962-	Lyth,  (1962-NA)	1962	NA	   2
+Lyth	1962-	Lyth, 	NA	NA	   2
 Lybeck, Sebastian	1929-	Lybeck, Sebastian (1929-NA)	1929	NA	   2
 Lybeck, Paul Werner	1861-1911	Lybeck, Paul Werner (1861-1911)	1861	1911	   2
 Lysias	ca 445 - ca 380 f. Kr.	Lysias, 	NA	NA	   2
@@ -13520,7 +13520,7 @@ Andersson, Nils	1864-1921	Andersson, Nils (1864-1921)	1864	1921	   2
 Andersson, Otto	1898-1983	Andersson, Otto (1898-1983)	1898	1983	   2
 Andersson, Nils Axel	1891	Andersson, Nils Axel (1891-NA)	1891	NA	   2
 Andersson, Andreas Hugo	1878	Andersson, Andreas Hugo (1878-NA)	1878	NA	   2
-Andersson, Gunnar	d. 1937	Andersson, Gunnar (1937-1928)	1937	1928	   2
+Andersson, Gunnar	d. 1937	Andersson, Gunnar (1865-1928)	1865	1928	   2
 Andersson, Carl August	1841-1912	Andersson, Carl August (1841-1912)	1841	1912	   2
 Bråkenhielm, Per Reinhold	1796-1878	Bråkenhielm, Per Reinhold (1796-1878)	1796	1878	   2
 Browne, John Ross	1817-1875.	Browne, John Ross (1817-1875)	1817	1875	   2
@@ -13569,7 +13569,7 @@ Bayle, Pierre	1647-1706	Bayle, Pierre (1647-1706)	1647	1706	   2
 Barlaeus, Caspar	1584-1648	Barlaeus, Caspar (1584-1648)	1584	1648	   2
 Barfoth, Andreas	1738-1819	Barfoth, Andreas (1738-1819)	1738	1819	   2
 Bannbers, Ola	1887-1958	Bannbers, Ola (1887-1958)	1887	1958	   2
-Bellerive, Jules-Alexis-Bernard	d. 1770	Bellerive, Jules-alexis-bernard (1770-NA)	1770	NA	   2
+Bellerive, Jules-Alexis-Bernard	d. 1770	Bellerive, Jules-alexis-bernard	NA	NA	   2
 Backman, Johan Harder	1790-1862	Backman, Johan Harder (1790-1862)	1790	1862	   2
 Avellan, Gustaf Adolf	1785-1859	Avellan, Gustaf Adolf (1785-1859)	1785	1859	   2
 Banck, Majt	1911-1993	Banck, Majt (1911-1993)	1911	1993	   2
@@ -13602,7 +13602,7 @@ Zader, Jacob	1555-1613	Zader, Jacob (1555-1613)	1555	1613	   2
 Wärnschöld, Johan	1610-1674	Wärnschöld, Johan (1610-1674)	1610	1674	   2
 Wivallius, Lars	-1605-1669	Wivallius, Lars (1605-1669)	1605	1669	   2
 Wennæsius, Erik	1641-1684	Wennæsius, Erik (1641-1684)	1641	1684	   2
-Wanochius, Andreas Jacobi	d. 1700	Wanochius, Andreas Jacobi (1700-NA)	1700	NA	   2
+Wanochius, Andreas Jacobi	d. 1700	Wanochius, Andreas Jacobi	NA	NA	   2
 Wallander, Sigvardus Olai	1600-t.	Wallander, Sigvardus Olai (1600-NA)	1600	NA	   2
 Walgesten, Thomas Rasmussen	1600-t.	Walgesten, Thomas Rasmussen (1600-NA)	1600	NA	   2
 Wagner, Johann	1559-1622	Wagner, Johann (1559-1622)	1559	1622	   2
@@ -13610,13 +13610,13 @@ Vogel, Christian	1600-t.	Vogel, Christian (1600-NA)	1600	NA	   2
 Usselinx, Willem	1567-ca 1647	Usselinx, Willem (1567-1647)	1567	1647	   2
 Ungius, Nicolaus Theodori	ca 1600-1653	Ungius, Nicolaus Theodori (1600-1653)	1600	1653	   2
 Ulvichius, Johannes Jonae	1600-t.	Ulvichius, Johannes Jonae (1600-NA)	1600	NA	   2
-Ulfsparre, Christer Ivarsson	d. före 1633	Ulfsparre, Christer Ivarsson (1633-NA)	1633	NA	   2
+Ulfsparre, Christer Ivarsson	d. före 1633	Ulfsparre, Christer Ivarsson	NA	NA	   2
 Ublenius, Petrus Nicolai	1600-t.	Ublenius, Petrus Nicolai (1600-NA)	1600	NA	   2
 Trottonius, Petrus	1600-t.	Trottonius, Petrus (1600-NA)	1600	NA	   2
 Tribauer, Esaias	1500-t.	Tribauer, Esaias (1500-NA)	1500	NA	   2
 Trautman, Wolfgang Christian	1600-t.	Trautman, Wolfgang Christian (1600-NA)	1600	NA	   2
 Titelbach, Johannes	1600-t.	Titelbach, Johannes (1600-NA)	1600	NA	   2
-Thorinus, Andreas Nicolai	d. 1670	Thorinus, Andreas Nicolai (1670-NA)	1670	NA	   2
+Thorinus, Andreas Nicolai	d. 1670	Thorinus, Andreas Nicolai	NA	NA	   2
 Thomas Magister	verksam 1310-1327	Magister, Thomas (1310-1327)	1310	1327	   2
 Terserus, Daniel Petri	1600-t.	Terserus, Daniel Petri (1600-NA)	1600	NA	   2
 Teppati, Blasius Ludovicus	d. 1676	Teppati, Blasius Ludovicus (1676-NA)	1676	NA	   2
@@ -13636,13 +13636,13 @@ Simmingh, Petrus	d. 1683	Simmingh, Petrus (1683-NA)	1683	NA	   2
 Seybold, Johann Georg	d. ca 1680	Seybold, Johann Georg (1680-NA)	1680	NA	   2
 Schmoll, Barthold Otto	1657-1719	Schmoll, Barthold Otto (1657-1719)	1657	1719	   2
 Scherzer, Johann Adam	1628-1683	Scherzer, Johann Adam (1628-1683)	1628	1683	   2
-Scheiding, Hans Christoffer von	d. före 1669	Scheiding, Hans Christoffer Von (1669-NA)	1669	NA	   2
+Scheiding, Hans Christoffer von	d. före 1669	Scheiding, Hans Christoffer Von	NA	NA	   2
 Schæfer, Johannes Henrici	1657-1725	Schæfer, Johannes Henrici (1657-1725)	1657	1725	   2
 Scarinius, Jonas	1616-1687	Scarinius, Jonas (1616-1687)	1616	1687	   2
 Salé, Romble	1600-t.	Salé, Romble (1600-NA)	1600	NA	   2
 Rösselius, Paulus	1600-t.	Rösselius, Paulus (1600-NA)	1600	NA	   2
-Rålamb, Erik Brodersson	d. 1635	Rålamb, Erik Brodersson (1635-NA)	1635	NA	   2
-Rothovius, Gudmundus Jacobi	d. 1691	Rothovius, Gudmundus Jacobi (1691-NA)	1691	NA	   2
+Rålamb, Erik Brodersson	d. 1635	Rålamb, Erik Brodersson	NA	NA	   2
+Rothovius, Gudmundus Jacobi	d. 1691	Rothovius, Gudmundus Jacobi	NA	NA	   2
 Rosenhielm, Erik	1603-1688	Rosenhielm, Erik (1603-1688)	1603	1688	   2
 Rosenfeldt, Werner von	1639-1710	Rosenfeldt, Werner Von (1639-1710)	1639	1710	   2
 Rolander, Nicolaus Jonae	ca 1585-ca 1676	Rolander, Nicolaus Jonae (1585-1676)	1585	1676	   2
@@ -13651,7 +13651,7 @@ Rhegius, Urbanus	1489-1541	Rhegius, Urbanus (1489-1541)	1489	1541	   2
 Reinhardt, Samuel	1600-t.	Reinhardt, Samuel (1600-NA)	1600	NA	   2
 Reicceus, Johannes	1600-t.	Reicceus, Johannes (1600-NA)	1600	NA	   2
 Ravisius Textor, Joannes	ca1480-1524	Ravisius Textor, Joannes (1480-1524)	1480	1524	   2
-Ramzius, Nicolaus Joannis	d. 1671	Ramzius, Nicolaus Joannis (1671-NA)	1671	NA	   2
+Ramzius, Nicolaus Joannis	d. 1671	Ramzius, Nicolaus Joannis	NA	NA	   2
 Ramus, Petrus	1515-1572	Ramus, Petrus (1515-1572)	1515	1572	   2
 Prytz, Claudius Johannis	1585-1658	Prytz, Claudius Johannis (1585-1658)	1585	1658	   2
 Pourel de Hatrize, Bartholomeus	1600-t.	Pourel De Hatrize, Bartholomeus (1600-NA)	1600	NA	   2
@@ -13659,6 +13659,7 @@ Pollio, Lucas	1536-1583	Pollio, Lucas (1536-1583)	1536	1583	   2
 Poirier, Hélie	1600-t.	Poirier, Hélie (1600-NA)	1600	NA	   2
 Phoenix, Johannes Benedicti	1586-1666	Phoenix, Johannes Benedicti (1586-1666)	1586	1666	   2
 Pflacher, Moses	ca 1549-1589	Pflacher, Moses (1549-1589)	1549	1589	   2
+Laurentius Petri	d. ca 1671	Petri, Laurentius (1671-1573)	1671	1573	   2
 Johannes Petri	1500-t.	Petri, Johannes (1500-NA)	1500	NA	   2
 Petraeus, Æschillus	1593-1657	Petraeus, æschillus (1593-1657)	1593	1657	   2
 Petræus, Ericus	1603-1697	Petræus, Ericus (1603-1697)	1603	1697	   2
@@ -13670,7 +13671,8 @@ Oxenstierna, Bengt Gabrielsson	1623-1702	Oxenstierna, Bengt Gabrielsson (1623-17
 Osiander, Lucas	1534-1604	Osiander, Lucas (1534-1604)	1534	1604	   2
 Oljeqvist, Johan Johansson	f. 1637	Oljeqvist, Johan Johansson (1637-NA)	1637	NA	   2
 Petrus Olai	1601-1680	Olai, Petrus (1601-1680)	1601	1680	   2
-Haraldus Olai	d. 1622	Olai, Haraldus (1622-NA)	1622	NA	   2
+Nicolaus Olai	d. 1657	Olai, Nicolaus (1657-1600)	1657	1600	   2
+Haraldus Olai	d. 1622	Olai, Haraldus	NA	NA	   2
 Laurentius Nicolai	ca 1540-1622	Nicolai, Laurentius (1540-1622)	1540	1622	   2
 Johannes Nicolai	1600-t.	Nicolai, Johannes (1600-NA)	1600	NA	   2
 Nicander, Petrus Magni	d. 1701	Nicander, Petrus Magni (1701-NA)	1701	NA	   2
@@ -13678,21 +13680,21 @@ Nicander, Matthias	1600-t.	Nicander, Matthias (1600-NA)	1600	NA	   2
 Neander, Elias	1600-t.	Neander, Elias (1600-NA)	1600	NA	   2
 Mylius, Christianus Andreæ	1600-t.	Mylius, Christianus Andreæ (1600-NA)	1600	NA	   2
 Moltichius, Stephanus	d. 1654	Moltichius, Stephanus (1654-NA)	1654	NA	   2
-Mollet, André	d. 1665	Mollet, André (1665-NA)	1665	NA	   2
+Mollet, André	d. 1665	Mollet, André	NA	NA	   2
 Moderus, Jonas Laurentii	1612-1677	Moderus, Jonas Laurentii (1612-1677)	1612	1677	   2
 Michael	ca 1500	Michael,  (1500-NA)	1500	NA	   2
 Meyer, Joachim	1600-t.	Meyer, Joachim (1600-NA)	1600	NA	   2
 Mentzer, Balthasar	1614-1679	Mentzer, Balthasar (1614-1679)	1614	1679	   2
 Mentzer, Balthasar	1565-1627	Mentzer, Balthasar (1565-1627)	1565	1627	   2
 Menschewer, Adolphus Adolphi	1600-t.	Menschewer, Adolphus Adolphi (1600-NA)	1600	NA	   2
-Melartopaeus, Johannes Christierni	d. 1679	Melartopaeus, Johannes Christierni (1679-NA)	1679	NA	   2
+Melartopaeus, Johannes Christierni	d. 1679	Melartopaeus, Johannes Christierni	NA	NA	   2
 Meisner, David	1594-1630	Meisner, David (1594-1630)	1594	1630	   2
 Meisner, Balthasar	1587-1626	Meisner, Balthasar (1587-1626)	1587	1626	   2
 Martinius, Matthias	1655-1728	Martinius, Matthias (1655-1728)	1655	1728	   2
 Meerbott, Heinrich	-1643	Meerbott, Heinrich (NA-1643)	NA	1643	   2
 March, Caspar	1629-1677	March, Caspar (1629-1677)	1629	1677	   2
 Malvezzi, Virgilio	1595-1654	Malvezzi, Virgilio (1595-1654)	1595	1654	   2
-Maius, Ditlevus	d. 1670	Maius, Ditlevus (1670-NA)	1670	NA	   2
+Maius, Ditlevus	d. 1670	Maius, Ditlevus	NA	NA	   2
 Lykosander, Jacobus Johannis	1600-t.	Lykosander, Jacobus Johannis (1600-NA)	1600	NA	   2
 Lilly, William	1602-1681	Lilly, William (1602-1675)	1602	1675	   2
 Lilietinus, Johannes Danielis	1600-t.	Lilietinus, Johannes Danielis (1600-NA)	1600	NA	   2
@@ -13703,15 +13705,15 @@ Lemwijk, Olof Swensson	ca. 1640-ca. 1677	Lemwijk, Olof Swensson (1640-1677)	1640
 Magnus Laurentii	1600-t.	Laurentii, Magnus (1600-NA)	1600	NA	   2
 Andreas Laurentii	-1688	Laurentii, Andreas (NA-1688)	NA	1688	   2
 Lagerfelt (Fortelius), Israel Israelis	-1684	Lagerfelt Fortelius, Israel Israelis (NA-1684)	NA	1684	   2
-Laelius, Laurentius Johannis	d. 1603	Laelius, Laurentius Johannis (1603-NA)	1603	NA	   2
+Laelius, Laurentius Johannis	d. 1603	Laelius, Laurentius Johannis	NA	NA	   2
 Köler, Johann	1641-1712	Köler, Johann (1641-1712)	1641	1712	   2
-Kylander, Haquinus Andreae	d. 1669	Kylander, Haquinus Andreae (1669-NA)	1669	NA	   2
+Kylander, Haquinus Andreae	d. 1669	Kylander, Haquinus Andreae	NA	NA	   2
 Koskull, Andreas	1600-t.	Koskull, Andreas (1600-NA)	1600	NA	   2
 Klingenstierna, Zacharias Laurentii	ca 1610-1671	Klingenstierna, Zacharias Laurentii (1610-1671)	1610	1671	   2
 Kirstenius, Petrus	1577-1640	Kirstenius, Petrus (1577-1640)	1577	1640	   2
 Keyser, Henrik	1640-1699	Keyser, Henrik (1640-1699)	1640	1699	   2
 Kellingius, Johannes Petri	d. 1679	Kellingius, Johannes Petri (1679-NA)	1679	NA	   2
-Keckonius, Andreas Johannis	d. 1675	Keckonius, Andreas Johannis (1675-NA)	1675	NA	   2
+Keckonius, Andreas Johannis	d. 1675	Keckonius, Andreas Johannis	NA	NA	   2
 Karl	1200-t.	Karl,  (1200-NA)	1200	NA	   2
 Julenius, Jacobus Zachariae	1600-t.	Julenius, Jacobus Zachariae (1600-NA)	1600	NA	   2
 Judex, Matthaeus	1528-1564	Judex, Matthaeus (1528-1564)	1528	1564	   2
@@ -13719,11 +13721,11 @@ Sveno Jonae	-1642	Jonae, Sveno (NA-1642)	NA	1642	   2
 Johan	1589-1618	Johan,  (1589-1618)	1589	1618	   2
 Jacobi, Leonhardus	d. 1570	Jacobi, Leonhardus (1570-NA)	1570	NA	   2
 Isopedius, Elias Petri	1613-1693	Isopedius, Elias Petri (1613-1693)	1613	1693	   2
-Insulaeus, Olaus Nicolai H	d. 1660	Insulaeus, Olaus Nicolai H (1660-NA)	1660	NA	   2
+Insulaeus, Olaus Nicolai H	d. 1660	Insulaeus, Olaus Nicolai H	NA	NA	   2
 Ilsbodinus, Georgius Matthiae	1600-t.	Ilsbodinus, Georgius Matthiae (1600-NA)	1600	NA	   2
-Humerus, Johannes Laurentii	d. 1673	Humerus, Johannes Laurentii (1673-NA)	1673	NA	   2
+Humerus, Johannes Laurentii	d. 1673	Humerus, Johannes Laurentii	NA	NA	   2
 Hoppener, Johannes	1600-t.	Hoppener, Johannes (1600-NA)	1600	NA	   2
-Hiärne, Erlandus Erlandi	d. 1687	Hiärne, Erlandus Erlandi (1687-NA)	1687	NA	   2
+Hiärne, Erlandus Erlandi	d. 1687	Hiärne, Erlandus Erlandi	NA	NA	   2
 Himselius, Gebhardus	d. 1676	Himselius, Gebhardus (1676-NA)	1676	NA	   2
 Hildebrand, Wolfgang	1600-t.	Hildebrand, Wolfgang (1600-NA)	1600	NA	   2
 Hermann, Johann	1585-1647	Hermann, Johann (1585-1647)	1585	1647	   2
@@ -13732,35 +13734,35 @@ Hemmingus Henrici	d. 1619	Henrici, Hemmingus (1619-NA)	1619	NA	   2
 Helwig, Christoph	1581-1617	Helwig, Christoph (1581-1617)	1581	1617	   2
 Heidenrich, Christian	1600-t.	Heidenrich, Christian (1600-NA)	1600	NA	   2
 Halmaeus, Franciscus Davidis	1600-t.	Halmaeus, Franciscus Davidis (1600-NA)	1600	NA	   2
-Hagelsten, Sven Magni	d. 1670	Hagelsten, Sven Magni (1670-NA)	1670	NA	   2
+Hagelsten, Sven Magni	d. 1670	Hagelsten, Sven Magni	NA	NA	   2
 Hadorph, Johan	1665?-1695	Hadorph, Johan (1665-1695)	1665	1695	   2
-Gyllenstierna, Catharina	d. 1683	Gyllenstierna, Catharina (1683-NA)	1683	NA	   2
+Gyllenstierna, Catharina	d. 1683	Gyllenstierna, Catharina	NA	NA	   2
 Gripenhielm, Carl	1655-1694	Gripenhielm, Carl (1655-1694)	1655	1694	   2
 Granberg, Lars Bengtson	1600-t.	Granberg, Lars Bengtson (1600-NA)	1600	NA	   2
-Graan, Olaus Stephani	d. 1690	Graan, Olaus Stephani (1690-1689)	1690	1689	   2
+Graan, Olaus Stephani	d. 1690	Graan, Olaus Stephani (1620-1689)	1620	1689	   2
 Glaser, Petrus	1500-t.	Glaser, Petrus (1500-NA)	1500	NA	   2
 Gesenius, Justus	1601-1671	Gesenius, Justus (1601-1671)	1601	1671	   2
-Gertner, Christophorus	d. 1689	Gertner, Christophorus (1689-NA)	1689	NA	   2
+Gertner, Christophorus	d. 1689	Gertner, Christophorus	NA	NA	   2
 Geier, Martin	1614-1680	Geier, Martin (1614-1680)	1614	1680	   2
-Gallius, Stephanus	d. 1647	Gallius, Stephanus (1647-NA)	1647	NA	   2
+Gallius, Stephanus	d. 1647	Gallius, Stephanus	NA	NA	   2
 Gadh, Hemming	ca 1450-1520	Gadh, Hemming (1450-1520)	1450	1520	   2
 Gadd, Gabriel Magni	1614-1653	Gadd, Gabriel Magni (1614-1653)	1614	1653	   2
 Frisius, Johannes Arvidi	1613-1672	Frisius, Johannes Arvidi (1613-1672)	1613	1672	   2
-Frediani, Ambrosio	d. 1670	Frediani, Ambrosio (1670-NA)	1670	NA	   2
+Frediani, Ambrosio	d. 1670	Frediani, Ambrosio	NA	NA	   2
 Fougdonius, Josephus Matthiae	1562-1656	Fougdonius, Josephus Matthiae (1562-1656)	1562	1656	   2
 Forladius, Jacob	1625-1674	Forladius, Jacob (1625-1674)	1625	1674	   2
 Florander, Johannes Haquini	1617-1707	Florander, Johannes Haquini (1617-1707)	1617	1707	   2
 Flachsenius, Jacobus Henrici	1633-1694	Flachsenius, Jacobus Henrici (1633-1694)	1633	1694	   2
-Fitinghoff, Erik von	d. 1655	Fitinghoff, Erik Von (1655-NA)	1655	NA	   2
+Fitinghoff, Erik von	d. 1655	Fitinghoff, Erik Von	NA	NA	   2
 Ertman, Israel	1600-t.	Ertman, Israel (1600-NA)	1600	NA	   2
-Ericus Erici	d. ca 1615	Erici, Ericus (1615-NA)	1615	NA	   2
+Ericus Erici	d. ca 1615	Erici, Ericus	NA	NA	   2
 Enebergh, Salomon L	-1667	Enebergh, Salomon L (NA-1667)	NA	1667	   2
-Enaeus, Andreas Nicolai	d. 1694	Enaeus, Andreas Nicolai (1694-NA)	1694	NA	   2
+Enaeus, Andreas Nicolai	d. 1694	Enaeus, Andreas Nicolai	NA	NA	   2
 Elingius, Laurentius Ingevaldi	1640-1687	Elingius, Laurentius Ingevaldi (1640-1687)	1640	1687	   2
 Dress, Otto	1626-1697	Dress, Otto (1626-1697)	1626	1697	   2
 Dilherr, Johann Michael	1604-1669	Dilherr, Johann Michael (1604-1669)	1604	1669	   2
 Decenius, Matthias	1599-1663	Decenius, Matthias (1599-1663)	1599	1663	   2
-Crucelius, Nicolaus	d. 1717	Crucelius, Nicolaus (1717-NA)	1717	NA	   2
+Crucelius, Nicolaus	d. 1717	Crucelius, Nicolaus	NA	NA	   2
 Cordinsulanus, Henricus Olai	1600-t.	Cordinsulanus, Henricus Olai (1600-NA)	1600	NA	   2
 Columbus, Jonas Svenonis	1586-1663	Columbus, Jonas Svenonis (1586-1663)	1586	1663	   2
 Columbus, Johannes	1640-1684	Columbus, Johannes (1640-1684)	1640	1684	   2
@@ -13769,7 +13771,7 @@ Cirrhaeus, Magnus Laurentii	1605-1674	Cirrhaeus, Magnus Laurentii (1605-1674)	16
 Chytræus, David	1530-1600	Chytræus, David (1530-1600)	1530	1600	   2
 Chevreau, Urbain	1613-1701	Chevreau, Urbain (1613-1701)	1613	1701	   2
 Chemnitz, Martin	1522-1586	Chemnitz, Martin (1522-1586)	1522	1586	   2
-Catonius, Sveno Holgeri	d. 1648	Catonius, Sveno Holgeri (1648-NA)	1648	NA	   2
+Catonius, Sveno Holgeri	d. 1648	Catonius, Sveno Holgeri	NA	NA	   2
 Cato, Marcus Porcius	234-149 f.Kr.	Cato, Marcus Porcius	NA	NA	   2
 Casmann, Otto	1562-1607	Casmann, Otto (1562-1607)	1562	1607	   2
 Calovius, Abraham	1612-1686	Calovius, Abraham (1612-1686)	1612	1686	   2
@@ -13779,7 +13781,7 @@ Brandtlicht, Berent	1600-t.	Brandtlicht, Berent (1600-NA)	1600	NA	   2
 Claudius Botvidi	1573-1646	Botvidi, Claudius (1573-1646)	1573	1646	   2
 Bohl, Anders Andersson	1626?-1659?	Bohl, Anders Andersson (1626-1659)	1626	1659	   2
 Boeclerus, Johannes Henricus	1611-1672	Boeclerus, Johannes Henricus (1611-1672)	1611	1672	   2
-Bock, Petrus Jonæ	d. 1654	Bock, Petrus Jonæ (1654-NA)	1654	NA	   2
+Bock, Petrus Jonæ	d. 1654	Bock, Petrus Jonæ	NA	NA	   2
 Bock, Michael	1500-t.	Bock, Michael (1500-NA)	1500	NA	   2
 Bluttherus, Gunno Brynolphi	1609-1657	Bluttherus, Gunno Brynolphi (1609-1657)	1609	1657	   2
 Binningius, Ericus Johannis	1600-t.	Binningius, Ericus Johannis (1600-NA)	1600	NA	   2
@@ -13790,13 +13792,13 @@ Becker, Eberhard	1600-t.	Becker, Eberhard (1600-NA)	1600	NA	   2
 Spagnoli, Giovanni Battista	1448-1516	Spagnoli, Giovanni Battista (1448-1516)	1448	1516	   2
 Königsmarck, Aurora von	1662-1728	Königsmarck, Aurora Von (1662-1728)	1662	1728	   2
 Habermann, Johann	1516-1590	Habermann, Johann (1516-1590)	1516	1590	   2
-Asp, Magnus Samuelis	d. 1668	Asp, Magnus Samuelis (1668-NA)	1668	NA	   2
-Argillander, Andreas Andreæ	d. 1639	Argillander, Andreas Andreæ (1639-NA)	1639	NA	   2
+Asp, Magnus Samuelis	d. 1668	Asp, Magnus Samuelis	NA	NA	   2
+Argillander, Andreas Andreæ	d. 1639	Argillander, Andreas Andreæ	NA	NA	   2
 Antipapius, Theophilus	1600-t.	Antipapius, Theophilus (1600-NA)	1600	NA	   2
 Petrus Andreæ	1600-t.	Andreæ, Petrus (1600-NA)	1600	NA	   2
-Gabriel Andreæ	d. före 1645	Andreæ, Gabriel (1645-NA)	1645	NA	   2
+Gabriel Andreæ	d. före 1645	Andreæ, Gabriel	NA	NA	   2
 Andreae, Christianus	1600-t.	Andreae, Christianus (1600-NA)	1600	NA	   2
-Alsinius, Christiernus Henrici	d. 1659	Alsinius, Christiernus Henrici (1659-NA)	1659	NA	   2
+Alsinius, Christiernus Henrici	d. 1659	Alsinius, Christiernus Henrici	NA	NA	   2
 Alsbeckius, Matthias Andreæ	d. 1642	Alsbeckius, Matthias Andreæ (1642-NA)	1642	NA	   2
 Adler Salvius, Johan	1590-1652	Adler Salvius, Johan (1590-1652)	1590	1652	   2
 Jänes, Henno	1905-1970	Jänes, Henno (1905-1970)	1905	1970	   2
@@ -14554,7 +14556,7 @@ De Besche, Isac Georg	1748-1825	De Besche, Isac Georg (1748-1825)	1748	1825	   2
 Mannerheim, Lars August	1749-1835	Mannerheim, Lars August (1749-1835)	1749	1835	   2
 Strömbom, Josef	1759-?	Strömbom, Josef (1759-NA)	1759	NA	   2
 Rosborg, Lars	1753-1827	Rosborg, Lars (1753-1827)	1753	1827	   2
-Hamrén, Olof	d. 1744	Hamrén, Olof (1744-NA)	1744	NA	   2
+Hamrén, Olof	d. 1744	Hamrén, Olof	NA	NA	   2
 Humble, Christopher Nilsson	1760-1834	Humble, Christopher Nilsson (1760-1834)	1760	1834	   2
 Greč, Nikolaj Ivanovič	1787-1867	Greč, Nikolaj Ivanovič (1787-1867)	1787	1867	   2
 Werner, Matthias	1712-1779	Werner, Matthias (1712-1779)	1712	1779	   2
@@ -14568,7 +14570,7 @@ Albrecht, Georg	1601-1647	Albrecht, Georg (1601-1647)	1601	1647	   2
 Lundblad, Sven	1789-1860	Lundblad, Sven (1789-1860)	1789	1860	   2
 Wikforss, Jonas	1777-1804	Wikforss, Jonas (1777-1804)	1777	1804	   2
 Nolte, Johann Friedrich	1694-1754	Nolte, Johann Friedrich (1694-1754)	1694	1754	   2
-Giese, Albert	l. 1742	Giese, Albert (1742-NA)	1742	NA	   2
+Giese, Albert	l. 1742	Giese, Albert	NA	NA	   2
 Müller, Wilhelm Christian	1752-1831	Müller, Wilhelm Christian (1752-1831)	1752	1831	   2
 Lundborg, Paul	1742-1800	Lundborg, Paul (1742-1800)	1742	1800	   2
 Restaut, Pierre	1696-1764	Restaut, Pierre (1696-1764)	1696	1764	   2
@@ -14634,7 +14636,7 @@ Schlesinger, Gabriel	1758?-1822	Schlesinger, Gabriel (1758-1822)	1758	1822	   2
 Villars, Nicolas de Montfaucon de	1635-1673	Villars, Nicolas De Montfaucon De (1635-1673)	1635	1673	   2
 Zachariae, Just Friedrich Wilhelm	1726-77	Zachariae, Just Friedrich Wilhelm (1726-1777)	1726	1777	   2
 Saint-Réal, César Vichard de	1639-1692	Saint-réal, César Vichard De (1639-1692)	1639	1692	   2
-Ragotzky, Karl August	d. 1823	Ragotzky, Karl August (1823-NA)	1823	NA	   2
+Ragotzky, Karl August	d. 1823	Ragotzky, Karl August	NA	NA	   2
 La Roche-Guilhem Anne	1644-1710	Anne, La (1644-1710)	1644	1710	   2
 Inchbald, Elizabeth	1753-1821	Inchbald, Elizabeth (1753-1821)	1753	1821	   2
 Contant d'Orville, André Guillaume	1730-1800	Contant D'orville, André Guillaume (1730-1800)	1730	1800	   2
@@ -14716,14 +14718,14 @@ Gresset, Jean Baptiste Louis	1709-1777	Gresset, Jean Baptiste Louis (1709-1777)	
 Garke, Peter Heinrich Christof	1767-1826	Garke, Peter Heinrich Christof (1767-1826)	1767	1826	   2
 Unbeck, Nils	1705-80	Unbeck, Nils (1705-1780)	1705	1780	   2
 Laubender, Bernhard	1764-1815	Laubender, Bernhard (1764-1815)	1764	1815	   2
-Hagel, Carl	?-1800-t.	Hagel, Carl (1800-NA)	1800	NA	   2
+Hagel, Carl	?-1800-t.	Hagel, Carl	NA	NA	   2
 Lindelius, Johan	1663-1712	Lindelius, Johan (1663-1712)	1663	1712	   2
 Hensler, Philipp Gabriel	1733-1805	Hensler, Philipp Gabriel (1733-1805)	1733	1805	   2
 Hierzéel, Johan Gustaf	1721-1761	Hierzéel, Johan Gustaf (1721-1761)	1721	1761	   2
 Oest, Johann Friedrich	1755-1815	Oest, Johann Friedrich (1755-1815)	1755	1815	   2
 Spangenberg, August Gottlieb	1704-92	Spangenberg, August Gottlieb (1704-1792)	1704	1792	   2
 Hartmann, Philipp Karl	1733-1830	Hartmann, Philipp Karl (1733-1830)	1733	1830	   2
-Victorin, Eric	d. 1755	Victorin, Eric (1755-NA)	1755	NA	   2
+Victorin, Eric	d. 1755	Victorin, Eric	NA	NA	   2
 Lagberg, Johan Olof	1789-1856	Lagberg, Johan Olof (1789-1856)	1789	1856	   2
 Petit, Antoine	1718-1794	Petit, Antoine (1718-1794)	1718	1794	   2
 Waenerberg, Johan	1712-1770	Waenerberg, Johan (1712-1770)	1712	1770	   2
@@ -15113,7 +15115,6 @@ Vult von Steyern, Henric Sebastian	1768-1844	Vult Von Steyern, Henric Sebastian 
 Heijkenskjöld, Ludvig Detlof	1784-1852	Heijkenskjöld, Ludvig Detlof (1784-1852)	1784	1852	   2
 Almquist, Erik Abraham	1767-1830	Almquist, Erik Abraham (1767-1830)	1767	1830	   2
 Hyckert, Anders Jansson	1770-1826	Hyckert, Anders Jansson (1770-1826)	1770	1826	   2
-Andersson, Anders	verksam ca 1810	Andersson, Anders (1810-NA)	1810	NA	   2
 Carlheim-Gyllensköld, Carl Edvard	1768-1819	Carlheim-gyllensköld, Carl Edvard (1768-1819)	1768	1819	   2
 Rosenborg, Anders Fredrik	1767-1817	Rosenborg, Anders Fredrik (1767-1817)	1767	1817	   2
 Gyllensvaan, Fredrik Leonard	1784-1864	Gyllensvaan, Fredrik Leonard (1784-1864)	1784	1864	   2
@@ -15455,7 +15456,7 @@ Fahlstedt, Eugène	1851-1935	Fahlstedt, Eugène (1851-1935)	1851	1935	   2
 Fabre, Henri	1823-1915	Fabre, Henri (1823-1915)	1823	1915	   2
 Eschstruth, Nataly von	f. 1860	Eschstruth, Nataly Von (1860-NA)	1860	NA	   2
 Engstrand, Georg	f. 1876	Engstrand, Georg (1876-NA)	1876	NA	   2
-Ekerot, Gunnar	18??-1935	Ekerot, Gunnar (1935-NA)	1935	NA	   2
+Ekerot, Gunnar	18??-1935	Ekerot, Gunnar	NA	NA	   2
 Drachmann, Povl	1887-1941	Drachmann, Povl (1887-1941)	1887	1941	   2
 Dahllöf, Ingeborg	1870-1951	Dahllöf, Ingeborg (1870-1951)	1870	1951	   2
 Daelander, Julius	1880-1936	Daelander, Julius (1880-1936)	1880	1936	   2
@@ -16436,7 +16437,7 @@ Capote, Truman	1924-1984	Capote, Truman (1924-1984)	1924	1984	   2
 Cantzler, Einar	1904-	Cantzler, Einar (1904-NA)	1904	NA	   2
 Bäfverstedt, Bo	1905-1996	Bäfverstedt, Bo (1905-1996)	1905	1996	   2
 Bodén, Bertil	1918-1993	Bodén, Bertil (1918-1993)	1918	1993	   2
-Bladh, Agneta	1946-	Bladh, Agneta (1946-NA)	1946	NA	   2
+Bladh, Agneta	1946-	Bladh, Agneta	NA	NA	   2
 Blackmore, Richard Doddridge	1825-1900	Blackmore, Richard Doddridge (1825-1900)	1825	1900	   2
 Björkman, Gustav	1889-	Björkman, Gustav (1889-NA)	1889	NA	   2
 Björk, Walter	1928-	Björk, Walter (1928-NA)	1928	NA	   2
@@ -16934,7 +16935,7 @@ Nilsson, Per Harald	1875-1925	Nilsson, Per Harald (1875-1925)	1875	1925	   2
 Pehrson, Sven J	f. 1894	Pehrson, Sven J (1894-NA)	1894	NA	   2
 Paban, Agnes	1884-	Paban, Agnes (1884-NA)	1884	NA	   2
 Olsson, Adolv	1886-1958	Olsson, Adolv (1886-1958)	1886	1958	   2
-Ohlsen-Carloz, Carlo H	d. 1934	Ohlsen-carloz, Carlo H (1934-NA)	1934	NA	   2
+Ohlsen-Carloz, Carlo H	d. 1934	Ohlsen-carloz, Carlo H	NA	NA	   2
 O'Flaherty, Liam	1896-1984	O'flaherty, Liam (1896-1984)	1896	1984	   2
 Nyström, Per	1887-	Nyström, Per (1887-1993)	1887	1993	   2
 Nylén, Paul	1892-1976	Nylén, Paul (1892-1976)	1892	1976	   2
@@ -17230,7 +17231,7 @@ Jørgensen, A. D	1840-1897	Jørgensen, A D (1840-1897)	1840	1897	   1
 Studach, Jakob Lorenz	1796-1873	Studach, Jakob Lorenz (1796-1873)	1796	1873	   1
 Sköld, Yngve	1899-1992	Sköld, Yngve (1899-1992)	1899	1992	   1
 Evans, Mary Ann	1819-1880	Evans, Mary Ann (1819-1880)	1819	1880	   1
-Limiers, Henri Philippe de	d. 1725	Limiers, Henri Philippe De (1725-NA)	1725	NA	   1
+Limiers, Henri Philippe de	d. 1725	Limiers, Henri Philippe De	NA	NA	   1
 Düben, Cesar von	1819-1888	Düben, Cesar Von (1819-1888)	1819	1888	   1
 Aristoteles	384-322 f. Kr.	Aristoteles, 	NA	NA	   1
 Brigadere, Anna	1861-1933	Brigadere, Anna (1861-1933)	1861	1933	   1
@@ -17242,10 +17243,10 @@ Westphalen, Engel Christine	1758-1840	Westphalen, Engel Christine (1758-1840)	17
 Kaempf, Saul Isaac	1818-1892	Kaempf, Saul Isaac (1818-1892)	1818	1892	   1
 Rudberg, Karl Leonard	1852-	Rudberg, Karl Leonard (1852-NA)	1852	NA	   1
 Bernadotte, Folke	1895-1948	Bernadotte, Folke (1895-1948)	1895	1948	   1
-Engelholmius, Nicolaus	d. 1693	Engelholmius, Nicolaus (1693-NA)	1693	NA	   1
+Engelholmius, Nicolaus	d. 1693	Engelholmius, Nicolaus	NA	NA	   1
 Sørensen, Niels	1607-1677	Sørensen, Niels (1607-1677)	1607	1677	   1
 Hingherr, Johann Christopher	1604-1678	Hingherr, Johann Christopher (1604-1678)	1604	1678	   1
-Grubb, Petrus	d. 1686	Grubb, Petrus (1686-NA)	1686	NA	   1
+Grubb, Petrus	d. 1686	Grubb, Petrus	NA	NA	   1
 Friesen, Heinrich von	1578-1659‏	Friesen, Heinrich Von (1578-NA)	1578	NA	   1
 Zeämann, Georg	1580-1638	Zeämann, Georg (1580-1638)	1580	1638	   1
 Samson von Himmelstierna, Herman	1579-1643	Samson Von Himmelstierna, Herman (1579-1643)	1579	1643	   1
@@ -17343,9 +17344,9 @@ Berlin, August	1851-1910	Berlin, August (1851-1910)	1851	1910	   1
 Arnberg, Johan Wolter	1832-1900	Arnberg, Johan Wolter (1832-1900)	1832	1900	   1
 Rygert, Torsten	1904-1980	Rygert, Torsten (1904-1980)	1904	1980	   1
 Trueba, Telesforo de	ca 1799-1835	Trueba, Telesforo De (1799-1835)	1799	1835	   1
-Backman, Gustaf	f. 1879	Backman, Gustaf (1879-NA)	1879	NA	   1
+Backman, Gustaf	f. 1879	Backman, Gustaf (1789-NA)	1789	NA	   1
 Kóbor, Thomas	1867-1942	Kóbor, Thomas (1867-1942)	1867	1942	   1
-Torinius, Petrus Jonae	d. ca 1682	Torinius, Petrus Jonae (1682-NA)	1682	NA	   1
+Torinius, Petrus Jonae	d. ca 1682	Torinius, Petrus Jonae	NA	NA	   1
 Lindegård, Bengt	1927-1990	Lindegård, Bengt (1927-1990)	1927	1990	   1
 Wærn, Ingrid	1919-1997	Wærn, Ingrid (1919-1997)	1919	1997	   1
 Egerton, George	1859-1945	Egerton, George (1859-1945)	1859	1945	   1
@@ -17405,7 +17406,7 @@ Pfungst, Arthur	1864-1912	Pfungst, Arthur (1864-1912)	1864	1912	   1
 Leconte, Alfred Étienne	1824-1905	Leconte, Alfred étienne (1824-1905)	1824	1905	   1
 Giørup, Michael	1830-1915	Giørup, Michael (1830-1915)	1830	1915	   1
 Dirckinck-Holmfeld, Constant	1799-1880	Dirckinck-holmfeld, Constant (1799-1880)	1799	1880	   1
-Cursham, Mary Anne	d. 1888	Cursham, Mary Anne (1888-NA)	1888	NA	   1
+Cursham, Mary Anne	d. 1888	Cursham, Mary Anne	NA	NA	   1
 Buschmann, Gotthard von	1810-1883	Buschmann, Gotthard Von (1810-1883)	1810	1883	   1
 Klingberg, Erland Theodor	1866-	Klingberg, Erland Theodor (1866-NA)	1866	NA	   1
 Wickelgren, Johan Lorentz	1775-1844	Wickelgren, Johan Lorentz (1775-1844)	1775	1844	   1
@@ -17426,7 +17427,7 @@ Noreen, Erik Adolf	1826-1894	Noreen, Erik Adolf (1826-1894)	1826	1894	   1
 Lundgren, Laila	1908-	Lundgren, Laila (1908-NA)	1908	NA	   1
 Bagge, Carl Fredrik	1842-1893	Bagge, Carl Fredrik (1842-1893)	1842	1893	   1
 Passerin d'Entrèves, Alessandro	1902-1985	Passerin D'entrèves, Alessandro (1902-1985)	1902	1985	   1
-Nordh, Edvin	verksam 1934	Nordh, Edvin (1934-NA)	1934	NA	   1
+Nordh, Edvin	verksam 1934	Nordh, Edvin	NA	NA	   1
 Marbot, Marcellin de	1782-1854	Marbot, Marcellin De (1782-1854)	1782	1854	   1
 Moreau, Édouard de	1879-1952	Moreau, édouard De (1879-1952)	1879	1952	   1
 Ström, Erik	verksam 1883	Ström, Erik (1883-1983)	1883	1983	   1
@@ -17439,7 +17440,7 @@ Olsson, Paul	verksam 1888	Olsson, Paul (1888-NA)	1888	NA	   1
 Halldin, Gustaf	1882-1968	Halldin, Gustaf (1882-1968)	1882	1968	   1
 Mellström, Adolf	verksam 1897	Mellström, Adolf (1897-NA)	1897	NA	   1
 Lindström, Johan Gabriel	1813-1880	Lindström, Johan Gabriel (1813-1880)	1813	1880	   1
-Jacobsson, Jacob	1917-2000	Jacobsson, Jacob (1917-2000)	1917	2000	   1
+Jacobsson, Jacob	1917-2000	Jacobsson, Jacob	NA	NA	   1
 Jakobsson, Aug	verksam 1893	Jakobsson, Aug (1893-NA)	1893	NA	   1
 Hulthén, Joh	verksam 1898	Hulthén, Joh (1898-NA)	1898	NA	   1
 Granberg, Johan	verksam 1898	Granberg, Johan (1898-NA)	1898	NA	   1
@@ -17731,7 +17732,7 @@ Friis, J. J. F	1815-1879	Friis, J J F (1815-1879)	1815	1879	   1
 Mars, Herbert	1883-	Mars, Herbert (1883-NA)	1883	NA	   1
 Ferré Björn, Thyra	1905-	Ferré Björn, Thyra (1905-NA)	1905	NA	   1
 Franklin, A. W	1856-1941	Franklin, A W (1856-1941)	1856	1941	   1
-Hammarinus, Samuel Benedicti	d. 1665	Hammarinus, Samuel Benedicti (1665-NA)	1665	NA	   1
+Hammarinus, Samuel Benedicti	d. 1665	Hammarinus, Samuel Benedicti	NA	NA	   1
 Nordenskjöld, Knut	1882-1950	Nordenskjöld, Knut (1882-1950)	1882	1950	   1
 Barthelson, Augusta	1833-	Barthelson, Augusta (1833-NA)	1833	NA	   1
 Engberg, Axel Gabriel	1837-	Engberg, Axel Gabriel (1837-NA)	1837	NA	   1
@@ -17758,7 +17759,7 @@ Johansson, Erik	1812-	Johansson, Erik (1812-NA)	1812	NA	   1
 Nordenström, O	verksam 1874	Nordenström, O (1874-NA)	1874	NA	   1
 Dunant, Henri	1828-1910	Dunant, Henri (1828-1910)	1828	1910	   1
 Wiksten, Carl C:son	f. 1888	Wiksten, Carl C:son (1888-NA)	1888	NA	   1
-Scott, George	d. 1874	Scott, George (1874-1874)	1874	NA	   1
+Scott, George	d. 1874	Scott, George (1804-1874)	1804	1874	   1
 Silverstolpe, Gudmund Leonard	1815-1853	Silverstolpe, Gudmund Leonard (1815-1853)	1815	1853	   1
 Personne, Nils	1850-1928	Personne, Nils (1850-1928)	1850	1928	   1
 Hallström, Gunnar	1875-1943	Hallström, Gunnar (1875-1943)	1875	1943	   1
@@ -17829,7 +17830,7 @@ Erdeman, C. G	1800-talet	Erdeman, C G (1800-NA)	1800	NA	   1
 Lombardo, Carlo	1869-1959	Lombardo, Carlo (1869-1959)	1869	1959	   1
 Bassman, George	1914-1997	Bassman, George (1914-1997)	1914	1997	   1
 Wiklander, Lambert	1910-1979	Wiklander, Lambert (1910-1979)	1910	1979	   1
-Enander, Samuel	d. 1843	Enander, Samuel (1843-NA)	1843	NA	   1
+Enander, Samuel	d. 1843	Enander, Samuel	NA	NA	   1
 Cederström, Claes Henrik	1833-1900	Cederström, Claes Henrik (1833-1900)	1833	1900	   1
 Elgström, Per	1780-1810.	Elgström, Per (1780-1810)	1780	1810	   1
 Ellmin, Johannes	1797-1865	Ellmin, Johannes (1797-1865)	1797	1865	   1
@@ -17975,7 +17976,7 @@ Mitts, Ernst August	1891-	Mitts, Ernst August (1891-NA)	1891	NA	   1
 Hering, Eduard von	1799-1881	Hering, Eduard Von (1799-1881)	1799	1881	   1
 Rössel, James	1912-	Rössel, James (1912-NA)	1912	NA	   1
 Örström, Olof	1869-19--	örström, Olof (1869-NA)	1869	NA	   1
-Lindqvist, Uno Leopold	d. 1853	Lindqvist, Uno Leopold (1853-NA)	1853	NA	   1
+Lindqvist, Uno Leopold	d. 1853	Lindqvist, Uno Leopold	NA	NA	   1
 Lindqvist, Fredrika Lovisa	1786-1841	Lindqvist, Fredrika Lovisa (1786-1841)	1786	1841	   1
 Creutz, Lorentz	1678-ca 1695	Creutz, Lorentz (1678-1695)	1678	1695	   1
 Linck, Ulrika Jakobina	1809-	Linck, Ulrika Jakobina (1809-NA)	1809	NA	   1
@@ -18121,6 +18122,7 @@ Wärneryd, Karl-Erik	1927-	Wärneryd, Karl-erik (1927-NA)	1927	NA	   1
 Wærn, Mats	1912-	Wærn, Mats (1912-NA)	1912	NA	   1
 Väisänen, Armas Otto	1890-1969	Väisänen, Armas Otto (1890-1969)	1890	1969	   1
 Fredrikson, Gunnar	1907-1993	Fredrikson, Gunnar (1907-1993)	1907	1993	   1
+Cederschiöld, Maria	1856-1935.	Cederschiöld, Maria	NA	NA	   1
 Wångstedt, Sten Valter	f.1904	Wångstedt, Sten V Alter (1904-NA)	1904	NA	   1
 Wustmann, Erich	1907-1994	Wustmann, Erich (1907-1994)	1907	1994	   1
 Wurst, Raimund Jakob	1800-1845	Wurst, Raimund Jakob (1800-1845)	1800	1845	   1
@@ -18528,7 +18530,7 @@ Timoleon, Archimedes	1862-1933	Timoleon, Archimedes (1862-1933)	1862	1933	   1
 Thomson, William	1746-1817	Thomson, William (1746-1817)	1746	1817	   1
 Thompson, Dorothy	1893-1961	Thompson, Dorothy (1893-1961)	1893	1961	   1
 Thomas, Antoine Léonard	1732-1785	Thomas, Antoine Léonard (1732-1785)	1732	1785	   1
-Sundborg, Johan Vilhelm	d. 1853	Sundborg, Johan Vilhelm (1853-NA)	1853	NA	   1
+Sundborg, Johan Vilhelm	d. 1853	Sundborg, Johan Vilhelm	NA	NA	   1
 Thomson, Thomas	1773-1852	Thomson, Thomas (1773-1852)	1773	1852	   1
 Thomaeus, Ragnar	1842-1915	Thomaeus, Ragnar (1842-1915)	1842	1915	   1
 Thomas, Helen	1877-1967	Thomas, Helen (1877-1967)	1877	1967	   1
@@ -18886,7 +18888,7 @@ Lånström, Knut	1891-1969	Lånström, Knut (1891-1969)	1891	1969	   1
 Lybecker, Fanny	1845-1907	Lybecker, Fanny (1845-1907)	1845	1907	   1
 Lundström, Gerda	1865-1922	Lundström, Gerda (1865-1922)	1865	1922	   1
 Lundholm, Louise	1837-1911	Lundholm, Louise (1837-1911)	1837	1911	   1
-Lundahl, Carl	d. 1855	Lundahl, Carl (1855-NA)	1855	NA	   1
+Lundahl, Carl	d. 1855	Lundahl, Carl	NA	NA	   1
 Lund, Laurentius Emanuel	1870-1935	Lund, Laurentius Emanuel (1870-1935)	1870	1935	   1
 Smith, Nils	1886-1955	Smith, Nils (1886-1955)	1886	1955	   1
 Smith, Harry	1889-1971	Smith, Harry (1889-1971)	1889	1971	   1
@@ -18917,7 +18919,7 @@ Sjögren, Håkan	1818-1896	Sjögren, Håkan (1818-1896)	1818	1896	   1
 Sjögren, Sten Anders Hjalmar	f. 1856, d. 1922	Sjögren, Sten Anders Hj Almar (1856-1922)	1856	1922	   1
 Sjögren, Bertil	1905-1973	Sjögren, Bertil (1905-1973)	1905	1973	   1
 Sjödén, Mathias	f. 1848	Sjödén, M Athias (1848-NA)	1848	NA	   1
-Sjöblom, Fredrik	d. 1966	Sjöblom, Fredrik (1966-NA)	1966	NA	   1
+Sjöblom, Fredrik	d. 1966	Sjöblom, Fredrik	NA	NA	   1
 Sjöberg, Sven-Gösta	1911-	Sjöberg, Sven-gösta (1911-NA)	1911	NA	   1
 Sjöberg, Knut Magnus	f. 1860	Sjöberg, Knut Magnus (1860-NA)	1860	NA	   1
 Sjöberg, Knut Magnus	f. 1860	Sjöberg, K Nut Magnus (1860-NA)	1860	NA	   1
@@ -19018,7 +19020,7 @@ Schultén, Ingrid af	1889-	Schultén, Ingrid Af (1889-NA)	1889	NA	   1
 Johansson, Gunde	1922-1995	Johansson, Gunde (1922-1995)	1922	1995	   1
 Schrott, Anna von	1910-1949	Schrott, Anna Von (1910-1949)	1910	1949	   1
 Schrank, Franz von Paula	1747-1835	Schrank, Franz Von Paula (1747-1835)	1747	1835	   1
-Schoultz, Gösta von	sekelskiftet 1900	Schoultz, Gösta Von (1900-2003)	1900	2003	   1
+Schoultz, Gösta von	sekelskiftet 1900	Schoultz, Gösta Von (1914-2003)	1914	2003	   1
 Schoultz, Carl Johan	1849-1923	Schoultz, Carl Johan (1849-1923)	1849	1923	   1
 Schott, Anton	1866-1945	Schott, Anton (1866-1945)	1866	1945	   1
 Schnippel, E	b. 1847	Schnippel, E (1847-NA)	1847	NA	   1
@@ -19129,7 +19131,7 @@ Saarisalo, Aapeli	1896-	Saarisalo, Aapeli (1896-NA)	1896	NA	   1
 Rörström, Axel Vilhelm Teodor	f. 1904	Rörström, A Xel Vilhelm Teodor (1904-NA)	1904	NA	   1
 Rørdam, Valdemar	1872-1946	Rørdam, Valdemar (1872-1946)	1872	1946	   1
 Tang Kristensen, Evald	1843-1929.	Tang Kristensen, Evald (1843-1929)	1843	1929	   1
-Sahlberg, John	1920-	Sahlberg, John (1920-NA)	1920	NA	   1
+Sahlberg, John	1920-	Sahlberg, John	NA	NA	   1
 Saarinen, Eliel	1873-1950	Saarinen, Eliel (1873-1950)	1873	1950	   1
 Sadelin, Peter Ulric, Ferdinand	1788-	Sadelin, Peter Ulric (1788-NA)	1788	NA	   1
 Rösiö, Birger	1892-	Rösiö, Birger (1892-NA)	1892	NA	   1
@@ -19153,7 +19155,7 @@ Ränk, Gustav	1902-1998	Ränk, Gustav (1902-1998)	1902	1998	   1
 Rydeman, Lamech	1849-1944	Rydeman, Lamech (1849-1944)	1849	1944	   1
 Ryberg, Olof	1905-1996	Ryberg, Olof (1905-1996)	1905	1996	   1
 Rystad, Göran	1925-	Rystad, Göran (1925-NA)	1925	NA	   1
-Rydin, Herman	d. 1930	Rydin, Herman (1930-1930)	1930	NA	   1
+Rydin, Herman	d. 1930	Rydin, Herman (1861-1930)	1861	1930	   1
 Rydin, Karl	1854-1912	Rydin, Karl (1854-1912)	1854	1912	   1
 Rudelius, Karl-Elof	1911-	Rudelius, Karl-elof (1911-NA)	1911	NA	   1
 Runestam, Lucie	1902-2002	Runestam, Lucie (1902-2002)	1902	2002	   1
@@ -19320,9 +19322,10 @@ Howard, Velma Swanston	1868-	Howard, Velma Swanston (1868-NA)	1868	NA	   1
 Hottinger, Christlieb Gotthold	1848-1914	Hottinger, Christlieb Gotthold (1848-1914)	1848	1914	   1
 Hornemann, Jens Wilken	1770-1841	Hornemann, Jens Wilken (1770-1841)	1770	1841	   1
 Holenius, Zacharias	1692-1769	Holenius, Zacharias (1692-1769)	1692	1769	   1
-Hoffmann, Ernst	1880-1952	Hoffmann, Ernst (1880-1952)	1880	1952	   1
+Hoffmann, Ernst	1880-1952	Hoffmann, Ernst	NA	NA	   1
 Hielscher, Kurt	1881-1948	Hielscher, Kurt (1881-1948)	1881	1948	   1
 Hesselaa, Peder	1900-1968	Hesselaa, Peder (1900-1968)	1900	1968	   1
+Heiberg, Johan Ludvig	1854-1928	Heiberg, Johan Ludvig	NA	NA	   1
 Hedin, Alma	f. 1876	Hedin, Alma (1876-1958)	1876	1958	   1
 Hedberg, Gustaf	1859-1920	Hedberg, Gustaf (1859-1920)	1859	1920	   1
 Hedberg, Fridericus	1748-1791	Hedberg, Fridericus (1748-1791)	1748	1791	   1
@@ -19374,7 +19377,7 @@ Collin, Gustaf Adolf	1830-1907	Collin, Gustaf Adolf (1830-1907)	1830	1907	   1
 Coenen, Frans	1866-1936	Coenen, Frans (1866-1936)	1866	1936	   1
 Clavel, Vicente	1888-1967	Clavel, Vicente (1888-1967)	1888	1967	   1
 Christoforos, prins av Grekland	1880	Christoforos, Prins Av Grekland (1880-NA)	1880	NA	   1
-Christensen, Inger	1935-2009.	Christensen, Inger (1935-2009)	1935	2009	   1
+Christensen, Inger	1935-2009.	Christensen, Inger	NA	NA	   1
 Cecchi, Emilio	1884-1966.	Cecchi, Emilio (1884-1966)	1884	1966	   1
 Cassel, Paulus	1821-1892.	Cassel, Paulus (1821-1892)	1821	1892	   1
 Carlsson, Gunnar	1900.	Carlsson, Gunnar (1900-1982)	1900	1982	   1
@@ -20065,7 +20068,7 @@ Martling, Carl Henrik	1925-	Martling, Carl Henrik (1925-NA)	1925	NA	   1
 Martinson, G Martin	1902-	Martinson, G Martin (1902-NA)	1902	NA	   1
 Martinsson, Anders	1930-	Martinsson, Anders (1930-NA)	1930	NA	   1
 Martínez Ruiz, José	1873-1967	Martínez Ruiz, José (1873-1967)	1873	1967	   1
-Martens, Richard	d. 1894	Martens, Richard (1894-NA)	1894	NA	   1
+Martens, Richard	d. 1894	Martens, Richard	NA	NA	   1
 Marriott, Crittenden	1867-1932	Marriott, Crittenden (1867-1932)	1867	1932	   1
 Marr, J. E	1857-1933	Marr, J E (1857-1933)	1857	1933	   1
 Marperger, Paul Jacob	1656-1730	Marperger, Paul Jacob (1656-1730)	1656	1730	   1
@@ -20145,7 +20148,7 @@ Mela, Pomponius	100-talet	Mela, Pomponius	NA	NA	   1
 Malmar, Folke	1890-1947	Malmar, Folke (1890-1947)	1890	1947	   1
 Mattisson, Karl	f. 1877	Mattisson, Karl (1877-NA)	1877	NA	   1
 Mead, Margaret	1901-1978	Mead, Margaret (1901-1978)	1901	1978	   1
-Malmberg, Harald	1883-1971	Malmberg, Harald (1883-1971)	1883	1971	   1
+Malmberg, Harald	1883-1971	Malmberg, Harald (1879-1948)	1879	1948	   1
 Menger, Anton	1841-1906.	Menger, Anton (1841-1906)	1841	1906	   1
 Malmquist, Folke	1899-1959	Malmquist, Folke (1899-1959)	1899	1959	   1
 Malmberg, Viktor	1868-1946	Malmberg, Viktor (1868-1946)	1868	1946	   1
@@ -20541,7 +20544,7 @@ Larsson, Karl Johan f.d. lasarettssyssloman	1874	Larsson, Karl Johan F d Lasaret
 Larsson, Gustaf Ivan rektor	1900	Larsson, Gustaf Ivan Rektor (1900-NA)	1900	NA	   1
 Larsson, Harald ingeniör	1890	Larsson, Harald Ingeniör (1890-NA)	1890	NA	   1
 Larsson, Gustaf	1857-1917	Larsson, Gustaf (1857-1917)	1857	1917	   1
-Larsson, Carl Olof	1915	Larsson, Carl Olof (1915-NA)	1915	NA	   1
+Larsson, Carl Olof	1915	Larsson, Carl Olof	NA	NA	   1
 Larsson, Karl Gunnar kontorist	1909	Larsson, Karl Gunnar Kontorist (1909-NA)	1909	NA	   1
 Larson, Karl Gunnar lektor	1885	Larson, Karl Gunnar Lektor (1885-NA)	1885	NA	   1
 Larsson, Gottfrid	1815	Larsson, Gottfrid (1815-NA)	1815	NA	   1
@@ -20607,7 +20610,7 @@ Kosztolányi, Dezső	1885-1936	Kosztolányi, Dezső (1885-1936)	1885	1936	   1
 Kořínek, Josef Miloslav	1899-1945	Kořínek, Josef Miloslav (1899-1945)	1899	1945	   1
 Kordt, Erich	1903-1969	Kordt, Erich (1903-1969)	1903	1969	   1
 Korch, Morten	1876-1954	Korch, Morten (1876-1954)	1876	1954	   1
-Koppe, Johann Benjamin	1903-1953.	Koppe, Johann Benjamin (1903-1953)	1903	1953	   1
+Koppe, Johann Benjamin	1903-1953.	Koppe, Johann Benjamin (1750-1791)	1750	1791	   1
 Kopitar, Jernej	1780-1844	Kopitar, Jernej (1780-1844)	1780	1844	   1
 Konenkov, Sergej Timofeevič	1874-1971	Konenkov, Sergej Timofeevič (1874-1971)	1874	1971	   1
 Komarov, Vladimir Leontʹevič	1869-1945	Komarov, Vladimir Leontʹevič (1869-1945)	1869	1945	   1
@@ -21073,7 +21076,7 @@ Herrmann, Ernst	f. 1895	Herrmann, Ernst (1895-NA)	1895	NA	   1
 Herrmann, August Lebrecht	1783-1847	Herrmann, August Lebrecht (1783-1847)	1783	1847	   1
 Herodotos	ca 480-ca 420 f.Kr.	Herodotos, 	NA	NA	   1
 Herngård, Erik	1910	Herngård, Erik (1910-NA)	1910	NA	   1
-Hermes, Carl Heinrich	1899-1903	Hermes, Carl Heinrich (1899-1903)	1899	1903	   1
+Hermes, Carl Heinrich	1899-1903	Hermes, Carl Heinrich	NA	NA	   1
 Hermansson, Matthias von	1716-1789	Hermansson, Matthias Von (1716-1789)	1716	1789	   1
 Hermansson, Emanuel	1885-	Hermansson, Emanuel (1885-NA)	1885	NA	   1
 Herling-Grudziński, Gustaw	1919-2000	Herling-grudziński, Gustaw (1919-2000)	1919	2000	   1
@@ -21180,6 +21183,7 @@ Gyllander, Johan Gustaf fil. mag	1807-1837	Gyllander, Johan Gustaf Fil Mag (1807
 Heinsius, Daniel	1580-1655	Heinsius, Daniel (1580-1655)	1580	1655	   1
 Guth, Jirí	1861-1943	Guth, Jirí (1861-1943)	1861	1943	   1
 Gustavsson, Oscar	1892-	Gustavsson, Oscar (1892-1961)	1892	1961	   1
+Gustav	1778-1837	Gustav, 	NA	NA	   1
 Gustafsson, Carl Gustaf	1881	Gustafsson, Carl Gustaf (1881-NA)	1881	NA	   1
 Gustafsson, Reinhold Gottfrid	1867-1932	Gustafsson, Reinhold Gottfrid (1867-1932)	1867	1932	   1
 Gustafsson, Peter Johan	1893	Gustafsson, Peter Johan (1893-NA)	1893	NA	   1
@@ -21426,7 +21430,7 @@ Eriksson, Karl Peter	1861	Eriksson, Karl Peter (1861-NA)	1861	NA	   1
 Eriksson, Karl Gustaf verkmästare	1876	Eriksson, Karl Gustaf Verkmästare (1876-NA)	1876	NA	   1
 Eriksson, Johan	1880	Eriksson, Johan (1880-1938)	1880	1938	   1
 Eriksson, Joel Vilhelm	1883	Eriksson, Joel Vilhelm (1883-NA)	1883	NA	   1
-Ericson, Nils	18??-1964	Ericson, Nils (1964-1870)	1964	1870	   1
+Ericson, Nils	18??-1964	Ericson, Nils (1802-1870)	1802	1870	   1
 Ericson, Hugo Filip	1896	Ericson, Hugo Filip (1896-NA)	1896	NA	   1
 Eriksson, Erik Gustav	1908	Eriksson, Erik Gustav (1908-NA)	1908	NA	   1
 Erikson, Bernt	1921-	Erikson, Bernt (1921-2009)	1921	2009	   1
@@ -21440,7 +21444,7 @@ Ericsson, Antipas	1791	Ericsson, Antipas (1791-NA)	1791	NA	   1
 Ericson, Alfred	1845-1900	Ericson, Alfred (1845-1900)	1845	1900	   1
 Erichsen, Adolfine	1891-	Erichsen, Adolfine (1891-NA)	1891	NA	   1
 Freje, Curt-Henry	1920-	Freje, Curt-henry (1920-NA)	1920	NA	   1
-Forssner, Gunnar	f. 1915	Forssner, Gunnar (1915-NA)	1915	NA	   1
+Forssner, Gunnar	f. 1915	Forssner, Gunnar	NA	NA	   1
 Epicharmos	400-talet f. Kr.	Epicharmos,  (400-NA)	400	NA	   1
 Efraim Syriern	306-373.	Syriern, Efraim	NA	NA	   1
 Engström, Wilhelm	1881-	Engström, Wilhelm (1881-NA)	1881	NA	   1
@@ -21549,7 +21553,7 @@ Hjelt, Lars	1917-	Hjelt, Lars (1917-NA)	1917	NA	   1
 Engelstoft, Christian Thorning	1805-1889	Engelstoft, Christian Thorning (1805-1889)	1805	1889	   1
 Hillefors, Åke	1924-2004	Hillefors, åke (1924-2004)	1924	2004	   1
 Goursat, Edouard	1858-1936	Goursat, Edouard (1858-1936)	1858	1936	   1
-Ekerot, Gunnar	d. 1935	Ekerot, Gunnar (1935-NA)	1935	NA	   1
+Ekerot, Gunnar	d. 1935	Ekerot, Gunnar	NA	NA	   1
 Hirsch, Julius	f. 1847	Hirsch, Julius (1847-NA)	1847	NA	   1
 Holmberg, Ernst Johan	1849-1906	Holmberg, Ernst Johan (1849-1906)	1849	1906	   1
 Hagman, Lucina	1853-1946	Hagman, Lucina (1853-1946)	1853	1946	   1
@@ -21674,7 +21678,7 @@ Holmgren, Hjalmar	1905-	Holmgren, Hjalmar (1905-NA)	1905	NA	   1
 Federbusch, Simon	1892-1969	Federbusch, Simon (1892-1969)	1892	1969	   1
 Hedlund, Hans	1855-1931	Hedlund, Hans (1855-1931)	1855	1931	   1
 Guyau, Jean-Marie	1854-1888	Guyau, Jean-marie (1854-1888)	1854	1888	   1
-Ekman, A. W	f. 1915	Ekman, A W (1915-NA)	1915	NA	   1
+Ekman, A. W	f. 1915	Ekman, A W	NA	NA	   1
 Falb, Rudolf	1838-1903	Falb, Rudolf (1838-1903)	1838	1903	   1
 Harnack, Adolf von	1851-1930	Harnack, Adolf Von (1851-1930)	1851	1930	   1
 Karlsson, Erik	1885-	Karlsson, Erik (1885-NA)	1885	NA	   1
@@ -21773,7 +21777,7 @@ Jansson, Assar	1900-1972	Jansson, Assar (1900-1972)	1900	1972	   1
 Hæggström, Carl Zacharias	1884-1944	Hæggström, Carl Zacharias (1884-1944)	1884	1944	   1
 Heymowski, Adam	1926-1995	Heymowski, Adam (1926-1995)	1926	1995	   1
 Henderson, Hubert Douglas	1890-1952	Henderson, Hubert Douglas (1890-1952)	1890	1952	   1
-Hansson, Sigurd	1929-	Hansson, Sigurd (1929-NA)	1929	NA	   1
+Hansson, Sigurd	1929-	Hansson, Sigurd	NA	NA	   1
 Juhlin, Gottfrid	1863-	Juhlin, Gottfrid (1863-NA)	1863	NA	   1
 Ekblom, Helene Sophie	1790-	Ekblom, Helene Sophie (1790-NA)	1790	NA	   1
 Fritz, Kurt von	1900-1985.	Fritz, Kurt Von (1900-1985)	1900	1985	   1
@@ -22271,7 +22275,7 @@ Anderson, Joseph	1832-1916.	Anderson, Joseph (1832-1916)	1832	1916	   1
 Andersson, John	1868	Andersson, John (1868-1967)	1868	1967	   1
 Anderson, Johan Fredrik	1848	Anderson, Johan Fredrik (1848-NA)	1848	NA	   1
 Andersson, Herman	1856-1909	Andersson, Herman (1856-1909)	1856	1909	   1
-Andersson, C A	1907-1947.	Andersson, C A (1907-1947)	1907	1947	   1
+Andersson, C A	1907-1947.	Andersson, C A	NA	NA	   1
 Andersson, Gustaf Albert löjtnant	1900	Andersson, Gustaf Albert Löjtnant (1900-NA)	1900	NA	   1
 Andersson, Gustaf hemmansäg	1816	Andersson, Gustaf Hemmansäg (1816-NA)	1816	NA	   1
 Budd, Lillian	1897-1989	Budd, Lillian (1897-1989)	1897	1989	   1
@@ -22336,7 +22340,7 @@ Bortkiewicz, Ladislaus von	1868-1931	Bortkiewicz, Ladislaus Von (1868-1931)	1868
 BorgströmGustaf	1830-1915	Borgströmgustaf,  (1830-1915)	1830	1915	   1
 Wirmark, David	1926-	Wirmark, David (1926-NA)	1926	NA	   1
 Borgström, Georg Algot	1881-1960	Borgström, Georg Algot (1881-1960)	1881	1960	   1
-Borgo, Pietro Battista	d. 1649	Borgo, Pietro Battista (1649-NA)	1649	NA	   1
+Borgo, Pietro Battista	d. 1649	Borgo, Pietro Battista	NA	NA	   1
 Borgman, Johan Alexander	1818-1888	Borgman, Johan Alexander (1818-1888)	1818	1888	   1
 Borg, Brita	1926-2010	Borg, Brita (1926-2010)	1926	2010	   1
 Borelius, Gudmund	1889-1985.	Borelius, Gudmund (1889-1985)	1889	1985	   1
@@ -22445,7 +22449,7 @@ Berglund, Allan	1887-1950	Berglund, Allan (1887-1950)	1887	1950	   1
 Berglund, Abraham	1875-1942	Berglund, Abraham (1875-1942)	1875	1942	   1
 Bergius, Nicolaus	1658-1706	Bergius, Nicolaus (1658-1706)	1658	1706	   1
 Bergh, John Arnold	1872-1939	Bergh, John Arnold (1872-1939)	1872	1939	   1
-Seitz, Johann Christian	d. 1735	Seitz, Johann Christian (1735-NA)	1735	NA	   1
+Seitz, Johann Christian	d. 1735	Seitz, Johann Christian	NA	NA	   1
 Bertrand, Alexandre Jacques François	1795-1831	Bertrand, Alexandre Jacques François (1795-1831)	1795	1831	   1
 Berggren, Erik	1907	Berggren, Erik (1907-NA)	1907	NA	   1
 Berg, Per	1925-	Berg, Per (1925-NA)	1925	NA	   1
@@ -22553,7 +22557,7 @@ Alkuin	ca 735-804	Alkuin,  (735-804)	735	804	   1
 Aleksandr Michailovic, rysk storfurste	1866	Aleksandr Michailovic, Rysk Storfurste (1866-NA)	1866	NA	   1
 Aleander, Johan Abraham	1766-1853	Aleander, Johan Abraham (1766-1853)	1766	1853	   1
 Alcedo, Antonio de	1735-1812	Alcedo, Antonio De (1735-1812)	1735	1812	   1
-Albrecht, Friedrich	1930-	Albrecht, Friedrich (1930-NA)	1930	NA	   1
+Albrecht, Friedrich	1930-	Albrecht, Friedrich	NA	NA	   1
 Adlersparre, Karin Alcyone	f. 1851	Adlersparre, Karin Alcyone (1851-NA)	1851	NA	   1
 Adam, Victor	1801-1866	Adam, Victor (1801-1866)	1801	1866	   1
 Adam, Antoine	1899-1970.	Adam, Antoine (1899-1970)	1899	1970	   1
@@ -22594,98 +22598,98 @@ Christelius, Johannes	1600-t.	Christelius, Johannes (1600-NA)	1600	NA	   1
 Bysing, Carl von	1600-t.	Bysing, Carl Von (1600-NA)	1600	NA	   1
 Boldman, Petter	1600-t.	Boldman, Petter (1600-NA)	1600	NA	   1
 Andstedius, Ericus Johannis	1600-t.	Andstedius, Ericus Johannis (1600-NA)	1600	NA	   1
-Örnevinge, Johan Gustafsson	d. 1686	örnevinge, Johan Gustafsson (1686-NA)	1686	NA	   1
+Örnevinge, Johan Gustafsson	d. 1686	örnevinge, Johan Gustafsson	NA	NA	   1
 Örneklou, Per	ca 1635-ca 1701	örneklou, Per (1635-1701)	1635	1701	   1
 Oelreich, Bernhard	1626-1686	Oelreich, Bernhard (1626-1686)	1626	1686	   1
 Zynthus, Henricus Henrici	1600-t.	Zynthus, Henricus Henrici (1600-NA)	1600	NA	   1
 Zotherus, Andreas Andreae	1600-t.	Zotherus, Andreas Andreae (1600-NA)	1600	NA	   1
 Zimmermann, Ernestus	1600-t.	Zimmermann, Ernestus (1600-NA)	1600	NA	   1
-Zadhelerus, Marcus Pauli	1600-t.	Zadhelerus, Marcus Pauli (1600-NA)	1600	NA	   1
+Zadhelerus, Marcus Pauli	1600-t.	Zadhelerus, Marcus Pauli	NA	NA	   1
 Zader, Hans Christoff von	1600-t.	Zader, Hans Christoff Von (1600-NA)	1600	NA	   1
-Wäst, Georgius Michaelis	d. 1678	Wäst, Georgius Michaelis (1678-NA)	1678	NA	   1
+Wäst, Georgius Michaelis	d. 1678	Wäst, Georgius Michaelis	NA	NA	   1
 Wretman, Johannes Matthiae	ca 1630-1684	Wretman, Johannes Matthiae (1630-1684)	1630	1684	   1
-Wollimhaus, Simon	d. 1658	Wollimhaus, Simon (1658-NA)	1658	NA	   1
+Wollimhaus, Simon	d. 1658	Wollimhaus, Simon	NA	NA	   1
 Witfoot, Johannes Joachimi	1600-t.	Witfoot, Johannes Joachimi (1600-NA)	1600	NA	   1
-Wismenius, Jonas Laurentii	d. 1652	Wismenius, Jonas Laurentii (1652-NA)	1652	NA	   1
+Wismenius, Jonas Laurentii	d. 1652	Wismenius, Jonas Laurentii	NA	NA	   1
 Wintrosius, Georgius Henrici	1603-1685	Wintrosius, Georgius Henrici (1603-1685)	1603	1685	   1
 Wilstadius, Jacobus	1600-t.	Wilstadius, Jacobus (1600-NA)	1600	NA	   1
 Wijström, Carolus Caroli	1661-1721	Wijström, Carolus Caroli (1661-1721)	1661	1721	   1
 Widman, Johan	1600-t.	Widman, Johan (1600-NA)	1600	NA	   1
 Wickenberg, Jonas Petri	1600-t.	Wickenberg, Jonas Petri (1600-NA)	1600	NA	   1
-Wichaeus, Mathias	d. 1694	Wichaeus, Mathias (1694-NA)	1694	NA	   1
+Wichaeus, Mathias	d. 1694	Wichaeus, Mathias	NA	NA	   1
 Wibergius, Ericus Erici	1600-t.	Wibergius, Ericus Erici (1600-NA)	1600	NA	   1
 Wexionius, Olof	1656-1690	Wexionius, Olof (1656-1690)	1656	1690	   1
 Wexionus, Olof	1626-1671	Wexionus, Olof (1626-1671)	1626	1671	   1
-Magnus Andreæ	d. 1658	Andreæ, Magnus (1658-NA)	1658	NA	   1
+Magnus Andreæ	d. 1658	Andreæ, Magnus	NA	NA	   1
 Wetter, Sveno Nicolai	1654-1722	Wetter, Sveno Nicolai (1654-1722)	1654	1722	   1
 Westhius, Samuel Johannis	1647-1673	Westhius, Samuel Johannis (1647-1673)	1647	1673	   1
-Westhius, Johannes Magni	d. 1647	Westhius, Johannes Magni (1647-NA)	1647	NA	   1
+Westhius, Johannes Magni	d. 1647	Westhius, Johannes Magni	NA	NA	   1
 Westhius, Johannes Johannis	1600-t.	Westhius, Johannes Johannis (1600-NA)	1600	NA	   1
-Westhius, Jacobus Magni	d. 1634	Westhius, Jacobus Magni (1634-NA)	1634	NA	   1
+Westhius, Jacobus Magni	d. 1634	Westhius, Jacobus Magni	NA	NA	   1
 Westermann, Nicolaus	1627-1674	Westermann, Nicolaus (1627-1674)	1627	1674	   1
 Werving, Johan Gabriel	1675-1715	Werving, Johan Gabriel (1675-1715)	1675	1715	   1
-Wennaerus, Magnus Svenonis	d. 1642	Wennaerus, Magnus Svenonis (1642-NA)	1642	NA	   1
-Wendalius, Nicolaus Erici	d. 1661	Wendalius, Nicolaus Erici (1661-NA)	1661	NA	   1
+Wennaerus, Magnus Svenonis	d. 1642	Wennaerus, Magnus Svenonis	NA	NA	   1
+Wendalius, Nicolaus Erici	d. 1661	Wendalius, Nicolaus Erici	NA	NA	   1
 Welper, Eberhard	1600-t.	Welper, Eberhard (1600-NA)	1600	NA	   1
 Weller, Jacob	1602-1664	Weller, Jacob (1602-1664)	1602	1664	   1
 Wegelin, Josua	d. 1640	Wegelin, Josua (1640-NA)	1640	NA	   1
 Watz, Anthonius	1600-t.	Watz, Anthonius (1600-NA)	1600	NA	   1
-Wattrang, Michael Johannis	d. 1657	Wattrang, Michael Johannis (1657-NA)	1657	NA	   1
+Wattrang, Michael Johannis	d. 1657	Wattrang, Michael Johannis	NA	NA	   1
 Wassonius, Johannes Johannis	1600-t.	Wassonius, Johannes Johannis (1600-NA)	1600	NA	   1
 Wargius, Martinus Andreae	1600-t.	Wargius, Martinus Andreae (1600-NA)	1600	NA	   1
 Wargh, Johannes Laurentii	1600-t.	Wargh, Johannes Laurentii (1600-NA)	1600	NA	   1
 Wallius, Andreas Erici	1600-t.	Wallius, Andreas Erici (1600-NA)	1600	NA	   1
-Wallerius, Nicolaus Nicolai	d. 1704	Wallerius, Nicolaus Nicolai (1704-NA)	1704	NA	   1
-Wallerius, Laurentius Erici	d. 1662	Wallerius, Laurentius Erici (1662-NA)	1662	NA	   1
+Wallerius, Nicolaus Nicolai	d. 1704	Wallerius, Nicolaus Nicolai	NA	NA	   1
+Wallerius, Laurentius Erici	d. 1662	Wallerius, Laurentius Erici	NA	NA	   1
 Wallenius, Daniel Andreae	1658-1689	Wallenius, Daniel Andreae (1658-1689)	1658	1689	   1
 Walingius, Nicolaus Olai	1599-1649	Walingius, Nicolaus Olai (1599-1649)	1599	1649	   1
 Walenius, Achatius Samuelis	1600-t.	Walenius, Achatius Samuelis (1600-NA)	1600	NA	   1
 Vultejus, Johannes	1639-1700.	Vultejus, Johannes (1639-1700)	1639	1700	   1
 Voigt, Johann Heinrich	1613-1691.	Voigt, Johann Heinrich (1613-1691)	1613	1691	   1
 Vinebergerus, Johannes Christophorus	1600-t.	Vinebergerus, Johannes Christophorus (1600-NA)	1600	NA	   1
-Vigius, Laurentius Jonae	d. 1694	Vigius, Laurentius Jonae (1694-NA)	1694	NA	   1
-Vigelius, Laurentius Olai	d. 1672	Vigelius, Laurentius Olai (1672-NA)	1672	NA	   1
-Vigaeus, Magnus	d. 1634	Vigaeus, Magnus (1634-NA)	1634	NA	   1
+Vigius, Laurentius Jonae	d. 1694	Vigius, Laurentius Jonae	NA	NA	   1
+Vigelius, Laurentius Olai	d. 1672	Vigelius, Laurentius Olai	NA	NA	   1
+Vigaeus, Magnus	d. 1634	Vigaeus, Magnus	NA	NA	   1
 Verelius, Olof	1618-1682.	Verelius, Olof (1618-1682)	1618	1682	   1
-Vellerius, Jacobus Bergeri	d. 1683	Vellerius, Jacobus Bergeri (1683-NA)	1683	NA	   1
-Vallander, Petrus Johannis	d. 1690	Vallander, Petrus Johannis (1690-NA)	1690	NA	   1
+Vellerius, Jacobus Bergeri	d. 1683	Vellerius, Jacobus Bergeri	NA	NA	   1
+Vallander, Petrus Johannis	d. 1690	Vallander, Petrus Johannis	NA	NA	   1
 Valdrosiander, Gustaf Ulfsson	1589-1659	Valdrosiander, Gustaf Ulfsson (1589-1659)	1589	1659	   1
-Uraelius, Faderus Arvidi	d. ca 1662	Uraelius, Faderus Arvidi (1662-NA)	1662	NA	   1
+Uraelius, Faderus Arvidi	d. ca 1662	Uraelius, Faderus Arvidi	NA	NA	   1
 Uppendick, Petrus	1661-1696	Uppendick, Petrus (1661-1696)	1661	1696	   1
 Ungius, Olaus Simonis	1600-t.	Ungius, Olaus Simonis (1600-NA)	1600	NA	   1
-Ulstadius, Andreas Andreae	d. ca 1668	Ulstadius, Andreas Andreae (1668-NA)	1668	NA	   1
+Ulstadius, Andreas Andreae	d. ca 1668	Ulstadius, Andreas Andreae	NA	NA	   1
 Ulmstadius, Petrus Esberni	1617-1688	Ulmstadius, Petrus Esberni (1617-1688)	1617	1688	   1
-Ulmerus, Petrus Nicolai	d. 1652.	Ulmerus, Petrus Nicolai (1652-NA)	1652	NA	   1
+Ulmerus, Petrus Nicolai	d. 1652.	Ulmerus, Petrus Nicolai	NA	NA	   1
 Wulfila	ca 311-383	Wulfila, 	NA	NA	   1
 Uggla, Claes	ca 1670-1727	Uggla, Claes (1670-1727)	1670	1727	   1
-Törning, Lars Danielsson	d. 1685.	Törning, Lars Danielsson (1685-NA)	1685	NA	   1
+Törning, Lars Danielsson	d. 1685.	Törning, Lars Danielsson	NA	NA	   1
 Türingh, Christophorus Laurentii	1600-t.	Türingh, Christophorus Laurentii (1600-NA)	1600	NA	   1
 Tyblaeus, Jacobus Andreæ	1600-t.	Tyblaeus, Jacobus Andreæ (1600-NA)	1600	NA	   1
 Tvetovius, Laurentius Johannis	1612-1688.	Tvetovius, Laurentius Johannis (1612-1688)	1612	1688	   1
 Turdinus, Jonas Jonae	1600-t.	Turdinus, Jonas Jonae (1600-NA)	1600	NA	   1
 Turdinus, Axelius Nicolai	1600-t.	Turdinus, Axelius Nicolai (1600-NA)	1600	NA	   1
-Tunius, Ericus Erici	d. 1694	Tunius, Ericus Erici (1694-NA)	1694	NA	   1
+Tunius, Ericus Erici	d. 1694	Tunius, Ericus Erici	NA	NA	   1
 Tunius, Andreas Erici	1600-t.	Tunius, Andreas Erici (1600-NA)	1600	NA	   1
 Tungel, Nils Nilsson	1592-1669	Tungel, Nils Nilsson (1592-1669)	1592	1669	   1
 Tränckner, Johann Heinrich	1600-t.	Tränckner, Johann Heinrich (1600-NA)	1600	NA	   1
 Trifolin, Haqvinus Petri	1600-t.	Trifolin, Haqvinus Petri (1600-NA)	1600	NA	   1
 Treuderus, Abel Larsson	1600-t.	Treuderus, Abel Larsson (1600-NA)	1600	NA	   1
-Tremulander, Andreas Andreae	d. 1669	Tremulander, Andreas Andreae (1669-NA)	1669	NA	   1
+Tremulander, Andreas Andreae	d. 1669	Tremulander, Andreas Andreae	NA	NA	   1
 Transchiöld, Johannes Isaci	1656-1699	Transchiöld, Johannes Isaci (1656-1699)	1656	1699	   1
-Tranander, Ericus Benedicti	d. 1661	Tranander, Ericus Benedicti (1661-NA)	1661	NA	   1
-Tranaeus, Johan Gottskalck	d. 1718	Tranaeus, Johan Gottskalck (1718-NA)	1718	NA	   1
+Tranander, Ericus Benedicti	d. 1661	Tranander, Ericus Benedicti	NA	NA	   1
+Tranaeus, Johan Gottskalck	d. 1718	Tranaeus, Johan Gottskalck	NA	NA	   1
 Costentin de Tourville, Anne Hilarion de	1642-1701	Costentin De Tourville, Anne Hilarion De (1642-1701)	1642	1701	   1
 Torsk, Jonas Laurentii	1634-1691	Torsk, Jonas Laurentii (1634-1691)	1634	1691	   1
 Torschen, Ericus Claudii	1600-t.	Torschen, Ericus Claudii (1600-NA)	1600	NA	   1
 Torpaeus, Petrus Petri	1611-1679.	Torpaeus, Petrus Petri (1611-1679)	1611	1679	   1
 Tolle, Johannes Gilij	1600-t.	Tolle, Johannes Gilij (1600-NA)	1600	NA	   1
 Thylort, John	1600-t.	Thylort, John (1600-NA)	1600	NA	   1
-Thuronius, Johannes	d. 1701	Thuronius, Johannes (1701-NA)	1701	NA	   1
+Thuronius, Johannes	d. 1701	Thuronius, Johannes	NA	NA	   1
 Thurn, Heinrich Matthias von	1567-1640	Thurn, Heinrich Matthias Von (1567-1640)	1567	1640	   1
 Thunander, Jonas Petri	1600-t.	Thunander, Jonas Petri (1600-NA)	1600	NA	   1
-Thorinus, Jacobus Andreae	d. 1696	Thorinus, Jacobus Andreae (1696-NA)	1696	NA	   1
+Thorinus, Jacobus Andreae	d. 1696	Thorinus, Jacobus Andreae	NA	NA	   1
 Thorinus, Andreas Andreae	1600-t.	Thorinus, Andreas Andreae (1600-NA)	1600	NA	   1
-Ericus Thomae	d. 1620	Thomae, Ericus (1620-NA)	1620	NA	   1
+Ericus Thomae	d. 1620	Thomae, Ericus (1600-NA)	1600	NA	   1
 Ericus Thomae	1600-t.	Thomae, Ericus (1600-NA)	1600	NA	   1
 Theofrastos	ca 370-ca 285 f.Kr.	Theofrastos, 	NA	NA	   1
 Themptander, Laurentius Andreae	1653-1723	Themptander, Laurentius Andreae (1653-1723)	1653	1723	   1
@@ -22695,87 +22699,87 @@ Tesauro (Thesaurus), Emanuele	-1678.	Tesauro Thesaurus, Emanuele (NA-1678)	NA	16
 Terserus, Adolphus Elai	1604-1659.	Terserus, Adolphus Elai (1604-1659)	1604	1659	   1
 Teeth, Iwarus Iwari	1600-t.	Teeth, Iwarus Iwari (1600-NA)	1600	NA	   1
 Taube, Jakob Johan	1624-1695	Taube, Jakob Johan (1624-1695)	1624	1695	   1
-Tammelinus, Matthias Isaci	d. 1722	Tammelinus, Matthias Isaci (1722-NA)	1722	NA	   1
+Tammelinus, Matthias Isaci	d. 1722	Tammelinus, Matthias Isaci	NA	NA	   1
 Tammelin, Laurentius Gabrieli	1669-1733	Tammelin, Laurentius Gabrieli (1669-1733)	1669	1733	   1
 Sörensen, Jacobus Nicolai	1600-t.	Sörensen, Jacobus Nicolai (1600-NA)	1600	NA	   1
 Söderman, Anders	1673-1752	Söderman, Anders (1673-1752)	1673	1752	   1
 Söderman, Anders	1600-t.	Söderman, Anders (1600-1752)	1600	1752	   1
-Sylvius, Nicolaus Johannis	d. 1651	Sylvius, Nicolaus Johannis (1651-NA)	1651	NA	   1
+Sylvius, Nicolaus Johannis	d. 1651	Sylvius, Nicolaus Johannis	NA	NA	   1
 Sylvius, Johannes	1620-1690	Sylvius, Johannes (1620-1690)	1620	1690	   1
-Sylvius, Georgius Canuti	d. före 1666	Sylvius, Georgius Canuti (1666-NA)	1666	NA	   1
+Sylvius, Georgius Canuti	d. före 1666	Sylvius, Georgius Canuti	NA	NA	   1
 Sylva y Sousa, Antonio da	1600-t.	Sylva Y Sousa, Antonio Da (1600-NA)	1600	NA	   1
 Swart, Sveno Jacobi	1600-t.	Swart, Sveno Jacobi (1600-NA)	1600	NA	   1
 Sveno Svenonis	1566-1639	Svenonis, Sveno (1566-1639)	1566	1639	   1
-Svanehielm, Johan	d. 1689	Svanehielm, Johan (1689-NA)	1689	NA	   1
-Sunthius, Gustavus Erici	d. 1651	Sunthius, Gustavus Erici (1651-NA)	1651	NA	   1
+Svanehielm, Johan	d. 1689	Svanehielm, Johan	NA	NA	   1
+Sunthius, Gustavus Erici	d. 1651	Sunthius, Gustavus Erici	NA	NA	   1
 Sundius, Abraham L	1600-t.	Sundius, Abraham L (1600-NA)	1600	NA	   1
 Sunder, Hendrich Friedrich von	1600-t.	Sunder, Hendrich Friedrich Von (1600-NA)	1600	NA	   1
 Sundelius, Andreas	1600-t.	Sundelius, Andreas (1600-NA)	1600	NA	   1
 Sulpicius Severus	ca 363-ca 420	Severus, Sulpicius	NA	NA	   1
 Stålhandske, Johan	1620-1680	Stålhandske, Johan (1620-1680)	1620	1680	   1
-Ståhlfoot, Andreas Benedicti	d. 1676	Ståhlfoot, Andreas Benedicti (1676-NA)	1676	NA	   1
+Ståhlfoot, Andreas Benedicti	d. 1676	Ståhlfoot, Andreas Benedicti	NA	NA	   1
 Ståhlbom, Johannes Johannis	1666-1737	Ståhlbom, Johannes Johannis (1666-1737)	1666	1737	   1
 Styla, Adam	1600-t.	Styla, Adam (1600-NA)	1600	NA	   1
 Strömfelt, Johan	1587-1644	Strömfelt, Johan (1587-1644)	1587	1644	   1
 Stiernstråle, Johan	1607-1686	Stiernstråle, Johan (1607-1686)	1607	1686	   1
 Stiernflycht, Nils	1632-1680	Stiernflycht, Nils (1632-1680)	1632	1680	   1
-Stiernborg, Erik	d. 1700	Stiernborg, Erik (1700-NA)	1700	NA	   1
+Stiernborg, Erik	d. 1700	Stiernborg, Erik	NA	NA	   1
 Stiernberg, Nils	1641-1694	Stiernberg, Nils (1641-1694)	1641	1694	   1
 Stercherus, Petrus Benedicti	1602-1661	Stercherus, Petrus Benedicti (1602-1661)	1602	1661	   1
 Laurentius Stephani	1600-t.	Stephani, Laurentius (1600-NA)	1600	NA	   1
 Stenius, Hemmingius Laurentii	1600-t.	Stenius, Hemmingius Laurentii (1600-NA)	1600	NA	   1
-Steen, Magnus Magni	d. 1697	Steen, Magnus Magni (1697-NA)	1697	NA	   1
+Steen, Magnus Magni	d. 1697	Steen, Magnus Magni	NA	NA	   1
 Stark, Sveno Matthiae	1613-1688	Stark, Sveno Matthiae (1613-1688)	1613	1688	   1
-Starinius, Benedictus Magni	d. 1667	Starinius, Benedictus Magni (1667-NA)	1667	NA	   1
-Starchelius, Petrus Birgeri	d. 1713	Starchelius, Petrus Birgeri (1713-NA)	1713	NA	   1
+Starinius, Benedictus Magni	d. 1667	Starinius, Benedictus Magni	NA	NA	   1
+Starchelius, Petrus Birgeri	d. 1713	Starchelius, Petrus Birgeri	NA	NA	   1
 Stamm, Johan Wilhelm	1600-t.	Stamm, Johan Wilhelm (1600-NA)	1600	NA	   1
 Stalenus, Johannes Laurentii	1592-1651	Stalenus, Johannes Laurentii (1592-1651)	1592	1651	   1
 Stahl, Heinrich	1600-t.	Stahl, Heinrich (1600-1657)	1600	1657	   1
 Staffander, Johannes Stephani	1600-t.	Staffander, Johannes Stephani (1600-NA)	1600	NA	   1
-Stachaeus, Olaus Zachariae	d. 1680	Stachaeus, Olaus Zachariae (1680-NA)	1680	NA	   1
-Stachaeus, Laurentius Zachariae	d. 1696	Stachaeus, Laurentius Zachariae (1696-NA)	1696	NA	   1
+Stachaeus, Olaus Zachariae	d. 1680	Stachaeus, Olaus Zachariae	NA	NA	   1
+Stachaeus, Laurentius Zachariae	d. 1696	Stachaeus, Laurentius Zachariae	NA	NA	   1
 Spormand, Albertus	1600-t.	Spormand, Albertus (1600-NA)	1600	NA	   1
 Spinckius, Jonas Pauli	1600-t.	Spinckius, Jonas Pauli (1600-NA)	1600	NA	   1
 Sparrman, Olaus	1640-1690	Sparrman, Olaus (1640-1690)	1640	1690	   1
-Sparrman, Nicolaus Erici	d. 1684	Sparrman, Nicolaus Erici (1684-NA)	1684	NA	   1
+Sparrman, Nicolaus Erici	d. 1684	Sparrman, Nicolaus Erici	NA	NA	   1
 Sparre, Claes	1653-1715	Sparre, Claes (1653-1715)	1653	1715	   1
 Spangenberg, Wolfhart	1567-ca 1635	Spangenberg, Wolfhart (1567-1635)	1567	1635	   1
 Solbergh, Laurentius Petri	1600-t.	Solbergh, Laurentius Petri (1600-NA)	1600	NA	   1
 Sneckenberg, Jakob	1625-1697	Sneckenberg, Jakob (1625-1697)	1625	1697	   1
 Smith, Henry	1560-1600	Smith, Henry (1560-1600)	1560	1600	   1
-Smetander, Ingemarus Petri	d. 1678	Smetander, Ingemarus Petri (1678-NA)	1678	NA	   1
-Slettherus, Simon Haquini	d. 1694	Slettherus, Simon Haquini (1694-NA)	1694	NA	   1
+Smetander, Ingemarus Petri	d. 1678	Smetander, Ingemarus Petri	NA	NA	   1
+Slettherus, Simon Haquini	d. 1694	Slettherus, Simon Haquini	NA	NA	   1
 Skytte, Jakob	1616-1654	Skytte, Jakob (1616-1654)	1616	1654	   1
-Skytte, Håkan	d. 1650	Skytte, Håkan (1650-NA)	1650	NA	   1
+Skytte, Håkan	d. 1650	Skytte, Håkan	NA	NA	   1
 Skytte, Bengt	1614-1683	Skytte, Bengt (1614-1683)	1614	1683	   1
 Skutenberg, Peter Gudmundsson	1613-1670	Skutenberg, Peter Gudmundsson (1613-1670)	1613	1670	   1
 Skragge, Elavus Andreae	1622-1691	Skragge, Elavus Andreae (1622-1691)	1622	1691	   1
 Sinius, Laurentius Erici	1600-t.	Sinius, Laurentius Erici (1600-NA)	1600	NA	   1
-Silnecker, Olaus	d. 1692	Silnecker, Olaus (1692-NA)	1692	NA	   1
+Silnecker, Olaus	d. 1692	Silnecker, Olaus	NA	NA	   1
 Silenus, Johannes Canuti	1600-t.	Silenus, Johannes Canuti (1600-NA)	1600	NA	   1
 Siggonius, Laurentius	1626-1694	Siggonius, Laurentius (1626-1694)	1626	1694	   1
-Siegroth, Hans Fredrik von	d. 1702	Siegroth, Hans Fredrik Von (1702-NA)	1702	NA	   1
-Serlachius, Johannes Johannis	d. 1729	Serlachius, Johannes Johannis (1729-NA)	1729	NA	   1
+Siegroth, Hans Fredrik von	d. 1702	Siegroth, Hans Fredrik Von	NA	NA	   1
+Serlachius, Johannes Johannis	d. 1729	Serlachius, Johannes Johannis	NA	NA	   1
 Seneca, Lucius Annaeus	ca 4 f.Kr.-65 e.Kr.	Seneca, Lucius Annaeus	NA	NA	   1
-Sellius, Joachimus	d. 1691	Sellius, Joachimus (1691-NA)	1691	NA	   1
-Seiler, Joachim	d. ca 1617	Seiler, Joachim (1617-NA)	1617	NA	   1
+Sellius, Joachimus	d. 1691	Sellius, Joachimus	NA	NA	   1
+Seiler, Joachim	d. ca 1617	Seiler, Joachim	NA	NA	   1
 Seidel, Caspar	verksam 1637-1647	Seidel, Caspar (1637-1647)	1637	1647	   1
 Scioppius, Caspar	1576-1649	Scioppius, Caspar (1576-1649)	1576	1649	   1
 Schütz, Johannes Johannis	1600-t.	Schütz, Johannes Johannis (1600-NA)	1600	NA	   1
-Schütz, Andreas Georg	d. 1718	Schütz, Andreas Georg (1718-NA)	1718	NA	   1
-Schroderus, Abrahamus Johannis	d. 1647	Schroderus, Abrahamus Johannis (1647-NA)	1647	NA	   1
+Schütz, Andreas Georg	d. 1718	Schütz, Andreas Georg	NA	NA	   1
+Schroderus, Abrahamus Johannis	d. 1647	Schroderus, Abrahamus Johannis	NA	NA	   1
 Schrebergius, Benedictus Jonae	1600-t.	Schrebergius, Benedictus Jonae (1600-NA)	1600	NA	   1
 Schrader, Johann Ernst	d. 1689	Schrader, Johann Ernst (1689-NA)	1689	NA	   1
 Schouten, Jobst	1600-t.	Schouten, Jobst (1600-NA)	1600	NA	   1
 Schottenius, Petrus Johannis	1607-1667	Schottenius, Petrus Johannis (1607-1667)	1607	1667	   1
-Schomerus, Ericus Andreæ	d. 1654	Schomerus, Ericus Andreæ (1654-NA)	1654	NA	   1
+Schomerus, Ericus Andreæ	d. 1654	Schomerus, Ericus Andreæ	NA	NA	   1
 Schmaltzius, Petrus Abelis	1600-t.	Schmaltzius, Petrus Abelis (1600-NA)	1600	NA	   1
 Schillerfelt, Samuel	1618-1665	Schillerfelt, Samuel (1618-1665)	1618	1665	   1
-Schildt, Georg	d. 1704?	Schildt, Georg (1704-NA)	1704	NA	   1
+Schildt, Georg	d. 1704?	Schildt, Georg	NA	NA	   1
 Scherdinger, Andreas	1600-t.	Scherdinger, Andreas (1600-NA)	1600	NA	   1
-Schenberg, Johannes Petri	d. 1730	Schenberg, Johannes Petri (1730-NA)	1730	NA	   1
+Schenberg, Johannes Petri	d. 1730	Schenberg, Johannes Petri	NA	NA	   1
 Scharff (Scharfius), Johann	-1600	Scharff Scharfius, Johann (NA-1600)	NA	1600	   1
-Schaefer, Johannes Henrici	d. 1682	Schaefer, Johannes Henrici (1682-NA)	1682	NA	   1
+Schaefer, Johannes Henrici	d. 1682	Schaefer, Johannes Henrici	NA	NA	   1
 Scarinius, Laurentius Amberni	1600-t.	Scarinius, Laurentius Amberni (1600-NA)	1600	NA	   1
 Scarinius, Ericus Christophori	1597-1667	Scarinius, Ericus Christophori (1597-1667)	1597	1667	   1
 Scarin, Benedictus Andreae	1640-t.-1712	Scarin, Benedictus Andreae (1640-1712)	1640	1712	   1
@@ -22783,21 +22787,21 @@ Scalin, Ericus Laurentii	1600-t.	Scalin, Ericus Laurentii (1600-NA)	1600	NA	   1
 Santmann, Heinrich	1586-1639	Santmann, Heinrich (1586-1639)	1586	1639	   1
 Sandman, Johannes Æstani	1600-t.	Sandman, Johannes æstani (1600-NA)	1600	NA	   1
 Samson (v. Samson-Himmelstierna), Hermann	-1643	Samson V Samson-himmelstierna, Hermann (NA-1643)	NA	1643	   1
-Salmenius, Johannes Gregorii	d. 1683	Salmenius, Johannes Gregorii (1683-NA)	1683	NA	   1
+Salmenius, Johannes Gregorii	d. 1683	Salmenius, Johannes Gregorii	NA	NA	   1
 Salenius, Ericus Matthiæ	1600-t.	Salenius, Ericus Matthiæ (1600-NA)	1600	NA	   1
 Salanus, Nicolaus Jonæ	1620-1671	Salanus, Nicolaus Jonæ (1620-1671)	1620	1671	   1
 Salanus, Jonas Jonæ	1622-1652	Salanus, Jonas Jonæ (1622-1652)	1622	1652	   1
 Salamontanus, Ericus Andreæ	1610-1663	Salamontanus, Ericus Andreæ (1610-1663)	1610	1663	   1
-Sahlmonius, Isacus Petri	d. 1694	Sahlmonius, Isacus Petri (1694-NA)	1694	NA	   1
-Sagittarius, Johannes Christfried	d. efter 1722	Sagittarius, Johannes Christfried (1722-NA)	1722	NA	   1
+Sahlmonius, Isacus Petri	d. 1694	Sahlmonius, Isacus Petri	NA	NA	   1
+Sagittarius, Johannes Christfried	d. efter 1722	Sagittarius, Johannes Christfried	NA	NA	   1
 Sabelhierta, Jakob	ca 1648-ca 1713	Sabelhierta, Jakob (1648-1713)	1648	1713	   1
-Röchman, Johannes Matthiae	d. 1679	Röchman, Johannes Matthiae (1679-NA)	1679	NA	   1
-Rålamb, Anders Brodersson	d. 1643	Rålamb, Anders Brodersson (1643-NA)	1643	NA	   1
+Röchman, Johannes Matthiae	d. 1679	Röchman, Johannes Matthiae	NA	NA	   1
+Rålamb, Anders Brodersson	d. 1643	Rålamb, Anders Brodersson	NA	NA	   1
 Ryttanus, Ericus Thomae	1600-t.	Ryttanus, Ericus Thomae (1600-NA)	1600	NA	   1
 Ryander, Jonas Gothonis	1600-t.	Ryander, Jonas Gothonis (1600-NA)	1600	NA	   1
-Ruth, Abraham	d. 1693	Ruth, Abraham (1693-NA)	1693	NA	   1
-Rutenfelt, Johannes	d. 1650	Rutenfelt, Johannes (1650-NA)	1650	NA	   1
-Rundelius, Andreas Andreae	d. 1670	Rundelius, Andreas Andreae (1670-NA)	1670	NA	   1
+Ruth, Abraham	d. 1693	Ruth, Abraham	NA	NA	   1
+Rutenfelt, Johannes	d. 1650	Rutenfelt, Johannes	NA	NA	   1
+Rundelius, Andreas Andreae	d. 1670	Rundelius, Andreas Andreae	NA	NA	   1
 Rugman, Jonas	1636-1679	Rugman, Jonas (1636-1679)	1636	1679	   1
 Rudbeckius, Johannes	1623-1667	Rudbeckius, Johannes (1623-1667)	1623	1667	   1
 Ruberus, Carolus Jonae	1600-t.	Ruberus, Carolus Jonae (1600-NA)	1600	NA	   1
@@ -22805,34 +22809,34 @@ Rovere, Francesco Maria della	1491-1538	Rovere, Francesco Maria Della (1491-1538
 Rhotovius, Jonas Birgeri	1572-1626	Rhotovius, Jonas Birgeri (1572-1626)	1572	1626	   1
 Rothovius, Benedictus Petri	1600-t.	Rothovius, Benedictus Petri (1600-NA)	1600	NA	   1
 Rosinus, Sveno Svenonis	1600-t.	Rosinus, Sveno Svenonis (1600-NA)	1600	NA	   1
-Rosinus, Richardus Richardi	d. 1676	Rosinus, Richardus Richardi (1676-NA)	1676	NA	   1
+Rosinus, Richardus Richardi	d. 1676	Rosinus, Richardus Richardi	NA	NA	   1
 Rosenhane, Axel	1637-1685	Rosenhane, Axel (1637-1685)	1637	1685	   1
 Rosenkrands, Jørgen	1607-1675	Rosenkrands, Jørgen (1607-1675)	1607	1675	   1
 Rosenkrands, Gunde	1604-1675	Rosenkrands, Gunde (1604-1675)	1604	1675	   1
-Rolott, Johan	d. 1688	Rolott, Johan (1688-NA)	1688	NA	   1
+Rolott, Johan	d. 1688	Rolott, Johan	NA	NA	   1
 Robornius, Laurentius Nicolai	1600-t.	Robornius, Laurentius Nicolai (1600-NA)	1600	NA	   1
 Rivelius, Laurentius L	1600-t.	Rivelius, Laurentius L (1600-NA)	1600	NA	   1
 Ringius, Magnus Nicolai	1600-t.	Ringius, Magnus Nicolai (1600-NA)	1600	NA	   1
 Ridderstierna, Johan	1654-1695	Ridderstierna, Johan (1654-1695)	1654	1695	   1
 Riddercrantz, Joakim	1650-1724	Riddercrantz, Joakim (1650-1724)	1650	1724	   1
-Riaelius, Andreas Petri	d. 1679	Riaelius, Andreas Petri (1679-NA)	1679	NA	   1
+Riaelius, Andreas Petri	d. 1679	Riaelius, Andreas Petri	NA	NA	   1
 Rhezelius, Petrus Haquini	1600-t.	Rhezelius, Petrus Haquini (1600-NA)	1600	NA	   1
 Rhenius, Johannes	1574-1639	Rhenius, Johannes (1574-1639)	1574	1639	   1
 Rhan, Casparus	1600-t.	Rhan, Casparus (1600-NA)	1600	NA	   1
-Revonius, Johannes Benedicti	d. 1693 el. 1695	Revonius, Johannes Benedicti (1693-1695)	1693	1695	   1
+Revonius, Johannes Benedicti	d. 1693 el. 1695	Revonius, Johannes Benedicti	NA	NA	   1
 Ravn (Rafn, Corvinus), Hans	-1625	Ravn Rafn, Corvinus (NA-1625)	NA	1625	   1
 Ravius, Christian	1613-1677	Ravius, Christian (1613-1677)	1613	1677	   1
-Rauthelius, Johannes Danielis	d. 1704	Rauthelius, Johannes Danielis (1704-NA)	1704	NA	   1
+Rauthelius, Johannes Danielis	d. 1704	Rauthelius, Johannes Danielis	NA	NA	   1
 Ratke, Wolfgang	1571-1635	Ratke, Wolfgang (1571-1635)	1571	1635	   1
 Ranch, Hieronymus Justesen	1539-1607	Ranch, Hieronymus Justesen (1539-1607)	1539	1607	   1
-Rajalenius, Barthollus	d. 1703	Rajalenius, Barthollus (1703-NA)	1703	NA	   1
+Rajalenius, Barthollus	d. 1703	Rajalenius, Barthollus	NA	NA	   1
 Rahtken, Albertus	1600-t.	Rahtken, Albertus (1600-NA)	1600	NA	   1
 Nicolaus Ragvaldi	d. 1448	Ragvaldi, Nicolaus (1448-NA)	1448	NA	   1
 Raam, Peder Nilsson	1600-t.	Raam, Peder Nilsson (1600-NA)	1600	NA	   1
 Quarles, Francis	1592-1644.	Quarles, Francis (1592-1644)	1592	1644	   1
 Pijnacker, Cornelis van	1570-1645	Pijnacker, Cornelis Van (1570-1645)	1570	1645	   1
 Purmerus, Johannes Johannis	1600-t.	Purmerus, Johannes Johannis (1600-NA)	1600	NA	   1
-Prytz, Petrus Andreae	d. 1668	Prytz, Petrus Andreae (1668-NA)	1668	NA	   1
+Prytz, Petrus Andreae	d. 1668	Prytz, Petrus Andreae	NA	NA	   1
 Prytz, Nicolaus Nicolai	1610-1689	Prytz, Nicolaus Nicolai (1610-1689)	1610	1689	   1
 Prytz, Johannes Johannis	1598-1632	Prytz, Johannes Johannis (1598-1632)	1598	1632	   1
 Prytz, Johan Claesson	1621-1667	Prytz, Johan Claesson (1621-1667)	1621	1667	   1
@@ -22843,49 +22847,49 @@ Preuss, Georg	1619-1675.	Preuss, Georg (1619-1675)	1619	1675	   1
 Praestorphius, Andreas Theodori	1600-t.	Praestorphius, Andreas Theodori (1600-NA)	1600	NA	   1
 Pozzo, Jacopo dal	1600-t.	Pozzo, Jacopo Dal (1600-NA)	1600	NA	   1
 Possel, Johann	1528-1591	Possel, Johann (1528-1591)	1528	1591	   1
-Portulinus, Carolus Erici	d. 1656.	Portulinus, Carolus Erici (1656-NA)	1656	NA	   1
+Portulinus, Carolus Erici	d. 1656.	Portulinus, Carolus Erici	NA	NA	   1
 Porthanus, Michael Gustavi	1600-t.	Porthanus, Michael Gustavi (1600-NA)	1600	NA	   1
-Porat, Didrik von	d. 1703	Porat, Didrik Von (1703-NA)	1703	NA	   1
+Porat, Didrik von	d. 1703	Porat, Didrik Von	NA	NA	   1
 Pontinus, Samuel	1658-1712	Pontinus, Samuel (1658-1712)	1658	1712	   1
 Polo de Medina, Salvador Jacinto	ca 1607-ca 1657	Polo De Medina, Salvador Jacinto (1607-1657)	1607	1657	   1
-Podolinus, Johannes Olai	d. 1640	Podolinus, Johannes Olai (1640-NA)	1640	NA	   1
+Podolinus, Johannes Olai	d. 1640	Podolinus, Johannes Olai	NA	NA	   1
 Plenningsköld, Mattias Erici	ca 1610-1675	Plenningsköld, Mattias Erici (1610-1675)	1610	1675	   1
-Planck, Jonas Olai	d. 1682	Planck, Jonas Olai (1682-NA)	1682	NA	   1
-Petrus Petri	d. 1661	Petri, Petrus (1661-NA)	1661	NA	   1
+Planck, Jonas Olai	d. 1682	Planck, Jonas Olai	NA	NA	   1
+Petrus Petri	d. 1661	Petri, Petrus	NA	NA	   1
 Olaus Petri	1600-talet	Petri, Olaus (1600-1552)	1600	1552	   1
 Nicolaus Petri	1600-t.	Petri, Nicolaus (1600-NA)	1600	NA	   1
-Jonas Petri Nericius	d. 1611	Nericius, Jonas (1611-NA)	1611	NA	   1
-Johannes Petri	1600-t.	Petri, Johannes (1600-NA)	1600	NA	   1
-Petrejus, Gutmundus	d. 1619	Petrejus, Gutmundus (1619-NA)	1619	NA	   1
-Petre, Alexander Sanderi	d. 1673	Petre, Alexander Sanderi (1673-NA)	1673	NA	   1
+Jonas Petri Nericius	d. 1611	Nericius, Jonas	NA	NA	   1
+Johannes Petri	1600-t.	Petri, Johannes (1500-NA)	1500	NA	   1
+Petrejus, Gutmundus	d. 1619	Petrejus, Gutmundus	NA	NA	   1
+Petre, Alexander Sanderi	d. 1673	Petre, Alexander Sanderi	NA	NA	   1
 Petrander, Petrus Petri	1600-t.	Petrander, Petrus Petri (1600-NA)	1600	NA	   1
-Petræus, Ericus Erici	d. 1685	Petræus, Ericus Erici (1685-NA)	1685	NA	   1
+Petræus, Ericus Erici	d. 1685	Petræus, Ericus Erici	NA	NA	   1
 Paulinus, Simon	1652-1691	Paulinus, Simon (1652-1691)	1652	1691	   1
 Paulinus, Josephus	1600-t.	Paulinus, Josephus (1600-NA)	1600	NA	   1
 Pappus, Johann	1549-1610	Pappus, Johann (1549-1610)	1549	1610	   1
-Palumbus, Samuel Nicolai	d. 1654	Palumbus, Samuel Nicolai (1654-NA)	1654	NA	   1
+Palumbus, Samuel Nicolai	d. 1654	Palumbus, Samuel Nicolai	NA	NA	   1
 Palma, Ambrosius E	1600-t.	Palma, Ambrosius E (1600-NA)	1600	NA	   1
 Palm, Anundus Nicolai	-1655	Palm, Anundus Nicolai (NA-1655)	NA	1655	   1
 Pallavicino, Ferrante	1615-1644.	Pallavicino, Ferrante (1615-1644)	1615	1644	   1
 Pahl, Hans	1657-1708	Pahl, Hans (1657-1708)	1657	1708	   1
 Pacianus, Fulvius	ca 1600	Pacianus, Fulvius (1600-NA)	1600	NA	   1
-Pacchalenius, Thomas Michaelis	d. 1679	Pacchalenius, Thomas Michaelis (1679-NA)	1679	NA	   1
-Pacchalenius, Benjamin Andreæ	d. 1707	Pacchalenius, Benjamin Andreæ (1707-NA)	1707	NA	   1
+Pacchalenius, Thomas Michaelis	d. 1679	Pacchalenius, Thomas Michaelis	NA	NA	   1
+Pacchalenius, Benjamin Andreæ	d. 1707	Pacchalenius, Benjamin Andreæ	NA	NA	   1
 Oxenstierna, Gabriel Gabrielsson	1618-1647	Oxenstierna, Gabriel Gabrielsson (1618-1647)	1618	1647	   1
 Osiander, Johann Adam	1622-1697	Osiander, Johann Adam (1622-1697)	1622	1697	   1
 Osaengius, Petrus Georgius	1600-t.	Osaengius, Petrus Georgius (1600-NA)	1600	NA	   1
 Orostander, Andreas	1662-1726	Orostander, Andreas (1662-1726)	1662	1726	   1
 Opsopaeus, Steno Joachimi	1600-t.	Opsopaeus, Steno Joachimi (1600-NA)	1600	NA	   1
 Hans Olofsson	1600-t.	Olofsson, Hans (1600-NA)	1600	NA	   1
-Ollonberg, Andreas	d. 1694	Ollonberg, Andreas (1694-NA)	1694	NA	   1
+Ollonberg, Andreas	d. 1694	Ollonberg, Andreas	NA	NA	   1
 Oldekop, Justus Heinrich	1631-1686	Oldekop, Justus Heinrich (1631-1686)	1631	1686	   1
-Nicolaus Olai	d. 1658	Olai, Nicolaus (1658-1600)	1658	1600	   1
+Nicolaus Olai	d. 1658	Olai, Nicolaus (NA-1600)	NA	1600	   1
 Nicolaus Olai	ca 1550-1600	Olai, Nicolaus (1550-1600)	1550	1600	   1
 Laurentius Olai	1600-t.	Olai, Laurentius (1600-NA)	1600	NA	   1
-Jonas Olai	d. 1653	Olai, Jonas (1653-NA)	1653	NA	   1
-Ericus Olai	d. 1693	Olai, Ericus (1693-1486)	1693	1486	   1
+Jonas Olai	d. 1653	Olai, Jonas	NA	NA	   1
+Ericus Olai	d. 1693	Olai, Ericus (1420-1486)	1420	1486	   1
 Ahasverus Olai	1600-t.	Olai, Ahasverus (1600-NA)	1600	NA	   1
-Ogilvie, Jakobus	d. 1681	Ogilvie, Jakobus (1681-NA)	1681	NA	   1
+Ogilvie, Jakobus	d. 1681	Ogilvie, Jakobus	NA	NA	   1
 Odhelius, Torerus Erici	1612-1682	Odhelius, Torerus Erici (1612-1682)	1612	1682	   1
 Odhelius, Ericus Haquini	1620-1666	Odhelius, Ericus Haquini (1620-1666)	1620	1666	   1
 Obsequens, Julius	c:a 400 e.Kr.	Obsequens, Julius	NA	NA	   1
@@ -22894,25 +22898,25 @@ Nyzelius, Ericus Olai	1600-t.	Nyzelius, Ericus Olai (1600-NA)	1600	NA	   1
 Nyman, Mårten	1643-1715	Nyman, Mårten (1643-1715)	1643	1715	   1
 Nylander, Olaus Jonae	1600-t.	Nylander, Olaus Jonae (1600-NA)	1600	NA	   1
 Notmann, Andreas Georg	1643-1703	Notmann, Andreas Georg (1643-1703)	1643	1703	   1
-Nortman, Martinus Magni	d. 1656	Nortman, Martinus Magni (1656-NA)	1656	NA	   1
+Nortman, Martinus Magni	d. 1656	Nortman, Martinus Magni	NA	NA	   1
 Nortman, Magnus Magni	1620-1672	Nortman, Magnus Magni (1620-1672)	1620	1672	   1
 Norrman, Johannes Johannis	1600-t.	Norrman, Johannes Johannis (1600-NA)	1600	NA	   1
 Nohr-Moræus, Andreas Erici	1632-1676	Nohr-moræus, Andreas Erici (1632-1676)	1632	1676	   1
 Niurenius, Olaus Petri	1580-1645	Niurenius, Olaus Petri (1580-1645)	1580	1645	   1
 Thomas Nicolai	1600-t.	Nicolai, Thomas (1600-NA)	1600	NA	   1
 Petrus Nicolai	1600-t.	Nicolai, Petrus (1600-NA)	1600	NA	   1
-Joachimus Nicolai	d. 1671	Nicolai, Joachimus (1671-NA)	1671	NA	   1
-Nicander, Jonas Magni	d. 1690	Nicander, Jonas Magni (1690-NA)	1690	NA	   1
-Nevelius, Petrus Andreae	d. 1689	Nevelius, Petrus Andreae (1689-NA)	1689	NA	   1
-Nerbelius, Petrus Laurentii	d. 1677	Nerbelius, Petrus Laurentii (1677-NA)	1677	NA	   1
-Nerbelius, Ericus Laurentii	d. före 1699	Nerbelius, Ericus Laurentii (1699-NA)	1699	NA	   1
+Joachimus Nicolai	d. 1671	Nicolai, Joachimus	NA	NA	   1
+Nicander, Jonas Magni	d. 1690	Nicander, Jonas Magni	NA	NA	   1
+Nevelius, Petrus Andreae	d. 1689	Nevelius, Petrus Andreae	NA	NA	   1
+Nerbelius, Petrus Laurentii	d. 1677	Nerbelius, Petrus Laurentii	NA	NA	   1
+Nerbelius, Ericus Laurentii	d. före 1699	Nerbelius, Ericus Laurentii	NA	NA	   1
 Neander, Michael	1525-1595	Neander, Michael (1525-1595)	1525	1595	   1
 Nassenius, Claudius Israelis	1600-t.	Nassenius, Claudius Israelis (1600-NA)	1600	NA	   1
 Narsius, Johannes	1580-1637	Narsius, Johannes (1580-1637)	1580	1637	   1
-Naesenius, Esaias Gregorii	d. 1707	Naesenius, Esaias Gregorii (1707-NA)	1707	NA	   1
+Naesenius, Esaias Gregorii	d. 1707	Naesenius, Esaias Gregorii	NA	NA	   1
 Mörck, Gustaf Johan	1600-t.	Mörck, Gustaf Johan (1600-NA)	1600	NA	   1
-Mörck, Elias Nicolai	d. 1647	Mörck, Elias Nicolai (1647-NA)	1647	NA	   1
-Myricius, Ericus Christophori	d. 1679	Myricius, Ericus Christophori (1679-NA)	1679	NA	   1
+Mörck, Elias Nicolai	d. 1647	Mörck, Elias Nicolai	NA	NA	   1
+Myricius, Ericus Christophori	d. 1679	Myricius, Ericus Christophori	NA	NA	   1
 Myrich, Johannes Andreae	1600-t.	Myrich, Johannes Andreae (1600-NA)	1600	NA	   1
 Mülmann, Johann	1573-1613	Mülmann, Johann (1573-1613)	1573	1613	   1
 Muritanus, Johannes A	1600-t.	Muritanus, Johannes A (1600-NA)	1600	NA	   1
@@ -22922,19 +22926,19 @@ Munselius, Jacobus Josephi	1600-t.	Munselius, Jacobus Josephi (1600-NA)	1600	NA	
 Morscheidt, Cyriacus	1600-t.	Morscheidt, Cyriacus (1600-NA)	1600	NA	   1
 Morgonstierna, Daniel	1633-1701	Morgonstierna, Daniel (1633-1701)	1633	1701	   1
 Morenius, Laurentius Olai	1610-t.-1670.	Morenius, Laurentius Olai (1610-1670)	1610	1670	   1
-Moraeus, Christophorus Jonae	d. 1710	Moraeus, Christophorus Jonae (1710-NA)	1710	NA	   1
+Moraeus, Christophorus Jonae	d. 1710	Moraeus, Christophorus Jonae	NA	NA	   1
 Monthuchet, de	1600-t.	Monthuchet, De (1600-NA)	1600	NA	   1
-Molinus, Jonas Christophori	d. 1682	Molinus, Jonas Christophori (1682-NA)	1682	NA	   1
+Molinus, Jonas Christophori	d. 1682	Molinus, Jonas Christophori	NA	NA	   1
 Moderus, Sveno Jonae	1600-t.	Moderus, Sveno Jonae (1600-NA)	1600	NA	   1
 Miltopaeus, Martinus	1631-1679	Miltopaeus, Martinus (1631-1679)	1631	1679	   1
 Olaus Michaelis	1600-t.	Michaelis, Olaus (1600-NA)	1600	NA	   1
 Menius, Justus	1499-1558	Menius, Justus (1499-1558)	1499	1558	   1
 Mellring, Gustaf	1656-1718	Mellring, Gustaf (1656-1718)	1656	1718	   1
-Mellin, Carolus Magnus	d. 1724	Mellin, Carolus Magnus (1724-NA)	1724	NA	   1
-Melkorstadindal, Magnus Andreae	d. 1633?	Melkorstadindal, Magnus Andreae (1633-NA)	1633	NA	   1
+Mellin, Carolus Magnus	d. 1724	Mellin, Carolus Magnus	NA	NA	   1
+Melkorstadindal, Magnus Andreae	d. 1633?	Melkorstadindal, Magnus Andreae	NA	NA	   1
 Melijn, Johan Hemmingson	1600-t.	Melijn, Johan Hemmingson (1600-NA)	1600	NA	   1
 Melander, Olaus Johannis	1600-t.	Melander, Olaus Johannis (1600-NA)	1600	NA	   1
-Medolerus, Ericus Thomae	d. 1630	Medolerus, Ericus Thomae (1630-NA)	1630	NA	   1
+Medolerus, Ericus Thomae	d. 1630	Medolerus, Ericus Thomae	NA	NA	   1
 Medenius, Benedictus Johannis	1600-t.	Medenius, Benedictus Johannis (1600-NA)	1600	NA	   1
 Medeen, Erich	1600-t.	Medeen, Erich (1600-NA)	1600	NA	   1
 Mauritius, Ambrosius	1600-t.	Mauritius, Ambrosius (1600-NA)	1600	NA	   1
@@ -22946,35 +22950,35 @@ Canutus Martini	1600-t.	Martini, Canutus (1600-NA)	1600	NA	   1
 Mariaestadius, Magnus Laurentii	1600-t.	Mariaestadius, Magnus Laurentii (1600-NA)	1600	NA	   1
 Maria Euphrosyne	1625-1687	Euphrosyne, Maria (1625-1687)	1625	1687	   1
 Malbeckius, Jacobus Petri	1600-t.	Malbeckius, Jacobus Petri (1600-NA)	1600	NA	   1
-Makeléer, Jakob	d. 1663	Makeléer, Jakob (1663-NA)	1663	NA	   1
+Makeléer, Jakob	d. 1663	Makeléer, Jakob	NA	NA	   1
 Majus, Henricus	1600-t.	Majus, Henricus (1600-NA)	1600	NA	   1
 Samuel Magni	1582-1629	Magni, Samuel (1582-1629)	1582	1629	   1
 Laurentius Magni	1600-t.	Magni, Laurentius (1600-NA)	1600	NA	   1
-Andreas Magni	d 1659	Magni, Andreas (1659-NA)	1659	NA	   1
-Magnelius, Olavus Magni	d. 1652	Magnelius, Olavus Magni (1652-NA)	1652	NA	   1
+Andreas Magni	d 1659	Magni, Andreas	NA	NA	   1
+Magnelius, Olavus Magni	d. 1652	Magnelius, Olavus Magni	NA	NA	   1
 Magirus, Georgius von Hattingen	1600-t.	Magirus, Georgius Von Hattingen (1600-NA)	1600	NA	   1
 Magander, Simon Bartoli	1600-t.	Magander, Simon Bartoli (1600-NA)	1600	NA	   1
 Macropedius, Georgius	1487-1558	Macropedius, Georgius (1487-1558)	1487	1558	   1
-Löfgren, Ericus Simonius	d. 1688	Löfgren, Ericus Simonius (1688-NA)	1688	NA	   1
+Löfgren, Ericus Simonius	d. 1688	Löfgren, Ericus Simonius	NA	NA	   1
 Långebro, Oluff Nilszon	1600-t.	Långebro, Oluff Nilszon (1600-NA)	1600	NA	   1
 Lythraeus, Georgius Andreae	1600-t.	Lythraeus, Georgius Andreae (1600-NA)	1600	NA	   1
 Lyserus, Wilhelmus	1600-t.	Lyserus, Wilhelmus (1600-NA)	1600	NA	   1
 Lyre, Abel Benedicti	1600-t.	Lyre, Abel Benedicti (1600-NA)	1600	NA	   1
-Lundelius, Benedictus Matthiæ	d. 1693	Lundelius, Benedictus Matthiæ (1693-NA)	1693	NA	   1
-Luderhoff, Andreas Jonae	d. 1695	Luderhoff, Andreas Jonae (1695-NA)	1695	NA	   1
-Luderhoff, Andreas Jonae	d. 1695.	Luderhoff, Andreas Jonae (1695-NA)	1695	NA	   1
+Lundelius, Benedictus Matthiæ	d. 1693	Lundelius, Benedictus Matthiæ	NA	NA	   1
+Luderhoff, Andreas Jonae	d. 1695	Luderhoff, Andreas Jonae	NA	NA	   1
+Luderhoff, Andreas Jonae	d. 1695.	Luderhoff, Andreas Jonae	NA	NA	   1
 Luculander, Petrus Magni	1600-t.	Luculander, Petrus Magni (1600-NA)	1600	NA	   1
 Lubovinus, Tobias	1600-t.	Lubovinus, Tobias (1600-NA)	1600	NA	   1
-Lovisin, Erik	d. 1693	Lovisin, Erik (1693-NA)	1693	NA	   1
+Lovisin, Erik	d. 1693	Lovisin, Erik	NA	NA	   1
 Lothigius, Johannes Petri	1604-1668	Lothigius, Johannes Petri (1604-1668)	1604	1668	   1
 Loperus, Christianus	1600-t.	Loperus, Christianus (1600-NA)	1600	NA	   1
-Lohrman, Bernhard Gertsson	d. 1673.	Lohrman, Bernhard Gertsson (1673-NA)	1673	NA	   1
+Lohrman, Bernhard Gertsson	d. 1673.	Lohrman, Bernhard Gertsson	NA	NA	   1
 Lohman, Bernhardus Svenonis	1600-t.	Lohman, Bernhardus Svenonis (1600-NA)	1600	NA	   1
-Lohm, Petrus Torstani	d. 1671	Lohm, Petrus Torstani (1671-NA)	1671	NA	   1
-Liungh, Petrus Erici	d. 1679	Liungh, Petrus Erici (1679-NA)	1679	NA	   1
+Lohm, Petrus Torstani	d. 1671	Lohm, Petrus Torstani	NA	NA	   1
+Liungh, Petrus Erici	d. 1679	Liungh, Petrus Erici	NA	NA	   1
 Litzenius, Nicolaus Arvidi	1600-t.	Litzenius, Nicolaus Arvidi (1600-NA)	1600	NA	   1
-Lithomannus, Andreas Matthiae	d. 1689	Lithomannus, Andreas Matthiae (1689-NA)	1689	NA	   1
-Linnerius, Petrus Jonae	d. 1656	Linnerius, Petrus Jonae (1656-NA)	1656	NA	   1
+Lithomannus, Andreas Matthiae	d. 1689	Lithomannus, Andreas Matthiae	NA	NA	   1
+Linnerius, Petrus Jonae	d. 1656	Linnerius, Petrus Jonae	NA	NA	   1
 Lindner, Michael	1500-t.	Lindner, Michael (1500-NA)	1500	NA	   1
 Lindcrantz, Nils	1648-1692	Lindcrantz, Nils (1648-1692)	1648	1692	   1
 Lindh, Carl	1600-t.	Lindh, Carl (1600-NA)	1600	NA	   1
@@ -22983,90 +22987,90 @@ Limburg, Heinrich von	1573-1637	Limburg, Heinrich Von (1573-1637)	1573	1637	   1
 Limacius, Andreas Johannis	1600-t.	Limacius, Andreas Johannis (1600-NA)	1600	NA	   1
 Lilonius, Andreas Erici	1600-t.	Lilonius, Andreas Erici (1600-NA)	1600	NA	   1
 Lillieström, Johan	1597-1657	Lillieström, Johan (1597-1657)	1597	1657	   1
-Lilljestolpe, Lars	d. 1706	Lilljestolpe, Lars (1706-NA)	1706	NA	   1
+Lilljestolpe, Lars	d. 1706	Lilljestolpe, Lars	NA	NA	   1
 Lilliering, Christianus Joachimi	1629-1697	Lilliering, Christianus Joachimi (1629-1697)	1629	1697	   1
 Lilliegren, Efraim Axelsson	1668-1729	Lilliegren, Efraim Axelsson (1668-1729)	1668	1729	   1
 Lidius, Daniel Erici	1661-1696.	Lidius, Daniel Erici (1661-1696)	1661	1696	   1
-Lidenius, Matthias Erici	d. 1693	Lidenius, Matthias Erici (1693-NA)	1693	NA	   1
+Lidenius, Matthias Erici	d. 1693	Lidenius, Matthias Erici	NA	NA	   1
 Lidenius, Haquinus Benedicti	1600-t.	Lidenius, Haquinus Benedicti (1600-NA)	1600	NA	   1
 Lefwerdt, Martinus Johannis	1656-1706	Lefwerdt, Martinus Johannis (1656-1706)	1656	1706	   1
 Levander, Olaus Johannis	1600-t.	Levander, Olaus Johannis (1600-NA)	1600	NA	   1
-Lerbeckius, Ericus Petri	d. 1670	Lerbeckius, Ericus Petri (1670-NA)	1670	NA	   1
+Lerbeckius, Ericus Petri	d. 1670	Lerbeckius, Ericus Petri	NA	NA	   1
 Leijonstedt, Anders	1649-1725	Leijonstedt, Anders (1649-1725)	1649	1725	   1
 Leijonberg, Johan	1625-1691	Leijonberg, Johan (1625-1691)	1625	1691	   1
-Leander, Gabriel Erici	d. 1691	Leander, Gabriel Erici (1691-NA)	1691	NA	   1
-Laxenius, Jacobus Martini	d. 1687	Laxenius, Jacobus Martini (1687-NA)	1687	NA	   1
+Leander, Gabriel Erici	d. 1691	Leander, Gabriel Erici	NA	NA	   1
+Laxenius, Jacobus Martini	d. 1687	Laxenius, Jacobus Martini	NA	NA	   1
 Lauterbach, Matthias Christophori	1600-t.	Lauterbach, Matthias Christophori (1600-NA)	1600	NA	   1
-Laurinus, Laurentius Johannis	d. 1691	Laurinus, Laurentius Johannis (1691-NA)	1691	NA	   1
+Laurinus, Laurentius Johannis	d. 1691	Laurinus, Laurentius Johannis	NA	NA	   1
 Lauringer, Eucharius	1600-t.	Lauringer, Eucharius (1600-NA)	1600	NA	   1
-Uddo Laurentii	d. 1638	Laurentii, Uddo (1638-NA)	1638	NA	   1
-Petrus Laurentii	-1683	Laurentii, Petrus (1628-1683)	1628	1683	   1
-Laurbecchius, Benedictus Laurentii	d. 1688	Laurbecchius, Benedictus Laurentii (1688-NA)	1688	NA	   1
-Lauræus, Olaus Olai	d. 1690	Lauræus, Olaus Olai (1690-NA)	1690	NA	   1
-Lantzenfelt, Henrik	d. 1673	Lantzenfelt, Henrik (1673-NA)	1673	NA	   1
+Uddo Laurentii	d. 1638	Laurentii, Uddo	NA	NA	   1
+Petrus Laurentii	-1683	Laurentii, Petrus (NA-1683)	NA	1683	   1
+Laurbecchius, Benedictus Laurentii	d. 1688	Laurbecchius, Benedictus Laurentii	NA	NA	   1
+Lauræus, Olaus Olai	d. 1690	Lauræus, Olaus Olai	NA	NA	   1
+Lantzenfelt, Henrik	d. 1673	Lantzenfelt, Henrik	NA	NA	   1
 Lantzbergh, Johannes	1600-t.	Lantzbergh, Johannes (1600-NA)	1600	NA	   1
-Lannerus, Petrus Arvidi	d. 1665	Lannerus, Petrus Arvidi (1665-NA)	1665	NA	   1
+Lannerus, Petrus Arvidi	d. 1665	Lannerus, Petrus Arvidi	NA	NA	   1
 Lannerus, Jonas Jacobi	1600-t.	Lannerus, Jonas Jacobi (1600-NA)	1600	NA	   1
-Landtman, Thore	d. 1679	Landtman, Thore (1679-NA)	1679	NA	   1
+Landtman, Thore	d. 1679	Landtman, Thore	NA	NA	   1
 Lallærus, Magnus Magni	1600-t.	Lallærus, Magnus Magni (1600-NA)	1600	NA	   1
 Lahlin, Daniel Danielis	1652-1712	Lahlin, Daniel Danielis (1652-1712)	1652	1712	   1
 Lagercrona, Johannes Matthiae	1618-1674	Lagercrona, Johannes Matthiae (1618-1674)	1618	1674	   1
 Laechlin, Matthias Matthiae	1600-t.	Laechlin, Matthias Matthiae (1600-NA)	1600	NA	   1
 Lader, Daniel	1600-t.	Lader, Daniel (1600-NA)	1600	NA	   1
-La Chétardie, Joachim de	1636-1714	La Chétardie, Joachim De (1636-1714)	1636	1714	   1
-Körling, Jonas Petri	d. 1679	Körling, Jonas Petri (1679-NA)	1679	NA	   1
+La Chétardie, Joachim de	1636-1714	La Chétardie, Joachim De	NA	NA	   1
+Körling, Jonas Petri	d. 1679	Körling, Jonas Petri	NA	NA	   1
 König, Johann Friedrich	1619-1664	König, Johann Friedrich (1619-1664)	1619	1664	   1
-Kyander, Andreas Georgii	1691?	Kyander, Andreas Georgii (1691-NA)	1691	NA	   1
+Kyander, Andreas Georgii	1691?	Kyander, Andreas Georgii	NA	NA	   1
 Kråkefoot, Olaus Johannis	1600-t.	Kråkefoot, Olaus Johannis (1600-NA)	1600	NA	   1
 Kråkefoot, Nicolaus Johannis	1600-t.	Kråkefoot, Nicolaus Johannis (1600-NA)	1600	NA	   1
 Kruus, Christoff	f. 1628	Kruus, Christoff (1628-NA)	1628	NA	   1
-Kronaltzius, Johannes Andreae	d. 1674	Kronaltzius, Johannes Andreae (1674-NA)	1674	NA	   1
+Kronaltzius, Johannes Andreae	d. 1674	Kronaltzius, Johannes Andreae	NA	NA	   1
 Krok, Laurentius Petri	1600-t.	Krok, Laurentius Petri (1600-NA)	1600	NA	   1
-Krok, Israel Jonae	d. 1653	Krok, Israel Jonae (1653-NA)	1653	NA	   1
-Kringius, Ericus Nicolavi	1600-t.	Kringius, Ericus Nicolavi (1600-NA)	1600	NA	   1
+Krok, Israel Jonae	d. 1653	Krok, Israel Jonae	NA	NA	   1
+Kringius, Ericus Nicolavi	1600-t.	Kringius, Ericus Nicolavi	NA	NA	   1
 Kortholt, Christian	1633-1694	Kortholt, Christian (1633-1694)	1633	1694	   1
-Korn, Valentin	d. 1684	Korn, Valentin (1684-NA)	1684	NA	   1
+Korn, Valentin	d. 1684	Korn, Valentin	NA	NA	   1
 Kolmodin, Erik	1630-t.-1665	Kolmodin, Erik (1630-1665)	1630	1665	   1
 Kollbecchius, Petrus Jonae	1625-1680	Kollbecchius, Petrus Jonae (1625-1680)	1625	1680	   1
-Kollanius, Abrahamus Abrahami	d. 1667	Kollanius, Abrahamus Abrahami (1667-NA)	1667	NA	   1
+Kollanius, Abrahamus Abrahami	d. 1667	Kollanius, Abrahamus Abrahami	NA	NA	   1
 Kock (Coccius), Oluf Jensen	-1619	Kock Coccius, Oluf Jensen (NA-1619)	NA	1619	   1
-Klint, Johannes Nicolai	d. före 1712	Klint, Johannes Nicolai (1712-NA)	1712	NA	   1
+Klint, Johannes Nicolai	d. före 1712	Klint, Johannes Nicolai	NA	NA	   1
 Kindius, Petrus Olai	1600-t.	Kindius, Petrus Olai (1600-NA)	1600	NA	   1
 Kilander, Petrus Brynolphi	1600-t.	Kilander, Petrus Brynolphi (1600-NA)	1600	NA	   1
-Kilander, Laurentius Laurentii	d. 1669	Kilander, Laurentius Laurentii (1669-NA)	1669	NA	   1
-Kilander, Laurentius Georgii	d. 1667	Kilander, Laurentius Georgii (1667-NA)	1667	NA	   1
+Kilander, Laurentius Laurentii	d. 1669	Kilander, Laurentius Laurentii	NA	NA	   1
+Kilander, Laurentius Georgii	d. 1667	Kilander, Laurentius Georgii	NA	NA	   1
 Kiexelius, Magnus Benedicti	1628-1685	Kiexelius, Magnus Benedicti (1628-1685)	1628	1685	   1
-Kiellinus, Laurentius Brynolphi	d. 1694	Kiellinus, Laurentius Brynolphi (1694-NA)	1694	NA	   1
-Keyser, Henrik	d. 1663	Keyser, Henrik (1663-1699)	1663	1699	   1
+Kiellinus, Laurentius Brynolphi	d. 1694	Kiellinus, Laurentius Brynolphi	NA	NA	   1
+Keyser, Henrik	d. 1663	Keyser, Henrik (1640-1699)	1640	1699	   1
 Kexlerus, Simon Svenonis	1602 -1669	Kexlerus, Simon Svenonis (1602-1669)	1602	1669	   1
 Kexlerus, Andreas Simonis	1600-t.	Kexlerus, Andreas Simonis (1600-NA)	1600	NA	   1
-Ketarenius, Ericus Pauli	d. 1664	Ketarenius, Ericus Pauli (1664-NA)	1664	NA	   1
+Ketarenius, Ericus Pauli	d. 1664	Ketarenius, Ericus Pauli	NA	NA	   1
 Kempe, Christophorus Johannis	1629-1676	Kempe, Christophorus Johannis (1629-1676)	1629	1676	   1
 Kemner, Heinrich Martin	1612-1638	Kemner, Heinrich Martin (1612-1638)	1612	1638	   1
 Kellingius, Petrus Caroli	1600-t.	Kellingius, Petrus Caroli (1600-NA)	1600	NA	   1
 Kellander, Petrus Magni	1655-1709	Kellander, Petrus Magni (1655-1709)	1655	1709	   1
 Keding, Johannes	1600-t.	Keding, Johannes (1600-NA)	1600	NA	   1
-Katt, Jonas Nicolai	d. 1694	Katt, Jonas Nicolai (1694-NA)	1694	NA	   1
+Katt, Jonas Nicolai	d. 1694	Katt, Jonas Nicolai	NA	NA	   1
 Karl	1316-1378	Karl,  (1316-1378)	1316	1378	   1
-Jägerhorn, Henrik	d. 1691	Jägerhorn, Henrik (1691-NA)	1691	NA	   1
-Justander, Samuel Erici	d. 1700	Justander, Samuel Erici (1700-NA)	1700	NA	   1
+Jägerhorn, Henrik	d. 1691	Jägerhorn, Henrik	NA	NA	   1
+Justander, Samuel Erici	d. 1700	Justander, Samuel Erici	NA	NA	   1
 Junander, Robertus Paschasii	1610-1670	Junander, Robertus Paschasii (1610-1670)	1610	1670	   1
 Julinus, Ericus Andreae	d. ca 1654	Julinus, Ericus Andreae (1654-NA)	1654	NA	   1
 Jordis, Hendrik	1600-t.	Jordis, Hendrik (1600-NA)	1600	NA	   1
-Petrus Jonae	d. 1664	Jonae, Petrus (1664-NA)	1664	NA	   1
-Petrus Jonae	-1667	Jonae, Petrus (NA-1667)	NA	1667	   1
-Magnus Jonae	d. 1604	Jonae, Magnus (1604-NA)	1604	NA	   1
+Petrus Jonae	d. 1664	Jonae, Petrus (1559-NA)	1559	NA	   1
+Petrus Jonae	-1667	Jonae, Petrus (1559-1667)	1559	1667	   1
+Magnus Jonae	d. 1604	Jonae, Magnus	NA	NA	   1
 Laurentius Jonae	d. 1598	Jonae, Laurentius (1598-NA)	1598	NA	   1
 Sara Johansdotter	1600-t.	Johansdotter, Sara (1600-NA)	1600	NA	   1
 Torstenius Johannis	ca 1600	Johannis, Torstenius (1600-NA)	1600	NA	   1
-Gelovius, Pappus Johannis	d. 1657	Gelovius, Pappus Johannis (1657-NA)	1657	NA	   1
+Gelovius, Pappus Johannis	d. 1657	Gelovius, Pappus Johannis	NA	NA	   1
 Michael Johannis	1600-t.	Johannis, Michael (1600-NA)	1600	NA	   1
 Andreas Johannis Säbyensis	1586-1653	Säbyensis, Andreas (1586-1653)	1586	1653	   1
 Johan	1604-1656	Johan,  (1604-1656)	1604	1656	   1
-Jheringius, Joachimus	d. 1657	Jheringius, Joachimus (1657-NA)	1657	NA	   1
-Jersnaerus, Sueno Johannis	d. 1657	Jersnaerus, Sueno Johannis (1657-NA)	1657	NA	   1
+Jheringius, Joachimus	d. 1657	Jheringius, Joachimus	NA	NA	   1
+Jersnaerus, Sueno Johannis	d. 1657	Jersnaerus, Sueno Johannis	NA	NA	   1
 Jenisch, Christian	1600-t.	Jenisch, Christian (1600-NA)	1600	NA	   1
-Gisle Jacobson	1600-t.	Jacobson, Gisle (1600-NA)	1600	NA	   1
+Gisle Jacobson	1600-t.	Jacobson, Gisle	NA	NA	   1
 Itter, Antonius	1600-t.	Itter, Antonius (1600-NA)	1600	NA	   1
 Isthmenius, Isaacus Jacobi	1610-1658	Isthmenius, Isaacus Jacobi (1610-1658)	1610	1658	   1
 Johan Israelsson	1600-t.	Israelsson, Johan (1600-NA)	1600	NA	   1
@@ -23074,98 +23078,98 @@ Insulander, Benedictus Jonae	d. 1709	Insulander, Benedictus Jonae (1709-NA)	1709
 Ingebrechtson, Carl	1600-t.	Ingebrechtson, Carl (1600-NA)	1600	NA	   1
 Igelström, Benedictus Haraldi	1600-t.	Igelström, Benedictus Haraldi (1600-NA)	1600	NA	   1
 Höök, Bengt	ca 1652-1726	Höök, Bengt (1652-1726)	1652	1726	   1
-Höök, Andreas Andreae	d. 1710	Höök, Andreas Andreae (1710-NA)	1710	NA	   1
+Höök, Andreas Andreae	d. 1710	Höök, Andreas Andreae	NA	NA	   1
 Hövelen, Conrad von	1630-1689	Hövelen, Conrad Von (1630-1689)	1630	1689	   1
 Hysingh, Ericus Johannis	1640-1683	Hysingh, Ericus Johannis (1640-1683)	1640	1683	   1
-Hygridius, Arvidus Laurentii	d. 1701	Hygridius, Arvidus Laurentii (1701-NA)	1701	NA	   1
+Hygridius, Arvidus Laurentii	d. 1701	Hygridius, Arvidus Laurentii	NA	NA	   1
 Hyginus, Gajus Julius	ca 60 f.Kr.-ca 15 e.Kr.	Hyginus, Gajus Julius	NA	NA	   1
 Hutzingius, Enoch	1600-t.	Hutzingius, Enoch (1600-NA)	1600	NA	   1
 Hunnius, Aegidius	1550-1603	Hunnius, Aegidius (1550-1603)	1550	1603	   1
-Hungvidius, Nicolaus Magni	d. 1657	Hungvidius, Nicolaus Magni (1657-NA)	1657	NA	   1
+Hungvidius, Nicolaus Magni	d. 1657	Hungvidius, Nicolaus Magni	NA	NA	   1
 Humerus, Christopherus Johannis	1668-1703	Humerus, Christopherus Johannis (1668-1703)	1668	1703	   1
-Humble, Petrus Haquini	d. 1697	Humble, Petrus Haquini (1697-NA)	1697	NA	   1
+Humble, Petrus Haquini	d. 1697	Humble, Petrus Haquini	NA	NA	   1
 Hult, Elias Andreae	1600-t.	Hult, Elias Andreae (1600-NA)	1600	NA	   1
 Hugo, Hermann	1588-1629	Hugo, Hermann (1588-1629)	1588	1629	   1
 Huber, Samuel	1547-1624	Huber, Samuel (1547-1624)	1547	1624	   1
 Houtuyn, Adrian	1600-t.	Houtuyn, Adrian (1600-NA)	1600	NA	   1
-Hosselius, Olaus Jonae	d. 1692	Hosselius, Olaus Jonae (1692-NA)	1692	NA	   1
-Hornius, Arvidus Haqvini	d. 1652	Hornius, Arvidus Haqvini (1652-NA)	1652	NA	   1
+Hosselius, Olaus Jonae	d. 1692	Hosselius, Olaus Jonae	NA	NA	   1
+Hornius, Arvidus Haqvini	d. 1652	Hornius, Arvidus Haqvini	NA	NA	   1
 Hornick, Martinus Johannis	1600-t.	Hornick, Martinus Johannis (1600-NA)	1600	NA	   1
-Hornick, Georgius Johannis	d. 1661	Hornick, Georgius Johannis (1661-NA)	1661	NA	   1
+Hornick, Georgius Johannis	d. 1661	Hornick, Georgius Johannis	NA	NA	   1
 Hornaeus, Andreas Amberni	1616-1700	Hornaeus, Andreas Amberni (1616-1700)	1616	1700	   1
 Hondorff, Andreas	ca 1530-1572	Hondorff, Andreas (1530-1572)	1530	1572	   1
 Holstenius, Johannes Erici	1624-1685	Holstenius, Johannes Erici (1624-1685)	1624	1685	   1
 Holstenius, Ericus Holstenii	1588-1640	Holstenius, Ericus Holstenii (1588-1640)	1588	1640	   1
-Holmius, Jacobus Eliæ	d. 1697	Holmius, Jacobus Eliæ (1697-NA)	1697	NA	   1
-Holmenius, Andreas Laurentii	d. 1674	Holmenius, Andreas Laurentii (1674-NA)	1674	NA	   1
+Holmius, Jacobus Eliæ	d. 1697	Holmius, Jacobus Eliæ	NA	NA	   1
+Holmenius, Andreas Laurentii	d. 1674	Holmenius, Andreas Laurentii	NA	NA	   1
 Holm, Edvardus Johannis	f. 1619	Holm, Edvardus Johannis (1619-NA)	1619	NA	   1
-Holyk, Georgius	d. ca 1685	Holyk, Georgius (1685-NA)	1685	NA	   1
+Holyk, Georgius	d. ca 1685	Holyk, Georgius	NA	NA	   1
 Hogengård, Petrus Matthiæ	1600-t.	Hogengård, Petrus Matthiæ (1600-NA)	1600	NA	   1
-Hoffrenius, Henricus Johannis	d. 1710	Hoffrenius, Henricus Johannis (1710-NA)	1710	NA	   1
+Hoffrenius, Henricus Johannis	d. 1710	Hoffrenius, Henricus Johannis	NA	NA	   1
 Hochgrefferus, Henricus	1600-t.	Hochgrefferus, Henricus (1600-NA)	1600	NA	   1
 Himmelius, Petrus Johannis	ca 1615-1666	Himmelius, Petrus Johannis (1615-1666)	1615	1666	   1
 Hiller, Nicolaus	1600-t.	Hiller, Nicolaus (1600-NA)	1600	NA	   1
 Hierzelius, Henricus Martini	1600-t.	Hierzelius, Henricus Martini (1600-NA)	1600	NA	   1
-Hierpe, Petrus Laurentii (Laurentinus)	d. 1693	Hierpe, Petrus Laurentii Laurentinus (1693-NA)	1693	NA	   1
+Hierpe, Petrus Laurentii (Laurentinus)	d. 1693	Hierpe, Petrus Laurentii Laurentinus	NA	NA	   1
 Hesshusen, Tilemann	1527-1588	Hesshusen, Tilemann (1527-1588)	1527	1588	   1
-Hesling, Johannes Johannis	d. 1690	Hesling, Johannes Johannis (1690-NA)	1690	NA	   1
-Herkepaeus, Ericus Andreae	d. 1693	Herkepaeus, Ericus Andreae (1693-NA)	1693	NA	   1
-Herborth, Johannes Jacobus	d. 1691	Herborth, Johannes Jacobus (1691-NA)	1691	NA	   1
-Heraeus, Christian	d. 1691	Heraeus, Christian (1691-NA)	1691	NA	   1
+Hesling, Johannes Johannis	d. 1690	Hesling, Johannes Johannis	NA	NA	   1
+Herkepaeus, Ericus Andreae	d. 1693	Herkepaeus, Ericus Andreae	NA	NA	   1
+Herborth, Johannes Jacobus	d. 1691	Herborth, Johannes Jacobus	NA	NA	   1
+Heraeus, Christian	d. 1691	Heraeus, Christian	NA	NA	   1
 Hennings, Ambrosius	1600-t.	Hennings, Ambrosius (1600-NA)	1600	NA	   1
 Hemmingsen, Niels	1513-1600	Hemmingsen, Niels (1513-1600)	1513	1600	   1
 Hemmersam, Michael	1619-1661	Hemmersam, Michael (1619-1661)	1619	1661	   1
-Helsingius, Marcus Henrici	d. 1609	Helsingius, Marcus Henrici (1609-NA)	1609	NA	   1
-Helsingius, Marcus Georgii	d. 1678	Helsingius, Marcus Georgii (1678-NA)	1678	NA	   1
+Helsingius, Marcus Henrici	d. 1609	Helsingius, Marcus Henrici	NA	NA	   1
+Helsingius, Marcus Georgii	d. 1678	Helsingius, Marcus Georgii	NA	NA	   1
 Helmfelt, Gustaf	1651-1674	Helmfelt, Gustaf (1651-1674)	1651	1674	   1
-Hellenius, Bothvidus Jonae	d. 1670	Hellenius, Bothvidus Jonae (1670-NA)	1670	NA	   1
+Hellenius, Bothvidus Jonae	d. 1670	Hellenius, Bothvidus Jonae	NA	NA	   1
 Heldvader, Johannes Nicolai	1564-1634	Heldvader, Johannes Nicolai (1564-1634)	1564	1634	   1
 Heinsius, J. B	1600-t.	Heinsius, J B (1600-NA)	1600	NA	   1
 Heidenreich, Esaias	1532-1589	Heidenreich, Esaias (1532-1589)	1532	1589	   1
 Hedraeus, Benedictus Christierni	1608-1659	Hedraeus, Benedictus Christierni (1608-1659)	1608	1659	   1
 Head, Richard	ca 1637-ca 1686	Head, Richard (1637-1686)	1637	1686	   1
 Hayward, John	1564?-1627	Hayward, John (1564-1627)	1564	1627	   1
-Haveman, Georgius Henrici	d. 1717	Haveman, Georgius Henrici (1717-NA)	1717	NA	   1
+Haveman, Georgius Henrici	d. 1717	Haveman, Georgius Henrici	NA	NA	   1
 Hausmannus, Engelbertus	1600-t.	Hausmannus, Engelbertus (1600-NA)	1600	NA	   1
 Hastadius, Laurentius Estonis	1600-t.	Hastadius, Laurentius Estonis (1600-NA)	1600	NA	   1
-Hasselgren, Henricus Petri	d. 1698	Hasselgren, Henricus Petri (1698-NA)	1698	NA	   1
+Hasselgren, Henricus Petri	d. 1698	Hasselgren, Henricus Petri	NA	NA	   1
 Hasselgren, Elias Petri	1600-t.	Hasselgren, Elias Petri (1600-NA)	1600	NA	   1
-Hasselblad, Isaacus Svenonis	d. 1682	Hasselblad, Isaacus Svenonis (1682-NA)	1682	NA	   1
+Hasselblad, Isaacus Svenonis	d. 1682	Hasselblad, Isaacus Svenonis	NA	NA	   1
 Hartman, Samuel Georgii	1606-1653	Hartman, Samuel Georgii (1606-1653)	1606	1653	   1
-Hartman, Olaus Samuelis	d. 1695	Hartman, Olaus Samuelis (1695-NA)	1695	NA	   1
+Hartman, Olaus Samuelis	d. 1695	Hartman, Olaus Samuelis	NA	NA	   1
 Happel, Eberhard Werner	1647-1690	Happel, Eberhard Werner (1647-1690)	1647	1690	   1
 Hand, Knut	d. 1614	Hand, Knut (1614-NA)	1614	NA	   1
 Hammarinus, Ericus Laurentii	1600-t.	Hammarinus, Ericus Laurentii (1600-NA)	1600	NA	   1
 Hamelmann, Hermann	1525-1595	Hamelmann, Hermann (1525-1595)	1525	1595	   1
-Hamelius, Olaus Johannis	d. 1678	Hamelius, Olaus Johannis (1678-NA)	1678	NA	   1
+Hamelius, Olaus Johannis	d. 1678	Hamelius, Olaus Johannis	NA	NA	   1
 Hambræus, Jonas	1588-1671	Hambræus, Jonas (1588-1671)	1588	1671	   1
-Hake, Axelius Nicolai	d. 1659?	Hake, Axelius Nicolai (1659-NA)	1659	NA	   1
-Hagman, Magnus Petri	d. 1710	Hagman, Magnus Petri (1710-NA)	1710	NA	   1
-Haglinus, Jonas Leonhardi	d. 1712	Haglinus, Jonas Leonhardi (1712-NA)	1712	NA	   1
+Hake, Axelius Nicolai	d. 1659?	Hake, Axelius Nicolai	NA	NA	   1
+Hagman, Magnus Petri	d. 1710	Hagman, Magnus Petri	NA	NA	   1
+Haglinus, Jonas Leonhardi	d. 1712	Haglinus, Jonas Leonhardi	NA	NA	   1
 Hagerus, Enoch Israelis	1622-1664	Hagerus, Enoch Israelis (1622-1664)	1622	1664	   1
 Gyllenkrok, Anders	1622-1683	Gyllenkrok, Anders (1622-1683)	1622	1683	   1
-Gyllengrip, Gabriel Andreæ	d. 1685	Gyllengrip, Gabriel Andreæ (1685-NA)	1685	NA	   1
+Gyllengrip, Gabriel Andreæ	d. 1685	Gyllengrip, Gabriel Andreæ	NA	NA	   1
 Gyldenstolpe, Daniel	1645-1691	Gyldenstolpe, Daniel (1645-1691)	1645	1691	   1
-Gyldenstolpe, Carl	d. 1710	Gyldenstolpe, Carl (1710-NA)	1710	NA	   1
+Gyldenstolpe, Carl	d. 1710	Gyldenstolpe, Carl	NA	NA	   1
 Guthrie, John	1662-1724	Guthrie, John (1662-1724)	1662	1724	   1
 Gunnærus, Michael Samuelis	1600-t.	Gunnærus, Michael Samuelis (1600-NA)	1600	NA	   1
-Petrus Gudmundi	d. 1672	Gudmundi, Petrus (1672-NA)	1672	NA	   1
+Petrus Gudmundi	d. 1672	Gudmundi, Petrus	NA	NA	   1
 Gröningh, Carolus Nicolai	1600-t.	Gröningh, Carolus Nicolai (1600-NA)	1600	NA	   1
 Gruve, Daniel Danielis	1631-1684	Gruve, Daniel Danielis (1631-1684)	1631	1684	   1
-Grundelius, Arvidus Johannis	d. 1658	Grundelius, Arvidus Johannis (1658-NA)	1658	NA	   1
+Grundelius, Arvidus Johannis	d. 1658	Grundelius, Arvidus Johannis	NA	NA	   1
 Gripenklo, Magnus	1610-1676	Gripenklo, Magnus (1610-1676)	1610	1676	   1
 Gregorios av Nazianzos	ca 330-390.	Nazianzos, Gregorios	NA	NA	   1
 Gregoras, Nikeforos	ca 1295-ca 1359.	Gregoras, Nikeforos (1295-1359)	1295	1359	   1
-Green, Ericus Danielis	d. 1692.	Green, Ericus Danielis (1692-NA)	1692	NA	   1
-Greek, Simon Caroli	d. 1691	Greek, Simon Caroli (1691-NA)	1691	NA	   1
+Green, Ericus Danielis	d. 1692.	Green, Ericus Danielis	NA	NA	   1
+Greek, Simon Caroli	d. 1691	Greek, Simon Caroli	NA	NA	   1
 Greek, Jacobus Johannis	1600-t.	Greek, Jacobus Johannis (1600-NA)	1600	NA	   1
-Granius, Nicolaus Andreae	d. 1631	Granius, Nicolaus Andreae (1631-NA)	1631	NA	   1
-Granberg, Wilhelmus Petri	d. 1694.	Granberg, Wilhelmus Petri (1694-NA)	1694	NA	   1
+Granius, Nicolaus Andreae	d. 1631	Granius, Nicolaus Andreae	NA	NA	   1
+Granberg, Wilhelmus Petri	d. 1694.	Granberg, Wilhelmus Petri	NA	NA	   1
 Grahn, Johannes Erici	ca 1639-1678	Grahn, Johannes Erici (1639-1678)	1639	1678	   1
-Goldenau, Nathanael	d. 1705	Goldenau, Nathanael (1705-NA)	1705	NA	   1
-Gnospelius, Jacobus	d. 1703	Gnospelius, Jacobus (1703-NA)	1703	NA	   1
+Goldenau, Nathanael	d. 1705	Goldenau, Nathanael	NA	NA	   1
+Gnospelius, Jacobus	d. 1703	Gnospelius, Jacobus	NA	NA	   1
 Gladerus, Johannes Henrici	1600-t.	Gladerus, Johannes Henrici (1600-NA)	1600	NA	   1
-Gizaeus, Petrus Gislesson	d. 1640?	Gizaeus, Petrus Gislesson (1640-NA)	1640	NA	   1
+Gizaeus, Petrus Gislesson	d. 1640?	Gizaeus, Petrus Gislesson	NA	NA	   1
 Girs, Petrus Petri	1600-t.	Girs, Petrus Petri (1600-NA)	1600	NA	   1
 Girenius, Ericus Nicolai	1634-1696	Girenius, Ericus Nicolai (1634-1696)	1634	1696	   1
 Geringius, Andreas Nicolai	1635-1687	Geringius, Andreas Nicolai (1635-1687)	1635	1687	   1
@@ -23174,19 +23178,19 @@ Ilsbodinus, Mattias Georgii	1578-1641	Ilsbodinus, Mattias Georgii (1578-1641)	15
 Haraldus Georgii	1600-t.	Georgii, Haraldus (1600-NA)	1600	NA	   1
 Gelsenius, Sveno Theodori	1619-1676	Gelsenius, Sveno Theodori (1619-1676)	1619	1676	   1
 Geete, Erik	1587-1651	Geete, Erik (1587-1651)	1587	1651	   1
-Gartzius, Johannes	d. 1682	Gartzius, Johannes (1682-NA)	1682	NA	   1
+Gartzius, Johannes	d. 1682	Gartzius, Johannes	NA	NA	   1
 Gangius, Olaus Laurentii	1600-t.	Gangius, Olaus Laurentii (1600-NA)	1600	NA	   1
 Gangius, Elias Martini	1600-t.	Gangius, Elias Martini (1600-NA)	1600	NA	   1
-Gammal, Martinus Matthaei	d. 1669?	Gammal, Martinus Matthaei (1669-NA)	1669	NA	   1
-Gammal, Martinus Matthaei	1669?	Gammal, Martinus Matthaei (1669-NA)	1669	NA	   1
+Gammal, Martinus Matthaei	d. 1669?	Gammal, Martinus Matthaei	NA	NA	   1
+Gammal, Martinus Matthaei	1669?	Gammal, Martinus Matthaei	NA	NA	   1
 Gallenius, Andreas Swenonis	1600-t.	Gallenius, Andreas Swenonis (1600-NA)	1600	NA	   1
 Galenos	129-199	Galenos, 	NA	NA	   1
-Galdenblad, Johan	d. 1736	Galdenblad, Johan (1736-NA)	1736	NA	   1
+Galdenblad, Johan	d. 1736	Galdenblad, Johan	NA	NA	   1
 Gadd, Johannes Andreae	1600-t.	Gadd, Johannes Andreae (1600-NA)	1600	NA	   1
 Fägerstierna, Håkan Andersson	1635-1693	Fägerstierna, Håkan Andersson (1635-1693)	1635	1693	   1
-Frymolinus, Daniel Svenonis	d. 1693	Frymolinus, Daniel Svenonis (1693-NA)	1693	NA	   1
+Frymolinus, Daniel Svenonis	d. 1693	Frymolinus, Daniel Svenonis	NA	NA	   1
 Frondelius, Andreas	1651-1707	Frondelius, Andreas (1651-1707)	1651	1707	   1
-Frisius, Samuel Nicolai	d. 1669?	Frisius, Samuel Nicolai (1669-NA)	1669	NA	   1
+Frisius, Samuel Nicolai	d. 1669?	Frisius, Samuel Nicolai	NA	NA	   1
 Frisius, Magnus Andreae	1600-t.	Frisius, Magnus Andreae (1600-NA)	1600	NA	   1
 Friederich, Mattheus	1600-t.	Friederich, Mattheus (1600-NA)	1600	NA	   1
 Friedelius, Laurentius Suenonis	1600-t.	Friedelius, Laurentius Suenonis (1600-NA)	1600	NA	   1
@@ -23195,28 +23199,28 @@ Forsselius, Olaus	1600-t.	Forsselius, Olaus (1600-NA)	1600	NA	   1
 Forsenius, Johan	1660-1705	Forsenius, Johan (1660-1705)	1660	1705	   1
 Forsaeus, Johannes Petri	1610-1679	Forsaeus, Johannes Petri (1610-1679)	1610	1679	   1
 Fontelius, Laurentius Arvidi	1606-ca 1654	Fontelius, Laurentius Arvidi (1606-1654)	1606	1654	   1
-Folkernius, Petrus Erici	d. 1648	Folkernius, Petrus Erici (1648-NA)	1648	NA	   1
+Folkernius, Petrus Erici	d. 1648	Folkernius, Petrus Erici	NA	NA	   1
 Folkernius, Laurentius Johannis	c:a 1618-1674	Folkernius, Laurentius Johannis (1618-1674)	1618	1674	   1
 Folchovius, Andreas Petri	1600-t.	Folchovius, Andreas Petri (1600-NA)	1600	NA	   1
 Folchenius, Laurentius Nicolai	1640-t.-1718	Folchenius, Laurentius Nicolai (1640-1718)	1640	1718	   1
-Fogelberg, Petrus Svenonis	d. 1712	Fogelberg, Petrus Svenonis (1712-NA)	1712	NA	   1
-Flygge, Johannes Petri	d. före 1682	Flygge, Johannes Petri (1682-NA)	1682	NA	   1
+Fogelberg, Petrus Svenonis	d. 1712	Fogelberg, Petrus Svenonis	NA	NA	   1
+Flygge, Johannes Petri	d. före 1682	Flygge, Johannes Petri	NA	NA	   1
 Florus	100-talet	Florus, 	NA	NA	   1
-Florinus, Thomas Martini	d. efter 1703	Florinus, Thomas Martini (1703-NA)	1703	NA	   1
-Florinus, Thomas	d. 1648	Florinus, Thomas (1648-NA)	1648	NA	   1
+Florinus, Thomas Martini	d. efter 1703	Florinus, Thomas Martini	NA	NA	   1
+Florinus, Thomas	d. 1648	Florinus, Thomas	NA	NA	   1
 Florinus, Ericus Matthiæ	1600-t.	Florinus, Ericus Matthiæ (1600-NA)	1600	NA	   1
-Florenius, Paulus Svenonis	d. senast 1665	Florenius, Paulus Svenonis (1665-NA)	1665	NA	   1
+Florenius, Paulus Svenonis	d. senast 1665	Florenius, Paulus Svenonis	NA	NA	   1
 Fleming, Henrik	1644-1675	Fleming, Henrik (1644-1675)	1644	1675	   1
 Fleming, Claes	1550-t.-1616	Fleming, Claes (1550-1616)	1550	1616	   1
 Fischer, Christoffer	ca 1519-1597	Fischer, Christoffer (1519-1597)	1519	1597	   1
 Fischbach, Petrus Conrad von	1600-t.	Fischbach, Petrus Conrad Von (1600-NA)	1600	NA	   1
 Fernander, Olaus Laurentii	1600-t.	Fernander, Olaus Laurentii (1600-NA)	1600	NA	   1
 Fedt, Daniel	1600-t.	Fedt, Daniel (1600-NA)	1600	NA	   1
-Faxelius, Martinus Nicolai	d. 1651	Faxelius, Martinus Nicolai (1651-NA)	1651	NA	   1
+Faxelius, Martinus Nicolai	d. 1651	Faxelius, Martinus Nicolai	NA	NA	   1
 Farlingius, Magnus Laurentii Westadius	1600-t.	Farlingius, Magnus Laurentii Westadius (1600-NA)	1600	NA	   1
 Falkenklo, Jakob	1649-1716	Falkenklo, Jakob (1649-1716)	1649	1716	   1
-Falck, Petrus Simonsson	d. 1622	Falck, Petrus Simonsson (1622-NA)	1622	NA	   1
-Falk, Petrus Andreae	d. 1692	Falk, Petrus Andreae (1692-NA)	1692	NA	   1
+Falck, Petrus Simonsson	d. 1622	Falck, Petrus Simonsson	NA	NA	   1
+Falk, Petrus Andreae	d. 1692	Falk, Petrus Andreae	NA	NA	   1
 Falk, Johannes Erici	1600-t.	Falk, Johannes Erici (1600-NA)	1600	NA	   1
 Falk, Andreas Petri	1662-1727	Falk, Andreas Petri (1662-1727)	1662	1727	   1
 Fahlman, Nicolaus Svenonis	1600-t.	Fahlman, Nicolaus Svenonis (1600-NA)	1600	NA	   1
@@ -23224,8 +23228,8 @@ Fabrinus, Sveno Trottonis	1600-t.	Fabrinus, Sveno Trottonis (1600-NA)	1600	NA	  
 Fabricius, Theodosius	1560-1597	Fabricius, Theodosius (1560-1597)	1560	1597	   1
 Fabricius, Johannes	ca 1600	Fabricius, Johannes (1600-NA)	1600	NA	   1
 Fabricius, Georg	1516-1571	Fabricius, Georg (1516-1571)	1516	1571	   1
-Fabricius, Eschillus Svenonis	d. 1692	Fabricius, Eschillus Svenonis (1692-NA)	1692	NA	   1
-Fabricius, Ericus	d. 1636	Fabricius, Ericus (1636-NA)	1636	NA	   1
+Fabricius, Eschillus Svenonis	d. 1692	Fabricius, Eschillus Svenonis	NA	NA	   1
+Fabricius, Ericus	d. 1636	Fabricius, Ericus	NA	NA	   1
 Faber, Basilius	1520-1576	Faber, Basilius (1520-1576)	1520	1576	   1
 Eurymachæra, Casparus	1600-t.	Eurymachæra, Casparus (1600-NA)	1600	NA	   1
 Espingh, Petrus Magni	1600-t.	Espingh, Petrus Magni (1600-NA)	1600	NA	   1
@@ -23234,13 +23238,13 @@ Sigwardus Erici	1600-t.	Erici, Sigwardus (1600-NA)	1600	NA	   1
 Laurentius Erici	1600-t.	Erici, Laurentius (1600-NA)	1600	NA	   1
 Benedictus Erici	1600-t.	Erici, Benedictus (1600-NA)	1600	NA	   1
 Enslin, Johannes Theodoricus	1600-t.	Enslin, Johannes Theodoricus (1600-NA)	1600	NA	   1
-Emporagrius, Israel Nicolai	d. 1657	Emporagrius, Israel Nicolai (1657-NA)	1657	NA	   1
+Emporagrius, Israel Nicolai	d. 1657	Emporagrius, Israel Nicolai	NA	NA	   1
 Emporagrius, Ericus Jonæ	1617-1695	Emporagrius, Ericus Jonæ (1617-1695)	1617	1695	   1
 Elledurt, Johannes	1600-t.	Elledurt, Johannes (1600-NA)	1600	NA	   1
 Elingius, Gustavus Andreae	c:a 1650-1725	Elingius, Gustavus Andreae (1650-1725)	1650	1725	   1
 Elias Eliae	1600-t.	Eliae, Elias (1600-NA)	1600	NA	   1
 Elers, Anthon	1600-t.	Elers, Anthon (1600-NA)	1600	NA	   1
-Ekenius, Laurentius Nicolai	d. 1691	Ekenius, Laurentius Nicolai (1691-NA)	1691	NA	   1
+Ekenius, Laurentius Nicolai	d. 1691	Ekenius, Laurentius Nicolai	NA	NA	   1
 Ekenberg, Petrus Laurentii	1603-1656	Ekenberg, Petrus Laurentii (1603-1656)	1603	1656	   1
 Ekehielm, Bengt Johansson	1612-1650	Ekehielm, Bengt Johansson (1612-1650)	1612	1650	   1
 Eichler, Michael	1500-t.	Eichler, Michael (1500-NA)	1500	NA	   1
@@ -23248,35 +23252,35 @@ Ehrenthal, Engel Hartmann von	1652-1701	Ehrenthal, Engel Hartmann Von (1652-1701
 Ehrenhoff, Matthias	1645-1704	Ehrenhoff, Matthias (1645-1704)	1645	1704	   1
 Egardus, Paulus	1600-t.	Egardus, Paulus (1600-NA)	1600	NA	   1
 Dürr, Johann Conrad	1625-1671	Dürr, Johann Conrad (1625-1671)	1625	1671	   1
-Dych, Haraldus Johannis	d. 1711	Dych, Haraldus Johannis (1711-NA)	1711	NA	   1
+Dych, Haraldus Johannis	d. 1711	Dych, Haraldus Johannis	NA	NA	   1
 Dwan, Georgius Gudmundi	1605-1647	Dwan, Georgius Gudmundi (1605-1647)	1605	1647	   1
 Durell, Magnus	1617-1677	Durell, Magnus (1617-1677)	1617	1677	   1
-Duncanus, Olaus	d. 1659	Duncanus, Olaus (1659-NA)	1659	NA	   1
+Duncanus, Olaus	d. 1659	Duncanus, Olaus	NA	NA	   1
 Drysenius, Magnus Laurentii	1636-1701	Drysenius, Magnus Laurentii (1636-1701)	1636	1701	   1
-Dryander, Jonas Erici	d. 1650	Dryander, Jonas Erici (1650-NA)	1650	NA	   1
+Dryander, Jonas Erici	d. 1650	Dryander, Jonas Erici	NA	NA	   1
 Dreyer, Johann Arnold	1600-t.	Dreyer, Johann Arnold (1600-NA)	1600	NA	   1
 Dresser, Matthaeus	1536-1607	Dresser, Matthaeus (1536-1607)	1536	1607	   1
 Drakenstierna, Matthias	1598-1670	Drakenstierna, Matthias (1598-1670)	1598	1670	   1
 Dorsch, Johann Georg	1597-1659	Dorsch, Johann Georg (1597-1659)	1597	1659	   1
 Donrätl, Ferdinand	1600-t.	Donrätl, Ferdinand (1600-NA)	1600	NA	   1
-Dimbodius, Andreas Svenonis	d. 1675	Dimbodius, Andreas Svenonis (1675-NA)	1675	NA	   1
+Dimbodius, Andreas Svenonis	d. 1675	Dimbodius, Andreas Svenonis	NA	NA	   1
 Demosch, Matthias	1600-t.	Demosch, Matthias (1600-NA)	1600	NA	   1
 Demophilus	ca 150 e.Kr.	Demophilus	NA	NA	   1
 Delwich, Johannes von	1600-t.	Delwich, Johannes Von (1600-NA)	1600	NA	   1
 De la Gardie, Magnus Gabriel	1622-1686	De La Gardie, Magnus Gabriel (1622-1686)	1622	1686	   1
 De La Gardie, Magnus Gabriel	1622-1686	De La Gardie, Magnus Gabriel (1622-1686)	1622	1686	   1
-De la Chapelle, Julius Richart	d. 1672	De La Chapelle, Julius Richart (1672-NA)	1672	NA	   1
+De la Chapelle, Julius Richart	d. 1672	De La Chapelle, Julius Richart	NA	NA	   1
 Dedekind, Friedrich	ca 1525-1598	Dedekind, Friedrich (1525-1598)	1525	1598	   1
 Davidsson, Wilhelmus	1600-t.	Davidsson, Wilhelmus (1600-NA)	1600	NA	   1
 Daniel Danielis	1600-t.	Danielis, Daniel (1600-NA)	1600	NA	   1
 Dalin, Petrus Andreae	1655-1717	Dalin, Petrus Andreae (1655-1717)	1655	1717	   1
-Dalenius, Petrus Svenonis	d. 1706	Dalenius, Petrus Svenonis (1706-NA)	1706	NA	   1
+Dalenius, Petrus Svenonis	d. 1706	Dalenius, Petrus Svenonis	NA	NA	   1
 Olaus Israelis Dalekarlus	1613-1679	Dalekarlus, Olaus (1613-1679)	1613	1679	   1
 Dahlberg, Erik Jönsson	-1703	Dahlberg, Erik Jönsson (NA-1703)	NA	1703	   1
 Daffy, Anthony	d. 1680	Daffy, Anthony (1680-NA)	1680	NA	   1
 Curnovius, Johannes Henrici	1600-t.	Curnovius, Johannes Henrici (1600-NA)	1600	NA	   1
 Cuprimontanus, Henricus Abrahami	1600-t.	Cuprimontanus, Henricus Abrahami (1600-NA)	1600	NA	   1
-Cujacius, Isaacus	d. 1664	Cujacius, Isaacus (1664-NA)	1664	NA	   1
+Cujacius, Isaacus	d. 1664	Cujacius, Isaacus	NA	NA	   1
 Cröell, Samuel	c:a 1600-1667	Cröell, Samuel (1600-1667)	1600	1667	   1
 Crüger, Johann	d. 1617	Crüger, Johann (1617-NA)	1617	NA	   1
 Cronström, Daniel	1655-1719	Cronström, Daniel (1655-1719)	1655	1719	   1
@@ -23285,11 +23289,11 @@ Croning, Laurentius Olavi	1651-1735	Croning, Laurentius Olavi (1651-1735)	1651	1
 Cringelius, Enoch Haqvini	1599-1632	Cringelius, Enoch Haqvini (1599-1632)	1599	1632	   1
 Crantzberg, Johann August von	1600-t.	Crantzberg, Johann August Von (1600-NA)	1600	NA	   1
 Cramer, Nicodemus	1500-t.	Cramer, Nicodemus (1500-NA)	1500	NA	   1
-Crail, Georg Günther	d. 1641	Crail, Georg Günther (1641-NA)	1641	NA	   1
+Crail, Georg Günther	d. 1641	Crail, Georg Günther	NA	NA	   1
 Coyet, Fredrik	-1620	Coyet, Fredrik (NA-1620)	NA	1620	   1
 Küster von Rosenberg, Johannes	1614-1685	Küster Von Rosenberg, Johannes (1614-1685)	1614	1685	   1
 Cornelia	d. c:a 150 f. Kr.	Cornelia, 	NA	NA	   1
-Constantius, Johannes Josua	d. 1698	Constantius, Johannes Josua (1698-NA)	1698	NA	   1
+Constantius, Johannes Josua	d. 1698	Constantius, Johannes Josua	NA	NA	   1
 Commynes, Philippe de	1445-1511	Commynes, Philippe De (1445-1511)	1445	1511	   1
 Columbus, Jacobus Petri	-1655	Columbus, Jacobus Petri (NA-1655)	NA	1655	   1
 Collinus, Johannes Nicolai	1600-t.	Collinus, Johannes Nicolai (1600-NA)	1600	NA	   1
@@ -23298,51 +23302,51 @@ Collander, Samuel Thomae	-1727	Collander, Samuel Thomae (NA-1727)	NA	1727	   1
 Colerus, Fridericus Werner	1600-t.	Colerus, Fridericus Werner (1600-NA)	1600	NA	   1
 Cochlæus, Johannes	1479-1552	Cochlæus, Johannes (1479-1552)	1479	1552	   1
 Clüver, Philipp	1580-1622	Clüver, Philipp (1580-1622)	1580	1622	   1
-Cloverus, Johannes Erici	d. 1685	Cloverus, Johannes Erici (1685-NA)	1685	NA	   1
+Cloverus, Johannes Erici	d. 1685	Cloverus, Johannes Erici	NA	NA	   1
 Clingel, Rudolph	1600-t.	Clingel, Rudolph (1600-NA)	1600	NA	   1
 Claudius, Alertus	1600-t.	Claudius, Alertus (1600-NA)	1600	NA	   1
 Clarmannus, Isacus Petri	1600-t.	Clarmannus, Isacus Petri (1600-NA)	1600	NA	   1
-Cirrhaeus, Sveno Laurentii	d. 1632	Cirrhaeus, Sveno Laurentii (1632-NA)	1632	NA	   1
+Cirrhaeus, Sveno Laurentii	d. 1632	Cirrhaeus, Sveno Laurentii	NA	NA	   1
 Cieglerus, Georgius	1551-1633	Cieglerus, Georgius (1551-1633)	1551	1633	   1
 Chytraeus, Wolfgangus Matthaeus	1600-t.	Chytraeus, Wolfgangus Matthaeus (1600-NA)	1600	NA	   1
-Chruzelius, Boetius Birgeri	d. 1653	Chruzelius, Boetius Birgeri (1653-NA)	1653	NA	   1
+Chruzelius, Boetius Birgeri	d. 1653	Chruzelius, Boetius Birgeri	NA	NA	   1
 Choraeus, Troelius Olai	1613-1699	Choraeus, Troelius Olai (1613-1699)	1613	1699	   1
 Chesnecopherus, Johan	1581-1635	Chesnecopherus, Johan (1581-1635)	1581	1635	   1
-Catonius, Nicolaus Holgeri	d. 1655	Catonius, Nicolaus Holgeri (1655-NA)	1655	NA	   1
+Catonius, Nicolaus Holgeri	d. 1655	Catonius, Nicolaus Holgeri	NA	NA	   1
 Casa, Johannes	1503-1556	Casa, Johannes (1503-1556)	1503	1556	   1
 Carpzov, Johann Benedikt	1607-1657	Carpzov, Johann Benedikt (1607-1657)	1607	1657	   1
 Carpelan, Lars Christersson	1664-1737	Carpelan, Lars Christersson (1664-1737)	1664	1737	   1
-Carolstadius, Johannes Thomae	d. 1627	Carolstadius, Johannes Thomae (1627-NA)	1627	NA	   1
-Carolstadius, Christophorus Erici	d. 1677	Carolstadius, Christophorus Erici (1677-NA)	1677	NA	   1
+Carolstadius, Johannes Thomae	d. 1627	Carolstadius, Johannes Thomae	NA	NA	   1
+Carolstadius, Christophorus Erici	d. 1677	Carolstadius, Christophorus Erici	NA	NA	   1
 Carolstadius, Benedictus Nicolai	1595-1643	Carolstadius, Benedictus Nicolai (1595-1643)	1595	1643	   1
 Carolstadius, Andreas Matthiae	1600-t.	Carolstadius, Andreas Matthiae (1600-NA)	1600	NA	   1
-Carlmannus, Canutus Jacobi	d. 1655	Carlmannus, Canutus Jacobi (1655-NA)	1655	NA	   1
-Carlinus, Andreas Nicolai	d. 1660	Carlinus, Andreas Nicolai (1660-NA)	1660	NA	   1
-Carling, Petrus Petri	16-1700-t.	Carling, Petrus Petri (1700-NA)	1700	NA	   1
-Carlhjelm, Gustaf Gustafsson	d. 1692	Carlhjelm, Gustaf Gustafsson (1692-NA)	1692	NA	   1
+Carlmannus, Canutus Jacobi	d. 1655	Carlmannus, Canutus Jacobi	NA	NA	   1
+Carlinus, Andreas Nicolai	d. 1660	Carlinus, Andreas Nicolai	NA	NA	   1
+Carling, Petrus Petri	16-1700-t.	Carling, Petrus Petri	NA	NA	   1
+Carlhjelm, Gustaf Gustafsson	d. 1692	Carlhjelm, Gustaf Gustafsson	NA	NA	   1
 Carion, Johannes	1499-1537	Carion, Johannes (1499-1537)	1499	1537	   1
 Carelius, Andreas Josephi	1600-t.	Carelius, Andreas Josephi (1600-NA)	1600	NA	   1
-Campanius, Johannes Jonae	d. 1683	Campanius, Johannes Jonae (1683-NA)	1683	NA	   1
+Campanius, Johannes Jonae	d. 1683	Campanius, Johannes Jonae	NA	NA	   1
 Callières, Jacques de	d. 1697	Callières, Jacques De (1697-NA)	1697	NA	   1
 Callenius, Stephanus Nicolai	1600-talet	Callenius, Stephanus Nicolai (1600-NA)	1600	NA	   1
 Cajanus, Johan	1655-1681	Cajanus, Johan (1655-1681)	1655	1681	   1
-Böker, Laurentius Svenonis	d. 1696	Böker, Laurentius Svenonis (1696-NA)	1696	NA	   1
+Böker, Laurentius Svenonis	d. 1696	Böker, Laurentius Svenonis	NA	NA	   1
 Bååt, Carl Gabriel	1650-1698	Bååt, Carl Gabriel (1650-1698)	1650	1698	   1
 Byringius, Olaus Nicolai	-1670	Byringius, Olaus Nicolai (NA-1670)	NA	1670	   1
 Bünting, Heinrich	1545-1606	Bünting, Heinrich (1545-1606)	1545	1606	   1
 Buskagrius, Petrus	1600-t.	Buskagrius, Petrus (1600-NA)	1600	NA	   1
 Buscher, Heizo	1564-1598	Buscher, Heizo (1564-1598)	1564	1598	   1
 Bure, Olof	1578-1655	Bure, Olof (1578-1655)	1578	1655	   1
-Bullernaesius, Petrus Nicolai	d. 1632	Bullernaesius, Petrus Nicolai (1632-NA)	1632	NA	   1
+Bullernaesius, Petrus Nicolai	d. 1632	Bullernaesius, Petrus Nicolai	NA	NA	   1
 Bulder, Dietricus Heinrici	1600-t.	Bulder, Dietricus Heinrici (1600-NA)	1600	NA	   1
-Brunstedt, Lars	d. 1703	Brunstedt, Lars (1703-NA)	1703	NA	   1
+Brunstedt, Lars	d. 1703	Brunstedt, Lars	NA	NA	   1
 Brunskogius, Nicolaus Pauli	1615-1677	Brunskogius, Nicolaus Pauli (1615-1677)	1615	1677	   1
 Brunati, Antonio	1600-t.	Brunati, Antonio (1600-NA)	1600	NA	   1
 Brodinus, Olavus	1600-t.	Brodinus, Olavus (1600-NA)	1600	NA	   1
-Brockenius, Zacharias	d. 1713	Brockenius, Zacharias (1713-NA)	1713	NA	   1
+Brockenius, Zacharias	d. 1713	Brockenius, Zacharias	NA	NA	   1
 Brobergh, Gustavus Erici	1600-t.	Brobergh, Gustavus Erici (1600-NA)	1600	NA	   1
-Bringius, Johannes Nicolai	d. 1668	Bringius, Johannes Nicolai (1668-NA)	1668	NA	   1
-Bringius, Daniel Nicolai	d. 1655	Bringius, Daniel Nicolai (1655-NA)	1655	NA	   1
+Bringius, Johannes Nicolai	d. 1668	Bringius, Johannes Nicolai	NA	NA	   1
+Bringius, Daniel Nicolai	d. 1655	Bringius, Daniel Nicolai	NA	NA	   1
 Brenner, Mårten	1626-1673	Brenner, Mårten (1626-1673)	1626	1673	   1
 Brenner, Jacobus Henrici	1607-1684	Brenner, Jacobus Henrici (1607-1684)	1607	1684	   1
 Braunjohan, Johannes Henrici	1672-1731	Braunjohan, Johannes Henrici (1672-1731)	1672	1731	   1
@@ -23356,7 +23360,7 @@ Bornaeus, Johannes Svenonis	1600-t.	Bornaeus, Johannes Svenonis (1600-NA)	1600	N
 Boldnæsius, Nicolaus Olai	1600-t.	Boldnæsius, Nicolaus Olai (1600-NA)	1600	NA	   1
 Bohm, Andreas Petri	1600-t.	Bohm, Andreas Petri (1600-NA)	1600	NA	   1
 Boelius, Petrus Zachariæ	1666-1723	Boelius, Petrus Zachariæ (1666-1723)	1666	1723	   1
-Bodinus, Elaus Laurentii	d. 1655	Bodinus, Elaus Laurentii (1655-NA)	1655	NA	   1
+Bodinus, Elaus Laurentii	d. 1655	Bodinus, Elaus Laurentii	NA	NA	   1
 Bock, Berendt Friedrich von	1600-t.	Bock, Berendt Friedrich Von (1600-NA)	1600	NA	   1
 Bochart, Samuel	1599-1667	Bochart, Samuel (1599-1667)	1599	1667	   1
 Blebelius, Thomas	1539-1596	Blebelius, Thomas (1539-1596)	1539	1596	   1
@@ -23372,50 +23376,50 @@ Bilsten, Johannes	verksam ca 1600	Bilsten, Johannes (1600-NA)	1600	NA	   1
 Bildstein, Carl	ca 1672-1726	Bildstein, Carl (1672-1726)	1672	1726	   1
 Bilberg, Johan	1646 -1717	Bilberg, Johan (1646-1717)	1646	1717	   1
 Biesenthal, Heinrich	ca 1600	Biesenthal, Heinrich (1600-NA)	1600	NA	   1
-Bex, Abraham	d. 1690	Bex, Abraham (1690-NA)	1690	NA	   1
+Bex, Abraham	d. 1690	Bex, Abraham	NA	NA	   1
 Beust, Joachim von	1522-1597	Beust, Joachim Von (1522-1597)	1522	1597	   1
-Betulander, Jonas Benedicti	d. 1670	Betulander, Jonas Benedicti (1670-NA)	1670	NA	   1
+Betulander, Jonas Benedicti	d. 1670	Betulander, Jonas Benedicti	NA	NA	   1
 Berlin, Joachim	1600-t.	Berlin, Joachim (1600-NA)	1600	NA	   1
 Bergh, Ericus Benedicti	1600-t.	Bergh, Ericus Benedicti (1600-NA)	1600	NA	   1
-Berg, Johan Olai	16-1700-t.	Berg, Johan Olai (1700-NA)	1700	NA	   1
+Berg, Johan Olai	16-1700-t.	Berg, Johan Olai	NA	NA	   1
 Beltherus, Daniel Johannis	1600-t.	Beltherus, Daniel Johannis (1600-NA)	1600	NA	   1
-Belingius, Petrus Johannis	d. 1669	Belingius, Petrus Johannis (1669-NA)	1669	NA	   1
-Belingius, Johannes Johannis	d. 1667	Belingius, Johannes Johannis (1667-NA)	1667	NA	   1
-Becker, Petrus	d. 1623	Becker, Petrus (1623-NA)	1623	NA	   1
+Belingius, Petrus Johannis	d. 1669	Belingius, Petrus Johannis	NA	NA	   1
+Belingius, Johannes Johannis	d. 1667	Belingius, Johannes Johannis	NA	NA	   1
+Becker, Petrus	d. 1623	Becker, Petrus	NA	NA	   1
 Becherer, Johannes Tobias	1600-t.	Becherer, Johannes Tobias (1600-NA)	1600	NA	   1
 Bechælius, Jonas Henrici	1600-t.	Bechælius, Jonas Henrici (1600-NA)	1600	NA	   1
 Becchius, Olaus Johannis	1615-1690	Becchius, Olaus Johannis (1615-1690)	1615	1690	   1
-Becchius, Nicolaus Magni	d. 1629	Becchius, Nicolaus Magni (1629-NA)	1629	NA	   1
+Becchius, Nicolaus Magni	d. 1629	Becchius, Nicolaus Magni	NA	NA	   1
 Barschamps, Ivo	1600-t.	Barschamps, Ivo (1600-NA)	1600	NA	   1
 Balthazari, Jacobus	1600-1675	Balthazari, Jacobus (1600-1675)	1600	1675	   1
-Balk, Nicolaus	d. ca 1610	Balk, Nicolaus (1610-NA)	1610	NA	   1
-Backman, Philippus Mathiæ	d. 1691	Backman, Philippus Mathiæ (1691-NA)	1691	NA	   1
+Balk, Nicolaus	d. ca 1610	Balk, Nicolaus	NA	NA	   1
+Backman, Philippus Mathiæ	d. 1691	Backman, Philippus Mathiæ	NA	NA	   1
 Baazius, Johannes	1626-1681	Baazius, Johannes (1626-1681)	1626	1681	   1
 Baazius, Benedictus Johannis	1600-t.	Baazius, Benedictus Johannis (1600-NA)	1600	NA	   1
-Axelius, Isaak	d. ca. 1692	Axelius, Isaak (1692-NA)	1692	NA	   1
+Axelius, Isaak	d. ca. 1692	Axelius, Isaak	NA	NA	   1
 Axehielm, Johan	1608-1692	Axehielm, Johan (1608-1692)	1608	1692	   1
 Avianus, Christianus	d. 1626	Avianus, Christianus (1626-NA)	1626	NA	   1
-Aurivillius, Johannes Olai	d. 1689	Aurivillius, Johannes Olai (1689-NA)	1689	NA	   1
-Aulinus, Petrus Erici	d. 1687	Aulinus, Petrus Erici (1687-NA)	1687	NA	   1
+Aurivillius, Johannes Olai	d. 1689	Aurivillius, Johannes Olai	NA	NA	   1
+Aulinus, Petrus Erici	d. 1687	Aulinus, Petrus Erici	NA	NA	   1
 Attorpius, Olaus Michælis	1600-t.	Attorpius, Olaus Michælis (1600-NA)	1600	NA	   1
 Aronius, Ericus Aronis	1664-1701	Aronius, Ericus Aronis (1664-1701)	1664	1701	   1
 Arnobius Cheffireus Ethicus	1600-t.	Ethicus, Arnobius (1600-NA)	1600	NA	   1
 Arnerus, Laurentius Olavi	1600-t.	Arnerus, Laurentius Olavi (1600-NA)	1600	NA	   1
 Aristides, Aelius	100-talet	Aristides, Aelius	NA	NA	   1
 Aridlander, Johannes Henrici	1600-t.	Aridlander, Johannes Henrici (1600-NA)	1600	NA	   1
-Argillander, Claudius Olai	d. 1688	Argillander, Claudius Olai (1688-NA)	1688	NA	   1
-Arenius, Thomas Olai	d. 1692	Arenius, Thomas Olai (1692-NA)	1692	NA	   1
-Arenius, Andreas Nicolai	d. 1689	Arenius, Andreas Nicolai (1689-NA)	1689	NA	   1
+Argillander, Claudius Olai	d. 1688	Argillander, Claudius Olai	NA	NA	   1
+Arenius, Thomas Olai	d. 1692	Arenius, Thomas Olai	NA	NA	   1
+Arenius, Andreas Nicolai	d. 1689	Arenius, Andreas Nicolai	NA	NA	   1
 Arenbechius, Petrus	1620-1673	Arenbechius, Petrus (1620-1673)	1620	1673	   1
-Arctopolitanus, Gabriel Gregorii	d. 1682	Arctopolitanus, Gabriel Gregorii (1630-1682)	1630	1682	   1
+Arctopolitanus, Gabriel Gregorii	d. 1682	Arctopolitanus, Gabriel Gregorii	NA	NA	   1
 Appelbom, Arvidus Andreæ	1600-t.	Appelbom, Arvidus Andreæ (1600-NA)	1600	NA	   1
 Apelroot, Benedictus Johannis	-1679.	Apelroot, Benedictus Johannis (NA-1679)	NA	1679	   1
 Anglenius, Simon Caroli	1600-t.	Anglenius, Simon Caroli (1600-NA)	1600	NA	   1
-Olaus Andreæ	d. 1649	Andreæ, Olaus (1649-NA)	1649	NA	   1
-Rehn, Nicolaus Andreae	d. 1628	Rehn, Nicolaus Andreae (1628-NA)	1628	NA	   1
+Olaus Andreæ	d. 1649	Andreæ, Olaus	NA	NA	   1
+Rehn, Nicolaus Andreae	d. 1628	Rehn, Nicolaus Andreae	NA	NA	   1
 Salthenius, Laurentius Andreæ	1601-1665	Salthenius, Laurentius Andreæ (1601-1665)	1601	1665	   1
 Ericus Andreæ	1600-t.	Andreæ, Ericus (1600-NA)	1600	NA	   1
-Ancker, Henricus Martini	d. 1723	Ancker, Henricus Martini (1723-NA)	1723	NA	   1
+Ancker, Henricus Martini	d. 1723	Ancker, Henricus Martini	NA	NA	   1
 Anberg, Johannes Broderi	1600-t.	Anberg, Johannes Broderi (1600-NA)	1600	NA	   1
 Anander, Daniel Haquini	c:a 1647-1697	Anander, Daniel Haquini (1647-1697)	1647	1697	   1
 Anander, Andreas Haquini	1634-1695	Anander, Andreas Haquini (1634-1695)	1634	1695	   1
@@ -23427,7 +23431,7 @@ Alstrinius, Laurentius Andreæ	1650-1702	Alstrinius, Laurentius Andreæ (1650-17
 Alsbeckius, Laurentius Matthiæ	1639?-1667	Alsbeckius, Laurentius Matthiæ (1639-1667)	1639	1667	   1
 Alopæus, Arvidus Magni	1651-1722	Alopæus, Arvidus Magni (1651-1722)	1651	1722	   1
 Almgreen, Nicolaus	1660-1711	Almgreen, Nicolaus (1660-1711)	1660	1711	   1
-Almaenius, Ericus Johannis	d. 1660	Almaenius, Ericus Johannis (1660-NA)	1660	NA	   1
+Almaenius, Ericus Johannis	d. 1660	Almaenius, Ericus Johannis	NA	NA	   1
 Allengren, Johannes Jonae	1600-t.	Allengren, Johannes Jonae (1600-NA)	1600	NA	   1
 Alhemius, Martinus Johannis	1600-t.	Alhemius, Martinus Johannis (1600-NA)	1600	NA	   1
 Alexander Numenius	100-t. e.Kr.	Numenius, Alexander	NA	NA	   1
@@ -23435,7 +23439,7 @@ Alegren, Elias Andreæ	1600-t.	Alegren, Elias Andreæ (1600-NA)	1600	NA	   1
 Albanus, Franciscus	d. 1639	Albanus, Franciscus (1639-NA)	1639	NA	   1
 Alander, Andreas Johannes	-1671	Alander, Andreas Johannes (NA-1671)	NA	1671	   1
 Alanus, Carolus Nicolai	1600-t.	Alanus, Carolus Nicolai (1600-NA)	1600	NA	   1
-Alander, Christiernus Caroli	d. 1704	Alander, Christiernus Caroli (1704-NA)	1704	NA	   1
+Alander, Christiernus Caroli	d. 1704	Alander, Christiernus Caroli	NA	NA	   1
 Agricola, Christianus Christiani	1600-t.	Agricola, Christianus Christiani (1600-NA)	1600	NA	   1
 Agrell, Nicolaus Nicolai	1656-1692	Agrell, Nicolaus Nicolai (1656-1692)	1656	1692	   1
 Agesilaos	444-360 f.Kr.	Agesilaos, 	NA	NA	   1
@@ -23444,7 +23448,7 @@ Aelianus, Claudius	ca 170 - ca 235	Aelianus, Claudius	NA	NA	   1
 Adlersköld, Johan	1662-1697	Adlersköld, Johan (1662-1697)	1662	1697	   1
 Adjutus, Josephus	1602-1668	Adjutus, Josephus (1602-1668)	1602	1668	   1
 Achrelius, Ericus Danielis	1604-1670	Achrelius, Ericus Danielis (1604-1670)	1604	1670	   1
-Abrahamus Abrahami	d. 1675	Abrahami, Abrahamus (1675-NA)	1675	NA	   1
+Abrahamus Abrahami	d. 1675	Abrahami, Abrahamus	NA	NA	   1
 Abbadie, Jacques	1654-1727	Abbadie, Jacques (1654-1727)	1654	1727	   1
 Brander, Torild	1904-1992	Brander, Torild (1904-1992)	1904	1992	   1
 Dumont d'Urville, Jules Sébastien César	1790-1842	Dumont D'urville, Jules Sébastien César (1790-1842)	1790	1842	   1
@@ -23621,7 +23625,7 @@ Bodinus, Olaus	1625-1691	Bodinus, Olaus (1625-1691)	1625	1691	   1
 Dusén, Per	1855-1926	Dusén, Per (1855-1926)	1855	1926	   1
 Brandell, Therèse	f. 1880	Brandell, Therèse (1880-NA)	1880	NA	   1
 Bergroth, Kersti	1886-1975	Bergroth, Kersti (1886-1975)	1886	1975	   1
-Coleridge, Henry Nelson	d. 1843	Coleridge, Henry Nelson (1843-NA)	1843	NA	   1
+Coleridge, Henry Nelson	d. 1843	Coleridge, Henry Nelson	NA	NA	   1
 Belokonskij, Ivan Petrovič	1855-1931	Belokonskij, Ivan Petrovič (1855-1931)	1855	1931	   1
 Funkquist, Herman P. A	f. 1870	Funkquist, Herman P A (1870-NA)	1870	NA	   1
 Dahlgren, Thorild	1888-1968	Dahlgren, Thorild (1888-1968)	1888	1968	   1
@@ -23769,7 +23773,7 @@ Copland, Aaron	1900-1990	Copland, Aaron (1900-1990)	1900	1990	   1
 Asztély, Sandor	1909-1996.	Asztély, Sandor (1909-1996)	1909	1996	   1
 Dickson, Harald	1912-1993.	Dickson, Harald (1912-1993)	1912	1993	   1
 Björkman, Peter	1791-1854	Björkman, Peter (1791-1854)	1791	1854	   1
-Dahlgren, Johan Henrik	d. 1888	Dahlgren, Johan Henrik (1888-NA)	1888	NA	   1
+Dahlgren, Johan Henrik	d. 1888	Dahlgren, Johan Henrik	NA	NA	   1
 Beskow, Fritz A	1860-1932	Beskow, Fritz A (1860-1932)	1860	1932	   1
 Clark, J. Desmond	1916-2002.	Clark, J Desmond (1916-2002)	1916	2002	   1
 Aureń, Sven	1906-1985	Aureń, Sven (1906-1985)	1906	1985	   1
@@ -24172,7 +24176,7 @@ Kumlien, Hjalmar	1837-1897	Kumlien, Hjalmar (1837-1897)	1837	1897	   1
 Kingsford, Anna	1846-1888	Kingsford, Anna (1846-1888)	1846	1888	   1
 Humble, Julius	1835-	Humble, Julius (1835-NA)	1835	NA	   1
 Horatius Flaccus, Quintus	65-8 f. Kr..	Horatius Flaccus, Quintus	NA	NA	   1
-Lindskog, Magnus	1973-	Lindskog, Magnus (1973-NA)	1973	NA	   1
+Lindskog, Magnus	1973-	Lindskog, Magnus	NA	NA	   1
 Hirth, Georg	1841-1916	Hirth, Georg (1841-1916)	1841	1916	   1
 Hellwig, Bernhard	1845-1901	Hellwig, Bernhard (1845-1901)	1845	1901	   1
 Hoffstedt, Wilhelm	1841-1907	Hoffstedt, Wilhelm (1841-1907)	1841	1907	   1
@@ -24234,7 +24238,7 @@ Nyman, Hilding	1870-1937	Nyman, Hilding (1870-1937)	1870	1937	   1
 Nygren, Adolf	1881-	Nygren, Adolf (1881-NA)	1881	NA	   1
 Nordenström, Erik	1850-1931	Nordenström, Erik (1850-1931)	1850	1931	   1
 Norberg, Jenny	f. 1868	Norberg, Jenny (1868-NA)	1868	NA	   1
-Nilsson, Sven	1929-	Nilsson, Sven (1929-1883)	1929	1883	   1
+Nilsson, Sven	1929-	Nilsson, Sven (NA-1883)	NA	1883	   1
 Molloy, Joseph Fitzgerald	1858-1908	Molloy, Joseph Fitzgerald (1858-1908)	1858	1908	   1
 Danielsson, Anders Gustaf	1849-1926	Danielsson, Anders Gustaf (1849-1926)	1849	1926	   1
 Little, Frances	1863-1941	Little, Frances (1863-1941)	1863	1941	   1
@@ -24382,7 +24386,7 @@ Müller, Max	1823-1900	Müller, Max (1823-1900)	1823	1900	   1
 Kreitner, Gustav	1847 -1893	Kreitner, Gustav (1847-1893)	1847	1893	   1
 Lansdell, Henry	1841-1919	Lansdell, Henry (1841-1919)	1841	1919	   1
 Berger, Ossian	1849-1914	Berger, Ossian (1849-1914)	1849	1914	   1
-Axelsson, Arvid	verksam ca 1890	Axelsson, Arvid (1890-NA)	1890	NA	   1
+Axelsson, Arvid	verksam ca 1890	Axelsson, Arvid	NA	NA	   1
 Andersson, Lydia	1876-1962	Andersson, Lydia (1876-1962)	1876	1962	   1
 Adèrn, Ernst Albin	f. 1883	Adèrn, Ernst Albin (1883-NA)	1883	NA	   1
 Johnson, Douglas Wilson,‏ ‎	1878-1944‏	Johnson, Douglas Wilson,‏ ‎ (1878-NA)	1878	NA	   1
@@ -24423,7 +24427,7 @@ Holmberg, C. E	1833-1889	Holmberg, C E (1833-1889)	1833	1889	   1
 Hermelin, Carl Alfons	1821-1904	Hermelin, Carl Alfons (1821-1904)	1821	1904	   1
 Haglund, G	1838-1900	Haglund, G (1838-1900)	1838	1900	   1
 Guldberg, Axel Sophus	1838-1913	Guldberg, Axel Sophus (1838-1913)	1838	1913	   1
-Geijer, Bengt Johan	18378-1907	Geijer, Bengt Johan (1907-1907)	1907	NA	   1
+Geijer, Bengt Johan	18378-1907	Geijer, Bengt Johan (1837-1907)	1837	1907	   1
 Denison, George T	1839-1925	Denison, George T (1839-1925)	1839	1925	   1
 Gadd, Hemming	1837-1915	Gadd, Hemming (1837-1915)	1837	1915	   1
 Crusebjörn, Jesper	f. 1843	Crusebjörn, Jesper (1843-NA)	1843	NA	   1
@@ -24537,7 +24541,7 @@ Chasseur, Charles	1771-1823	Chasseur, Charles (1771-1823)	1771	1823	   1
 Wallenquist, Abraham	1740-1805	Wallenquist, Abraham (1740-1805)	1740	1805	   1
 Leyonstedt, Olof Wilhelm	1752-1792	Leyonstedt, Olof Wilhelm (1752-1792)	1752	1792	   1
 Rydbeck, Per	1775-1829	Rydbeck, Per (1775-1829)	1775	1829	   1
-Dryselius, Maria Christina	d. 1835	Dryselius, Maria Christina (1835-NA)	1835	NA	   1
+Dryselius, Maria Christina	d. 1835	Dryselius, Maria Christina	NA	NA	   1
 Stenmark, Johan	1776-1846	Stenmark, Johan (1776-1846)	1776	1846	   1
 Sundius, Johan	1778-1853	Sundius, Johan (1778-1853)	1778	1853	   1
 Schewen, Johan Jacob von	1775-1854	Schewen, Johan Jacob Von (1775-1854)	1775	1854	   1
@@ -24750,7 +24754,7 @@ Bellman, Johan Martin	1725-?	Bellman, Johan Martin (1725-NA)	1725	NA	   1
 Begtrup, Gregers	1769-1841	Begtrup, Gregers (1769-1841)	1769	1841	   1
 Bartholdy, Jakob Ludwig Salomo	1779-1825	Bartholdy, Jakob Ludwig Salomo (1779-1825)	1779	1825	   1
 Barnekow, Adolph Friederic	1744-1787	Barnekow, Adolph Friederic (1744-1787)	1744	1787	   1
-Asp, Eric N	d. 1735	Asp, Eric N (1735-NA)	1735	NA	   1
+Asp, Eric N	d. 1735	Asp, Eric N	NA	NA	   1
 Beckner, Johan	1697-1754	Beckner, Johan (1697-1754)	1697	1754	   1
 Beckman, Johan	f. 1745?	Beckman, Johan (1745-NA)	1745	NA	   1
 Gradin, Arvid	1704-1757	Gradin, Arvid (1704-1757)	1704	1757	   1
@@ -24930,6 +24934,7 @@ Tulindberg, Erik	1728-93	Tulindberg, Erik (1728-1793)	1728	1793	   1
 Lilljebrunn, Eric Wilhelm	1729-92	Lilljebrunn, Eric Wilhelm (1729-1792)	1729	1792	   1
 Hoffberg, Carl Fredrik	1729-90	Hoffberg, Carl Fredrik (1729-1790)	1729	1790	   1
 Stiernmarck, Lars Axel	1690-1732	Stiernmarck, Lars Axel (1690-1732)	1690	1732	   1
+Hermelin, Olof	1658-1709	Hermelin, Olof	NA	NA	   1
 Fahlström, Carl	1683-1709	Fahlström, Carl (1683-1709)	1683	1709	   1
 Pryss, Olof	1708-1785	Pryss, Olof (1708-1785)	1708	1785	   1
 Fröling, Magnus S	1727-97	Fröling, Magnus S (1727-1797)	1727	1797	   1
@@ -24963,7 +24968,7 @@ Valtinson, Adrian	1721-1801	Valtinson, Adrian (1721-1801)	1721	1801	   1
 Werne, Jahan	1702?-1776	Werne, Jahan (1702-1776)	1702	1776	   1
 Fogelberg, Petrus	1717-65	Fogelberg, Petrus (1717-1765)	1717	1765	   1
 Ulmgren, Lars	1723-60	Ulmgren, Lars (1723-1760)	1723	1760	   1
-Linde, Anna Christina von der	l.1746	Linde, Anna Christina Von Der (1746-NA)	1746	NA	   1
+Linde, Anna Christina von der	l.1746	Linde, Anna Christina Von Der	NA	NA	   1
 Sneider, Johan Samuel	1721?-1786	Sneider, Johan Samuel (1721-1786)	1721	1786	   1
 Schonberg, Hans Peter	1749-1799	Schonberg, Hans Peter (1749-1799)	1749	1799	   1
 Nordblom, Lars	1726-1807	Nordblom, Lars (1726-1807)	1726	1807	   1
@@ -25360,7 +25365,7 @@ Nilsson, Jonas	1774-1841	Nilsson, Jonas (1774-1841)	1774	1841	   1
 Molin, Israel	1681-1767	Molin, Israel (1681-1767)	1681	1767	   1
 Moberger, Olof	1763-1843	Moberger, Olof (1763-1843)	1763	1843	   1
 Lüdke, Friedrich Germanus	1730-1792	Lüdke, Friedrich Germanus (1730-1792)	1730	1792	   1
-Kloo, Johan	167?-1738	Kloo, Johan (1738-NA)	1738	NA	   1
+Kloo, Johan	167?-1738	Kloo, Johan	NA	NA	   1
 Colerus, Johann Christoph	1691-1736	Colerus, Johann Christoph (1691-1736)	1691	1736	   1
 Zimmermann, Johann Liborius	1702-1734	Zimmermann, Johann Liborius (1702-1734)	1702	1734	   1
 Schweinitz, David von	1600-1667	Schweinitz, David Von (1600-1667)	1600	1667	   1
@@ -25644,7 +25649,7 @@ Knutzen, Martin	1713-1751	Knutzen, Martin (1713-1751)	1713	1751	   1
 Fischlin, Ludwig Melchior	1672-1729	Fischlin, Ludwig Melchior (1672-1729)	1672	1729	   1
 Lindl, Ignaz	1774-1834	Lindl, Ignaz (1774-1834)	1774	1834	   1
 Scharff, Gottfried Balthasar	1676-1744	Scharff, Gottfried Balthasar (1676-1744)	1676	1744	   1
-Witting, Johann Carl Friedrich	d. 1823	Witting, Johann Carl Friedrich (1823-NA)	1823	NA	   1
+Witting, Johann Carl Friedrich	d. 1823	Witting, Johann Carl Friedrich	NA	NA	   1
 Zetterling, Peter	1703-69	Zetterling, Peter (1703-1769)	1703	1769	   1
 Starke, Christoph	1684-1744	Starke, Christoph (1684-1744)	1684	1744	   1
 Widell, Petrus	1724-81	Widell, Petrus (1724-1781)	1724	1781	   1
@@ -25658,7 +25663,7 @@ Hindh, Petrus	1692?-1762	Hindh, Petrus (1692-1762)	1692	1762	   1
 Troschel, Jacob Elias	1735-1807	Troschel, Jacob Elias (1735-1807)	1735	1807	   1
 Schult, Johan	1677-1713	Schult, Johan (1677-1713)	1677	1713	   1
 Ljungberg, Olof	1767-1814	Ljungberg, Olof (1767-1814)	1767	1814	   1
-Krafft, Isaac	166?-1711	Krafft, Isaac (1711-NA)	1711	NA	   1
+Krafft, Isaac	166?-1711	Krafft, Isaac	NA	NA	   1
 Holm, Alexander	1740-1818	Holm, Alexander (1740-1818)	1740	1818	   1
 Emzeen, Jonas	1671?-1703	Emzeen, Jonas (1671-1703)	1671	1703	   1
 Osander, Olof	1700-87	Osander, Olof (1700-1787)	1700	1787	   1
@@ -25997,7 +26002,7 @@ Francis, Philip	ca 1708-1773	Francis, Philip (1708-1773)	1708	1773	   1
 Cremutius Cordus, Antonius	ca 30 f.Kr.-25 e.Kr.	Cremutius Cordus, Antonius	NA	NA	   1
 Westberg, Johan Jacob	1716?-86	Westberg, Johan Jacob (1716-1786)	1716	1786	   1
 Molander, Anders Jonsson	1719-73	Molander, Anders Jonsson (1719-1773)	1719	1773	   1
-Gadd, Israel Persson	d. 1768	Gadd, Israel Persson (1768-NA)	1768	NA	   1
+Gadd, Israel Persson	d. 1768	Gadd, Israel Persson	NA	NA	   1
 Wrangel, Erik	1721-1760	Wrangel, Erik (1721-1760)	1721	1760	   1
 Tang Taizong	597-649	Taizong, Tang (597-649)	597	649	   1
 Gyllenskepp, Christian Fredrik	1791-1834	Gyllenskepp, Christian Fredrik (1791-1834)	1791	1834	   1
@@ -26283,7 +26288,7 @@ Enelund, Michael	1760-?	Enelund, Michael (1760-NA)	1760	NA	   1
 Lang, Laurentius Lorentsson	1708-42	Lang, Laurentius Lorentsson (1708-1742)	1708	1742	   1
 Knorring, Gustaf von	1772-1823	Knorring, Gustaf Von (1772-1823)	1772	1823	   1
 Martin, Carl Roland	1770-1836	Martin, Carl Roland (1770-1836)	1770	1836	   1
-de Falck, Jacob Gustaf	1792-1817	De Falck, Jacob Gustaf (1792-1817)	1792	1817	   1
+de Falck, Jacob Gustaf	1792-1817	De Falck, Jacob Gustaf	NA	NA	   1
 Hedenstedt, Jacob	1730-1806	Hedenstedt, Jacob (1730-1806)	1730	1806	   1
 Vicken, Johan Evert von	1722-1800	Vicken, Johan Evert Von (1722-1800)	1722	1800	   1
 Hökerberg, Anders Jacob	1769-1811	Hökerberg, Anders Jacob (1769-1811)	1769	1811	   1
@@ -26537,7 +26542,7 @@ Lengblom, Christian	1759-1814	Lengblom, Christian (1759-1814)	1759	1814	   1
 Arfwidson, Christian	1717-99	Arfwidson, Christian (1717-1799)	1717	1799	   1
 Melon, Jean François	1675-1738	Melon, Jean François (1675-1738)	1675	1738	   1
 Thomée, David Olof	1784-1842	Thomée, David Olof (1784-1842)	1784	1842	   1
-Lorich, Johannes Eberhard	d. 1814?	Lorich, Johannes Eberhard (1814-NA)	1814	NA	   1
+Lorich, Johannes Eberhard	d. 1814?	Lorich, Johannes Eberhard	NA	NA	   1
 Westbaum, Wilhelm	1783-1831	Westbaum, Wilhelm (1783-1831)	1783	1831	   1
 Norrelius, Nils	1752-l.1817	Norrelius, Nils (1752-1817)	1752	1817	   1
 Holmers, Gustaf	1773-1858	Holmers, Gustaf (1773-1858)	1773	1858	   1
@@ -26794,7 +26799,7 @@ Carlsson, Petter	1720-1786	Carlsson, Petter (1720-1786)	1720	1786	   1
 Ségur, Joseph-Alexandre de	1756-1805	Ségur, Joseph-alexandre De (1756-1805)	1756	1805	   1
 Elfstadius, Eric	1703-1779	Elfstadius, Eric (1703-1779)	1703	1779	   1
 Höijer, Henric	1728-1787	Höijer, Henric (1728-1787)	1728	1787	   1
-Linderot, Bengt	l.1729	Linderot, Bengt (1729-NA)	1729	NA	   1
+Linderot, Bengt	l.1729	Linderot, Bengt	NA	NA	   1
 Ruth, Elias	1687-1739	Ruth, Elias (1687-1739)	1687	1739	   1
 Lönberg, Peter	1679-1748	Lönberg, Peter (1679-1748)	1679	1748	   1
 Dahlberg, Lars	?-1726	Dahlberg, Lars (NA-1726)	NA	1726	   1
@@ -26935,6 +26940,7 @@ Silfversparre, Aron Isak	1764-1837	Silfversparre, Aron Isak (1764-1837)	1764	183
 Flach, Eric Gabriel	1783-1853	Flach, Eric Gabriel (1783-1853)	1783	1853	   1
 Flach, Carl Georg	1778-1846	Flach, Carl Georg (1778-1846)	1778	1846	   1
 Bruhn, Olof Svensson	1778-1822	Bruhn, Olof Svensson (1778-1822)	1778	1822	   1
+Andersson, Anders	verksam ca 1810	Andersson, Anders	NA	NA	   1
 Falk, Mattias	1747-1819	Falk, Mattias (1747-1819)	1747	1819	   1
 Ihre, Albrecht	1763-1828	Ihre, Albrecht (1763-1828)	1763	1828	   1
 Stråle, Carl Fredric	1750-1819	Stråle, Carl Fredric (1750-1819)	1750	1819	   1
@@ -26980,6 +26986,7 @@ Röök, Gustaf von	1773-1852	Röök, Gustaf Von (1773-1852)	1773	1852	   1
 Sahlefeldt, Gustaf Adolf	1752-1829	Sahlefeldt, Gustaf Adolf (1752-1829)	1752	1829	   1
 Nensén, Anders	1771-1842	Nensén, Anders (1771-1842)	1771	1842	   1
 Platen, Achates Carl von	1752-1832	Platen, Achates Carl Von (1752-1832)	1752	1832	   1
+Andersson, Anders	verksam ca 1810	Andersson, Anders (1810-NA)	1810	NA	   1
 De la Grange, Johan Georg	1774-1844	De La Grange, Johan Georg (1774-1844)	1774	1844	   1
 Nordenstolpe, Anders	1756-1841	Nordenstolpe, Anders (1756-1841)	1756	1841	   1
 Printzsköld, Paul	1738-1819	Printzsköld, Paul (1738-1819)	1738	1819	   1
@@ -27061,6 +27068,7 @@ Hirschheidt, Otto von	1726-1800	Hirschheidt, Otto Von (1726-1800)	1726	1800	   1
 Odelstierna, Erik	1723-1805	Odelstierna, Erik (1723-1805)	1723	1805	   1
 Lagerberg, Lars Herman	1736-1777	Lagerberg, Lars Herman (1736-1777)	1736	1777	   1
 Hummerhielm, Pär	1710-79	Hummerhielm, Pär (1710-1779)	1710	1779	   1
+Cederström, Anders	1778-1832	Cederström, Anders	NA	NA	   1
 Mannerhjerta, Bengt Adolf	1720-78	Mannerhjerta, Bengt Adolf (1720-1778)	1720	1778	   1
 Duse, Samuel Johan	1721-1782	Duse, Samuel Johan (1721-1782)	1721	1782	   1
 Segebaden, Carl Otto von	1718-95	Segebaden, Carl Otto Von (1718-1795)	1718	1795	   1
@@ -27298,7 +27306,7 @@ Kullgren, Leonard	1845-1903	Kullgren, Leonard (1845-1903)	1845	1903	   1
 Ericksen, Johan	1907-1964	Ericksen, Johan (1907-1964)	1907	1964	   1
 Svensson, Sven August	1859-1912	Svensson, Sven August (1859-1912)	1859	1912	   1
 Olovson, Alex	1887-1954	Olovson, Alex (1887-1954)	1887	1954	   1
-Gray, Alice	d. 1900.	Gray, Alice (1900-NA)	1900	NA	   1
+Gray, Alice	d. 1900.	Gray, Alice	NA	NA	   1
 Mirecourt, Eugène de	1812-1880	Mirecourt, Eugène De (1812-1880)	1812	1880	   1
 Ganslandt, Eugén	1917-	Ganslandt, Eugén (1917-NA)	1917	NA	   1
 Norman, Georg	f. 1873	Norman, Georg (1873-NA)	1873	NA	   1
@@ -27465,7 +27473,7 @@ Ollén, Olof	1913-1977	Ollén, Olof (1913-1977)	1913	1977	   1
 Holmström Ragnar	1894-1966	Ragnar, Holmström (1894-1966)	1894	1966	   1
 Drenteln, Olga de	1916-	Drenteln, Olga De (1916-NA)	1916	NA	   1
 Westermark, Frans	1853-1941	Westermark, Frans (1853-1941)	1853	1941	   1
-Paykull, Gustaf Herman von	1902-	Paykull, Gustaf Herman Von (1902-NA)	1902	NA	   1
+Paykull, Gustaf Herman von	1902-	Paykull, Gustaf Herman Von	NA	NA	   1
 Sjöberg, Axel	1866-1950	Sjöberg, Axel (1866-1950)	1866	1950	   1
 Sergeenko, Petr Alekseevič	1854-1930	Sergeenko, Petr Alekseevič (1854-1930)	1854	1930	   1
 Tanera, Karl	1844-1904	Tanera, Karl (1844-1904)	1844	1904	   1
@@ -27624,7 +27632,7 @@ Mikaelsson, Gustaf	1884-1968	Mikaelsson, Gustaf (1884-1968)	1884	1968	   1
 Meysenbug, Malwida von	1816-1903	Meysenbug, Malwida Von (1816-1903)	1816	1903	   1
 Melin, Olof W	1861-1940.	Melin, Olof W (1861-1940)	1861	1940	   1
 Ekström, Alfred	f. 1873	Ekström, Alfred (1873-1947)	1873	1947	   1
-Lauritzen, Einar	1946-	Lauritzen, Einar (1946-NA)	1946	NA	   1
+Lauritzen, Einar	1946-	Lauritzen, Einar	NA	NA	   1
 Barthel, Johan Christian	1873-1954	Barthel, Johan Christian (1873-1954)	1873	1954	   1
 Haglund, Erik	f.1878	Haglund, Erik (1878-NA)	1878	NA	   1
 Hansson, Nils	f. 1867	Hansson, Nils (1867-NA)	1867	NA	   1
@@ -27841,7 +27849,7 @@ Bergh, Augusta Katarina	f. 1869	Bergh, Augusta Katarina (1869-NA)	1869	NA	   1
 Bergh, Augusta Katarina	1869-	Bergh, Augusta Katarina (1869-NA)	1869	NA	   1
 Bergener, Carl	f.1888	Bergener, Carl (1888-1963)	1888	1963	   1
 Bergdahl, Olof Daniel	f. 1852	Bergdahl, Olof Daniel (1852-NA)	1852	NA	   1
-Berg, David	d. 1944	Berg, David (1944-NA)	1944	NA	   1
+Berg, David	d. 1944	Berg, David	NA	NA	   1
 Benson, Edward Frederic	1867-1940	Benson, Edward Frederic (1867-1940)	1867	1940	   1
 Bengtsson, Julius	f.1864	Bengtsson, Julius (1864-NA)	1864	NA	   1
 Bengtsson, Hanna	1847-1932	Bengtsson, Hanna (1847-1932)	1847	1932	   1
@@ -28404,7 +28412,7 @@ Een, Carl	f.1839	Een, Carl (1839-NA)	1839	NA	   1
 Edling, Alfred	1865-1951	Edling, Alfred (1865-1951)	1865	1951	   1
 Edberg, Nils	f.1873	Edberg, Nils (1873-NA)	1873	NA	   1
 Drake, Janna	1868-	Drake, Janna (1868-NA)	1868	NA	   1
-Donovan, Dick	d.1934	Donovan, Dick (1934-NA)	1934	NA	   1
+Donovan, Dick	d.1934	Donovan, Dick	NA	NA	   1
 Dillner, Bror Herman	f.1856	Dillner, Bror Herman (1856-NA)	1856	NA	   1
 Demolder, Eugène	1862-1919	Demolder, Eugène (1862-1919)	1862	1919	   1
 Dalström, Juhani Jakob	1850-1923	Dalström, Juhani Jakob (1850-1923)	1850	1923	   1
@@ -29839,7 +29847,7 @@ Johansson, Artur	1906-	Johansson, Artur (1906-NA)	1906	NA	   1
 Johansson, Arthur	1897-	Johansson, Arthur (1897-1993)	1897	1993	   1
 Joelsson, Artur Gustav Gideon	1891-	Joelsson, Artur Gustav Gideon (1891-NA)	1891	NA	   1
 Jõe, Heino	1913-1990	Jõe, Heino (1913-1990)	1913	1990	   1
-Danielson, Johan Wilhelm	d. 1949	Danielson, Johan Wilhelm (1949-NA)	1949	NA	   1
+Danielson, Johan Wilhelm	d. 1949	Danielson, Johan Wilhelm	NA	NA	   1
 Jobs, Lisbet	1909-1961	Jobs, Lisbet (1909-1961)	1909	1961	   1
 Jerre, Torsten	1912-93	Jerre, Torsten (1912-1993)	1912	1993	   1
 Janus Hertz, Grete	1915-2002	Janus Hertz, Grete (1915-2002)	1915	2002	   1
@@ -30137,7 +30145,7 @@ Fallgren, Fingal	1909-1974	Fallgren, Fingal (1909-1974)	1909	1974	   1
 Falkengren, Gustaf	1885-1947	Falkengren, Gustaf (1885-1947)	1885	1947	   1
 Falk, Erik	f. 1875	Falk, Erik (1875-NA)	1875	NA	   1
 Fahlander, Nils	1902-	Fahlander, Nils (1902-NA)	1902	NA	   1
-Fagerholm, Erik	1947-	Fagerholm, Erik (1947-1944)	1947	1944	   1
+Fagerholm, Erik	1947-	Fagerholm, Erik (1883-1944)	1883	1944	   1
 Fadeev, Aleksandr Aleksandrovič	1901-1956	Fadeev, Aleksandr Aleksandrovič (1901-1956)	1901	1956	   1
 Essen-Möller, Lars	1906-2004	Essen-möller, Lars (1906-2004)	1906	2004	   1
 Essen, Hans Henrik von	1820-1894	Essen, Hans Henrik Von (1820-1894)	1820	1894	   1
@@ -30267,7 +30275,7 @@ Brosset, Cyrill	1908-2002	Brosset, Cyrill (1908-2002)	1908	2002	   1
 Brorström, Sverker	1917-1999	Brorström, Sverker (1917-1999)	1917	1999	   1
 Boëthius, Carl Gustaf	1915-2001.	Boëthius, Carl Gustaf (1915-2001)	1915	2001	   1
 Blomgren, Henrik	1904-1979	Blomgren, Henrik (1904-1979)	1904	1979	   1
-Blomberg, Emma Robinson	d. 1952	Blomberg, Emma Robinson (1952-NA)	1952	NA	   1
+Blomberg, Emma Robinson	d. 1952	Blomberg, Emma Robinson	NA	NA	   1
 Kjellman, James	1890-1961	Kjellman, James (1890-1961)	1890	1961	   1
 Blom, Carl Th	1893-1970	Blom, Carl Th (1893-1970)	1893	1970	   1
 Bjørnson, Bjørn	1859-1942	Bjørnson, Bjørn (1859-1942)	1859	1942	   1
@@ -30505,7 +30513,7 @@ Lundgren, Gustaf	1893-1954	Lundgren, Gustaf (1893-1954)	1893	1954	   1
 Lund, Simon	1897-1974	Lund, Simon (1897-1974)	1897	1974	   1
 Lund, August	1880-1947	Lund, August (1880-1947)	1880	1947	   1
 Dahl, Ivar	1905-	Dahl, Ivar (1905-NA)	1905	NA	   1
-Loberg, Karl	d. 1968	Loberg, Karl (1968-NA)	1968	NA	   1
+Loberg, Karl	d. 1968	Loberg, Karl	NA	NA	   1
 Lindell, Birger	1898-1991	Lindell, Birger (1898-1991)	1898	1991	   1
 Lindborg, Staffan	1883-	Lindborg, Staffan (1883-NA)	1883	NA	   1
 Lind, Stina	1909-1994	Lind, Stina (1909-1994)	1909	1994	   1
@@ -30702,7 +30710,7 @@ Frisell, Hjalmar	f. 1880	Frisell, Hjalmar (1880-NA)	1880	NA	   1
 Frisch, Karl von	1886-1982	Frisch, Karl Von (1886-1982)	1886	1982	   1
 Raunkiær, C	1860-	Raunkiær, C (1860-NA)	1860	NA	   1
 Svartengren, Einar	1878-1944	Svartengren, Einar (1878-1944)	1878	1944	   1
-Strömholm, Fredrik	18??-1934	Strömholm, Fredrik (1934-NA)	1934	NA	   1
+Strömholm, Fredrik	18??-1934	Strömholm, Fredrik	NA	NA	   1
 Strömberg, Eugén	1895-1971	Strömberg, Eugén (1895-1971)	1895	1971	   1
 Stevens, Ruth	1903-1989	Stevens, Ruth (1903-1989)	1903	1989	   1
 Stenström, Rut	1898-1993	Stenström, Rut (1898-1993)	1898	1993	   1
@@ -30879,7 +30887,7 @@ Björkman, Gunvor	1907-1998	Björkman, Gunvor (1907-1998)	1907	1998	   1
 Hedberg, Sven	1910-1989	Hedberg, Sven (1910-1989)	1910	1989	   1
 Johansson, Carl-Erik	1916-	Johansson, Carl-erik (1916-NA)	1916	NA	   1
 Berners, Gerald Hugh Tyrwhitt-Wilson	1883-1950	Berners, Gerald Hugh Tyrwhitt-wilson (1883-1950)	1883	1950	   1
-Bergvall, Bo	verksam ca 1940	Bergvall, Bo (1940-NA)	1940	NA	   1
+Bergvall, Bo	verksam ca 1940	Bergvall, Bo	NA	NA	   1
 Bergsøe, Vilhelm	1835-1911	Bergsøe, Vilhelm (1835-1911)	1835	1911	   1
 Bergström, Hilding	1880-1966	Bergström, Hilding (1880-1966)	1880	1966	   1
 Bergström, Greta	1909-	Bergström, Greta (1909-NA)	1909	NA	   1
@@ -31045,7 +31053,7 @@ Stolpe, Karin	1907-2003	Stolpe, Karin (1907-2003)	1907	2003	   1
 Bolling, Otto	1879-	Bolling, Otto (1879-NA)	1879	NA	   1
 Block, Sixten E	1887-1966	Block, Sixten E (1887-1966)	1887	1966	   1
 Björkman, Herman	f. 1888	Björkman, Herman (1888-NA)	1888	NA	   1
-Björklund, Magnus	1973-	Björklund, Magnus (1973-NA)	1973	NA	   1
+Björklund, Magnus	1973-	Björklund, Magnus	NA	NA	   1
 Björklund, Erik	1888-	Björklund, Erik (1888-NA)	1888	NA	   1
 Billvik, Arnold	1904-	Billvik, Arnold (1904-NA)	1904	NA	   1
 Werner, Carl	f. 1879	Werner, Carl (1879-NA)	1879	NA	   1
@@ -31357,7 +31365,7 @@ Karlsson, Gustaf	1886-1976	Karlsson, Gustaf (1886-1976)	1886	1976	   1
 Karlman, Johan August	1867-1934	Karlman, Johan August (1867-1934)	1867	1934	   1
 Karlfeldt, Erik-Axel	1864-1931	Karlfeldt, Erik-axel (1864-1931)	1864	1931	   1
 Jonzon, Rut	1893-	Jonzon, Rut (1893-NA)	1893	NA	   1
-Johnsson, John	1???-1972	Johnsson, John (1972-1901)	1972	1901	   1
+Johnsson, John	1???-1972	Johnsson, John (1855-1901)	1855	1901	   1
 Johanson, Hilmer	1905-2000	Johanson, Hilmer (1905-2000)	1905	2000	   1
 Johanson, Bertil	1896-1970	Johanson, Bertil (1896-1970)	1896	1970	   1
 Jernström, Manfred	1904-1989	Jernström, Manfred (1904-1989)	1904	1989	   1

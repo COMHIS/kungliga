@@ -1,6 +1,7 @@
 library(devtools)
 #load_all("bibliographica")
 library(bibliographica)
+library(fennica)
 library(stringdist)
 library(stringi)
 library(stringr)
@@ -75,10 +76,6 @@ rm(data.preprocessed)
 data.enriched <- enrich_preprocessed_data(data.validated, df.orig)
 
 source("enrich.kungliga.R")
-source("harmonize_publisher_special.R")
-
-save.image()
-
 data.enriched.kungliga <- enrich_kungliga(data.enriched)
 
 source("validation.kungliga.R") # Year checks: must come after enrich

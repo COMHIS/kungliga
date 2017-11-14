@@ -46,7 +46,7 @@ polish_publisher_kungliga <- function (df.orig) {
   combined_pubs <- harmonize_publisher_fennica2(combined_pubs, publication_year, languages=languages)[,1:2]
 
   # Convert S.N. into NA 
-  f <- "NA_publishers.csv"
+  f <- system.file("extdata/NA_publishers.csv", package = "fennica")  
   synonymes <- read.csv(file=f, sep="\t", fileEncoding="UTF-8")
   combined_pubs$mod <- map(combined_pubs$mod, synonymes, mode="recursive")
   mod <- combined_pubs$mod

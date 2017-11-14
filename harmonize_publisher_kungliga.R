@@ -133,7 +133,7 @@ harmonize_publisher_kungliga <- function(x, publication_year, languages=c("engli
   # Build the stop mechanism
   # NB! Hardcoded for Finnish. Language specific handling required.
   # TODO vectorization of for loops with sapply could speed up considerably
-  f <- system.file("extdata/fi_publisher_caveat.csv", package="bibliographica")
+  f <- system.file("extdata/fi_publisher_caveat.csv", package="fennica")
   caveats <- read.csv(f, sep = "\t", fileEncoding = "UTF-8")
   cav <- data.frame(name1=character(nrow(caveats)*2), name2=character(nrow(caveats)*2), stringsAsFactors=FALSE)
   for (i in 1:nrow(caveats)) {
@@ -166,7 +166,7 @@ harmonize_publisher_kungliga <- function(x, publication_year, languages=c("engli
   language <- "finnish"
   
   if (language=="finnish") {
-    f = system.file("extdata/fi_publisher_with_placeholders.csv", package="bibliographica")
+    f <- system.file("extdata/fi_publisher_with_placeholders.csv", package="fennica")
   } else {
     # TODO    
   }

@@ -82,6 +82,7 @@ source("validation.kungliga.R") # Year checks: must come after enrich
 data.validated.kungliga <- validation_kungliga(data.enriched.kungliga)
 
 df.preprocessed <- data.validated.kungliga$df.preprocessed
+
 # -------------------------------------------------
 
 print("Saving preprocessed data")

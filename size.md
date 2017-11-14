@@ -1,7 +1,7 @@
 ---
 title: "Document dimension size summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2017-11-12"
+date: "2017-11-14"
 output: markdown_document
 ---
 

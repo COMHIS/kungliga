@@ -14,7 +14,7 @@ library(stringr)
 output.folder <- "output.tables/"
 dir.create(output.folder)
 
-fs <- list.files("data", full.names = TRUE, pattern = ".csv.gz")
+fs <- c("data/unified/kungliga_hf1.csv", "data/unified/kungliga_hf2.csv")
 catalog <- "kungliga"
 
 # Languages to consider in cleanup.

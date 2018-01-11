@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2017-11-14"
+date: "2018-01-11"
 output: markdown_document
 ---
 
@@ -24,9 +24,6 @@ The data spanning years 1457-2012 has been included and contains 385771 document
   * [Document and subject topics](topic.md)
   * [Languages](language.md)
 
-## Field conversions
-
-This documents the conversions from raw data to the final preprocessed version (accepted, discarded, conversions). Only some of the key tables are explicitly linked below. The complete list of all summary tables is [here](output.tables/).
 
 ## Annotated documents
 
@@ -95,12 +92,13 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |author_age                                |        63.2|          36.8|        142106|        141|
 |self_published                            |        61.6|          38.4|        148254|          3|
 |title_remainder                           |        56.7|          43.3|        166992|     132055|
-|publisher                                 |        56.7|          43.3|        167212|      16968|
+|publisher                                 |        56.7|          43.3|        167216|      17052|
 |author_death                              |        56.5|          43.5|        167788|        551|
 |author_gender                             |        55.7|          44.3|        170875|          5|
 |author_birth                              |        52.9|          47.1|        181703|        587|
 |pagecount.orig                            |        38.1|          61.9|        238695|       1432|
 |852z                                      |        38.0|          62.0|        239278|      15781|
+|language                                  |        32.3|          67.7|        261269|         99|
 |author_name                               |        27.3|          72.7|        280293|      88144|
 |author                                    |        27.3|          72.7|        280293|      89395|
 |852j                                      |         8.7|          91.3|        352283|     133906|
@@ -109,7 +107,6 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |publication_year_from                     |         3.5|          96.5|        372116|        500|
 |publication_year                          |         3.5|          96.5|        372136|        500|
 |publication_decade                        |         3.5|          96.5|        372136|         57|
-|language                                  |         2.8|          97.2|        375030|        100|
 |dissertation                              |         1.8|          98.2|        378851|          3|
 |synodal                                   |         1.8|          98.2|        378851|          2|
 |latitude                                  |         1.0|          99.0|        381751|       1505|
@@ -133,26 +130,18 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Finnish                          |         0.0|         100.0|        385771|          2|
 |language.Pali                             |         0.0|         100.0|        385771|          2|
 |language.Estonian                         |         0.0|         100.0|        385771|          2|
-|language.Latvian                          |         0.0|         100.0|        385771|          2|
 |language.Polish                           |         0.0|         100.0|        385771|          2|
 |language.Arabic                           |         0.0|         100.0|        385771|          2|
 |language.Esperanto                        |         0.0|         100.0|        385771|          2|
-|language.Spanish                          |         0.0|         100.0|        385771|          2|
-|language.Artificial Other                 |         0.0|         100.0|        385771|          2|
 |language.Dutch                            |         0.0|         100.0|        385771|          2|
-|language.Yiddish                          |         0.0|         100.0|        385771|          2|
-|language.Swahili                          |         0.0|         100.0|        385771|          2|
-|language.Hungarian                        |         0.0|         100.0|        385771|          2|
-|language.Lithuanian                       |         0.0|         100.0|        385771|          2|
-|language.Portuguese                       |         0.0|         100.0|        385771|          2|
-|language.Hebrew                           |         0.0|         100.0|        385771|          2|
-|language.Czech                            |         0.0|         100.0|        385771|          2|
-|language.Lule Sami                        |         0.0|         100.0|        385771|          2|
-|language.Ido                              |         0.0|         100.0|        385771|          2|
-|language.Zulu                             |         0.0|         100.0|        385771|          2|
+|language.Spanish                          |         0.0|         100.0|        385771|          2|
+|language.Latvian                          |         0.0|         100.0|        385771|          2|
 |language.Bulgarian                        |         0.0|         100.0|        385771|          2|
+|language.Hungarian                        |         0.0|         100.0|        385771|          2|
 |language.Afrikaans                        |         0.0|         100.0|        385771|          2|
 |language.Japanese                         |         0.0|         100.0|        385771|          2|
+|language.Czech                            |         0.0|         100.0|        385771|          2|
+|language.Portuguese                       |         0.0|         100.0|        385771|          2|
 |language.Serbian                          |         0.0|         100.0|        385771|          2|
 |language.Turkish                          |         0.0|         100.0|        385771|          2|
 |language.Norwegian Nynorsk                |         0.0|         100.0|        385771|          2|
@@ -160,8 +149,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Gothic                           |         0.0|         100.0|        385771|          2|
 |language.Sami                             |         0.0|         100.0|        385771|          2|
 |language.Albanian                         |         0.0|         100.0|        385771|          2|
+|language.Hebrew                           |         0.0|         100.0|        385771|          2|
 |language.No linguistic content            |         0.0|         100.0|        385771|          2|
-|language.Occitan post-1500                |         0.0|         100.0|        385771|          2|
 |language.Khotanese                        |         0.0|         100.0|        385771|          2|
 |language.Chinese                          |         0.0|         100.0|        385771|          2|
 |language.Ukrainian                        |         0.0|         100.0|        385771|          2|
@@ -180,20 +169,27 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |language.Provençal to 1500                |         0.0|         100.0|        385771|          2|
 |language.Raeto-Romance                    |         0.0|         100.0|        385771|          2|
 |language.Sanskrit                         |         0.0|         100.0|        385771|          2|
+|language.Lithuanian                       |         0.0|         100.0|        385771|          2|
+|language.Zulu                             |         0.0|         100.0|        385771|          2|
 |language.Sorbian Other                    |         0.0|         100.0|        385771|          2|
 |language.Georgian                         |         0.0|         100.0|        385771|          2|
 |language.Slovak                           |         0.0|         100.0|        385771|          2|
+|language.Yiddish                          |         0.0|         100.0|        385771|          2|
 |language.Tigré                            |         0.0|         100.0|        385771|          2|
+|language.Lule Sami                        |         0.0|         100.0|        385771|          2|
 |language.Kalâtdlisut                      |         0.0|         100.0|        385771|          2|
 |language.Armenian                         |         0.0|         100.0|        385771|          2|
 |language.Hindi                            |         0.0|         100.0|        385771|          2|
 |language.Oriya                            |         0.0|         100.0|        385771|          2|
+|language.Ido                              |         0.0|         100.0|        385771|          2|
 |language.Uighur                           |         0.0|         100.0|        385771|          2|
 |language.Frisian                          |         0.0|         100.0|        385771|          2|
 |language.Korean                           |         0.0|         100.0|        385771|          2|
 |language.Kongo                            |         0.0|         100.0|        385771|          2|
+|language.Swahili                          |         0.0|         100.0|        385771|          2|
 |language.German Middle High ca. 1050-1500 |         0.0|         100.0|        385771|          2|
 |language.Kinyarwanda                      |         0.0|         100.0|        385771|          2|
+|language.Artificial Other                 |         0.0|         100.0|        385771|          2|
 |language.Macedonian                       |         0.0|         100.0|        385771|          2|
 |language.Nilo-Saharan Other               |         0.0|         100.0|        385771|          2|
 |language.Aramaic                          |         0.0|         100.0|        385771|          2|
@@ -233,11 +229,21 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |issue                                     |         0.0|         100.0|        385771|          2|
 
 ```
-##             used   (Mb) gc trigger   (Mb)  max used   (Mb)
-## Ncells   2788904  149.0    5684620  303.6   5684620  303.6
-## Vcells 132178834 1008.5  398168108 3037.8 397935303 3036.1
+##             used  (Mb) gc trigger   (Mb)  max used   (Mb)
+## Ncells   4694797 250.8    8273852  441.9   8273852  441.9
+## Vcells 102617424 783.0  297392192 2269.0 371666363 2835.6
 ```
 
+
+## Field conversions
+
+This documents the conversions from raw data to the final preprocessed version (accepted, discarded, conversions). Only some of the key tables are explicitly linked below. The complete list of all summary tables is [here](output.tables/).
+
+Brief description of the fields:
+
+ * [Description of the original MARC fields](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/fieldnames.csv)
+
+ * [Description of the preprocessed fields](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/fieldnames_polished.csv)
 
 
 ## Histograms of all entries for numeric variables

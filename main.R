@@ -14,7 +14,7 @@ library(stringr)
 output.folder <- "output.tables/"
 dir.create(output.folder)
 
-fs <- c("data/unified/kungliga_hf1.csv", "data/unified/kungliga_hf2.csv")
+fs <- c("data/unified/kungliga_hf1.csv.gz", "data/unified/kungliga_hf2.csv.gz")
 catalog <- "kungliga"
 
 # Languages to consider in cleanup.

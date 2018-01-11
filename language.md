@@ -1,18 +1,18 @@
 ---
 title: "Language summaries"
 author: "Leo Lahti"
-date: "2017-11-14"
+date: "2018-01-11"
 output: markdown_document
 ---
 
 ## Language
 
- * 97 [unique languages](output.tables/language_accepted.csv)
+ * 96 [unique languages](output.tables/language_accepted.csv)
  * The languages may come in [combinations](output.tables/language_conversions.csv)
- * 367 multilingual documents (0.1%)  
- * 10741 docs (2.78%) with empty or [unrecognized language](output.tables/language_discarded.csv)
+ * 275 multilingual documents (0.07%)  
+ * 124502 docs (32.27%) with empty or [unrecognized language](output.tables/language_discarded.csv)
 
-Language codes are from [MARC](http://www.loc.gov/marc/languages/language_code.html); new custom abbreviations can be added in [this table](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/language_abbreviations.csv).
+Language codes are from [MARC](http://www.loc.gov/marc/languages/language_code.html); new custom abbreviations can be added in [this table](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/language_abbreviations.csv).
 
 Title count per language (including multi-language documents):
 
@@ -27,10 +27,10 @@ see [accepted languages](output.tables/language_accepted.csv).
 
 |Language | Documents (n)| Fraction (%)|
 |:--------|-------------:|------------:|
-|Swedish  |        318288|         84.9|
-|German   |         14341|          3.8|
-|English  |         10795|          2.9|
-|Latin    |          7351|          2.0|
-|French   |          5972|          1.6|
-|Finnish  |          4434|          1.2|
+|Swedish  |        210902|         80.8|
+|German   |         12588|          4.8|
+|English  |          7572|          2.9|
+|Latin    |          7208|          2.8|
+|French   |          5326|          2.0|
+|Finnish  |          4421|          1.7|
 

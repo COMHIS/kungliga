@@ -1,2635 +1,2638 @@
-publication_place	country	Count	Percentage
-Total count (na.rm TRUE): 	369108		
-Aabenraa	Denmark	     1	0
-Aachen	Germany	    11	0
-Aakirkeby	NA	     1	0
-Aalborg	Denmark	    18	0
-Aalen	NA	     1	0
-Aarau	NA	     6	0
-Aarhus	Denmark	    80	0.02
-Abbeville	France	     2	0
-Aberdeen	Scotland	     3	0
-Abingdon on thames	NA	     1	0
-Aby	NA	    10	0
-Acre	NA	     1	0
-Addis Abeba	NA	     3	0
-Adelöv	Sweden	     1	0
-Adelsö	Sweden	     1	0
-Adolfsberg	Sweden	     3	0
-Adolfsfors	Sweden	     1	0
-Adyar	NA	     3	0
-Agnesberg	Sweden	     3	0
-Agra	NA	     1	0
-Agunnaryd	NA	     1	0
-Ahmedabad	NA	     2	0
-Aix-en-Provence	France	     3	0
-Ajmer	NA	     1	0
-Åkarp	Sweden	    11	0
-Akers styckebruk	NA	     1	0
-Akersberga	Sweden	     1	0
-Akeshov	Sweden	     2	0
-Akranes	NA	     2	0
-Akureyri	Iceland	    21	0.01
-Al Qahira	NA	     1	0
-Ala	NA	     1	0
-Alafors	NA	     1	0
-Albany NY	USA	     4	0
-Albenga	NA	     1	0
-Albuquerque	NA	     4	0
-Alby	NA	     6	0
-Aledo IL	NA	     1	0
-Alem	NA	     9	0
-Alencon	NA	     2	0
-Alessandria	NA	     1	0
-Alexandria Va	USA	     1	0
-Alexandrie	NA	     1	0
-Alfend	NA	     1	0
-Alfred NY	NA	     5	0
-Alfta	NA	     3	0
-Älgabäcksryd	NA	     2	0
-Älgarås	Sweden	     4	0
-Alger	NA	     7	0
-Älghult	Sweden	     3	0
-Algutstorp	NA	     1	0
-Alingsås	Sweden	   223	0.06
-Alkmaar	NA	     5	0
-Allahabad	NA	     3	0
-Allegheny PA	NA	     1	0
-Allerum	NA	     3	0
-Allinge	NA	     1	0
-Almby	NA	     2	0
-Älmeboda	NA	     1	0
-Almeloo	NA	     4	0
-Älmhult	Sweden	    17	0
-Alnarp	Sweden	    28	0.01
-Alnön	Sweden	     2	0
-Alseda	NA	     4	0
-Alsen	NA	     1	0
-Alsike	NA	     1	0
-Alstad	NA	     1	0
-Alsten	Sweden	    15	0
-Alstermo	NA	     1	0
-Älta	NA	     1	0
-Altadena CA	NA	     2	0
-Altdorf	Germany	     4	0
-Altefähr	NA	     5	0
-Altenburg	Germany	    11	0
-Altenstein	Germany	     4	0
-Altona	Germany	    14	0
-Alunda	NA	     4	0
-Älvängen	NA	     1	0
-Alvastra	NA	     1	0
-Älvdalen	Sweden	    15	0
-Alvesta	Sweden	     7	0
-Alvestorp	Sweden	     1	0
-Älvkarleby	NA	     1	0
-Älvkarleö	NA	     3	0
-Älvsbyn	NA	     2	0
-Älvsjö	Sweden	    10	0
-Amal	NA	   133	0.04
-Amand	NA	     1	0
-Amberg	NA	     2	0
-Amersfoort	Netherlands	    18	0
-Ames IA	NA	     1	0
-Amiens	NA	     3	0
-Amorbach	NA	     1	0
-Amotfors	NA	     1	0
-Amsele	NA	     1	0
-Amsterdam	Netherlands	   492	0.13
-Ånäset	Sweden	     1	0
-Ancona	Italy	     1	0
-Anderslöv	Sweden	     1	0
-Anderstorp	Sweden	     2	0
-Andover Ma	USA	     1	0
-Aneboda	Sweden	     3	0
-Aneby	Sweden	     7	0
-Ängby	Sweden	     1	0
-Ånge	NA	     2	0
-Änge	NA	     1	0
-Ängeholm	Sweden	     3	0
-Ängelholm	Sweden	   148	0.04
-Angers	NA	     5	0
-Angouleme	NA	     2	0
-Angsta	NA	     1	0
-Anhalt	NA	     8	0
-Animskog	NA	     1	0
-Ankara	NA	    13	0
-Ankarsrum	NA	     7	0
-Ankarsvik	Sweden	     2	0
-Anklam	NA	     4	0
-Ann Arbor MI	NA	     9	0
-Anneberg	NA	     1	0
-Annerstad	NA	     1	0
-Ansbach	NA	     2	0
-Antananarivo	NA	     2	0
-Antwerp	Belgium	    55	0.01
-Anundsjö	NA	     1	0
-Aplared	NA	     1	0
-Äppelbo	NA	     1	0
-Arad	NA	     1	0
-Arboga	Sweden	   132	0.04
-Arbra	NA	     9	0
-Archangelsk	Russia	     1	0
-Arcis-sur-Aube	NA	     1	0
-Ardre	NA	     1	0
-Arendal	NA	     1	0
-Årjäng	NA	     8	0
-Arksjö	NA	     1	0
-Ärla	NA	     1	0
-Arlöv	Sweden	   162	0.04
-Arnhem	Netherlands	    10	0
-Arnstadt	Germany	     4	0
-Arras	NA	     3	0
-Arrie	NA	     3	0
-Ärtemark	NA	     2	0
-Artern	NA	     1	0
-Arvidsjaur	NA	     4	0
-Arvika	Sweden	   217	0.06
-Aryd	NA	     1	0
-Asarum	NA	     1	0
-Asbo	NA	     2	0
-Asbro	NA	     2	0
-Asby	NA	     1	0
-Aschaffenburg	NA	     1	0
-Aschersleben	NA	     1	0
-Ascona	NA	     4	0
-Åseda	Sweden	    17	0
-Åsele	NA	     6	0
-Asen	NA	     4	0
-Åsenhöga	NA	     1	0
-Ašgabat	NA	     1	0
-Ashammar	NA	     4	0
-Ashtabula Oh	USA	     1	0
-Asker	NA	     4	0
-Askeröd	NA	     3	0
-Askersund	Sweden	    71	0.02
-Askeryd	NA	     1	0
-Askilje	NA	     1	0
-Askov	NA	     1	0
-Asmara	NA	    54	0.01
-Assaria KS	NA	     1	0
-Assen	NA	    17	0
-Asso	NA	     1	0
-Asti	NA	     1	0
-Astoria Or	USA	     1	0
-Åstorp	Sweden	    14	0
-Asträsk	NA	     1	0
-Asuncion	NA	     2	0
-Athéna	NA	     1	0
-Athens	NA	    33	0.01
-Attica in	NA	     2	0
-Åtvidaberg	Sweden	    24	0.01
-Auburn RI	NA	     1	0
-Augsburg	Germany	    25	0.01
-Augusta	USA	     4	0
-Augusta Me	USA	     1	0
-Aurich	NA	     1	0
-Aurillac	NA	     4	0
-Austin TX	NA	     7	0
-Auxerre	NA	     2	0
-Averbode	NA	     3	0
-Avesta	Sweden	    16	0
-Avignon	France	     4	0
-Avranches	France	     1	0
-Axelfors	Sweden	    11	0
-Axhult	NA	     1	0
-Axtell Ne	NA	     1	0
-Baarn	NA	     7	0
-Backe	NA	     1	0
-Bäckebo	NA	     1	0
-Bäckefors	NA	     1	0
-Bäckseda	NA	     1	0
-Bacup	NA	     1	0
-Bad Ems	NA	     1	0
-Bad Segeberg	NA	     1	0
-Bad Wörishofen	NA	    11	0
-Baden	NA	     5	0
-Bagnères-de-Luchon	NA	     1	0
-Baku	NA	     4	0
-Bale	NA	     2	0
-Balsta	NA	     1	0
-Baltijsk	NA	     1	0
-Baltimore Md	USA	    51	0.01
-Bamberg	NA	     4	0
-Bandeng	NA	     1	0
-Bandoeng	NA	     1	0
-Bandra	NA	     1	0
-Bandung	NA	     1	0
-Bangalore	NA	     1	0
-Bangor	NA	     1	0
-Bankeryd	NA	     1	0
-Bar Le Duc	NA	     1	0
-Bara	NA	     3	0
-Barcelona	Spain	    88	0.02
-Barga	NA	     1	0
-Barhöft	NA	     1	0
-Bari	NA	     2	0
-Barkakra	NA	     1	0
-Barmen	NA	     5	0
-Barsebäck	NA	     2	0
-Barsele	NA	     1	0
-Barth	NA	     1	0
-Basel	Switzerland	    86	0.02
-Båstad	NA	    26	0.01
-Bath	England	     1	0
-Baton Rouge	NA	     1	0
-Battle Creek Mi	NA	    45	0.01
-Bautzen	NA	     1	0
-Bayonne NJ	NA	     2	0
-Bayreuth	Germany	     4	0
-Bazoges-en-Pareds	NA	     1	0
-Beateberg	NA	     2	0
-Bedford	England	     1	0
-Beirout	NA	     1	0
-Beirut	NA	     2	0
-Bekescsaba	NA	     1	0
-Belfast	Northern Ireland	     1	0
-Belgrad	NA	     2	0
-Belingwe	NA	     1	0
-Bellinzona	NA	     1	0
-Bengasi	NA	     1	0
-Bengtsfors	Sweden	    11	0
-Beograd	NA	    26	0.01
-Beresford	NA	     2	0
-Berga	NA	     1	0
-Bergamo	NA	    10	0
-Bergatorp	NA	     1	0
-Bergen	Norway	    97	0.03
-Berghem	NA	     1	0
-Bergland ON	NA	     1	0
-Bergnäsudden	NA	     1	0
-Bergsjö	Sweden	    10	0
-Bergum	NA	     1	0
-Bergvik	NA	     1	0
-Berkeley CA	NA	    26	0.01
-Berlin	Germany	  2011	0.54
-Bern	Switzerland	    74	0.02
-Berndorf	NA	     1	0
-Bernshammar	NA	     1	0
-Besançon	France	     9	0
-Bettna	NA	     1	0
-Beyrouth	NA	     1	0
-Biberach an der Riß	NA	     1	0
-Bie	NA	     1	0
-Bielefeld	Germany	    24	0.01
-Bilbao	NA	     2	0
-Billesholm	NA	     2	0
-Billinge	NA	     1	0
-Birka	NA	     1	0
-Birmingham	England	     2	0
-Bishop Hill IL	NA	    27	0.01
-Bispberg	NA	     1	0
-Bispgarden	NA	     3	0
-Bitterfeld	NA	     1	0
-Bjärnum	NA	    15	0
-Bjärtrå	NA	     1	0
-Bjästa	NA	     1	0
-Björkeberg	NA	     1	0
-Bjorkelangen	NA	     1	0
-Björkö-Arholma	NA	     1	0
-Björkvik	NA	     1	0
-Björlanda	NA	     1	0
-Bjuraker	NA	     1	0
-Bjurbäck	NA	     1	0
-Bjurholm	NA	     2	0
-Bjursas	NA	     2	0
-Bjuv	NA	     3	0
-Blattnicksele	NA	     1	0
-Blidö	NA	     1	0
-Blidsberg	NA	     2	0
-Blindern	NA	     1	0
-Bloemendaal	NA	     1	0
-Blois	NA	     1	0
-Blomskog	NA	     2	0
-Blomstermala	NA	     1	0
-Bloomington	NA	     2	0
-Bloomsbury	NA	     1	0
-Bochum	NA	     1	0
-Böda	NA	     4	0
-Bodafors	Sweden	    15	0
-Boden	Germany	    77	0.02
-Bodsjö	NA	     1	0
-Bodträsk	NA	     1	0
-Boeryd	NA	     1	0
-Boet	NA	     1	0
-Bofors	NA	     5	0
-Bognor Regis	NA	     1	0
-Bogota	NA	     3	0
-Bograngen	NA	     1	0
-Bohus	NA	     7	0
-Boizenburg	NA	     5	0
-Bokenäs	NA	     1	0
-Boliden	NA	     1	0
-Bollnäs	Sweden	   143	0.04
-Bollstanäs	NA	     2	0
-Bologna	Italy	    20	0.01
-Bolton	England	     1	0
-Bombay	India	    10	0
-Bondstorp	NA	     2	0
-Bonn	Germany	    57	0.02
-Borås	Sweden	   637	0.17
-Bordeaux	France	    24	0.01
-Bordighera	NA	     2	0
-Borensberg	NA	     4	0
-Borggard	NA	     1	0
-Borgholm	Sweden	    32	0.01
-Borlänge	Sweden	   252	0.07
-Born	NA	     1	0
-Borna	NA	     2	0
-Borrby	NA	     5	0
-Borrud	NA	     1	0
-Börrum	NA	     2	0
-Boston Ma	USA	   150	0.04
-Bottnaryd	NA	     2	0
-Boulder Co	NA	     1	0
-Bourges	NA	     2	0
-Bovallstrand	NA	     1	0
-Boxbacka	NA	     1	0
-Boxholm	NA	     1	0
-Braas	NA	     2	0
-Bräcke	NA	     5	0
-Bradford	England	     1	0
-Bräkne-Hoby	NA	     2	0
-Braniewo	Poland	     2	0
-Brännemo	NA	     1	0
-Brännögård	NA	     1	0
-Bratislava	NA	     7	0
-Brattbäcken	NA	     1	0
-Braunsberg	NA	     5	0
-Braunschweig	Germany	    84	0.02
-Brazzaville	NA	     3	0
-Bredaryd	NA	     2	0
-Bredbyn	NA	     2	0
-Bremen	Germany	    42	0.01
-Breslau	Poland	    70	0.02
-Brest	NA	     1	0
-Bridgeport Ct	USA	     1	0
-Bringåsen	NA	     1	0
-Brisbane	Australia	     3	0
-Bristol	England	     3	0
-Brixen	NA	     1	0
-Brno	NA	    19	0.01
-Broakulla	NA	     1	0
-Broaryd	NA	     3	0
-Broby	NA	     9	0
-Brodalen	NA	     1	0
-Bromberg	NA	     1	0
-Bromölla	NA	     1	0
-Brömsebro	NA	     1	0
-Bromsten	NA	     1	0
-Brookfield Ma	USA	     4	0
-Brookland	NA	     1	0
-Brötjemark	NA	     1	0
-Brownfield me	NA	     1	0
-Bruges	Belgium	    10	0
-Brunebo	NA	     1	0
-Brunflo	NA	     2	0
-Brunn	Germany	     1	0
-Brunnsberg	NA	     4	0
-Brunskog	NA	     4	0
-Brunswick Ma	USA	     2	0
-Brussels	Belgium	   179	0.05
-Bryn Athyn PA	NA	    29	0.01
-Bryn Mawr PA	NA	     2	0
-Buchanan Mi	NA	     1	0
-Bucharest	NA	    26	0.01
-Buchen	NA	     1	0
-Bückeburg	NA	     1	0
-Budapest	Hungary	   189	0.05
-Buenos Aires	Argentina	    72	0.02
-Buffalo	NA	     4	0
-Bunge	NA	     3	0
-Burg	NA	     3	0
-Burlington NJ	USA	     2	0
-Burträsk	NA	     1	0
-Bussum	NA	    11	0
-Büsum	NA	     1	0
-Buxtehude	NA	     2	0
-Byarum	NA	     1	0
-Byholma	NA	     2	0
-Byske	NA	     1	0
-Caen	France	    11	0
-Caerdydd	England	     2	0
-Caes	NA	     1	0
-Cagliari	NA	     1	0
-Cahors	NA	     1	0
-Cairo	NA	     8	0
-Calais	France	     1	0
-Calcutta	India	     9	0
-Caldwell Id	NA	     2	0
-Cambridge	England	    67	0.02
-Cambridge Ma	USA	    30	0.01
-Campobasso	NA	     1	0
-Canberra	NA	     7	0
-Canton	NA	     2	0
-Cape Town	South Africa	     9	0
-Caracas	NA	     2	0
-Carbondale	NA	     2	0
-Caribou	NA	     1	0
-Carlsbad	NA	     1	0
-Casale	NA	     1	0
-Catania	NA	     5	0
-Cedar Rapids IA	NA	     7	0
-Celle	Germany	     1	0
-Center City MN	NA	     1	0
-Centerville RI	NA	     1	0
-Cernauti	NA	     1	0
-Cesis	NA	     2	0
-Cetinje	NA	     2	0
-Chalon-sur-Saône	NA	     2	0
-Chalons	NA	     1	0
-Chambery	NA	     1	0
-Chapel Hill	NA	    10	0
-Charkov	NA	     5	0
-Charleroi	NA	     1	0
-Charleston SC	USA	     1	0
-Charlottenberg	NA	     3	0
-Charlottenlund	NA	     5	0
-Chartres	NA	     1	0
-Chemnitz	NA	     4	0
-Cherbourg	NA	     1	0
-Chhindwara	NA	     1	0
-Chiavari	NA	     1	0
-Chic	NA	     1	0
-Chicago IL	USA	  1054	0.29
-Chichester	England	     1	0
-Chillicothe Oh	USA	     4	0
-Christiansand	NA	     3	0
-Chudleigh	NA	     1	0
-Cincinnati Oh	USA	    12	0
-Citta del vaticano	NA	     6	0
-Città di Castello	NA	     3	0
-Ciudad trujillo	NA	     2	0
-Clarens	NA	     1	0
-Clermont-Ferrand	NA	     4	0
-Cleveland Oh	USA	    15	0
-Cluj-Napoca	Romania	     5	0
-Coblenz	NA	     1	0
-Coburg	Germany	     3	0
-Coimbra	Portugal	     3	0
-Colmar	NA	     5	0
-Cologne	Germany	    74	0.02
-Colombia	NA	     1	0
-Columbia SC	USA	     1	0
-Columbus OH	NA	     6	0
-Como	NA	     2	0
-Compiegne	NA	     2	0
-Condé-sur-Noireau	NA	     1	0
-Contich	NA	     1	0
-Cooperstown NY	USA	     1	0
-Copenhagen	Denmark	  5008	1.36
-Coquimbo	NA	     1	0
-Cordoba	NA	     1	0
-Coruna	NA	     1	0
-Coswig	NA	     2	0
-Cottbus	NA	     1	0
-Coulommiers	NA	     1	0
-Courtrai	NA	     1	0
-Coventry	England	     3	0
-Covina	NA	     1	0
-Crefeld	NA	     1	0
-Cremona	NA	     4	0
-Creston ia	NA	     1	0
-Crompton ri	NA	     1	0
-Crookston	NA	     2	0
-Culm	NA	     1	0
-Curacao	NA	     1	0
-Curityba	NA	     1	0
-Cuxhaven	NA	     1	0
-Czestochowa	NA	     1	0
-Dädesjö	NA	     2	0
-Daglösen	NA	     1	0
-Dagsberg	NA	     1	0
-Dahlberg	NA	     1	0
-Dakar	NA	     1	0
-Dala-Järna	NA	     2	0
-Dalgränsen	NA	     1	0
-Dallas tx	NA	     1	0
-Dals Långed	NA	     4	0
-Dalstorp	NA	     1	0
-Damas	NA	     1	0
-Damascus	NA	     1	0
-Damme	NA	     1	0
-Danderyd	NA	     4	0
-Dannemora NY	NA	     1	0
-Darmstadt	Germany	    15	0
-Davenport ia	NA	     1	0
-Davos	NA	     2	0
-Dayton ia	NA	     2	0
-Debrecen	NA	     5	0
-Decorah IA	NA	     2	0
-Degeberga	NA	     1	0
-Degerfors	NA	     6	0
-Deje	NA	     2	0
-Dejefors	NA	     1	0
-DeKalb IL	NA	     1	0
-Delft	Netherlands	     5	0
-Delhi	NA	     1	0
-Delmenhorst	NA	     1	0
-Delsbo	NA	     4	0
-Demmin	NA	     1	0
-Den Haag	Netherlands	    38	0.01
-Denison ia	NA	     1	0
-Denmark	NA	     2	0
-Denver	NA	     8	0
-Des Moines IA	NA	     1	0
-Dessau	Germany	     8	0
-Detmold	NA	     5	0
-Detroit Mi	USA	     4	0
-Deventer	Netherlands	    12	0
-Dhulia	NA	     1	0
-Die	NA	     1	0
-Dieren	Netherlands	     2	0
-Dijon	France	     7	0
-Dikanäs	NA	     2	0
-Dillingen an der Donau	Germany	     2	0
-Dingle	NA	     8	0
-Djurö	NA	     1	0
-Djurröd	NA	     3	0
-Djursdala	NA	     1	0
-Djursholm	NA	    30	0.01
-Djursholms Ösby	NA	     1	0
-Dönnie	NA	     1	0
-Dordrecht	Netherlands	     7	0
-Dornach	NA	     1	0
-Dortmund	NA	     8	0
-Douai	France	     1	0
-Douala	NA	     3	0
-Dover NJ	NA	     3	0
-Dover ny	NA	     1	0
-Drachten	NA	     1	0
-Drammen	NA	    33	0.01
-Dresden	Germany	   109	0.03
-Drezdenko	NA	     1	0
-Drottningholm	NA	     2	0
-Dublin	Ireland	    15	0
-Dubrovnik	NA	     2	0
-Dufbo	NA	     1	0
-Duisburg	NA	     1	0
-Duluth MN	USA	     6	0
-Dundee	Scotland	    11	0
-Dunkalk	Ireland	     1	0
-Dunkirk	France	     1	0
-Durban	NA	     2	0
-Durham	England	     9	0
-Düsseldorf	Germany	    16	0
-Duvbo	NA	    18	0
-Duved	NA	     1	0
-Eagle Lake MN	NA	     1	0
-East Grand Forks mn	NA	     1	0
-East Lansing	NA	     1	0
-East Union MN	NA	     1	0
-Easton Pa	USA	     1	0
-Eastsound Wa	NA	     2	0
-Edam	NA	     3	0
-Edesjö	NA	     1	0
-Edinburgh	Scotland	    56	0.02
-Edirne	NA	     1	0
-Edsbyn	Sweden	    21	0.01
-Edsele	NA	     1	0
-Edsviken	NA	     1	0
-Eichwalde	NA	     1	0
-Eindhoven	NA	     1	0
-Eisenach	NA	     2	0
-Eisenberg	NA	     1	0
-Eisfeld	NA	     1	0
-Eisleben	NA	     3	0
-Ekeberg	NA	     1	0
-Ekerö	NA	     2	0
-Ekestad	NA	     2	0
-Ekhorva	NA	     1	0
-Eklanda	NA	     1	0
-Eklund	NA	     1	0
-Ekolsund	NA	     1	0
-Ekshärad	NA	     1	0
-Eksjö	Sweden	   256	0.07
-Eksjöhovgård	Sweden	    21	0.01
-Ektorp	NA	     5	0
-Elberfeld	NA	     4	0
-Elbingen	Germany	     4	0
-Elgin IL	NA	     1	0
-Elk River MN	NA	     1	0
-Ellös	NA	     2	0
-Elmhult	NA	     2	0
-Emmaboda	Sweden	    13	0
-Emmaljunga	NA	     3	0
-Emmaus PA	NA	     1	0
-Emsdetten	NA	     1	0
-Enaker	NA	     1	0
-Eneboga	NA	     1	0
-Enebyberg	NA	     7	0
-Eneryda	NA	     1	0
-Engelsberg	NA	     1	0
-Englewood Cliffs NJ	NA	     1	0
-Enköping	Sweden	   154	0.04
-Enschede	NA	     1	0
-Enskede	Sweden	    27	0.01
-Epinal	NA	     1	0
-Erevan	NA	     1	0
-Erfurt	Germany	    17	0
-Erikslund	NA	     4	0
-Erikstad	NA	     1	0
-Eritrea	NA	     1	0
-Erlangen	Germany	    19	0.01
-Erska	NA	     1	0
-Esbjerg	NA	     3	0
-Eskilstuna	Sweden	   640	0.17
-Eskiltuna	Sweden	     4	0
-Eslöv	Sweden	   184	0.05
-Essen	NA	    11	0
-Esslingen	NA	     1	0
-Essunga	NA	     2	0
-Etienne	NA	     1	0
-Eugene or	NA	     1	0
-Eura	Finland	     1	0
-Eutin	NA	     1	0
-Evanston	NA	     6	0
-Evreux	NA	     1	0
-Exeter	England	     1	0
-Faaborg	NA	     1	0
-Faenza	NA	     2	0
-Fagelsta	NA	     1	0
-Fageras	NA	     7	0
-Fagerhult	NA	     2	0
-Fagersanna	NA	     2	0
-Fagersta	Sweden	    19	0.01
-Fagerstrand	NA	     5	0
-Faglavik	NA	     1	0
-Fägre	NA	     1	0
-Falkenberg	Sweden	   152	0.04
-Falköping	Sweden	   296	0.08
-Falsterbo	NA	     2	0
-Falun	Sweden	  2334	0.63
-Färgelanda	NA	     6	0
-Färila	NA	     2	0
-Färjestaden	NA	     1	0
-Färna	NA	     1	0
-Farsta	NA	     2	0
-Farstorp	NA	     1	0
-Fässberg	NA	     1	0
-Feanwâlden	NA	     1	0
-Feldkirch	NA	     1	0
-Fellingsbro	NA	     6	0
-Fengersfors	NA	     1	0
-Fernando	NA	     1	0
-Fernviken	NA	     2	0
-Filipstad	Sweden	   287	0.08
-Finja	NA	     2	0
-Finspång	Sweden	    23	0.01
-Finsterwalde	NA	     1	0
-Firenze	Italy	   104	0.03
-Fish Lake MN	NA	     1	0
-Fiskars	NA	     8	0
-Fiskebäckskil	NA	     2	0
-Fittja	NA	     4	0
-Fjälkestad	Sweden	    16	0
-Fjälla	NA	     1	0
-Fjällbacka	NA	     2	0
-Fjärås	NA	     1	0
-Fjärdhundra	NA	     1	0
-Fjugesta	NA	     3	0
-Fläckebo	NA	     1	0
-Flen	Sweden	    31	0.01
-Flensburg	Germany	     6	0
-Flipstad	NA	     2	0
-Flisby	NA	     3	0
-Floby	NA	     1	0
-Floda	NA	     3	0
-Flöha	NA	     1	0
-Florence	Italy	    21	0.01
-Flygfors	NA	     1	0
-Flyinge	NA	     3	0
-Flysta	NA	     1	0
-Foix	NA	     1	0
-Fontainebleau	NA	     2	0
-Forestville Ct	NA	     1	0
-Forli	NA	     1	0
-Fors	NA	    22	0.01
-Forsa	NA	     2	0
-Forserum	NA	     1	0
-Forshaga	NA	     3	0
-Forsheda	NA	     2	0
-Forsmark	NA	     1	0
-Forsmo	NA	     1	0
-Forsnäs	NA	     1	0
-Forssa	Finland	    27	0.01
-Forsvik	NA	     4	0
-Fort Worth Tx	NA	     1	0
-Francestown NH	NA	     1	0
-Francisco	NA	    28	0.01
-Franeker	NA	     1	0
-Frankfort Ky	USA	     2	0
-Frankfurt	Germany	   202	0.05
-Franö	NA	     1	0
-Franshammar	NA	     1	0
-Fränsta	NA	     9	0
-Franzburg	NA	     3	0
-Frauenfeld	NA	     6	0
-Fredericia	NA	     2	0
-Frederiksberg	NA	     2	0
-Fredriksberg	NA	     1	0
-Fredriksdal	NA	     1	0
-Fredrikstad	NA	     7	0
-Fredsberg	NA	     1	0
-Freiburg im Breisgau	Germany	    54	0.01
-Freilassing	NA	     1	0
-Freistadt	NA	     8	0
-Freudenstadt	NA	     1	0
-Freyberg	NA	     4	0
-Freyburg	NA	     1	0
-Fribourg	NA	     8	0
-Friedrichstadt	NA	     1	0
-Frillesas	NA	     2	0
-Frinnaryd	NA	     1	0
-Fritsla	NA	     2	0
-Frösön	NA	     2	0
-Frövi	NA	     4	0
-Frustuna	NA	     1	0
-Fryele	NA	     1	0
-Frykerud	NA	     3	0
-Fulda	NA	     1	0
-Fürstenwalde	NA	     2	0
-Fürth	Germany	     2	0
-Furudal	NA	     1	0
-Fyras	NA	     1	0
-Gäddede	NA	     1	0
-Gagnef	NA	     5	0
-Gainesville	NA	     3	0
-Galesburg IL	NA	     7	0
-Gällared	NA	     2	0
-Gällivare	Sweden	    16	0
-Gällstad	NA	     6	0
-Galva	NA	     5	0
-Gamleby	Sweden	    15	0
-Gammalstorp	NA	     1	0
-Gammelstad	NA	     2	0
-Gand	NA	     7	0
-Gap	NA	     2	0
-Gardelegen	NA	     2	0
-Garden City NY	NA	     8	0
-Gärds köpinge	NA	     1	0
-Garnsviken	NA	     1	0
-Garphyttan	NA	     2	0
-Gaseberg	NA	    20	0.01
-Gävle	Sweden	  1112	0.3
-Gåxsjö	NA	     1	0
-Gdańsk	Poland	    35	0.01
-Gdynia	NA	     2	0
-Geldeston	NA	     1	0
-Gembloux	NA	     2	0
-Gemla	NA	     8	0
-Geneseo IL	NA	     1	0
-Geneva	Switzerland	    95	0.03
-Genoa	Italy	    23	0.01
-Gent	NA	     5	0
-Genthin	NA	     1	0
-Genvalla	NA	     1	0
-Gera	Germany	     2	0
-Gestad	NA	     1	0
-Getinge	NA	     4	0
-Ghent	Belgium	     1	0
-Gießen	Germany	    15	0
-Gillhov	NA	     1	0
-Gimo	NA	     2	0
-Girard KS	NA	     1	0
-Gislaved	Sweden	    11	0
-Gisselås	NA	     1	0
-Gläborg	NA	     1	0
-Gladbach	NA	     2	0
-Gladhammar	NA	     1	0
-Gladsax	NA	     1	0
-Glasgow	Scotland	    15	0
-Glemmingebro	NA	     2	0
-Glencoe IL	NA	     1	0
-Glendale	NA	     4	0
-Glimåkra	Sweden	    10	0
-Globe az	NA	     1	0
-Glogau	NA	     2	0
-Glommersträsk	NA	     2	0
-Glömminge	NA	     1	0
-Glostrup	NA	     1	0
-Gloucester	England	     2	0
-Glücksburg	NA	     1	0
-Glückstadt	NA	     4	0
-Glumslöv	NA	     1	0
-Gnarp	NA	     2	0
-Gnesta	Sweden	    17	0
-Gnosjö	NA	     3	0
-Gökalund	NA	     1	0
-Görliz	Germany	     8	0
-Görslöv	NA	     5	0
-Goslar	NA	     1	0
-Götene	NA	     5	0
-Gotha	Germany	    42	0.01
-Gothenburg	Sweden	 14164	3.84
-Götlunda	NA	     4	0
-Göttingen	Germany	    75	0.02
-Gouda	Netherlands	     3	0
-Gowrie IA	NA	     2	0
-Graasten	NA	    16	0
-Gräfsnäs	NA	     2	0
-Grällsta	NA	     1	0
-Granada	NA	     1	0
-Grand Rapids Mi	USA	     3	0
-Grangärde	NA	     2	0
-Grängesberg	Sweden	    28	0.01
-Gränna	Sweden	    32	0.01
-Granvik	NA	     1	0
-Gräsmark	NA	     2	0
-Grästorp	Sweden	    28	0.01
-Graudenz	NA	     1	0
-Grava	NA	     1	0
-Graz	NA	    15	0
-Grebbestad	NA	     6	0
-Greeley CO	NA	     1	0
-Greifswald	Germany	   313	0.08
-Greiz	NA	     1	0
-Grenoble	NA	     7	0
-Grillby	NA	     1	0
-Grimeton	NA	     1	0
-Grimma	NA	    56	0.02
-Grimnäs	NA	     2	0
-Grimslöv	NA	     3	0
-Grimstorp	NA	     2	0
-Groitzsch	NA	     1	0
-Groningen	NA	    32	0.01
-Grönskåra	NA	     2	0
-Gropen	NA	     1	0
-Gross Lichterfelde	NA	     1	0
-Grove City MN	NA	     4	0
-Grovsta	NA	     1	0
-Grums	NA	     1	0
-Grundsunda	NA	     2	0
-Grythyttan	NA	     2	0
-Guatemala	NA	     1	0
-Guben	NA	     1	0
-Guldsmedshyttan	NA	     1	0
-Gullaskruv	NA	     1	0
-Gullestorp	NA	     1	0
-Gunnarskog	NA	     2	0
-Gunnilse	NA	     1	0
-Gustafs	NA	     1	0
-Gustavsberg	NA	     6	0
-Güstrow	NA	     2	0
-Gusum	NA	     6	0
-Gütersloh	NA	    34	0.01
-Gyoma	NA	     7	0
-Gyttorp	NA	     1	0
-Haaparanta	Sweden	    59	0.02
-Haapsalu	NA	     1	0
-Haarlem	Netherlands	    72	0.02
-Håbo	Sweden	    23	0.01
-Hackas	NA	     3	0
-Haderslev	Denmark	     5	0
-Hafnarfirði	NA	     1	0
-Hagaberg	NA	     4	0
-Hagalund	NA	     7	0
-Hagaström	NA	     1	0
-Hagby	NA	     1	0
-Hagfors	NA	     4	0
-Häggenås	NA	     1	0
-Hakarp	NA	     1	0
-Halahult	NA	     1	0
-Halberstadt	Germany	     6	0
-Halden	NA	    30	0.01
-Halifax	England	     2	0
-Hällabrottet	NA	     3	0
-Halland	NA	     1	0
-Halle	Germany	   203	0.05
-Hälleberga	NA	     1	0
-Hällefors	Sweden	    11	0
-Hälleforsnäs	NA	     2	0
-Hällesjö	NA	     1	0
-Hällestad	NA	     2	0
-Hälleviksstrand	NA	     1	0
-Hällnäs	NA	     1	0
-Hallsberg	Sweden	    17	0
-Hallsbo	NA	     1	0
-Hallstahammar	NA	     6	0
-Hallstavik	NA	     4	0
-Halmstad	Sweden	   660	0.18
-Hamar	NA	     3	0
-Hamburg	Germany	   356	0.1
-Hämeenlinna	Finland	   165	0.04
-Hameln	NA	     1	0
-Hamina	Finland	    22	0.01
-Hamm	NA	     2	0
-Hammarö	NA	     2	0
-Hammarstrand	NA	     4	0
-Hammenhög	NA	     5	0
-Hammerdal	NA	     1	0
-Hammerfest	NA	     1	0
-Hamneda	NA	     2	0
-Hampnäs	NA	     1	0
-Hamrange	NA	     1	0
-Hanau	Germany	     6	0
-Handen	NA	     1	0
-Hanger	NA	     1	0
-Haninge	NA	     1	0
-Hanko	Finland	    39	0.01
-Hankou	NA	     1	0
-Hannover	Germany	    24	0.01
-Hanoi	NA	     4	0
-Hanover NH	USA	     1	0
-Härad	NA	     1	0
-Harbor Oh	USA	     3	0
-Hardeberga	NA	     1	0
-Hardemo	Sweden	    63	0.02
-Harestad	NA	     1	0
-Harlösa	NA	     2	0
-Harmanger	NA	     4	0
-Harmondsworth	NA	     3	0
-Härnösand	Sweden	   701	0.19
-Harplinge	NA	     4	0
-Härslöv	NA	     1	0
-Hartford Ct	USA	     2	0
-Hartola	NA	     1	0
-Hassela	NA	     1	0
-Hässelby	NA	     2	0
-Hässleholm	Sweden	   366	0.1
-Hastings	England	     1	0
-Hauge	NA	     1	0
-Haunia	Copenhagen	    36	0.01
-Havanna	Cuba	     3	0
-Havdhem	NA	     1	0
-Havlickuv Brod	NA	     1	0
-Heby	NA	     9	0
-Hedas	NA	     1	0
-Hedemora	Sweden	   164	0.04
-Hedesunda	NA	     1	0
-Heide	NA	     1	0
-Heidelberg	Germany	    88	0.02
-Heidenau	NA	     4	0
-Heilbronn	Germany	    10	0
-Heinola	Finland	     2	0
-Helas	NA	     1	0
-Helenelund	NA	     1	0
-Helgum	NA	     3	0
-Hellefors	NA	     1	0
-Hellerup	NA	    11	0
-Hellesylt	NA	     1	0
-Helmstadt	Germany	     1	0
-Helmstedt	Germany	    10	0
-Helsingborg	Sweden	  2095	0.57
-Helsingør	Denmark	    15	0
-Helsinki	Finland	 14765	4
-Hemse	NA	     6	0
-Hemsjö	NA	     2	0
-Henån	NA	     1	0
-Henriksdal	NA	     1	0
-Hensmala	NA	     4	0
-Herborn	NA	     2	0
-Hermantown MN	NA	     1	0
-Hernosand	NA	     1	0
-Herrljunga	NA	     5	0
-Hersfeld	NA	     1	0
-Hertford	England	     1	0
-Hertogenbosch	NA	     2	0
-Hessisch Oldendorf	NA	     1	0
-Hessleby	NA	     1	0
-Hestra	NA	     2	0
-Heylbronn	NA	     2	0
-Hildburghausen	Germany	     2	0
-Hildesheim	NA	     4	0
-Hille	NA	     2	0
-Hillerod	NA	     3	0
-Hillsand	NA	     1	0
-Hjärsås	NA	     1	0
-Hjärtsäter	NA	     1	0
-Hjärtum	NA	     1	0
-Hjelmarsnäs	NA	     1	0
-Hjo	Sweden	    41	0.01
-Hjørring	NA	     1	0
-Hjorted	NA	     4	0
-Hjortsberga	NA	     1	0
-Hjulsjö	NA	     1	0
-Hof	NA	     1	0
-Hofors	NA	    10	0
-Hofva	NA	     2	0
-Höganäs	Sweden	    44	0.01
-Högboda	NA	     1	0
-Högbyn	NA	     2	0
-Högsäter	NA	     1	0
-Högsby	NA	     5	0
-Högsjö	NA	     2	0
-Holbaek	NA	     2	0
-Hollola	NA	     1	0
-Holmby	NA	     7	0
-Holmedal	NA	     1	0
-Holmsveden	NA	     1	0
-Holsaker	NA	     1	0
-Holsbybrunn	NA	     2	0
-Holstebro	NA	     1	0
-Holt	Germany	     1	0
-Homewood IL	NA	     1	0
-Hønefoss	NA	     1	0
-Hong Kong	NA	     9	0
-Honolulu	NA	    12	0
-Höör	NA	    27	0.01
-Horb am Neckar	NA	     1	0
-Hörby	Sweden	    42	0.01
-Horda	NA	     2	0
-Hordville Ne	NA	     1	0
-Höreda	NA	     1	0
-Horn	NA	     1	0
-Horndal	NA	     1	0
-Hörnefors	NA	     1	0
-Hörnsjö	NA	     1	0
-Hoshiarpur	NA	     1	0
-Hosjö	NA	     1	0
-Hossegor	NA	     1	0
-Hössna	NA	     1	0
-Hoting	NA	     3	0
-Hoverberg	NA	     2	0
-Høvik	NA	     1	0
-Hovmantorp	NA	     2	0
-Hovsta	NA	     1	0
-Hradec Kralove	NA	     2	0
-Hrafnsey	NA	     1	0
-Huddinge	Sweden	    28	0.01
-Hudiksvall	Sweden	   231	0.06
-Hukuoka	NA	     1	0
-Hull	England	     1	0
-Hultanäs	NA	     1	0
-Hultsfred	NA	     4	0
-Hunnebostrand	NA	     1	0
-Hunnestad	NA	     1	0
-Huntingdon	England	     1	0
-Hurva	NA	     1	0
-Husby	NA	     1	0
-Huskvarna	NA	    65	0.02
-Husum	NA	     3	0
-Huvudsta	NA	     2	0
-Hyllinge	NA	     5	0
-Hyllstofta	NA	     4	0
-Hyltebruk	Sweden	    16	0
-Hyssna	NA	     1	0
-Hyvinkää	Finland	     5	0
-Iasi	NA	     1	0
-Igelstorp	NA	     2	0
-Iggesund	NA	     3	0
-Ilahabad	NA	     1	0
-Immeln	NA	     1	0
-Indal	NA	     1	0
-Indianapolis	NA	     2	0
-Ingarö	NA	     1	0
-Ingelstad	NA	     1	0
-Ingelstorp	NA	     1	0
-Ingolstadt	NA	     3	0
-Inhambane	NA	     7	0
-Innsbruck	NA	    13	0
-Insjön	Sweden	    31	0.01
-Intra	NA	     1	0
-Iowa City	NA	     3	0
-Ironwood Mi	USA	     7	0
-Isafjördur	Iceland	     3	0
-Ishpeming Mi	USA	     3	0
-Isle	NA	     1	0
-Isleworth	NA	     1	0
-Israel	NA	     1	0
-Issoudun	NA	     1	0
-Istanbul	Turkey	    30	0.01
-Ithaca NY	NA	     4	0
-Jabalpur	NA	     1	0
-Jäder	NA	     1	0
-Jadotville	NA	     1	0
-Jafo	NA	     2	0
-Jakarta	NA	     2	0
-Jakobsberg	NA	     3	0
-Jamestown NY	NA	     2	0
-Janakkala	Finland	     1	0
-Järna	NA	     4	0
-Järnboås	NA	     1	0
-Jaroslav	NA	     1	0
-Järpen	NA	     5	0
-Järsö	NA	     6	0
-Järvsö	NA	     8	0
-Jassi	NA	     1	0
-Jättendal	NA	     1	0
-Jelgava	Latvia	    15	0
-Jemtland me	NA	     1	0
-Jena	Germany	   261	0.07
-Jersey City NJ	USA	     1	0
-Jerusalem	Israel	    11	0
-Jihlava	NA	     2	0
-Joensuu	Finland	    11	0
-Johannesburg	NA	     1	0
-Johannisberg	NA	     3	0
-Johannishus	NA	     3	0
-Johansfors	NA	     1	0
-Jokioinen	NA	     1	0
-Jokkmokk	NA	     1	0
-Jönköping	Sweden	  3151	0.85
-Jonsered	NA	     1	0
-Jordan MN	NA	     1	0
-Julita	NA	     5	0
-Jun	NA	     1	0
-Juneau AK	NA	     1	0
-Junsele	NA	     4	0
-Jüterbog	NA	     6	0
-Juuka	NA	     1	0
-Jyväskylä	Finland	   205	0.06
-Kaapstad	NA	     3	0
-Kågeröd	NA	     2	0
-Kairo	NA	     8	0
-Kaiserslautern	NA	     1	0
-Kaiserswerth	NA	     3	0
-Kajaani	Finland	     7	0
-Käkisalmi	Finland	     4	0
-Kalamazoo Mi	NA	     1	0
-Kälarne	NA	     1	0
-Kalisz	NA	     2	0
-Kalix	Sweden	    14	0
-Kallered	NA	     1	0
-Kallinge	Sweden	    16	0
-Kallmünz	NA	     2	0
-Kalltorp	NA	     1	0
-Kalmar	Sweden	  1363	0.37
-Kampala	NA	     2	0
-Kampen	NA	     4	0
-Kangasala	Finland	     1	0
-Kanna	NA	     1	0
-Kannus	NA	     1	0
-Kansas City	NA	     4	0
-Karachi	NA	     1	0
-Kärda	NA	     1	0
-Käringön	NA	     4	0
-Karjaa	Finland	     1	0
-Karkkila	NA	     1	0
-Karlberg	Sweden	    24	0.01
-Karleby	NA	    10	0
-Karlholmsbruk	NA	     2	0
-Karlsbad	NA	     1	0
-Karlsberg	NA	     1	0
-Karlsborg	Sweden	    30	0.01
-Karlsborgsverken	NA	     1	0
-Karlshamn	Sweden	   502	0.14
-Karlskoga	Sweden	    95	0.03
-Karlskrona	Sweden	  1540	0.42
-Karlsruhe	Germany	    16	0
-Karlstad	Sweden	  1515	0.41
-Karlstorp	NA	     1	0
-Kärrgruvan	NA	     6	0
-Kaschgar	NA	     6	0
-Kashgar	NA	    15	0
-Kashmir	NA	     1	0
-Kaskinen	Finland	     1	0
-Kassel	Germany	    10	0
-Katak	NA	     1	0
-Katowice	NA	     2	0
-Katrineholm	Sweden	   138	0.04
-Kaunas	NA	     5	0
-Kauniainen	NA	     2	0
-Kävlinge	NA	     2	0
-Kävsjö	NA	     1	0
-Kazan	Russia	     3	0
-Kazanluk	NA	     1	0
-Kearney Ne	NA	     1	0
-Kemi	Finland	     2	0
-Kempten	NA	     1	0
-Kerava	NA	     5	0
-Kerimäki	NA	     1	0
-Kibunzi	NA	     1	0
-Kiel	Germany	    71	0.02
-Kiev	NA	     8	0
-Kil	NA	     8	0
-Kilmarnock	Ireland	     1	0
-Kimito	NA	     1	0
-Kingchow	NA	     1	0
-Kings Lynn	England	     1	0
-Kinna	NA	     5	0
-Kinnared	NA	     5	0
-Kinneved	NA	     1	0
-Kirchhain	Germany	     2	0
-Kirn	NA	     1	0
-Kiruna	Sweden	    24	0.01
-Kirvus	NA	     1	0
-Kisa	Sweden	    14	0
-Kitee	NA	     1	0
-Kivik	NA	     1	0
-Kjoge	NA	     1	0
-Kjulaås	NA	     1	0
-Klemensnäs	NA	     2	0
-Kleva	NA	     1	0
-Klintehamn	NA	     2	0
-Klinten	NA	   113	0.03
-Klippan	NA	   126	0.03
-Klockrike	NA	     2	0
-Kloster Lehnin	NA	     1	0
-Knäred	NA	     1	0
-Knislinge	NA	     8	0
-Knivsta	NA	     1	0
-Koblenz	NA	     1	0
-Köinge	NA	     1	0
-Kokemäki	Finland	     1	0
-Kokkola	Finland	    30	0.01
-Köla	NA	     1	0
-Kolding	NA	    10	0
-Kolmarden	NA	     1	0
-Kolsva	NA	     2	0
-Kongsberg	NA	     1	0
-Kongsvinger	NA	     1	0
-Königstein	NA	     2	0
-Koningsberg	Germany	    35	0.01
-Konstanz	NA	     7	0
-Köping	Sweden	   372	0.1
-Kopparberg	NA	     5	0
-Kornsjø	NA	     1	0
-Korsnäs	Finland	    14	0
-Korsor	NA	     1	0
-Korsträsk	NA	     1	0
-Kortebo	NA	     1	0
-Kosice	NA	     1	0
-Koskö	NA	     1	0
-Kosta	NA	     3	0
-Kotka	Finland	    21	0.01
-Kouvola	Finland	    13	0
-Kovland	NA	     1	0
-Kräklinge	NA	     3	0
-Krakow	Poland	    65	0.02
-Kramfors	Sweden	    21	0.01
-Kreuznach	NA	     1	0
-Kristdala	Sweden	    43	0.01
-Kristiansand	NA	     3	0
-Kristianstad	Sweden	  1468	0.4
-Kristiansund	NA	     1	0
-Kristiinankaupunki	Finland	   400	0.11
-Krokek	NA	     1	0
-Kronstad	NA	     5	0
-Krotoszyn	NA	     1	0
-Kruunupyy	Finland	    11	0
-Krylbo	Sweden	    18	0
-Kuala Lumpur	NA	     1	0
-Kumla	Sweden	    95	0.03
-Kungälv	NA	     7	0
-Kungsbacka	Sweden	    22	0.01
-Kungsgarden	Sweden	    38	0.01
-Kungsör	Sweden	    12	0
-Kuopio	Finland	   101	0.03
-Kuusankoski	Finland	     1	0
-Kvänum	NA	     1	0
-Kvarnby	NA	     5	0
-Kvevlax	NA	     2	0
-Kvidinge	NA	     9	0
-Kville	NA	     1	0
-Kvissleby	NA	     1	0
-Kvistbro	NA	     2	0
-Kyrkhult	NA	     1	0
-Kyustendil	NA	     1	0
-La Chaux-de-Fonds	NA	     1	0
-La Crosse Wi	NA	     1	0
-La Laguna	NA	     1	0
-La Paz	NA	     1	0
-La plata	NA	     1	0
-La Porte In	NA	     2	0
-Labiau	NA	     1	0
-Lagan	NA	     1	0
-Laholm	Sweden	    53	0.01
-Lahore	NA	     1	0
-Lahr	NA	     1	0
-Lahti	Finland	    16	0
-Lämbacken	NA	     1	0
-Lammhult	NA	     1	0
-Lamoni IA	NA	     1	0
-Lancaster Pa	USA	     2	0
-Lanciano	NA	     8	0
-Landsberg	NA	     2	0
-Landsbro	NA	     2	0
-Landshut	NA	     1	0
-Landskrona	Sweden	   442	0.12
-Långaryd	NA	     1	0
-Långasjö	NA	     3	0
-Långebro	NA	     2	0
-Langensalza	NA	    20	0.01
-Länghem	NA	     1	0
-Langshyttan	NA	     2	0
-Långstorp	NA	     1	0
-Lanna	NA	     1	0
-Lannabruk	NA	     1	0
-Lännäs	NA	     1	0
-Lannaskede	NA	     1	0
-Lapinjärvi	NA	     1	0
-Lappeenranta	Finland	     6	0
-Lapua	Finland	     1	0
-Larvik	NA	     1	0
-Lästringe	NA	     2	0
-Lausanne	Switzerland	    41	0.01
-Lawrence KS	NA	     1	0
-Laxå	NA	     3	0
-Laxsjö	NA	     2	0
-Le Caire	NA	     9	0
-Le Mans	France	     6	0
-Le Puy-en-Velay	NA	     1	0
-Leamington Spa	NA	     1	0
-Lebanon Pa	USA	     1	0
-Leeds	England	     3	0
-Leeuwarden	Netherlands	    11	0
-Legnica	NA	     3	0
-Lehtimäki	NA	     1	0
-Leiden	Netherlands	   152	0.04
-Leigh	NA	     4	0
-Leipzig	Germany	  1583	0.43
-Lekeryd	NA	     1	0
-Lekhyttan	NA	     1	0
-Leksand	Sweden	    42	0.01
-Leksberg	NA	     4	0
-Lekvattnet	NA	     1	0
-Lemberg	NA	     1	0
-Lemgo	Germany	     1	0
-Lemnhult	NA	     1	0
-Lemvig	NA	     4	0
-Lengerich	NA	     1	0
-Lenhovda	NA	     1	0
-Leobe	NA	     1	0
-Leopol	NA	     1	0
-Lerum	NA	     4	0
-Lervik	NA	     1	0
-Lerviken	NA	     1	0
-Lesjöfors	NA	     9	0
-Lessebo	Sweden	    15	0
-Letchworth	England	     1	0
-Leuven	Belgium	     7	0
-Leverkusen	NA	     1	0
-Lexington KY	USA	     3	0
-Leźno	NA	     1	0
-Libros	NA	     1	0
-Lidingö	Sweden	   115	0.03
-Lidköping	Sweden	   316	0.09
-Lidnäs	NA	     1	0
-Liège	Belgium	    24	0.01
-Liepaja	Latvia	     4	0
-Lierre	NA	     6	0
-Liguge	NA	     1	0
-Liljeholmen	NA	     2	0
-Lilla Edet	NA	     2	0
-Lilla harrie	NA	     1	0
-Lillan	NA	     2	0
-Lille	France	    10	0
-Lillehammer	NA	     1	0
-Lillkyrka	NA	     1	0
-Lillsved	NA	     2	0
-Lima	NA	     3	0
-Limedsforsen	NA	     4	0
-Limhamn	Sweden	    30	0.01
-Limoges	NA	     2	0
-Lincoln	England	     5	0
-Lincoln NE	NA	    43	0.01
-Lind	NA	     1	0
-Lindau	NA	     1	0
-Linderöd	NA	     2	0
-Lindesberg	Sweden	   156	0.04
-Lindsborg ks	NA	     8	0
-Linghed	NA	     1	0
-Linghem	NA	     3	0
-Linköping	Sweden	  3315	0.9
-Linn	NA	     3	0
-Linneryd	NA	     1	0
-Linz	NA	     4	0
-Liperi	NA	     1	0
-Liptovský Mikuláš	NA	     1	0
-Lisbon	Portugal	    50	0.01
-Lisse	NA	     1	0
-Litchfield Ct	USA	    10	0
-Liverpool	England	     5	0
-Livorno	Italy	     1	0
-Ljubljana	NA	    12	0
-Ljugarn	NA	     1	0
-Ljungby	Sweden	    43	0.01
-Ljungbyhed	NA	     1	0
-Ljungbyholm	NA	     1	0
-Ljungsbro	Sweden	     3	0
-Ljungskile	NA	    12	0
-Ljurhalla	NA	     1	0
-Ljusdal	Sweden	   111	0.03
-Ljusne	NA	     1	0
-Löberöd	NA	     2	0
-Locarno	NA	     2	0
-Lochem	NA	     4	0
-Lohja	Finland	     1	0
-Lomma	NA	     1	0
-Lommaryd	NA	     2	0
-London	England	  2354	0.64
-Lönneberga	NA	     2	0
-Lons-le-Saunier	NA	     1	0
-Lönsboda	NA	     5	0
-Lorch	NA	     9	0
-Lorient	France	     1	0
-Los Angeles CA	NA	     8	0
-Losoncz	NA	     1	0
-Louis	NA	     9	0
-Louvain	Belgium	    14	0
-Lövånger	NA	     1	0
-Lövestad	NA	     2	0
-Loviisa	Finland	    28	0.01
-Lowry MN	NA	     2	0
-Luanda	NA	     2	0
-Lübeck	Germany	    85	0.02
-Lucca	Italy	     3	0
-Lucknow	NA	     2	0
-Lucksta	NA	     2	0
-Ludvika	Sweden	    65	0.02
-Ludwigshafen	NA	     3	0
-Luela	NA	     2	0
-Luetzen	NA	     5	0
-Lugano	Switzerland	     3	0
-Lugnås	NA	     1	0
-Luleå	Sweden	   414	0.11
-Lumsheden	NA	     1	0
-Lund	Sweden	 13297	3.6
-Lundsberg	NA	     1	0
-Lüneburg	NA	     6	0
-Lungsund	NA	     1	0
-Lusaka	NA	     1	0
-Luton	NA	     1	0
-Luzern	NA	     5	0
-Lviv	Ukraine	    39	0.01
-Lyckeby	NA	     2	0
-Lycksele	NA	     9	0
-Lyon	France	    39	0.01
-Lysekil	Sweden	   118	0.03
-Lysvik	NA	     3	0
-Maastricht	Netherlands	     2	0
-Macao	NA	     1	0
-Macon	France	     7	0
-Madison	NA	     8	0
-Madras India	India	     8	0
-Madrid	Spain	   117	0.03
-Madura	NA	     1	0
-Magdeburg	Germany	    22	0.01
-Mainz	Germany	    23	0.01
-Malax	NA	     1	0
-Malilla	NA	     2	0
-Malmberget	NA	     4	0
-Malmköping	NA	     6	0
-Malmö	Sweden	  5663	1.53
-Malung	Sweden	    33	0.01
-Mamers	NA	     2	0
-Manchester	England	    17	0
-Mångbyån	NA	     1	0
-Manhem	NA	     3	0
-Manila	NA	     3	0
-Mannheim	Germany	     6	0
-Mansasen	NA	     2	0
-Mantorp	NA	     2	0
-Marburg	Germany	    49	0.01
-Margate	England	     1	0
-Mariadahl ks	NA	     1	0
-Mariannelund	NA	     9	0
-Maribor	NA	     1	0
-Mariefred	Sweden	   192	0.05
-Mariehamn	Finland	    98	0.03
-Marienburg	NA	     1	0
-Mariestad	Sweden	   349	0.09
-Markaryd	Sweden	    23	0.01
-Markranstädt	NA	     1	0
-Marma	NA	     3	0
-Marquette	NA	     1	0
-Marseille	France	     1	0
-Märsta	NA	     1	0
-Marstrand	NA	     3	0
-Martin	NA	     9	0
-Mässbacken	NA	     1	0
-Matadi	NA	     6	0
-Matfors	NA	     2	0
-Mattmar	NA	     1	0
-Mayenne	NA	     1	0
-Mcpherson KS	NA	     1	0
-Meaux	NA	     1	0
-Mechelen	Belgium	     3	0
-Medellin	NA	     1	0
-Mehede	NA	     1	0
-Meiningen	NA	     1	0
-Meinz	NA	     3	0
-Meisenheim	NA	     1	0
-Meissen	NA	     2	0
-Meitingen	NA	     1	0
-Melbourne	NA	     7	0
-Meldorf	NA	     1	0
-Mellansel	NA	     2	0
-Melle	NA	     1	0
-Mellgard	NA	     3	0
-Mellösa	NA	     1	0
-Melun	NA	     1	0
-Memel	NA	     1	0
-Memmingen	NA	     1	0
-Menasha Wi	NA	     2	0
-Menton	NA	     1	0
-Meppel	NA	     2	0
-Merseburg	NA	     2	0
-Meselefors	NA	     1	0
-Messina	Italy	     3	0
-Metz	NA	     2	0
-Mexico	NA	    29	0.01
-Mexico City	Mexico	     2	0
-Miami FL	NA	     1	0
-Middelfart	NA	     1	0
-Mikkeli	Finland	    26	0.01
-Milan	Italy	   166	0.04
-Millesvik	NA	     1	0
-Milwaukee Wi	USA	     9	0
-Minden	NA	     2	0
-Minneapolis Mn	USA	   217	0.06
-Minnesota	NA	     4	0
-Miskolc	NA	     1	0
-Mittelwald	NA	     1	0
-Mjällby	NA	     4	0
-Mjöhult	NA	     1	0
-Mjölby	Sweden	    30	0.01
-Mjörn	NA	     1	0
-Modena	NA	     5	0
-Moheda	Sweden	    29	0.01
-Moholm	NA	     1	0
-Möklinta	NA	     5	0
-Molde	NA	     2	0
-Moliden	NA	     2	0
-Moline	NA	    29	0.01
-Moline IL	NA	     1	0
-Möljeryd	NA	     1	0
-Molkom	NA	     4	0
-Mölle	NA	     6	0
-Mölltorp	NA	     1	0
-Mölnbo	NA	     1	0
-Mölndal	Sweden	    37	0.01
-Mölnlycke	NA	     7	0
-Monaco	NA	     7	0
-Moncullo	NA	     4	0
-Monmouth	England	     2	0
-Mons	NA	     2	0
-Mönsterås	NA	     7	0
-Mont Alto	NA	     1	0
-Montecassino	NA	     1	0
-Montelimar	NA	     1	0
-Montereau	NA	     1	0
-Montevideo	NA	     2	0
-Montevrain	NA	     1	0
-Montpelier Vt	NA	     1	0
-Montpellier	France	     6	0
-Montreal	Canada	     2	0
-Montreuil	NA	     2	0
-Montrose	Scotland	     1	0
-Mora	Sweden	    65	0.02
-Mörarp	NA	     2	0
-Mörbylånga	NA	     2	0
-Morgardshammar	NA	     1	0
-Morpeth	England	     1	0
-Mörrum	NA	     1	0
-Moscow	Russia	   266	0.07
-Mosjøen	NA	     1	0
-Moss	NA	     2	0
-Mostorp	NA	     1	0
-Moulins	NA	     3	0
-Mountain View Ca	NA	     1	0
-Mühlhausen	NA	     7	0
-Mukimbungu	NA	     2	0
-Mülheim	NA	     3	0
-Mulhouse	NA	     2	0
-Mulseryd	NA	     1	0
-München	Germany	   517	0.14
-Munich	NA	     3	0
-Munkedal	Sweden	    14	0
-Munkfors	NA	     2	0
-Munktorp	NA	     2	0
-Munsö	NA	     2	0
-Münster	Germany	    15	0
-Murten	NA	     1	0
-Mustasaari	Finland	     3	0
-Mustio	Finland	     1	0
-Myjava	NA	     2	0
-Nacka	NA	     2	0
-Naestved	NA	     2	0
-Nagoya	NA	     1	0
-Nagpur	NA	     1	0
-Nagu	NA	     1	0
-Nakskov	NA	     1	0
-Namsos	NA	     1	0
-Namur	NA	     1	0
-Nancy	France	    20	0.01
-Nantes	France	     3	0
-Naperville IL	NA	     1	0
-Naples	Italy	    32	0.01
-Närpiö	Finland	     2	0
-Närtuna	NA	     1	0
-Narunga	NA	     1	0
-Narva	Estonia	    10	0
-Narvik	NA	     2	0
-Näsåker	NA	     2	0
-Näsbypark	NA	     1	0
-Nashville TN	USA	     2	0
-Nässjö	Sweden	   181	0.05
-Naugatuck Ct	NA	     1	0
-Naumburg	NA	     4	0
-Nävekvarn	NA	     1	0
-Navestabro	NA	     1	0
-Nebraska	NA	     2	0
-Nederkalix	NA	     1	0
-Nedre Gärdsjö	NA	     4	0
-Neubrandenburg	NA	     2	0
-Neuchatel	Switzerland	    10	0
-Neudamm	NA	     5	0
-Neukölln	NA	     1	0
-Neumünster	NA	     6	0
-Neuruppin	Germany	     5	0
-Neustadt	NA	     4	0
-Neustrelitz	NA	     1	0
-Neutitschein	NA	     1	0
-Neuwied	NA	     2	0
-Nevers	NA	     1	0
-New Brunswick NJ	USA	     1	0
-New Haven Ct	USA	    33	0.01
-New Jersey NJ	NA	     1	0
-New London Ct	USA	     1	0
-New York NY	USA	  1081	0.29
-Newark	England	     1	0
-Newark NJ	USA	     2	0
-Newcastle	England	     1	0
-Newry	Ireland	     1	0
-Nice	France	     3	0
-Nieuwediep	NA	     2	0
-Nijkerk	NA	     3	0
-Nijmegen	Netherlands	     9	0
-Nimes	France	     3	0
-Niort	NA	     3	0
-Nissafors	NA	     1	0
-Nitta	NA	     1	0
-Nivelles	NA	     1	0
-Njutanger	NA	     1	0
-Nöbbele	NA	     1	0
-Nockeby	NA	     2	0
-Nödinge	NA	     1	0
-Nogent-le-Rotrou	NA	     1	0
-Nolby	NA	     1	0
-Noormarkku	Finland	     1	0
-Nora	Sweden	   127	0.03
-Noraskog	NA	     1	0
-Nordhausen	Germany	     2	0
-Nordingra	NA	     2	0
-Nördlingen	NA	     4	0
-Nordmaling	NA	     2	0
-Nordnes	NA	     1	0
-Norman	NA	    14	0
-Norra Sandsjö	Sweden	    11	0
-Norrahammar	NA	     2	0
-Norrbo	NA	     6	0
-Norrfjärden	NA	     1	0
-Norrhult	NA	     6	0
-Norrköping	Sweden	  3059	0.83
-Norrskata	NA	     1	0
-Norrsundet	NA	     1	0
-Norrtälje	Sweden	   222	0.06
-Norrviken	NA	     5	0
-Norsjö	NA	     3	0
-Norstedt	NA	     6	0
-Northfield	NA	     3	0
-Norwalk Ct	NA	     1	0
-Norwich	England	     2	0
-Norwich Ct	USA	     1	0
-Nosaby	NA	     1	0
-Nossebro	NA	     2	0
-Nösund	NA	     2	0
-Nottingham	England	     1	0
-Novara	NA	     1	0
-Novgorod	NA	     1	0
-Novi Sad	NA	     1	0
-Novosibirsk	NA	     1	0
-Nürnberg	Germany	    74	0.02
-Nuuk	NA	     1	0
-Nyborg	NA	     1	0
-Nybro	Sweden	    94	0.03
-Nygard	NA	     1	0
-Nyhamnsläge	NA	     2	0
-Nyhem	NA	     1	0
-Nyköping	Sweden	  1109	0.3
-Nykvarn	NA	     3	0
-Nykyrka	NA	     1	0
-Nyland	NA	    14	0
-Nymburk	NA	     1	0
-Nynäs	NA	     1	0
-Nynäshamn	Sweden	    46	0.01
-Nysa	NA	     1	0
-Nyskoga	NA	     2	0
-Nysund	NA	     1	0
-Nytorp	Sweden	     1	0
-Oakland ca	NA	     1	0
-Obbola	NA	     2	0
-Ockelbo	Sweden	    13	0
-Ödåkra	NA	     1	0
-Odense	Denmark	    49	0.01
-Odensvi	NA	     1	0
-Oderljunga	NA	     1	0
-Odessa	Ukraine	     5	0
-Offenbach am Main	Germany	     3	0
-Öhringen	NA	     2	0
-Oisterwijk	NA	     1	0
-Ojai CA	NA	     1	0
-Oklahoma City OK	NA	     2	0
-Oława	NA	     1	0
-Oldenburg	NA	    14	0
-Oliva	NA	     1	0
-Öljehult	NA	     1	0
-Öllösa	NA	     1	0
-Ölmstad	NA	     1	0
-Olofström	NA	     7	0
-Olomouc	NA	     2	0
-Olsburg ks	NA	     1	0
-Olten	NA	     8	0
-Omaha Ne	NA	     4	0
-Onoldi	NA	     1	0
-Onsala	NA	     1	0
-Opava	NA	     3	0
-Oppenheim	NA	     2	0
-Oranienburg	NA	     5	0
-Örebro	Sweden	  4533	1.23
-Orivesi	Finland	     1	0
-Örkelljunga	Sweden	    13	0
-Orleans	France	     8	0
-Ornö	NA	     1	0
-Örnsköldsvik	Sweden	   236	0.06
-Orrefors	NA	     2	0
-Orsa	NA	    42	0.01
-Örsundsbro	NA	     1	0
-Örtofta	NA	     3	0
-Osby	Sweden	    88	0.02
-Ösjöbol	NA	     1	0
-Oskarshamn	Sweden	   241	0.07
-Oskarström	NA	     2	0
-Oslo	Norway	  2868	0.78
-Ösmo	NA	     1	0
-Osnabrück	Germany	     5	0
-Ostende	NA	     1	0
-Österås	NA	     2	0
-Österbybruk	NA	     2	0
-Östervåla	Sweden	    12	0
-Östhammar	Sweden	    44	0.01
-Östra ämtervik	NA	     1	0
-Östra Göinge	NA	     1	0
-Östra Karup	NA	     3	0
-Ostrava	NA	     1	0
-Ostrumelien	NA	     1	0
-Ottawa	Canada	    14	0
-Ottumwa ia	NA	     1	0
-Oulu	Finland	    60	0.02
-Ousby	NA	    28	0.01
-Ovansjö	NA	     1	0
-Överboda	NA	     1	0
-Överkalix	NA	     1	0
-Överklinten	NA	     2	0
-Överlida	NA	     1	0
-Övertorneå	NA	     2	0
-Oviedo	NA	     2	0
-Oviken	NA	     3	0
-Övre Ullerud	NA	     5	0
-Öxabäck	NA	     1	0
-Oxelösund	NA	     5	0
-Oxford	England	    60	0.02
-Oxie	NA	     1	0
-Påarp	NA	     6	0
-Pacov	NA	     1	0
-Paderborn	NA	    14	0
-Padua	Italy	    12	0
-Paisley	Scotland	     2	0
-Palermo	Italy	    10	0
-Palgard	NA	     3	0
-Pallas	NA	     1	0
-Palma	NA	     1	0
-Palsboda	NA	     3	0
-Parainen	Finland	     3	0
-Parchim	NA	     1	0
-Paris	France	  2311	0.63
-Parkano	Finland	     1	0
-Parma	Italy	     3	0
-Pärnu	Estonia	     4	0
-Partille	NA	     1	0
-Paskallavik	NA	     1	0
-Passau	NA	     2	0
-Pataholm	NA	     1	0
-Patra	NA	     1	0
-Pau	NA	     6	0
-Paul	NA	    35	0.01
-Paulo	NA	     1	0
-Pavia	NA	     1	0
-Pawtucket ri	NA	     1	0
-Pedersöre	NA	     3	0
-Pegau	NA	     1	0
-Peiping	NA	     4	0
-Pekin	NA	     2	0
-Peking	NA	    38	0.01
-Peoria IL	NA	     1	0
-Perleberg	NA	     1	0
-Pernaja	Finland	     5	0
-Perstorp	NA	     3	0
-Perth	Scotland	     5	0
-Perugia	Italy	     2	0
-Pescara	NA	     1	0
-Petroskoi	NA	     1	0
-Pforzheim	NA	     2	0
-Pfullingen	NA	     1	0
-Philadelphia Pa	USA	   181	0.05
-Pieksämäki	Finland	     3	0
-Pielisjärvi	NA	     1	0
-Pietarsaari	Finland	    79	0.02
-Pinerolo	NA	     1	0
-Pisa	Italy	    12	0
-Pisek	NA	     2	0
-Pistoia	Italy	     1	0
-Piteå	Sweden	    87	0.02
-Pittsburgh Pa	USA	     2	0
-Plauen	NA	     3	0
-Pleasant Grove Ut	NA	     1	0
-Plön	NA	     1	0
-Plovdiv	NA	     2	0
-Plymouth	England	     1	0
-Plzeň	NA	     6	0
-Poissy	NA	     2	0
-Poitiers	NA	     6	0
-Poltava	NA	     7	0
-Pomerania	NA	     1	0
-Pontarlier	NA	     1	0
-Pontoise	NA	     4	0
-Pori	Finland	    66	0.02
-Porrentruy	NA	     1	0
-Porsgrund	NA	     3	0
-Port Shepstone	NA	     1	0
-Portland Me	USA	     5	0
-Portland Or	USA	     7	0
-Porto	Portugal	     9	0
-Porvoo	Finland	  1154	0.31
-Poschiavo	NA	     1	0
-Potsdam	Germany	    52	0.01
-Poughkeepsie NY	USA	     2	0
-Poznań	Poland	    49	0.01
-Prague	Czech Republic	   338	0.09
-Prenzlau	NA	     2	0
-Pressburg	NA	     1	0
-Pretoria	NA	     3	0
-Prevalje	NA	     1	0
-Prien	NA	     1	0
-Princeton NJ	USA	    36	0.01
-Prostějov	NA	     1	0
-Providence RI	USA	     5	0
-Przemyśl	NA	     2	0
-Pskov	NA	     1	0
-Pukavik	NA	     1	0
-Pune	NA	     3	0
-Purmerend	NA	     2	0
-Pusan	NA	     1	0
-Puyollup Wa	NA	     1	0
-Pyrmont	NA	     2	0
-Pyrzyce	NA	     1	0
-Quebec	Canada	     4	0
-Quedlinburg	Germany	     7	0
-Querfurt	NA	     1	0
-Quincy Ma	USA	     1	0
-Quito	NA	     1	0
-Raa-Besenbek	NA	    13	0
-Raahe	Finland	     5	0
-Råbäck	NA	     1	0
-Raby	NA	     1	0
-Råby Rönö	NA	     1	0
-Rada	NA	     1	0
-Radebeul	NA	     3	0
-Rädigke	NA	     3	0
-Ragunda	NA	     2	0
-Raleigh	NA	     1	0
-Ramdala	NA	     1	0
-Ramfall	NA	     2	0
-Ramkvilla	NA	     1	0
-Rämmen	NA	     2	0
-Ramnäs	NA	     2	0
-Ramsele	NA	     2	0
-Ramvik	NA	     2	0
-Randers	NA	     3	0
-Rangedala	NA	     2	0
-Ränneslöv	NA	     1	0
-Ransta	NA	     2	0
-Rantasalmi	Finland	     1	0
-Rätansbyn	NA	     1	0
-Rathenow	NA	     4	0
-Ratingen	NA	     3	0
-Rättvik	Sweden	    13	0
-Ratzeburg	NA	     7	0
-Rauma	Finland	     9	0
-Ravensburg	NA	     4	0
-Red Wing MN	NA	     5	0
-Refsund	NA	     2	0
-Reftele	NA	     1	0
-Regensburg	Germany	    10	0
-Reggio nell’Emilia	NA	     1	0
-Reichenbach	NA	     1	0
-Reims	France	     2	0
-Rendsburg	NA	     1	0
-Rennes	France	     3	0
-Replot	NA	     1	0
-Reutlingen	NA	    13	0
-Revel	NA	     2	0
-Reykjavik	Iceland	   247	0.07
-Rhodopoli	NA	     1	0
-Riala	NA	     1	0
-Ribe	NA	     3	0
-Ribnitz	NA	     1	0
-Richmond	England	     3	0
-Richmond Va	USA	     2	0
-Rieti	NA	     1	0
-Riga	Latvia	   201	0.05
-Riihimäki	NA	     5	0
-Rijswijk	NA	     2	0
-Rimbo	NA	     1	0
-Rimforsa	NA	     1	0
-Rimini	NA	     1	0
-Ringamala	NA	     1	0
-Ringerike	NA	     1	0
-Rio de Janeiro	NA	    14	0
-Risinge	NA	     1	0
-Rixheim	NA	     1	0
-Robertsfors	NA	     1	0
-Rocca San Casciano	NA	     1	0
-Rochdale	England	     1	0
-Rochester	England	     3	0
-Rock Island IL	USA	   543	0.15
-Rockford IL	NA	     7	0
-Rockneby	NA	     1	0
-Rödbo	NA	     3	0
-Rödelheim	NA	     2	0
-Rodez	NA	     1	0
-Roeselare	NA	     1	0
-Röke	NA	     3	0
-Rome	Italy	   221	0.06
-Rönnäng	NA	     1	0
-Rønne	NA	    14	0
-Ronneburg	Germany	     1	0
-Ronneby	Sweden	    30	0.01
-Rönneshytta	NA	     1	0
-Rönninge	NA	     3	0
-Ronshausen	NA	     1	0
-Rosehill	NA	     3	0
-Rosersberg	NA	     1	0
-Roskilde	NA	     2	0
-Roslags näsby	NA	     4	0
-Roßlau	NA	     1	0
-Röstånga	NA	     1	0
-Rostock	Germany	   139	0.04
-Rothenburg ob der Tauber	NA	     2	0
-Rotterdam	Netherlands	    19	0.01
-Rouen	France	    17	0
-Rovaniemi	Finland	     1	0
-Rovigo	NA	     1	0
-Rudkøbing	NA	     8	0
-Rudolfstadt	NA	     5	0
-Runemo	NA	     2	0
-Runnvika	NA	     1	0
-Ruovesi	NA	     1	0
-Rüschlikon	NA	     5	0
-Rusko	NA	     1	0
-Rydaholm	NA	     1	0
-Rydboholm	NA	     4	0
-Rydsgard	NA	     1	0
-Ryssby	NA	     3	0
-Saalfeld	NA	     1	0
-Saarbrücken	Germany	     1	0
-Saarlouis	NA	     1	0
-Saarmund	NA	     3	0
-Säbrå	NA	     1	0
-Säffle	Sweden	    50	0.01
-Saint Paul MN	NA	     1	0
-Saint-Brieuc	NA	     1	0
-Saint-Gaudens	NA	     1	0
-Sala	Sweden	   264	0.07
-Salamanca	Spain	     3	0
-Salem	USA	     1	0
-Salemsborg	NA	     1	0
-Sälen	NA	     1	0
-Salo	Finland	     5	0
-Salstad	NA	     1	0
-Salt Lake City Ut	NA	     5	0
-Saltsjö-Duvnäs	NA	     3	0
-Saltsjö-Järla	NA	     4	0
-Saltsjöbaden	Sweden	    13	0
-Salzburg	NA	     2	0
-Salzkotten	NA	     1	0
-Samedan	NA	     1	0
-Samtens	NA	     1	0
-San Diego CA	NA	     4	0
-San Juan Puerto Rico	NA	     1	0
-San Severino Marche	NA	     1	0
-Sandared	NA	     2	0
-Sandhammaren	NA	     1	0
-Sandträsk	NA	     1	0
-Sandviken	Sweden	    53	0.01
-Santiago	NA	    11	0
-Santos	NA	     1	0
-Santpoort-Zuid	NA	     2	0
-Sao Paulo	NA	    38	0.01
-Sarajevo	NA	     1	0
-Särestad	NA	     1	0
-Särkisalmi	NA	     1	0
-Särna	NA	     3	0
-Sarpsborg	NA	     1	0
-Säter	Sweden	    41	0.01
-Sätila	NA	     1	0
-Satserup	NA	     1	0
-Saumur	NA	     1	0
-Savannah Ga	USA	     2	0
-Sävedalen	NA	     2	0
-Saverne	NA	     1	0
-Savona	NA	     1	0
-Savonburg ks	NA	     1	0
-Savonlinna	Finland	     7	0
-Sävsjö	Sweden	    11	0
-Saxkjobing	NA	     1	0
-Scansano	NA	     1	0
-Sceaux	NA	     2	0
-Schaan	NA	     1	0
-Schaffhausen	NA	     1	0
-Scharbeutz	NA	     1	0
-Scheinfeld	NA	     1	0
-Schellenberg	NA	     2	0
-Schiedam	NA	     2	0
-Schleswig	Germany	     3	0
-Schnepfenthal	NA	     1	0
-Schoonhoven	NA	     1	0
-Schwabach	NA	     2	0
-Schwedt/Oder	NA	     1	0
-Schweinitz	NA	     1	0
-Schwerin	Germany	     8	0
-Sclayn	NA	     1	0
-Seattle WA	USA	    29	0.01
-Sedini	NA	     2	0
-Segersta	NA	     3	0
-Seglora	NA	     2	0
-Segovia	NA	     1	0
-Selbu	NA	     1	0
-Semarang	NA	     1	0
-Senlis	NA	     1	0
-Seskarö	NA	     1	0
-Sevilla	NA	     3	0
-Shanghai	NA	    22	0.01
-Sibbhult	NA	     5	0
-Sibiu	NA	     1	0
-Sidcup	NA	     1	0
-Sidensjö	NA	     8	0
-Siegen	Germany	     1	0
-Siena	Italy	     1	0
-Sigtuna	Sweden	    30	0.01
-Sikås	NA	     1	0
-Siljansnäs	NA	     1	0
-Silkeborg	NA	     2	0
-Simonstorp	NA	     1	0
-Simrishamn	Sweden	    47	0.01
-Simtuna	NA	     1	0
-Singapore	NA	     1	0
-Sint-Truiden	NA	     1	0
-Sioux city ia	NA	     5	0
-Sipoo	Finland	     1	0
-Sjöbo	Sweden	    22	0.01
-Sjösa	NA	     1	0
-Sjötofta	NA	     1	0
-Sjövik	NA	     1	0
-Sjuntorp	NA	     1	0
-Skagersbrunn	NA	     1	0
-Skälderhus	NA	     2	0
-Skälderviken	NA	     6	0
-Skanes fagerhult	NA	     4	0
-Skånes Värsjö	NA	     1	0
-Skänninge	Sweden	    27	0.01
-Skanör	NA	     1	0
-Skara	Sweden	  1093	0.3
-Skattkärr	NA	     1	0
-Skavböke	NA	     2	0
-Skedevi	NA	     1	0
-Skellefteå	Sweden	   137	0.04
-Skelleftehamn	NA	     1	0
-Skepsas	NA	     1	0
-Skillingaryd	Sweden	    19	0.01
-Skillingsfors	NA	     2	0
-Skinnskatteberg	NA	     3	0
-Skive	NA	     3	0
-Skjelskor	NA	     1	0
-Skjern	NA	    14	0
-Skohalvön	NA	     2	0
-Sköllersta	Sweden	    50	0.01
-Skön	NA	     1	0
-Skönsmon	NA	     1	0
-Skönvik	NA	     7	0
-Skottorp	NA	     1	0
-Skövde	Sweden	   410	0.11
-Skra	NA	     1	0
-Skreanäs	NA	     1	0
-Skromberga	NA	     1	0
-Skultuna	NA	     3	0
-Skurup	Sweden	    44	0.01
-Skuttunge	NA	     1	0
-Slagelse	NA	     3	0
-Slaka	NA	     1	0
-Slite	NA	     1	0
-Smålands Burseryd	NA	     1	0
-Smalands Taberg	NA	     1	0
-Smalandsstenar	NA	     8	0
-Smedby	NA	     2	0
-Smedjebacken	NA	     9	0
-Smögen	NA	     1	0
-Smoky Hills Ks	NA	     6	0
-Smolensk	Russia	     1	0
-Sneek	NA	     2	0
-Snogeröd	NA	     1	0
-Söderåkra	NA	     1	0
-Söderala	NA	     2	0
-Söderbärke	NA	     1	0
-Söderfors	NA	     4	0
-Söderhamn	Sweden	   237	0.06
-Söderköping	Sweden	    85	0.02
-Södertäje	Sweden	    72	0.02
-Södertälje	Sweden	   431	0.12
-Södra Sunderbyn	NA	     1	0
-Soerabaja	NA	     1	0
-Soest	NA	     1	0
-Sofia	NA	    67	0.02
-Solberga	NA	     7	0
-Sölje	NA	     1	0
-Sollefteå	Sweden	   208	0.06
-Sollentuna	NA	     6	0
-Solna	Sweden	    28	0.01
-Solothurn	NA	     2	0
-Sölvesborg	Sweden	   147	0.04
-Sønderborg	NA	     6	0
-Sondershausen	NA	     1	0
-Sontra	NA	     1	0
-Sophia	NA	     1	0
-Sorø	NA	     3	0
-Sortavala	Russia	    27	0.01
-Sorunda	NA	     5	0
-Sörvik	NA	     5	0
-Sösdala	NA	     1	0
-South Bend IN	NA	     1	0
-Spånga	NA	    18	0
-Sparrsätra	NA	     2	0
-Speyer	NA	     2	0
-Spjutstorp	NA	     1	0
-Spokane Wa	NA	     1	0
-Spöland	NA	     2	0
-Spoleto	NA	     1	0
-Sprängsviken	NA	     1	0
-Spring Lake	NA	     1	0
-Springfield Ma	USA	     9	0
-St Chrischona	NA	     3	0
-St Gallen	NA	     5	0
-St John New Brunswick	Canada	     1	0
-St Petersburg	Russia	   446	0.12
-Stade	Germany	    16	0
-Staffanstorp	NA	     1	0
-Stäket	NA	     1	0
-Stamford	England	     2	0
-Stanford	England	     3	0
-Stanton Ia	NA	     1	0
-Stara Rise	NA	     1	0
-Stassfurt	NA	     1	0
-Stavanger	NA	    22	0.01
-Steenbrugge	NA	     1	0
-Stehag	NA	     1	0
-Stenberga	NA	     3	0
-Stendal	NA	     2	0
-Stenkyrka	NA	     1	0
-Stensele	NA	     1	0
-Stensjöholm	NA	     1	0
-Stenungsund	NA	     1	0
-Stetten	NA	     1	0
-Stiens	NA	     1	0
-Stirling	Scotland	     2	0
-Stjärnhov	NA	     2	0
-Stjärnsund	NA	     1	0
-Stoby	NA	     1	0
-Stöckeby	NA	     1	0
-Stockel	NA	     1	0
-Stockholm	Sweden	201938	54.71
-Stocksund	NA	    15	0
-Stöde	NA	     2	0
-Stoke-on-Trent	England	     1	0
-Stora Karlsö	NA	     1	0
-Stora Klefva	NA	     2	0
-Stora mellösa	NA	     1	0
-Stora Skedv	NA	     2	0
-Stora skedvi	NA	     1	0
-Stora Slågarp	Sweden	    16	0
-Stora Tofthög	NA	     1	0
-Stora Torp	NA	     1	0
-Storängen	NA	     1	0
-Storebro	NA	     5	0
-Storfors	NA	     1	0
-Storuman	NA	     1	0
-Storvik	Sweden	    16	0
-Strägnäs	NA	     2	0
-Stralsund	Germany	   147	0.04
-Strand	NA	     1	0
-Strängnäs	Sweden	  1401	0.38
-Strångsjö	NA	     1	0
-Strasbourg	France	    97	0.03
-Strassfurt	NA	     1	0
-Stratford-upon-Avon	England	     1	0
-Stråtjära	NA	     2	0
-Straubing	NA	     2	0
-Strehlen	NA	     1	0
-Striberg	NA	     1	0
-Stromsburg Ne	NA	     1	0
-Strömsholm	NA	     2	0
-Strömstad	Sweden	    46	0.01
-Strömsund	NA	    15	0
-Strömtorp	NA	     2	0
-Strövelstorp	NA	     2	0
-Sturkö	NA	     1	0
-Stuttgart	Germany	   581	0.16
-Styrsö	NA	     1	0
-Süderstapel	NA	     1	0
-Suistamo	NA	     1	0
-Sulvik	NA	     1	0
-Sulzbach	NA	     1	0
-Sumen	NA	     1	0
-Sundbyberg	Sweden	    83	0.02
-Sundsvall	Sweden	   764	0.21
-Sunhultsbrunn	NA	     1	0
-Sunne	Sweden	    45	0.01
-Superior Wi	USA	     1	0
-Surahammar	Sweden	    23	0.01
-Surte	NA	     2	0
-Svalöv	Sweden	    16	0
-Svanesund	NA	     4	0
-Svängsta	NA	     1	0
-Svanö	NA	     1	0
-Svanskog	NA	     1	0
-Svappavaara	NA	     1	0
-Svedala	Sweden	    62	0.02
-Svenarum	NA	     2	0
-Svenshögen	NA	     2	0
-Svenstavik	NA	     2	0
-Svinesund	NA	     1	0
-Svištov	NA	     1	0
-Swedeburg Ne	NA	     1	0
-Swedesburg	NA	     3	0
-Swedona IL	NA	     1	0
-Sydney	Australia	     4	0
-Syninge	NA	     3	0
-Syracuse NY	NA	     4	0
-Szczecin	Poland	    53	0.01
-Szekszárd	NA	     1	0
-Taastrup	NA	     1	0
-Täby	NA	     4	0
-Tacoma Wa	NA	     4	0
-Tällberg	NA	     7	0
-Tallbo	NA	     1	0
-Tallinn	Estonia	   134	0.04
-Tammisaari	Finland	   146	0.04
-Tampere	Finland	   117	0.03
-Tandsbyn	Sweden	    27	0.01
-Tanger	NA	     1	0
-Tannefors	NA	     1	0
-Tanum	NA	     1	0
-Tärnaby	NA	     5	0
-Tärnsjö	NA	     4	0
-Tartu	Estonia	   230	0.06
-Tåsjö	NA	     1	0
-Tävelsås	NA	     1	0
-Taxinge	NA	     1	0
-Teckomatorp	NA	     2	0
-Tegelsmora	NA	     2	0
-Tegnaby	NA	     1	0
-Tegneby	NA	     1	0
-Tegnefors	NA	     1	0
-Teheran	NA	     7	0
-Tel Aviv	NA	     7	0
-Tempe az	NA	     1	0
-Tenhult	NA	     5	0
-Teplice	NA	     1	0
-Terijoki	Finland	     1	0
-Terni	Finland	     1	0
-Tharangampadi	India	     2	0
-The Hague	Netherlands	   178	0.05
-Thisted	NA	     1	0
-Thun	NA	     2	0
-Thurso	NA	     1	0
-Tibro	NA	     8	0
-Tidaholm	Sweden	    50	0.01
-Tiel	NA	     1	0
-Tierp	Sweden	   118	0.03
-Tiflis	NA	     2	0
-Tilburg	NA	     1	0
-Tilsit	NA	     1	0
-Timrå	NA	     4	0
-Tingsryd	Sweden	    14	0
-Tingstad	NA	     1	0
-Tivoli	Italy	     1	0
-Tjörn	NA	     3	0
-Tjörnarp	NA	     1	0
-Tobolsk	NA	     1	0
-Töcksfors	NA	     1	0
-Tofta	NA	     2	0
-Tofteryd	NA	     2	0
-Toftlund	NA	     1	0
-Tokyo	NA	    79	0.02
-Toledo oh	NA	     1	0
-Tolg	NA	     1	0
-Tollarp	NA	     1	0
-Töllsjö	NA	     1	0
-Tomelilla	Sweden	    26	0.01
-Tomteboda	Sweden	    54	0.01
-Tonbridge	NA	     2	0
-Tønder	NA	     4	0
-Tönning	NA	     1	0
-Topeka	NA	     4	0
-Töreboda	Sweden	    13	0
-Torekov	NA	     4	0
-Torestorp	NA	     1	0
-Torgau	NA	     1	0
-Torino	Italy	    36	0.01
-Torne	NA	     5	0
-Tornio	Finland	     3	0
-Toronto	Canada	     9	0
-Torp	NA	    10	0
-Torpshammar	NA	     1	0
-Torrlösa	NA	     1	0
-Torsaker	NA	     3	0
-Torsås	NA	     3	0
-Torsby	Sweden	    19	0.01
-Torshälla	Sweden	    14	0
-Torshavn	NA	    12	0
-Torskors	NA	     1	0
-Tortuna	NA	     7	0
-Toruń	NA	    12	0
-Tossene	NA	     2	0
-Tostarp	NA	     1	0
-Toulouse	France	     6	0
-Tourcoing	NA	     1	0
-Tournay	NA	     1	0
-Tours	NA	     9	0
-Tranås	Sweden	   144	0.04
-Traneberg	NA	     3	0
-Trani	NA	     2	0
-Transvaal	NA	     1	0
-Träslöv	NA	     1	0
-Třebechovice pod Orebem	NA	    10	0
-Treignac	NA	     1	0
-Trelleborg	Sweden	   274	0.07
-Treuenbrietzen	NA	     3	0
-Treviso	NA	     1	0
-Tribsees	NA	     1	0
-Trichinopoly	NA	     4	0
-Trier	NA	     1	0
-Trieste	Italy	     2	0
-Trivandrum	NA	     1	0
-Trollbäcken	NA	     3	0
-Trollhättan	Sweden	   166	0.04
-Tromsö	Norway	     4	0
-Trondheim	Norway	    30	0.01
-Trönödal	NA	     2	0
-Troppau	NA	     1	0
-Trosa	Sweden	    75	0.02
-Troy NY	USA	     1	0
-Troyes	NA	     3	0
-Tšuhujiv	NA	     1	0
-Tübingen	Germany	    54	0.01
-Tucson	NA	     3	0
-Tucuman	NA	     2	0
-Tumba	NA	     9	0
-Tuna	NA	     6	0
-Tunis	NA	     2	0
-Tureberg	NA	     3	0
-Turiguano	NA	     1	0
-Turin	NA	     6	0
-Turku	Finland	  2877	0.78
-Turlock Ca	NA	     1	0
-Turnhout	NA	     1	0
-Turnov	NA	     2	0
-Turrialba	NA	     1	0
-Tustin Mi	NA	     1	0
-Tvaaker	NA	     1	0
-Tvedestrand	NA	     1	0
-Tyringe	NA	     3	0
-Tystberga	NA	     2	0
-Überlingen	NA	     2	0
-Uddebo	NA	     3	0
-Uddeholm	Sweden	    11	0
-Uddevalla	Sweden	   791	0.21
-Udine	NA	     1	0
-Ujpest	NA	     1	0
-Ulm	Germany	     9	0
-Ulricehamn	Sweden	   153	0.04
-Ulrikedal	NA	     1	0
-Ulriksdal	NA	     5	0
-Ulverston	England	     1	0
-Ulvesund	NA	     1	0
-Ulvila	NA	     1	0
-Ulvstorp	NA	     1	0
-Umeå	Sweden	   570	0.15
-Undenäs	NA	     2	0
-Unnaryd	NA	     2	0
-Uppåkra	NA	     1	0
-Uppsala	Sweden	 21085	5.71
-Urbana	NA	    54	0.01
-Urshult	NA	     3	0
-USA	USA	     4	0
-Utrecht	Netherlands	   106	0.03
-Uttran	NA	     3	0
-Uusikaarlepyy	Finland	    20	0.01
-Uusikaupunki	Finland	    11	0
-Uvira	NA	     1	0
-Vaasa	Finland	   527	0.14
-Väckelsång	NA	     1	0
-Vadensjö	NA	     2	0
-Vadstena	Sweden	   186	0.05
-Vågbro	NA	     1	0
-Vaggeryd	NA	     5	0
-Valbo	NA	     2	0
-Valdemarsvik	Sweden	    15	0
-Valencia	Spain	     6	0
-Vălenii de Munte	NA	     1	0
-Valka	NA	     1	0
-Valladolid	NA	     4	0
-Vallentuna	NA	     1	0
-Valley springs	NA	     1	0
-Vällingby	NA	     4	0
-Vallkärra	NA	     3	0
-Vallsta	NA	     5	0
-Valparaiso	NA	     2	0
-Valskog	NA	     1	0
-Våmhus	NA	     2	0
-Vamlingbo	NA	     1	0
-Vammala	Finland	    48	0.01
-Vancouver	NA	     1	0
-Vänersborg	Sweden	   490	0.13
-Vänersnäs	NA	     1	0
-Vänga	NA	     2	0
-Vängdala	NA	     1	0
-Vankiva	NA	     1	0
-Vännäs	NA	     4	0
-Vansbro	Sweden	    16	0
-Varberg	Sweden	   175	0.05
-Varekil	NA	     3	0
-Vårgårda	NA	     2	0
-Vargön	NA	     1	0
-Väring	NA	     1	0
-Varkaus	NA	     4	0
-Värmdö	NA	     2	0
-Värmskog	NA	     1	0
-Värnamo	Sweden	   102	0.03
-Varnhem	NA	     2	0
-Väröbacka	NA	     1	0
-Varola	NA	     1	0
-Ṿarshe	NA	     1	0
-Vartofta	NA	     1	0
-Väsby	NA	     1	0
-Väse	NA	     3	0
-Vassor	NA	     1	0
-Västanå	NA	     1	0
-Västanfors	NA	     3	0
-Västerås	Sweden	  2099	0.57
-Västerfärnebo	NA	     2	0
-Västerhaninge	NA	     1	0
-Västerlanda	NA	     2	0
-Västervik	Sweden	   387	0.1
-Västgärde	NA	     2	0
-Västland	NA	     1	0
-Västra Ämtervik	NA	     1	0
-Västra Ryd	NA	     1	0
-Vätternäs	NA	     2	0
-Vaxholm	Sweden	    13	0
-Växjö	Sweden	  1156	0.31
-Veda	NA	     1	0
-Veddige	NA	     1	0
-Vedevag	NA	     1	0
-Vedum	NA	     4	0
-Veinge	NA	     1	0
-Vejle	NA	     5	0
-Velké Meziříčí	NA	     1	0
-Vellinge	NA	     1	0
-Ven	NA	     1	0
-Vendel	NA	     4	0
-Vendelsö	NA	     1	0
-Venegono Inferiore	NA	     1	0
-Venice	Italy	    47	0.01
-Verkebäck	NA	     1	0
-Verona	Italy	    10	0
-Versailles	France	     5	0
-Verviers	NA	     1	0
-Vesoul	NA	     1	0
-Vessigebro	NA	     1	0
-Vestervik	NA	    39	0.01
-Vetanda	NA	     1	0
-Vetlanda	Sweden	   299	0.08
-Vevey	Switzerland	     1	0
-Victoria British Columbia	NA	     1	0
-Videyar Klaustri	NA	     3	0
-Vienna	Austria	   384	0.1
-Vifstavarf	NA	     1	0
-Viggbyholm	NA	    12	0
-Vikingstad	NA	     1	0
-Viksjöfors	NA	     5	0
-Vilhelmina	NA	     5	0
-Villefranche	NA	     3	0
-Vilnius	Lithuania	    21	0.01
-Vilshult	NA	     1	0
-Vimmerby	Sweden	    81	0.02
-Vinberg	NA	     1	0
-Vingåker	NA	     8	0
-Vinslöv	Sweden	    13	0
-Virestad	NA	     1	0
-Virkby	NA	     1	0
-Virserum	NA	     3	0
-Visby	Sweden	   717	0.19
-Visingsborg	Sweden	    22	0.01
-Visingsö	Sweden	    10	0
-Viskafors	NA	     4	0
-Vislanda	NA	     3	0
-Vitsand	NA	     1	0
-Vittinge	NA	     1	0
-Vittsjö	NA	     3	0
-Vivstavarv	NA	     1	0
-Vollsjö	NA	     1	0
-Voorburg	NA	     5	0
-Voorhout	NA	     2	0
-Voronež	NA	     1	0
-Voxna	NA	     1	0
-Vraka	NA	     1	0
-Vrena	NA	     3	0
-Vretstorp	NA	     3	0
-Vrigstad	NA	     1	0
-Vrsovice	NA	     1	0
-Vyborg	Finland	   125	0.03
-Wageningen	NA	     8	0
-Wahoo Ne	NA	     1	0
-Wakefield	England	     1	0
-Wakefield Ne	NA	     1	0
-Wallingford PA	NA	     1	0
-Waltham Ma	USA	     2	0
-Warberg	NA	    25	0.01
-Warnsdorf	NA	     1	0
-Warrington	England	     1	0
-Warsaw	Poland	   153	0.04
-Washington DC	USA	   171	0.05
-Wataga IL	NA	     1	0
-Waterbury ct	NA	     2	0
-Watford	England	     1	0
-Waverly Ia	NA	     1	0
-Wedel	NA	     2	0
-Weehawken NJ	NA	     1	0
-Weibullsholm	NA	     1	0
-Weilburg	NA	     1	0
-Weimar	Germany	    39	0.01
-Weingarten	NA	     1	0
-Weissenburg	NA	     1	0
-Weißenfels	Germany	     3	0
-Wellington New Zeland	NA	     1	0
-Weltevreden	NA	    10	0
-Wenona Il	NA	     2	0
-Werl	NA	     1	0
-Wernigerode	NA	     3	0
-Wetteren	NA	     1	0
-Wheaton Mn	NA	     1	0
-White Plains NY	NA	     2	0
-Wiebelsheim	NA	     1	0
-Wiesbaden	Germany	    70	0.02
-Willmar Mn	NA	     4	0
-Wilmington De	USA	     9	0
-Winnipeg	NA	    20	0.01
-Winterthur	Switzerland	     4	0
-Wis	NA	     5	0
-Wismar	Germany	    16	0
-Witten	NA	     7	0
-Wittenberg	Germany	    26	0.01
-Wloclawek	NA	     1	0
-Wolfenbüttel	NA	     2	0
-Woodhull Il	NA	     1	0
-Woodstock	NA	     2	0
-Worcester	England	     1	0
-Worcester Ma	USA	    35	0.01
-Workum	NA	     1	0
-Wrocław	NA	    10	0
-Wuppertal	NA	     9	0
-Württemberg	NA	     1	0
-Wurzburg	Germany	    23	0.01
-Wurzen	NA	    10	0
-Yarmouth	England	     1	0
-Yonkers NY	NA	     1	0
-York	England	     6	0
-York Pa	USA	     1	0
-Ysane	NA	     1	0
-Ystad	Sweden	   366	0.1
-Ytteran	NA	     1	0
-Yverdon-les-Bains	Switzerland	     1	0
-Zaandam	NA	     1	0
-Zagreb	NA	    49	0.01
-Zamosc	NA	     2	0
-Zaragoza	NA	     1	0
-Żary	Poland	     4	0
-Zeist	NA	    10	0
-Zeitz	NA	     2	0
-Zerbst	NA	    13	0
-Zeulenroda	NA	     1	0
-Zielenzig	NA	     1	0
-Zihlbrücke	NA	     1	0
-Zilina	NA	     2	0
-Zinkgruvan	NA	     4	0
-Znaim	NA	     1	0
-Zoutleeuw	NA	     1	0
-Zug	NA	     1	0
-Zürich	Germany	   203	0.05
-Zutphen	Netherlands	    14	0
-Zweibrücken	Germany	     2	0
-Zwickau	NA	     2	0
-Zwittau	NA	     1	0
-Zwolle	NA	     3	0
+Name	Count
+Total count (na.rm TRUE): 	369108
+Stockholm	201930
+Uppsala	 21085
+Helsinki	 14764
+Gothenburg	 14164
+Lund	 13297
+Malmö	  5663
+Copenhagen	  5008
+Örebro	  4533
+Linköping	  3315
+Jönköping	  3151
+Norrköping	  3059
+Turku	  2877
+Oslo	  2868
+London	  2354
+Falun	  2334
+Paris	  2311
+Västerås	  2099
+Helsingborg	  2095
+Berlin	  2011
+Leipzig	  1583
+Karlskrona	  1540
+Karlstad	  1515
+Kristianstad	  1468
+Strängnäs	  1401
+Kalmar	  1363
+Växjö	  1156
+Porvoo	  1154
+Gävle	  1112
+Nyköping	  1109
+Skara	  1093
+New York NY	  1081
+Chicago IL	  1054
+Uddevalla	   791
+Sundsvall	   764
+Visby	   717
+Härnösand	   701
+Halmstad	   660
+Eskilstuna	   640
+Borås	   637
+Stuttgart	   581
+Umeå	   570
+Rock Island IL	   543
+Vaasa	   527
+München	   517
+Karlshamn	   502
+Amsterdam	   492
+Vänersborg	   490
+St Petersburg	   446
+Landskrona	   442
+Södertälje	   431
+Luleå	   414
+Skövde	   410
+Kristiinankaupunki	   400
+Västervik	   387
+Vienna	   384
+Köping	   372
+Hässleholm	   366
+Ystad	   366
+Hamburg	   356
+Mariestad	   349
+Prague	   338
+Lidköping	   316
+Greifswald	   313
+Vetlanda	   299
+Falköping	   296
+Filipstad	   287
+Trelleborg	   274
+Moscow	   266
+Sala	   264
+Jena	   261
+Eksjö	   256
+Borlänge	   252
+Reykjavik	   247
+Oskarshamn	   241
+Söderhamn	   237
+Örnsköldsvik	   236
+Hudiksvall	   231
+Tartu	   230
+Alingsås	   223
+Norrtälje	   222
+Rome	   221
+Arvika	   217
+Minneapolis Mn	   217
+Sollefteå	   208
+Jyväskylä	   205
+Halle	   203
+Zürich	   203
+Frankfurt	   202
+Riga	   201
+Mariefred	   192
+Budapest	   189
+Vadstena	   186
+Eslöv	   184
+Nässjö	   181
+Philadelphia Pa	   181
+Brussels	   179
+The Hague	   178
+Varberg	   175
+Washington DC	   171
+Milan	   166
+Trollhättan	   166
+Hämeenlinna	   165
+Hedemora	   164
+Arlöv	   162
+Lindesberg	   156
+Enköping	   154
+Ulricehamn	   153
+Warsaw	   153
+Falkenberg	   152
+Leiden	   152
+Boston Ma	   150
+Ängelholm	   148
+Sölvesborg	   147
+Stralsund	   147
+Tammisaari	   146
+Tranås	   144
+Bollnäs	   143
+Rostock	   139
+Katrineholm	   138
+Skellefteå	   137
+Tallinn	   134
+Amal	   133
+Arboga	   132
+Nora	   127
+Klippan	   126
+Vyborg	   125
+Lysekil	   118
+Tierp	   118
+Madrid	   117
+Tampere	   117
+Lidingö	   115
+Klinten	   113
+Ljusdal	   111
+Dresden	   109
+Utrecht	   106
+Firenze	   104
+Värnamo	   102
+Kuopio	   101
+Mariehamn	    98
+Bergen	    97
+Strasbourg	    97
+Geneva	    95
+Karlskoga	    95
+Kumla	    95
+Nybro	    94
+Barcelona	    88
+Heidelberg	    88
+Osby	    88
+Piteå	    87
+Basel	    86
+Lübeck	    85
+Söderköping	    85
+Braunschweig	    84
+Sundbyberg	    83
+Vimmerby	    81
+Aarhus	    80
+Pietarsaari	    79
+Tokyo	    79
+Boden	    77
+Göttingen	    75
+Trosa	    75
+Bern	    74
+Cologne	    74
+Nürnberg	    74
+Buenos Aires	    72
+Haarlem	    72
+Södertäje	    72
+Askersund	    71
+Kiel	    71
+Breslau	    70
+Wiesbaden	    70
+Cambridge	    67
+Sofia	    67
+Pori	    66
+Huskvarna	    65
+Krakow	    65
+Ludvika	    65
+Mora	    65
+Hardemo	    63
+Svedala	    62
+Oulu	    60
+Oxford	    60
+Haaparanta	    59
+Bonn	    57
+Edinburgh	    56
+Grimma	    56
+Antwerp	    55
+Asmara	    54
+Freiburg im Breisgau	    54
+Tomteboda	    54
+Tübingen	    54
+Urbana	    54
+Laholm	    53
+Sandviken	    53
+Szczecin	    53
+Potsdam	    52
+Baltimore Md	    51
+Lisbon	    50
+Säffle	    50
+Sköllersta	    50
+Tidaholm	    50
+Marburg	    49
+Odense	    49
+Poznań	    49
+Zagreb	    49
+Vammala	    48
+Simrishamn	    47
+Venice	    47
+Nynäshamn	    46
+Strömstad	    46
+Battle Creek Mi	    45
+Sunne	    45
+Höganäs	    44
+Östhammar	    44
+Skurup	    44
+Kristdala	    43
+Lincoln NE	    43
+Ljungby	    43
+Bremen	    42
+Gotha	    42
+Hörby	    42
+Leksand	    42
+Orsa	    42
+Hjo	    41
+Lausanne	    41
+Säter	    41
+Hanko	    39
+Lviv	    39
+Lyon	    39
+Vestervik	    39
+Weimar	    39
+Den Haag	    38
+Kungsgarden	    38
+Peking	    38
+Sao Paulo	    38
+Mölndal	    37
+Haunia	    36
+Princeton NJ	    36
+Torino	    36
+Gdańsk	    35
+Koningsberg	    35
+Paul	    35
+Worcester Ma	    35
+Gütersloh	    34
+Athens	    33
+Drammen	    33
+Malung	    33
+New Haven Ct	    33
+Borgholm	    32
+Gränna	    32
+Groningen	    32
+Naples	    32
+Flen	    31
+Insjön	    31
+Cambridge Ma	    30
+Djursholm	    30
+Halden	    30
+Istanbul	    30
+Karlsborg	    30
+Kokkola	    30
+Limhamn	    30
+Mjölby	    30
+Ronneby	    30
+Sigtuna	    30
+Trondheim	    30
+Bryn Athyn PA	    29
+Mexico	    29
+Moheda	    29
+Moline	    29
+Seattle WA	    29
+Alnarp	    28
+Francisco	    28
+Grängesberg	    28
+Grästorp	    28
+Huddinge	    28
+Loviisa	    28
+Ousby	    28
+Solna	    28
+Bishop Hill IL	    27
+Enskede	    27
+Forssa	    27
+Höör	    27
+Skänninge	    27
+Sortavala	    27
+Tandsbyn	    27
+Båstad	    26
+Beograd	    26
+Berkeley CA	    26
+Bucharest	    26
+Mikkeli	    26
+Tomelilla	    26
+Wittenberg	    26
+Augsburg	    25
+Warberg	    25
+Åtvidaberg	    24
+Bielefeld	    24
+Bordeaux	    24
+Hannover	    24
+Karlberg	    24
+Kiruna	    24
+Liège	    24
+Finspång	    23
+Genoa	    23
+Håbo	    23
+Mainz	    23
+Markaryd	    23
+Surahammar	    23
+Wurzburg	    23
+Fors	    22
+Hamina	    22
+Kungsbacka	    22
+Magdeburg	    22
+Shanghai	    22
+Sjöbo	    22
+Stavanger	    22
+Visingsborg	    22
+Akureyri	    21
+Edsbyn	    21
+Eksjöhovgård	    21
+Florence	    21
+Kotka	    21
+Kramfors	    21
+Vilnius	    21
+Bologna	    20
+Gaseberg	    20
+Langensalza	    20
+Nancy	    20
+Uusikaarlepyy	    20
+Winnipeg	    20
+Brno	    19
+Erlangen	    19
+Fagersta	    19
+Rotterdam	    19
+Skillingaryd	    19
+Torsby	    19
+Aalborg	    18
+Amersfoort	    18
+Duvbo	    18
+Krylbo	    18
+Spånga	    18
+Älmhult	    17
+Åseda	    17
+Assen	    17
+Erfurt	    17
+Gnesta	    17
+Hallsberg	    17
+Manchester	    17
+Rouen	    17
+Avesta	    16
+Düsseldorf	    16
+Fjälkestad	    16
+Gällivare	    16
+Graasten	    16
+Hyltebruk	    16
+Kallinge	    16
+Karlsruhe	    16
+Lahti	    16
+Stade	    16
+Stora Slågarp	    16
+Storvik	    16
+Svalöv	    16
+Vansbro	    16
+Wismar	    16
+Alsten	    15
+Älvdalen	    15
+Bjärnum	    15
+Bodafors	    15
+Cleveland Oh	    15
+Darmstadt	    15
+Dublin	    15
+Gamleby	    15
+Gießen	    15
+Glasgow	    15
+Graz	    15
+Helsingør	    15
+Jelgava	    15
+Kashgar	    15
+Lessebo	    15
+Münster	    15
+Stocksund	    15
+Strömsund	    15
+Valdemarsvik	    15
+Altona	    14
+Åstorp	    14
+Kalix	    14
+Kisa	    14
+Korsnäs	    14
+Louvain	    14
+Munkedal	    14
+Norman	    14
+Nyland	    14
+Oldenburg	    14
+Ottawa	    14
+Paderborn	    14
+Rio de Janeiro	    14
+Rønne	    14
+Skjern	    14
+Tingsryd	    14
+Torshälla	    14
+Zutphen	    14
+Ankara	    13
+Emmaboda	    13
+Innsbruck	    13
+Kouvola	    13
+Ockelbo	    13
+Örkelljunga	    13
+Raa-Besenbek	    13
+Rättvik	    13
+Reutlingen	    13
+Saltsjöbaden	    13
+Töreboda	    13
+Vaxholm	    13
+Vinslöv	    13
+Zerbst	    13
+Cincinnati Oh	    12
+Deventer	    12
+Honolulu	    12
+Kungsör	    12
+Ljubljana	    12
+Ljungskile	    12
+Östervåla	    12
+Padua	    12
+Pisa	    12
+Torshavn	    12
+Toruń	    12
+Viggbyholm	    12
+Aachen	    11
+Åkarp	    11
+Altenburg	    11
+Axelfors	    11
+Bad Wörishofen	    11
+Bengtsfors	    11
+Bussum	    11
+Caen	    11
+Dundee	    11
+Essen	    11
+Gislaved	    11
+Hällefors	    11
+Hellerup	    11
+Jerusalem	    11
+Joensuu	    11
+Kruunupyy	    11
+Leeuwarden	    11
+Norra Sandsjö	    11
+Santiago	    11
+Sävsjö	    11
+Uddeholm	    11
+Uusikaupunki	    11
+Aby	    10
+Älvsjö	    10
+Arnhem	    10
+Bergamo	    10
+Bergsjö	    10
+Bombay	    10
+Bruges	    10
+Chapel Hill	    10
+Glimåkra	    10
+Heilbronn	    10
+Helmstedt	    10
+Hofors	    10
+Karleby	    10
+Kassel	    10
+Kolding	    10
+Lille	    10
+Litchfield Ct	    10
+Narva	    10
+Neuchatel	    10
+Palermo	    10
+Regensburg	    10
+Torp	    10
+Třebechovice pod Orebem	    10
+Verona	    10
+Visingsö	    10
+Weltevreden	    10
+Wrocław	    10
+Wurzen	    10
+Zeist	    10
+Alem	     9
+Ann Arbor MI	     9
+Arbra	     9
+Besançon	     9
+Broby	     9
+Calcutta	     9
+Cape Town	     9
+Durham	     9
+Fränsta	     9
+Heby	     9
+Hong Kong	     9
+Kvidinge	     9
+Le Caire	     9
+Lesjöfors	     9
+Lorch	     9
+Louis	     9
+Lycksele	     9
+Mariannelund	     9
+Martin	     9
+Milwaukee Wi	     9
+Nijmegen	     9
+Porto	     9
+Rauma	     9
+Smedjebacken	     9
+Springfield Ma	     9
+Toronto	     9
+Tours	     9
+Tumba	     9
+Ulm	     9
+Wilmington De	     9
+Wuppertal	     9
+Anhalt	     8
+Årjäng	     8
+Cairo	     8
+Denver	     8
+Dessau	     8
+Dingle	     8
+Dortmund	     8
+Fiskars	     8
+Freistadt	     8
+Fribourg	     8
+Garden City NY	     8
+Gemla	     8
+Görliz	     8
+Järvsö	     8
+Kairo	     8
+Kiev	     8
+Kil	     8
+Knislinge	     8
+Lanciano	     8
+Lindsborg ks	     8
+Los Angeles CA	     8
+Madison	     8
+Madras India	     8
+Olten	     8
+Orleans	     8
+Rudkøbing	     8
+Schwerin	     8
+Sidensjö	     8
+Smalandsstenar	     8
+Tibro	     8
+Vingåker	     8
+Wageningen	     8
+Alger	     7
+Alvesta	     7
+Aneby	     7
+Ankarsrum	     7
+Austin TX	     7
+Baarn	     7
+Bohus	     7
+Bratislava	     7
+Canberra	     7
+Cedar Rapids IA	     7
+Dijon	     7
+Dordrecht	     7
+Enebyberg	     7
+Fageras	     7
+Fredrikstad	     7
+Galesburg IL	     7
+Gand	     7
+Grenoble	     7
+Gyoma	     7
+Hagalund	     7
+Holmby	     7
+Inhambane	     7
+Ironwood Mi	     7
+Kajaani	     7
+Konstanz	     7
+Kungälv	     7
+Leuven	     7
+Macon	     7
+Melbourne	     7
+Mölnlycke	     7
+Monaco	     7
+Mönsterås	     7
+Mühlhausen	     7
+Olofström	     7
+Poltava	     7
+Portland Or	     7
+Quedlinburg	     7
+Ratzeburg	     7
+Rockford IL	     7
+Savonlinna	     7
+Skönvik	     7
+Solberga	     7
+Stokchol	     7
+Tällberg	     7
+Teheran	     7
+Tel Aviv	     7
+Tortuna	     7
+Witten	     7
+Aarau	     6
+Alby	     6
+Åsele	     6
+Citta del vaticano	     6
+Columbus OH	     6
+Degerfors	     6
+Duluth MN	     6
+Evanston	     6
+Färgelanda	     6
+Fellingsbro	     6
+Flensburg	     6
+Frauenfeld	     6
+Gällstad	     6
+Grebbestad	     6
+Gustavsberg	     6
+Gusum	     6
+Halberstadt	     6
+Hallstahammar	     6
+Hanau	     6
+Hemse	     6
+Järsö	     6
+Jüterbog	     6
+Kärrgruvan	     6
+Kaschgar	     6
+Lappeenranta	     6
+Le Mans	     6
+Lierre	     6
+Lüneburg	     6
+Malmköping	     6
+Mannheim	     6
+Matadi	     6
+Mölle	     6
+Montpellier	     6
+Neumünster	     6
+Norrbo	     6
+Norrhult	     6
+Norstedt	     6
+Påarp	     6
+Pau	     6
+Plzeň	     6
+Poitiers	     6
+Skälderviken	     6
+Smoky Hills Ks	     6
+Sollentuna	     6
+Sønderborg	     6
+Toulouse	     6
+Tuna	     6
+Turin	     6
+Valencia	     6
+York	     6
+Alfred NY	     5
+Alkmaar	     5
+Altefähr	     5
+Angers	     5
+Baden	     5
+Barmen	     5
+Bofors	     5
+Boizenburg	     5
+Borrby	     5
+Bräcke	     5
+Braunsberg	     5
+Catania	     5
+Charkov	     5
+Charlottenlund	     5
+Cluj-Napoca	     5
+Colmar	     5
+Debrecen	     5
+Delft	     5
+Detmold	     5
+Ektorp	     5
+Fagerstrand	     5
+Gagnef	     5
+Galva	     5
+Gent	     5
+Görslöv	     5
+Götene	     5
+Haderslev	     5
+Hammenhög	     5
+Herrljunga	     5
+Högsby	     5
+Hyllinge	     5
+Hyvinkää	     5
+Järpen	     5
+Julita	     5
+Kaunas	     5
+Kerava	     5
+Kinna	     5
+Kinnared	     5
+Kopparberg	     5
+Kronstad	     5
+Kvarnby	     5
+Lincoln	     5
+Liverpool	     5
+Lönsboda	     5
+Luetzen	     5
+Luzern	     5
+Modena	     5
+Möklinta	     5
+Neudamm	     5
+Neuruppin	     5
+Norrviken	     5
+Odessa	     5
+Oranienburg	     5
+Osnabrück	     5
+Övre Ullerud	     5
+Oxelösund	     5
+Pernaja	     5
+Perth	     5
+Portland Me	     5
+Providence RI	     5
+Raahe	     5
+Red Wing MN	     5
+Riihimäki	     5
+Rudolfstadt	     5
+Rüschlikon	     5
+Salo	     5
+Salt Lake City Ut	     5
+Sibbhult	     5
+Sioux city ia	     5
+Sorunda	     5
+Sörvik	     5
+St Gallen	     5
+Storebro	     5
+Tärnaby	     5
+Tenhult	     5
+Torne	     5
+Ulriksdal	     5
+Vaggeryd	     5
+Vallsta	     5
+Vejle	     5
+Versailles	     5
+Viksjöfors	     5
+Vilhelmina	     5
+Voorburg	     5
+Wis	     5
+Albany NY	     4
+Albuquerque	     4
+Älgarås	     4
+Almeloo	     4
+Alseda	     4
+Altdorf	     4
+Altenstein	     4
+Alunda	     4
+Anklam	     4
+Arnstadt	     4
+Arvidsjaur	     4
+Ascona	     4
+Asen	     4
+Ashammar	     4
+Asker	     4
+Augusta	     4
+Aurillac	     4
+Avignon	     4
+Baku	     4
+Bamberg	     4
+Bayreuth	     4
+Böda	     4
+Borensberg	     4
+Brookfield Ma	     4
+Brunnsberg	     4
+Brunskog	     4
+Buffalo	     4
+Chemnitz	     4
+Chillicothe Oh	     4
+Clermont-Ferrand	     4
+Cremona	     4
+Dals Långed	     4
+Danderyd	     4
+Delsbo	     4
+Detroit Mi	     4
+Elberfeld	     4
+Elbingen	     4
+Erikslund	     4
+Eskiltuna	     4
+Fittja	     4
+Forsvik	     4
+Freyberg	     4
+Frövi	     4
+Getinge	     4
+Glendale	     4
+Glückstadt	     4
+Götlunda	     4
+Grove City MN	     4
+Hagaberg	     4
+Hagfors	     4
+Hallstavik	     4
+Hammarstrand	     4
+Hanoi	     4
+Harmanger	     4
+Harplinge	     4
+Heidenau	     4
+Hensmala	     4
+Hildesheim	     4
+Hjorted	     4
+Hultsfred	     4
+Hyllstofta	     4
+Ithaca NY	     4
+Järna	     4
+Junsele	     4
+Käkisalmi	     4
+Kampen	     4
+Kansas City	     4
+Käringön	     4
+Leigh	     4
+Leksberg	     4
+Lemvig	     4
+Lerum	     4
+Liepaja	     4
+Limedsforsen	     4
+Linz	     4
+Lochem	     4
+Malmberget	     4
+Minnesota	     4
+Mjällby	     4
+Molkom	     4
+Moncullo	     4
+Naumburg	     4
+Nedre Gärdsjö	     4
+Neustadt	     4
+Nördlingen	     4
+Omaha Ne	     4
+Pärnu	     4
+Peiping	     4
+Pontoise	     4
+Quebec	     4
+Rathenow	     4
+Ravensburg	     4
+Roslags näsby	     4
+Rydboholm	     4
+Saltsjö-Järla	     4
+San Diego CA	     4
+Skanes fagerhult	     4
+Söderfors	     4
+Svanesund	     4
+Sydney	     4
+Syracuse NY	     4
+Täby	     4
+Tacoma Wa	     4
+Tärnsjö	     4
+Timrå	     4
+Tønder	     4
+Topeka	     4
+Torekov	     4
+Trichinopoly	     4
+Tromsö	     4
+USA	     4
+Valladolid	     4
+Vällingby	     4
+Vännäs	     4
+Varkaus	     4
+Vedum	     4
+Vendel	     4
+Viskafors	     4
+Willmar Mn	     4
+Winterthur	     4
+Żary	     4
+Zinkgruvan	     4
+Aberdeen	     3
+Addis Abeba	     3
+Adolfsberg	     3
+Adyar	     3
+Agnesberg	     3
+Aix-en-Provence	     3
+Alfta	     3
+Älghult	     3
+Allahabad	     3
+Allerum	     3
+Älvkarleö	     3
+Amiens	     3
+Aneboda	     3
+Ängeholm	     3
+Arras	     3
+Arrie	     3
+Askeröd	     3
+Averbode	     3
+Bara	     3
+Bispgarden	     3
+Bjuv	     3
+Bogota	     3
+Brazzaville	     3
+Brisbane	     3
+Bristol	     3
+Broaryd	     3
+Bunge	     3
+Burg	     3
+Charlottenberg	     3
+Christiansand	     3
+Città di Castello	     3
+Coburg	     3
+Coimbra	     3
+Coventry	     3
+Djurröd	     3
+Douala	     3
+Dover NJ	     3
+Edam	     3
+Eisleben	     3
+Emmaljunga	     3
+Esbjerg	     3
+Fjugesta	     3
+Flisby	     3
+Floda	     3
+Flyinge	     3
+Forshaga	     3
+Franzburg	     3
+Frykerud	     3
+Gainesville	     3
+Gnosjö	     3
+Gouda	     3
+Grand Rapids Mi	     3
+Grimslöv	     3
+Hackas	     3
+Hällabrottet	     3
+Hamar	     3
+Harbor Oh	     3
+Harmondsworth	     3
+Havanna	     3
+Helgum	     3
+Hillerod	     3
+Hoting	     3
+Husum	     3
+Iggesund	     3
+Ingolstadt	     3
+Iowa City	     3
+Isafjördur	     3
+Ishpeming Mi	     3
+Jakobsberg	     3
+Johannisberg	     3
+Johannishus	     3
+Kaapstad	     3
+Kaiserswerth	     3
+Kazan	     3
+Kosta	     3
+Kräklinge	     3
+Kristiansand	     3
+Långasjö	     3
+Laxå	     3
+Leeds	     3
+Legnica	     3
+Lexington KY	     3
+Lima	     3
+Linghem	     3
+Linn	     3
+Ljungsbro	     3
+Lucca	     3
+Ludwigshafen	     3
+Lugano	     3
+Lysvik	     3
+Manhem	     3
+Manila	     3
+Marma	     3
+Marstrand	     3
+Mechelen	     3
+Meinz	     3
+Mellgard	     3
+Messina	     3
+Moulins	     3
+Mülheim	     3
+Munich	     3
+Mustasaari	     3
+Nantes	     3
+Nice	     3
+Nijkerk	     3
+Nimes	     3
+Niort	     3
+Norsjö	     3
+Northfield	     3
+Nykvarn	     3
+Offenbach am Main	     3
+Opava	     3
+Örtofta	     3
+Östra Karup	     3
+Oviken	     3
+Palgard	     3
+Palsboda	     3
+Parainen	     3
+Parma	     3
+Pedersöre	     3
+Perstorp	     3
+Pieksämäki	     3
+Plauen	     3
+Porsgrund	     3
+Pretoria	     3
+Pune	     3
+Radebeul	     3
+Rädigke	     3
+Randers	     3
+Ratingen	     3
+Rennes	     3
+Ribe	     3
+Richmond	     3
+Rochester	     3
+Rödbo	     3
+Röke	     3
+Rönninge	     3
+Rosehill	     3
+Ryssby	     3
+Saarmund	     3
+Salamanca	     3
+Saltsjö-Duvnäs	     3
+Särna	     3
+Schleswig	     3
+Segersta	     3
+Sevilla	     3
+Skinnskatteberg	     3
+Skive	     3
+Skultuna	     3
+Slagelse	     3
+Sorø	     3
+St Chrischona	     3
+Stanford	     3
+Stenberga	     3
+Swedesburg	     3
+Syninge	     3
+Tjörn	     3
+Tornio	     3
+Torsaker	     3
+Torsås	     3
+Traneberg	     3
+Treuenbrietzen	     3
+Trollbäcken	     3
+Troyes	     3
+Tucson	     3
+Tureberg	     3
+Tyringe	     3
+Uddebo	     3
+Urshult	     3
+Uttran	     3
+Vallkärra	     3
+Varekil	     3
+Väse	     3
+Västanfors	     3
+Videyar Klaustri	     3
+Villefranche	     3
+Virserum	     3
+Vislanda	     3
+Vittsjö	     3
+Vrena	     3
+Vretstorp	     3
+Weißenfels	     3
+Wernigerode	     3
+Zwolle	     3
+Abbeville	     2
+Ahmedabad	     2
+Akeshov	     2
+Akranes	     2
+Alencon	     2
+Älgabäcksryd	     2
+Almby	     2
+Alnön	     2
+Altadena CA	     2
+Älvsbyn	     2
+Amberg	     2
+Anderstorp	     2
+Ånge	     2
+Angouleme	     2
+Ankarsvik	     2
+Ansbach	     2
+Antananarivo	     2
+Ärtemark	     2
+Asbo	     2
+Asbro	     2
+Asuncion	     2
+Attica in	     2
+Auxerre	     2
+Bale	     2
+Bari	     2
+Barsebäck	     2
+Bayonne NJ	     2
+Beateberg	     2
+Beirut	     2
+Belgrad	     2
+Beresford	     2
+Bilbao	     2
+Billesholm	     2
+Birmingham	     2
+Bjurholm	     2
+Bjursas	     2
+Blidsberg	     2
+Blomskog	     2
+Bloomington	     2
+Bollstanäs	     2
+Bondstorp	     2
+Bordighera	     2
+Borna	     2
+Börrum	     2
+Bottnaryd	     2
+Bourges	     2
+Braas	     2
+Bräkne-Hoby	     2
+Braniewo	     2
+Bredaryd	     2
+Bredbyn	     2
+Brunflo	     2
+Brunswick Ma	     2
+Bryn Mawr PA	     2
+Burlington NJ	     2
+Buxtehude	     2
+Byholma	     2
+Caerdydd	     2
+Caldwell Id	     2
+Canton	     2
+Caracas	     2
+Carbondale	     2
+Cesis	     2
+Cetinje	     2
+Chalon-sur-Saône	     2
+Ciudad trujillo	     2
+Como	     2
+Compiegne	     2
+Coswig	     2
+Crookston	     2
+Dädesjö	     2
+Dala-Järna	     2
+Davos	     2
+Dayton ia	     2
+Decorah IA	     2
+Deje	     2
+Denmark	     2
+Dieren	     2
+Dikanäs	     2
+Dillingen an der Donau	     2
+Drottningholm	     2
+Dubrovnik	     2
+Durban	     2
+Eastsound Wa	     2
+Eisenach	     2
+Ekerö	     2
+Ekestad	     2
+Ellös	     2
+Elmhult	     2
+Essunga	     2
+Faenza	     2
+Fagerhult	     2
+Fagersanna	     2
+Falsterbo	     2
+Färila	     2
+Farsta	     2
+Fernviken	     2
+Finja	     2
+Fiskebäckskil	     2
+Fjällbacka	     2
+Flipstad	     2
+Fontainebleau	     2
+Forsa	     2
+Forsheda	     2
+Frankfort Ky	     2
+Fredericia	     2
+Frederiksberg	     2
+Frillesas	     2
+Fritsla	     2
+Frösön	     2
+Fürstenwalde	     2
+Fürth	     2
+Gällared	     2
+Gammelstad	     2
+Gap	     2
+Gardelegen	     2
+Garphyttan	     2
+Gdynia	     2
+Gembloux	     2
+Gera	     2
+Gimo	     2
+Gladbach	     2
+Glemmingebro	     2
+Glogau	     2
+Glommersträsk	     2
+Gloucester	     2
+Gnarp	     2
+Gowrie IA	     2
+Gräfsnäs	     2
+Grangärde	     2
+Gräsmark	     2
+Grimnäs	     2
+Grimstorp	     2
+Grönskåra	     2
+Grundsunda	     2
+Grythyttan	     2
+Gunnarskog	     2
+Güstrow	     2
+Halifax	     2
+Hälleforsnäs	     2
+Hällestad	     2
+Hamm	     2
+Hammarö	     2
+Hamneda	     2
+Harlösa	     2
+Hartford Ct	     2
+Hässelby	     2
+Heinola	     2
+Hemsjö	     2
+Herborn	     2
+Hertogenbosch	     2
+Hestra	     2
+Heylbronn	     2
+Hildburghausen	     2
+Hille	     2
+Hofva	     2
+Högbyn	     2
+Högsjö	     2
+Holbaek	     2
+Holsbybrunn	     2
+Horda	     2
+Hoverberg	     2
+Hovmantorp	     2
+Hradec Kralove	     2
+Huvudsta	     2
+Igelstorp	     2
+Indianapolis	     2
+Jafo	     2
+Jakarta	     2
+Jamestown NY	     2
+Jihlava	     2
+Kågeröd	     2
+Kalisz	     2
+Kallmünz	     2
+Kampala	     2
+Karlholmsbruk	     2
+Katowice	     2
+Kauniainen	     2
+Kävlinge	     2
+Kemi	     2
+Kirchhain	     2
+Klemensnäs	     2
+Klintehamn	     2
+Klockrike	     2
+Kolsva	     2
+Königstein	     2
+Kvevlax	     2
+Kvistbro	     2
+La Porte In	     2
+Lancaster Pa	     2
+Landsberg	     2
+Landsbro	     2
+Långebro	     2
+Langshyttan	     2
+Lästringe	     2
+Laxsjö	     2
+Liljeholmen	     2
+Lilla Edet	     2
+Lillan	     2
+Lillsved	     2
+Limoges	     2
+Linderöd	     2
+Löberöd	     2
+Locarno	     2
+Lommaryd	     2
+Lönneberga	     2
+Lövestad	     2
+Lowry MN	     2
+Luanda	     2
+Lucknow	     2
+Lucksta	     2
+Luela	     2
+Lyckeby	     2
+Maastricht	     2
+Malilla	     2
+Mamers	     2
+Mansasen	     2
+Mantorp	     2
+Matfors	     2
+Meissen	     2
+Mellansel	     2
+Menasha Wi	     2
+Meppel	     2
+Merseburg	     2
+Metz	     2
+Mexico City	     2
+Minden	     2
+Molde	     2
+Moliden	     2
+Monmouth	     2
+Mons	     2
+Montevideo	     2
+Montreal	     2
+Montreuil	     2
+Mörarp	     2
+Mörbylånga	     2
+Moss	     2
+Mukimbungu	     2
+Mulhouse	     2
+Munkfors	     2
+Munktorp	     2
+Munsö	     2
+Myjava	     2
+Nacka	     2
+Naestved	     2
+Närpiö	     2
+Narvik	     2
+Näsåker	     2
+Nashville TN	     2
+Nebraska	     2
+Neubrandenburg	     2
+Neuwied	     2
+Newark NJ	     2
+Nieuwediep	     2
+Nockeby	     2
+Nordhausen	     2
+Nordingra	     2
+Nordmaling	     2
+Norrahammar	     2
+Norwich	     2
+Nossebro	     2
+Nösund	     2
+Nyhamnsläge	     2
+Nyskoga	     2
+Obbola	     2
+Öhringen	     2
+Oklahoma City OK	     2
+Olomouc	     2
+Oppenheim	     2
+Orrefors	     2
+Oskarström	     2
+Österås	     2
+Österbybruk	     2
+Överklinten	     2
+Övertorneå	     2
+Oviedo	     2
+Paisley	     2
+Passau	     2
+Pekin	     2
+Perugia	     2
+Pforzheim	     2
+Pisek	     2
+Pittsburgh Pa	     2
+Plovdiv	     2
+Poissy	     2
+Poughkeepsie NY	     2
+Prenzlau	     2
+Przemyśl	     2
+Purmerend	     2
+Pyrmont	     2
+Ragunda	     2
+Ramfall	     2
+Rämmen	     2
+Ramnäs	     2
+Ramsele	     2
+Ramvik	     2
+Rangedala	     2
+Ransta	     2
+Refsund	     2
+Reims	     2
+Revel	     2
+Richmond Va	     2
+Rijswijk	     2
+Rödelheim	     2
+Roskilde	     2
+Rothenburg ob der Tauber	     2
+Runemo	     2
+Salzburg	     2
+Sandared	     2
+Santpoort-Zuid	     2
+Savannah Ga	     2
+Sävedalen	     2
+Sceaux	     2
+Schellenberg	     2
+Schiedam	     2
+Schwabach	     2
+Sedini	     2
+Seglora	     2
+Silkeborg	     2
+Skälderhus	     2
+Skavböke	     2
+Skillingsfors	     2
+Skohalvön	     2
+Smedby	     2
+Sneek	     2
+Söderala	     2
+Solothurn	     2
+Sparrsätra	     2
+Speyer	     2
+Spöland	     2
+Stamford	     2
+Stendal	     2
+Stirling	     2
+Stjärnhov	     2
+Stöde	     2
+Stora Klefva	     2
+Stora Skedv	     2
+Strägnäs	     2
+Stråtjära	     2
+Straubing	     2
+Strömsholm	     2
+Strömtorp	     2
+Strövelstorp	     2
+Surte	     2
+Svenarum	     2
+Svenshögen	     2
+Svenstavik	     2
+Teckomatorp	     2
+Tegelsmora	     2
+Tharangampadi	     2
+Thun	     2
+Tiflis	     2
+Tofta	     2
+Tofteryd	     2
+Tonbridge	     2
+Tossene	     2
+Trani	     2
+Trieste	     2
+Trönödal	     2
+Tucuman	     2
+Tunis	     2
+Turnov	     2
+Tystberga	     2
+Überlingen	     2
+Undenäs	     2
+Unnaryd	     2
+Vadensjö	     2
+Valbo	     2
+Valparaiso	     2
+Våmhus	     2
+Vänga	     2
+Vårgårda	     2
+Värmdö	     2
+Varnhem	     2
+Västerfärnebo	     2
+Västerlanda	     2
+Västgärde	     2
+Vätternäs	     2
+Voorhout	     2
+Waltham Ma	     2
+Waterbury ct	     2
+Wedel	     2
+Wenona Il	     2
+White Plains NY	     2
+Wolfenbüttel	     2
+Woodstock	     2
+Zamosc	     2
+Zeitz	     2
+Zilina	     2
+Zweibrücken	     2
+Zwickau	     2
+Aabenraa	     1
+Aakirkeby	     1
+Aalen	     1
+Abingdon on thames	     1
+Acre	     1
+Adelöv	     1
+Adelsö	     1
+Adolfsfors	     1
+Agra	     1
+Agunnaryd	     1
+Ajmer	     1
+Akers styckebruk	     1
+Akersberga	     1
+Al Qahira	     1
+Ala	     1
+Alafors	     1
+Albenga	     1
+Aledo IL	     1
+Alessandria	     1
+Alexandria Va	     1
+Alexandrie	     1
+Alfend	     1
+Algutstorp	     1
+Allegheny PA	     1
+Allinge	     1
+Älmeboda	     1
+Alsen	     1
+Alsike	     1
+Alstad	     1
+Alstermo	     1
+Älta	     1
+Älvängen	     1
+Alvastra	     1
+Alvestorp	     1
+Älvkarleby	     1
+Amand	     1
+Ames IA	     1
+Amorbach	     1
+Amotfors	     1
+Amsele	     1
+Ånäset	     1
+Ancona	     1
+Anderslöv	     1
+Andover Ma	     1
+Ängby	     1
+Änge	     1
+Angsta	     1
+Animskog	     1
+Anneberg	     1
+Annerstad	     1
+Anundsjö	     1
+Aplared	     1
+Äppelbo	     1
+Arad	     1
+Archangelsk	     1
+Arcis-sur-Aube	     1
+Ardre	     1
+Arendal	     1
+Arksjö	     1
+Ärla	     1
+Artern	     1
+Aryd	     1
+Asarum	     1
+Asby	     1
+Aschaffenburg	     1
+Aschersleben	     1
+Åsenhöga	     1
+Ašgabat	     1
+Ashtabula Oh	     1
+Askeryd	     1
+Askilje	     1
+Askov	     1
+Assaria KS	     1
+Asso	     1
+Asti	     1
+Astoria Or	     1
+Asträsk	     1
+Athéna	     1
+Auburn RI	     1
+Augusta Me	     1
+Aurich	     1
+Avranches	     1
+Axhult	     1
+Axtell Ne	     1
+Backe	     1
+Bäckebo	     1
+Bäckefors	     1
+Bäckseda	     1
+Bacup	     1
+Bad Ems	     1
+Bad Segeberg	     1
+Bagnères-de-Luchon	     1
+Balsta	     1
+Baltijsk	     1
+Bandeng	     1
+Bandoeng	     1
+Bandra	     1
+Bandung	     1
+Bangalore	     1
+Bangor	     1
+Bankeryd	     1
+Bar Le Duc	     1
+Barga	     1
+Barhöft	     1
+Barkakra	     1
+Barsele	     1
+Barth	     1
+Bath	     1
+Baton Rouge	     1
+Bautzen	     1
+Bazoges-en-Pareds	     1
+Bedford	     1
+Beirout	     1
+Bekescsaba	     1
+Belfast	     1
+Belingwe	     1
+Bellinzona	     1
+Bengasi	     1
+Berga	     1
+Bergatorp	     1
+Berghem	     1
+Bergland ON	     1
+Bergnäsudden	     1
+Bergum	     1
+Bergvik	     1
+Berndorf	     1
+Bernshammar	     1
+Bettna	     1
+Beyrouth	     1
+Biberach an der Riß	     1
+Bie	     1
+Billinge	     1
+Birka	     1
+Bispberg	     1
+Bitterfeld	     1
+Bjärtrå	     1
+Bjästa	     1
+Björkeberg	     1
+Bjorkelangen	     1
+Björkö-Arholma	     1
+Björkvik	     1
+Björlanda	     1
+Bjuraker	     1
+Bjurbäck	     1
+Blattnicksele	     1
+Blidö	     1
+Blindern	     1
+Bloemendaal	     1
+Blois	     1
+Blomstermala	     1
+Bloomsbury	     1
+Bochum	     1
+Bodsjö	     1
+Bodträsk	     1
+Boeryd	     1
+Boet	     1
+Bognor Regis	     1
+Bograngen	     1
+Bokenäs	     1
+Boliden	     1
+Bolton	     1
+Borggard	     1
+Born	     1
+Borrud	     1
+Boulder Co	     1
+Bovallstrand	     1
+Boxbacka	     1
+Boxholm	     1
+Bradford	     1
+Brännemo	     1
+Brännögård	     1
+Brattbäcken	     1
+Brest	     1
+Bridgeport Ct	     1
+Bringåsen	     1
+Brixen	     1
+Broakulla	     1
+Brodalen	     1
+Bromberg	     1
+Bromölla	     1
+Brömsebro	     1
+Bromsten	     1
+Brookland	     1
+Brötjemark	     1
+Brownfield me	     1
+Brunebo	     1
+Brunn	     1
+Buchanan Mi	     1
+Buchen	     1
+Bückeburg	     1
+Burträsk	     1
+Büsum	     1
+Byarum	     1
+Byske	     1
+Caes	     1
+Cagliari	     1
+Cahors	     1
+Calais	     1
+Campobasso	     1
+Caribou	     1
+Carlsbad	     1
+Casale	     1
+Celle	     1
+Center City MN	     1
+Centerville RI	     1
+Cernauti	     1
+Chalons	     1
+Chambery	     1
+Charleroi	     1
+Charleston SC	     1
+Chartres	     1
+Cherbourg	     1
+Chhindwara	     1
+Chiavari	     1
+Chic	     1
+Chichester	     1
+Chudleigh	     1
+Clarens	     1
+Coblenz	     1
+Colombia	     1
+Columbia SC	     1
+Condé-sur-Noireau	     1
+Contich	     1
+Cooperstown NY	     1
+Coquimbo	     1
+Cordoba	     1
+Coruna	     1
+Cottbus	     1
+Coulommiers	     1
+Courtrai	     1
+Covina	     1
+Crefeld	     1
+Creston ia	     1
+Crompton ri	     1
+Culm	     1
+Curacao	     1
+Curityba	     1
+Cuxhaven	     1
+Czestochowa	     1
+Daglösen	     1
+Dagsberg	     1
+Dahlberg	     1
+Dakar	     1
+Dalgränsen	     1
+Dallas tx	     1
+Dalstorp	     1
+Damas	     1
+Damascus	     1
+Damme	     1
+Dannemora NY	     1
+Davenport ia	     1
+Degeberga	     1
+Dejefors	     1
+DeKalb IL	     1
+Delhi	     1
+Delmenhorst	     1
+Demmin	     1
+Denison ia	     1
+Des Moines IA	     1
+Dhulia	     1
+Die	     1
+Djurö	     1
+Djursdala	     1
+Djursholms Ösby	     1
+Dönnie	     1
+Dornach	     1
+Douai	     1
+Dover ny	     1
+Drachten	     1
+Drezdenko	     1
+Dufbo	     1
+Duisburg	     1
+Dunkalk	     1
+Dunkirk	     1
+Duved	     1
+Eagle Lake MN	     1
+East Grand Forks mn	     1
+East Lansing	     1
+East Union MN	     1
+Easton Pa	     1
+Edesjö	     1
+Edirne	     1
+Edsele	     1
+Edsviken	     1
+Eichwalde	     1
+Eindhoven	     1
+Eisenberg	     1
+Eisfeld	     1
+Ekeberg	     1
+Ekhorva	     1
+Eklanda	     1
+Eklund	     1
+Ekolsund	     1
+Ekshärad	     1
+Elgin IL	     1
+Elk River MN	     1
+Emmaus PA	     1
+Emsdetten	     1
+Enaker	     1
+Eneboga	     1
+Eneryda	     1
+Engelsberg	     1
+Englewood Cliffs NJ	     1
+Enschede	     1
+Epinal	     1
+Erevan	     1
+Erikstad	     1
+Eritrea	     1
+Erska	     1
+Esslingen	     1
+Etienne	     1
+Eugene or	     1
+Eura	     1
+Eutin	     1
+Evreux	     1
+Exeter	     1
+Faaborg	     1
+Fagelsta	     1
+Faglavik	     1
+Fägre	     1
+Färjestaden	     1
+Färna	     1
+Farstorp	     1
+Fässberg	     1
+Feanwâlden	     1
+Feldkirch	     1
+Fengersfors	     1
+Fernando	     1
+Finsterwalde	     1
+Fish Lake MN	     1
+Fjälla	     1
+Fjärås	     1
+Fjärdhundra	     1
+Fläckebo	     1
+Floby	     1
+Flöha	     1
+Flygfors	     1
+Flysta	     1
+Foix	     1
+Forestville Ct	     1
+Forli	     1
+Forserum	     1
+Forsmark	     1
+Forsmo	     1
+Forsnäs	     1
+Fort Worth Tx	     1
+Francestown NH	     1
+Franeker	     1
+Franö	     1
+Franshammar	     1
+Fredriksberg	     1
+Fredriksdal	     1
+Fredsberg	     1
+Freilassing	     1
+Freudenstadt	     1
+Freyburg	     1
+Friedrichstadt	     1
+Frinnaryd	     1
+Frustuna	     1
+Fryele	     1
+Fulda	     1
+Furudal	     1
+Fyras	     1
+Gäddede	     1
+Gammalstorp	     1
+Gärds köpinge	     1
+Garnsviken	     1
+Gåxsjö	     1
+Ge lsingfors	     1
+Geldeston	     1
+Geneseo IL	     1
+Genthin	     1
+Genvalla	     1
+Gestad	     1
+Ghent	     1
+Gillhov	     1
+Girard KS	     1
+Gisselås	     1
+Gläborg	     1
+Gladhammar	     1
+Gladsax	     1
+Glencoe IL	     1
+Globe az	     1
+Glömminge	     1
+Glostrup	     1
+Glücksburg	     1
+Glumslöv	     1
+Gökalund	     1
+Goslar	     1
+Grällsta	     1
+Granada	     1
+Granvik	     1
+Graudenz	     1
+Grava	     1
+Greeley CO	     1
+Greiz	     1
+Grillby	     1
+Grimeton	     1
+Groitzsch	     1
+Gropen	     1
+Gross Lichterfelde	     1
+Grovsta	     1
+Grums	     1
+Guatemala	     1
+Guben	     1
+Guldsmedshyttan	     1
+Gullaskruv	     1
+Gullestorp	     1
+Gunnilse	     1
+Gustafs	     1
+Gyttorp	     1
+Haapsalu	     1
+Hafnarfirði	     1
+Hagaström	     1
+Hagby	     1
+Häggenås	     1
+Hakarp	     1
+Halahult	     1
+Halland	     1
+Hälleberga	     1
+Hällesjö	     1
+Hälleviksstrand	     1
+Hällnäs	     1
+Hallsbo	     1
+Hameln	     1
+Hammerdal	     1
+Hammerfest	     1
+Hampnäs	     1
+Hamrange	     1
+Handen	     1
+Hanger	     1
+Haninge	     1
+Hankou	     1
+Hanover NH	     1
+Härad	     1
+Hardeberga	     1
+Harestad	     1
+Härslöv	     1
+Hartola	     1
+Hassela	     1
+Hastings	     1
+Hauge	     1
+Havdhem	     1
+Havlickuv Brod	     1
+Hedas	     1
+Hedesunda	     1
+Heide	     1
+Helas	     1
+Helenelund	     1
+Hellefors	     1
+Hellesylt	     1
+Helmstadt	     1
+Henån	     1
+Henriksdal	     1
+Hermantown MN	     1
+Hernosand	     1
+Hersfeld	     1
+Hertford	     1
+Hessisch Oldendorf	     1
+Hessleby	     1
+Hillsand	     1
+Hjärsås	     1
+Hjärtsäter	     1
+Hjärtum	     1
+Hjelmarsnäs	     1
+Hjørring	     1
+Hjortsberga	     1
+Hjulsjö	     1
+Hof	     1
+Högboda	     1
+Högsäter	     1
+Hollola	     1
+Holmedal	     1
+Holmsveden	     1
+Holsaker	     1
+Holstebro	     1
+Holt	     1
+Homewood IL	     1
+Hønefoss	     1
+Horb am Neckar	     1
+Hordville Ne	     1
+Höreda	     1
+Horn	     1
+Horndal	     1
+Hörnefors	     1
+Hörnsjö	     1
+Hoshiarpur	     1
+Hosjö	     1
+Hossegor	     1
+Hössna	     1
+Høvik	     1
+Hovsta	     1
+Hrafnsey	     1
+Hukuoka	     1
+Hull	     1
+Hultanäs	     1
+Hunnebostrand	     1
+Hunnestad	     1
+Huntingdon	     1
+Hurva	     1
+Husby	     1
+Hyssna	     1
+Iasi	     1
+Ilahabad	     1
+Immeln	     1
+Indal	     1
+Ingarö	     1
+Ingelstad	     1
+Ingelstorp	     1
+Intra	     1
+Isle	     1
+Isleworth	     1
+Israel	     1
+Issoudun	     1
+Jabalpur	     1
+Jäder	     1
+Jadotville	     1
+Janakkala	     1
+Järnboås	     1
+Jaroslav	     1
+Jassi	     1
+Jättendal	     1
+Jemtland me	     1
+Jersey City NJ	     1
+Johannesburg	     1
+Johansfors	     1
+Jokioinen	     1
+Jokkmokk	     1
+Jonsered	     1
+Jordan MN	     1
+Jun	     1
+Juneau AK	     1
+Juuka	     1
+Kaiserslautern	     1
+Kalamazoo Mi	     1
+Kälarne	     1
+Kallered	     1
+Kalltorp	     1
+Kangasala	     1
+Kanna	     1
+Kannus	     1
+Karachi	     1
+Kärda	     1
+Karjaa	     1
+Karkkila	     1
+Karlsbad	     1
+Karlsberg	     1
+Karlsborgsverken	     1
+Karlstorp	     1
+Kashmir	     1
+Kaskinen	     1
+Katak	     1
+Kävsjö	     1
+Kazanluk	     1
+Kearney Ne	     1
+Kempten	     1
+Kerimäki	     1
+Kibunzi	     1
+Kilmarnock	     1
+Kimito	     1
+Kingchow	     1
+Kings Lynn	     1
+Kinneved	     1
+Kirn	     1
+Kirvus	     1
+Kitee	     1
+Kivik	     1
+Kjoge	     1
+Kjulaås	     1
+Kleva	     1
+Kloster Lehnin	     1
+Knäred	     1
+Knivsta	     1
+Koblenz	     1
+Köinge	     1
+Kokemäki	     1
+Köla	     1
+Kolmarden	     1
+Kongsberg	     1
+Kongsvinger	     1
+Kornsjø	     1
+Korsor	     1
+Korsträsk	     1
+Kortebo	     1
+Kosice	     1
+Koskö	     1
+Kovland	     1
+Kreuznach	     1
+Kristiansund	     1
+Krokek	     1
+Krotoszyn	     1
+Kuala Lumpur	     1
+Kuusankoski	     1
+Kvänum	     1
+Kville	     1
+Kvissleby	     1
+Kyrkhult	     1
+Kyustendil	     1
+La Chaux-de-Fonds	     1
+La Crosse Wi	     1
+La Laguna	     1
+La Paz	     1
+La plata	     1
+Labiau	     1
+Lagan	     1
+Lahore	     1
+Lahr	     1
+Lämbacken	     1
+Lammhult	     1
+Lamoni IA	     1
+Landshut	     1
+Långaryd	     1
+Länghem	     1
+Långstorp	     1
+Lanna	     1
+Lannabruk	     1
+Lännäs	     1
+Lannaskede	     1
+Lapinjärvi	     1
+Lapua	     1
+Larvik	     1
+Lawrence KS	     1
+Le Puy-en-Velay	     1
+Leamington Spa	     1
+Lebanon Pa	     1
+Lehtimäki	     1
+Lekeryd	     1
+Lekhyttan	     1
+Lekvattnet	     1
+Lemberg	     1
+Lemgo	     1
+Lemnhult	     1
+Lengerich	     1
+Lenhovda	     1
+Leobe	     1
+Leopol	     1
+Lervik	     1
+Lerviken	     1
+Letchworth	     1
+Leverkusen	     1
+Leźno	     1
+Libros	     1
+Lidnäs	     1
+Liguge	     1
+Lilla harrie	     1
+Lillehammer	     1
+Lillkyrka	     1
+Lind	     1
+Lindau	     1
+Linghed	     1
+Linneryd	     1
+Liperi	     1
+Liptovský Mikuláš	     1
+Lisse	     1
+Livorno	     1
+Ljugarn	     1
+Ljungbyhed	     1
+Ljungbyholm	     1
+Ljurhalla	     1
+Ljusne	     1
+Lohja	     1
+Lomma	     1
+Lons-le-Saunier	     1
+Lorient	     1
+Losoncz	     1
+Lövånger	     1
+Lugnås	     1
+Lumsheden	     1
+Lundsberg	     1
+Lungsund	     1
+Lusaka	     1
+Luton	     1
+Macao	     1
+Madura	     1
+Malax	     1
+Mångbyån	     1
+Margate	     1
+Mariadahl ks	     1
+Maribor	     1
+Marienburg	     1
+Markranstädt	     1
+Marquette	     1
+Marseille	     1
+Märsta	     1
+Mässbacken	     1
+Mattmar	     1
+Mayenne	     1
+Mcpherson KS	     1
+Meaux	     1
+Medellin	     1
+Mehede	     1
+Meiningen	     1
+Meisenheim	     1
+Meitingen	     1
+Meldorf	     1
+Melle	     1
+Mellösa	     1
+Melun	     1
+Memel	     1
+Memmingen	     1
+Menton	     1
+Meselefors	     1
+Miami FL	     1
+Middelfart	     1
+Millesvik	     1
+Miskolc	     1
+Mittelwald	     1
+Mjöhult	     1
+Mjörn	     1
+Moholm	     1
+Moline IL	     1
+Möljeryd	     1
+Mölltorp	     1
+Mölnbo	     1
+Mont Alto	     1
+Montecassino	     1
+Montelimar	     1
+Montereau	     1
+Montevrain	     1
+Montpelier Vt	     1
+Montrose	     1
+Morgardshammar	     1
+Morpeth	     1
+Mörrum	     1
+Mosjøen	     1
+Mostorp	     1
+Mountain View Ca	     1
+Mulseryd	     1
+Murten	     1
+Mustio	     1
+Nagoya	     1
+Nagpur	     1
+Nagu	     1
+Nakskov	     1
+Namsos	     1
+Namur	     1
+Naperville IL	     1
+Närtuna	     1
+Narunga	     1
+Näsbypark	     1
+Naugatuck Ct	     1
+Nävekvarn	     1
+Navestabro	     1
+Nederkalix	     1
+Neukölln	     1
+Neustrelitz	     1
+Neutitschein	     1
+Nevers	     1
+New Brunswick NJ	     1
+New Jersey NJ	     1
+New London Ct	     1
+Newark	     1
+Newcastle	     1
+Newry	     1
+Nissafors	     1
+Nitta	     1
+Nivelles	     1
+Njutanger	     1
+Nöbbele	     1
+Nödinge	     1
+Nogent-le-Rotrou	     1
+Nolby	     1
+Noormarkku	     1
+Noraskog	     1
+Nordnes	     1
+Norrfjärden	     1
+Norrskata	     1
+Norrsundet	     1
+Norwalk Ct	     1
+Norwich Ct	     1
+Nosaby	     1
+Nottingham	     1
+Novara	     1
+Novgorod	     1
+Novi Sad	     1
+Novosibirsk	     1
+Nuuk	     1
+Nyborg	     1
+Nygard	     1
+Nyhem	     1
+Nykyrka	     1
+Nymburk	     1
+Nynäs	     1
+Nysa	     1
+Nysund	     1
+Nytorp	     1
+Oakland ca	     1
+Ödåkra	     1
+Odensvi	     1
+Oderljunga	     1
+Oisterwijk	     1
+Ojai CA	     1
+Oława	     1
+Oliva	     1
+Öljehult	     1
+Öllösa	     1
+Ölmstad	     1
+Olsburg ks	     1
+Onoldi	     1
+Onsala	     1
+Orivesi	     1
+Ornö	     1
+Örsundsbro	     1
+Ösjöbol	     1
+Ösmo	     1
+Ostende	     1
+Östra ämtervik	     1
+Östra Göinge	     1
+Ostrava	     1
+Ostrumelien	     1
+Ottumwa ia	     1
+Ovansjö	     1
+Överboda	     1
+Överkalix	     1
+Överlida	     1
+Öxabäck	     1
+Oxie	     1
+Pacov	     1
+Pallas	     1
+Palma	     1
+Parchim	     1
+Parkano	     1
+Partille	     1
+Paskallavik	     1
+Pataholm	     1
+Patra	     1
+Paulo	     1
+Pavia	     1
+Pawtucket ri	     1
+Pegau	     1
+Peoria IL	     1
+Perleberg	     1
+Pescara	     1
+Petroskoi	     1
+Pfullingen	     1
+Pielisjärvi	     1
+Pinerolo	     1
+Pistoia	     1
+Pleasant Grove Ut	     1
+Plön	     1
+Plymouth	     1
+Pomerania	     1
+Pontarlier	     1
+Porrentruy	     1
+Port Shepstone	     1
+Poschiavo	     1
+Pressburg	     1
+Prevalje	     1
+Prien	     1
+Prostějov	     1
+Pskov	     1
+Pukavik	     1
+Pusan	     1
+Puyollup Wa	     1
+Pyrzyce	     1
+Querfurt	     1
+Quincy Ma	     1
+Quito	     1
+Råbäck	     1
+Raby	     1
+Råby Rönö	     1
+Rada	     1
+Raleigh	     1
+Ramdala	     1
+Ramkvilla	     1
+Ränneslöv	     1
+Rantasalmi	     1
+Rätansbyn	     1
+Reftele	     1
+Reggio nell’Emilia	     1
+Reichenbach	     1
+Rendsburg	     1
+Replot	     1
+Rhodopoli	     1
+Riala	     1
+Ribnitz	     1
+Rieti	     1
+Rimbo	     1
+Rimforsa	     1
+Rimini	     1
+Ringamala	     1
+Ringerike	     1
+Risinge	     1
+Rixheim	     1
+Robertsfors	     1
+Rocca San Casciano	     1
+Rochdale	     1
+Rockneby	     1
+Rodez	     1
+Roeselare	     1
+Rönnäng	     1
+Ronneburg	     1
+Rönneshytta	     1
+Ronshausen	     1
+Rosersberg	     1
+Roßlau	     1
+Röstånga	     1
+Rovaniemi	     1
+Rovigo	     1
+Runnvika	     1
+Ruovesi	     1
+Rusko	     1
+Rydaholm	     1
+Rydsgard	     1
+Saalfeld	     1
+Saarbrücken	     1
+Saarlouis	     1
+Säbrå	     1
+Saint Paul MN	     1
+Saint-Brieuc	     1
+Saint-Gaudens	     1
+Salem	     1
+Salemsborg	     1
+Sälen	     1
+Salstad	     1
+Salzkotten	     1
+Samedan	     1
+Samtens	     1
+San Juan Puerto Rico	     1
+San Severino Marche	     1
+Sandhammaren	     1
+Sandträsk	     1
+Santos	     1
+Sarajevo	     1
+Särestad	     1
+Särkisalmi	     1
+Sarpsborg	     1
+Sätila	     1
+Satserup	     1
+Saumur	     1
+Saverne	     1
+Savona	     1
+Savonburg ks	     1
+Saxkjobing	     1
+Scansano	     1
+Schaan	     1
+Schaffhausen	     1
+Scharbeutz	     1
+Scheinfeld	     1
+Schnepfenthal	     1
+Schoonhoven	     1
+Schwedt/Oder	     1
+Schweinitz	     1
+Sclayn	     1
+Segovia	     1
+Selbu	     1
+Semarang	     1
+Senlis	     1
+Seskarö	     1
+Sibiu	     1
+Sidcup	     1
+Siegen	     1
+Siena	     1
+Sikås	     1
+Siljansnäs	     1
+Simonstorp	     1
+Simtuna	     1
+Singapore	     1
+Sint-Truiden	     1
+Sipoo	     1
+Sjösa	     1
+Sjötofta	     1
+Sjövik	     1
+Sjuntorp	     1
+Skagersbrunn	     1
+Skånes Värsjö	     1
+Skanör	     1
+Skattkärr	     1
+Skedevi	     1
+Skelleftehamn	     1
+Skepsas	     1
+Skjelskor	     1
+Skön	     1
+Skönsmon	     1
+Skottorp	     1
+Skra	     1
+Skreanäs	     1
+Skromberga	     1
+Skuttunge	     1
+Slaka	     1
+Slite	     1
+Smålands Burseryd	     1
+Smalands Taberg	     1
+Smögen	     1
+Smolensk	     1
+Snogeröd	     1
+Söderåkra	     1
+Söderbärke	     1
+Södra Sunderbyn	     1
+Soerabaja	     1
+Soest	     1
+Sölje	     1
+Sondershausen	     1
+Sontra	     1
+Sophia	     1
+Sösdala	     1
+South Bend IN	     1
+Spjutstorp	     1
+Spokane Wa	     1
+Spoleto	     1
+Sprängsviken	     1
+Spring Lake	     1
+St John New Brunswick	     1
+Staffanstorp	     1
+Stäket	     1
+Stanton Ia	     1
+Stara Rise	     1
+Stassfurt	     1
+Steenbrugge	     1
+Stehag	     1
+Stenkyrka	     1
+Stensele	     1
+Stensjöholm	     1
+Stenungsund	     1
+Stetten	     1
+Stiens	     1
+Stjärnsund	     1
+Stoby	     1
+Stöckeby	     1
+Stockel	     1
+Stoke-on-Trent	     1
+Stokgo	     1
+Stora Karlsö	     1
+Stora mellösa	     1
+Stora skedvi	     1
+Stora Tofthög	     1
+Stora Torp	     1
+Storängen	     1
+Storfors	     1
+Storuman	     1
+Strand	     1
+Strångsjö	     1
+Strassfurt	     1
+Stratford-upon-Avon	     1
+Strehlen	     1
+Striberg	     1
+Stromsburg Ne	     1
+Sturkö	     1
+Styrsö	     1
+Süderstapel	     1
+Suistamo	     1
+Sulvik	     1
+Sulzbach	     1
+Sumen	     1
+Sunhultsbrunn	     1
+Superior Wi	     1
+Svängsta	     1
+Svanö	     1
+Svanskog	     1
+Svappavaara	     1
+Svinesund	     1
+Svištov	     1
+Swedeburg Ne	     1
+Swedona IL	     1
+Szekszárd	     1
+Taastrup	     1
+Tallbo	     1
+Tanger	     1
+Tannefors	     1
+Tanum	     1
+Tåsjö	     1
+Tävelsås	     1
+Taxinge	     1
+Tegnaby	     1
+Tegneby	     1
+Tegnefors	     1
+Tempe az	     1
+Teplice	     1
+Terijoki	     1
+Terni	     1
+Thisted	     1
+Thurso	     1
+Tiel	     1
+Tilburg	     1
+Tilsit	     1
+Tingstad	     1
+Tivoli	     1
+Tjörnarp	     1
+Tobolsk	     1
+Töcksfors	     1
+Toftlund	     1
+Toledo oh	     1
+Tolg	     1
+Tollarp	     1
+Töllsjö	     1
+Tönning	     1
+Torestorp	     1
+Torgau	     1
+Torpshammar	     1
+Torrlösa	     1
+Torskors	     1
+Tostarp	     1
+Tourcoing	     1
+Tournay	     1
+Transvaal	     1
+Träslöv	     1
+Treignac	     1
+Treviso	     1
+Tribsees	     1
+Trier	     1
+Trivandrum	     1
+Troppau	     1
+Troy NY	     1
+Tšuhujiv	     1
+Turiguano	     1
+Turlock Ca	     1
+Turnhout	     1
+Turrialba	     1
+Tustin Mi	     1
+Tvaaker	     1
+Tvedestrand	     1
+Udine	     1
+Ujpest	     1
+Ulrikedal	     1
+Ulverston	     1
+Ulvesund	     1
+Ulvila	     1
+Ulvstorp	     1
+Uppåkra	     1
+Uvira	     1
+Väckelsång	     1
+Vågbro	     1
+Vălenii de Munte	     1
+Valka	     1
+Vallentuna	     1
+Valley springs	     1
+Valskog	     1
+Vamlingbo	     1
+Vancouver	     1
+Vänersnäs	     1
+Vängdala	     1
+Vankiva	     1
+Vargön	     1
+Väring	     1
+Värmskog	     1
+Väröbacka	     1
+Varola	     1
+Ṿarshe	     1
+Vartofta	     1
+Väsby	     1
+Vassor	     1
+Västanå	     1
+Västerhaninge	     1
+Västland	     1
+Västra Ämtervik	     1
+Västra Ryd	     1
+Veda	     1
+Veddige	     1
+Vedevag	     1
+Veinge	     1
+Velké Meziříčí	     1
+Vellinge	     1
+Ven	     1
+Vendelsö	     1
+Venegono Inferiore	     1
+Verkebäck	     1
+Verviers	     1
+Vesoul	     1
+Vessigebro	     1
+Vetanda	     1
+Vevey	     1
+Victoria British Columbia	     1
+Vifstavarf	     1
+Vikingstad	     1
+Vilshult	     1
+Vinberg	     1
+Virestad	     1
+Virkby	     1
+Vitsand	     1
+Vittinge	     1
+Vivstavarv	     1
+Vollsjö	     1
+Voronež	     1
+Voxna	     1
+Vraka	     1
+Vrigstad	     1
+Vrsovice	     1
+Wahoo Ne	     1
+Wakefield	     1
+Wakefield Ne	     1
+Wallingford PA	     1
+Warnsdorf	     1
+Warrington	     1
+Wataga IL	     1
+Watford	     1
+Waverly Ia	     1
+Weehawken NJ	     1
+Weibullsholm	     1
+Weilburg	     1
+Weingarten	     1
+Weissenburg	     1
+Wellington New Zeland	     1
+Werl	     1
+Wetteren	     1
+Wheaton Mn	     1
+Wiebelsheim	     1
+Wloclawek	     1
+Woodhull Il	     1
+Worcester	     1
+Workum	     1
+Württemberg	     1
+Yarmouth	     1
+Yonkers NY	     1
+York Pa	     1
+Ysane	     1
+Ytteran	     1
+Yverdon-les-Bains	     1
+Zaandam	     1
+Zaragoza	     1
+Zeulenroda	     1
+Zielenzig	     1
+Zihlbrücke	     1
+Znaim	     1
+Zoutleeuw	     1
+Zug	     1
+Zwittau	     1

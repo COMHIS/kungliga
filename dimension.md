@@ -1,7 +1,7 @@
 ---
 title: "Document dimension preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2017-11-14"
+date: "2018-06-15"
 output: markdown_document
 ---
 
@@ -24,17 +24,17 @@ These tables can be used to verify the accuracy of the conversions from the raw 
 
   * [Dimension conversions from raw data to final estimates](output.tables/conversions_physical_dimension.csv)
 
-  * [Automated tests for dimension conversions](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/tests_dimension_polish.csv)
+  * [Automated tests for dimension conversions](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/tests_dimension_polish.csv)
 
 
 
 The estimated dimensions are based on the following auxiliary information sheets:
 
-  * [Document dimension abbreviations](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/document_size_abbreviations.csv)
+  * [Document dimension abbreviations](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/document_size_abbreviations.csv)
 
-  * [Standard sheet size estimates](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/sheetsizes.csv)
+  * [Standard sheet size estimates](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/sheetsizes.csv)
 
-  * [Document dimension estimates](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/documentdimensions.csv) (used when information is partially missing)
+  * [Document dimension estimates](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/documentdimensions.csv) (used when information is partially missing)
 
 
   
@@ -43,7 +43,12 @@ The estimated dimensions are based on the following auxiliary information sheets
 Left: final gatherings vs. final document dimension (width x height). Right: original gatherings versus original heights where both are available. The point size indicates the number of documents for each case. The red dots indicate the estimated height that is used when only gathering information is available. 
 
 
-<img src="figure/dimension-summary-1.png" title="plot of chunk summary" alt="plot of chunk summary" width="280px" /><img src="figure/dimension-summary-2.png" title="plot of chunk summary" alt="plot of chunk summary" width="280px" /><img src="figure/dimension-summary-3.png" title="plot of chunk summary" alt="plot of chunk summary" width="280px" />
+
+```
+## Error in FUN(X[[i]], ...): object '.group' not found
+```
+
+<img src="figure/dimension-summary-1.png" title="plot of chunk summary" alt="plot of chunk summary" width="280px" /><img src="figure/dimension-summary-2.png" title="plot of chunk summary" alt="plot of chunk summary" width="280px" />
 
 
 Left: Document dimension histogram (surface area);

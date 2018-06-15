@@ -34,7 +34,7 @@ ignore.fields <- c()
 # ----------------------------------------------------
 
 reload.data <- FALSE
-if (!"df.raw.Rds" %in% dir()) {
+if (!"df.raw.Rds" %in% dir("data/unified/polished/")) {
   reload.data <- TRUE
 }
 
@@ -86,7 +86,7 @@ df.preprocessed <- data.validated.kungliga$df.preprocessed
 # -------------------------------------------------
 
 print("Saving preprocessed data")
-saveRDS(df.preprocessed, file = "df.Rds", compress = TRUE)
+saveRDS(df.preprocessed, file = "data/unified/polished/df.Rds", compress = TRUE)
 
 # --------------------------------------------------
 

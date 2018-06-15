@@ -1,16 +1,16 @@
 ---
 title: "Publisher preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2017-11-14"
+date: "2018-06-15"
 output: markdown_document
 ---
 
 
 ### Publishers
 
- * 16968 [unique publishers](output.tables/publisher_accepted.csv)
+ * 16954 [unique publishers](output.tables/publisher_accepted.csv)
 
- * 167212 documents have unambiguous publisher information (43.3%). This includes documents identified as self-published; the author name is used as the publisher in those cases (if known).
+ * 166967 documents have unambiguous publisher information (43.3%). This includes documents identified as self-published; the author name is used as the publisher in those cases (if known).
 
  * 11 documents are identified as self-published (0%). 
 
@@ -28,11 +28,6 @@ The 20 most common publishers are shown with the number of documents.
 Title count
 
 
-```
-## Warning: Removed 5 rows containing missing values (position_stack).
-```
-
-![plot of chunk summaryTop10pubtimeline](figure/summaryTop10pubtimeline-1.png)
 
 
 
@@ -42,16 +37,16 @@ Title count versus paper consumption (top publishers):
 
 |publisher             | titles|       paper|
 |:---------------------|------:|-----------:|
-|<Author>              |   3834|   190476.17|
-|Almqvist & Wiksell    |   2133|   373330.38|
-|Bonnier               |  13381|  2424862.41|
-|Geber                 |   2368|   296413.54|
-|Gleerup               |   2698|   240271.18|
-|Kungliga et           |   5332| 22618864.32|
-|Natur & kultur        |   2323|   346846.96|
-|Norstedt              |   6696|  1900777.91|
+|<Author>              |   3837|   190476.17|
+|Almqvist & Wiksell    |   2094|   366913.72|
+|Bonnier               |  13625|  2427276.04|
+|Geber                 |   2369|   293880.21|
+|Gleerup               |   2716|   236510.16|
+|Kungliga              |   5367| 22618864.32|
+|Natur & Coultur       |   2323|   346846.96|
+|Norstedt              |   6706|  1905944.31|
 |Riksdagen             |   3453|     2638.89|
-|Wahlström & Widstrand |   3239|   432169.70|
+|Wahlström & Widstrand |   3236|   435138.45|
 
 
 ### Corporates

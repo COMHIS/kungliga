@@ -12,8 +12,10 @@ library(knitr)
 # ---------------------------------
 
 # Set global parameters
-datafile <- "df.Rds"
-datafile.orig <- "df.raw.Rds"
+data.path <- "data/unified/polished"
+datafile <- paste(data.path, "df.Rds", sep = "/")
+datafile.orig <- paste(data.path, "df.raw.Rds", sep = "/")
+
 ntop <- 20
 author <- "Lahti, Marjanen, Roivainen, Tolonen"
 

@@ -1,7 +1,7 @@
 ---
 title: "Publication year summaries"
 author: "Leo Lahti"
-date: "2017-11-14"
+date: "2018-06-15"
 output: markdown_document
 ---
 
@@ -18,7 +18,7 @@ Publication year is available for 372136 documents (96%). The publication years 
 
 ### Publication frequency
 
-Publication frequency information is available for 3137 documents (1%). The links are invalid if the lists are empty. The (estimated annual) frequencies are converted to plain text according to their closest match in [this table](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/frequency_conversions.csv).
+Publication frequency information is available for 3136 documents (1%). The links are invalid if the lists are empty. The (estimated annual) frequencies are converted to plain text according to their closest match in [this table](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/frequency_conversions.csv).
 
 [Publication frequency accepted](output.tables/publication_frequency_accepted.csv)
 

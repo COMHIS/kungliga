@@ -50,7 +50,7 @@ output: markdown_document
 
 
 ```
-## Error in top(dfo, "gatherings", 5): object 'dfo' not found
+## Error in is.factor(x): object 'dfo' not found
 ```
 
 ```
@@ -71,7 +71,7 @@ output: markdown_document
 
 
 ```
-## Error in top(dfo, "language", 10): object 'dfo' not found
+## Error in is.factor(x): object 'dfo' not found
 ```
 
 ```

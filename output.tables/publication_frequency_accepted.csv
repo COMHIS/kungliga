@@ -1,5 +1,5 @@
 publication_frequency_text	publication_frequency_annual	Count
-Total count (na.rm TRUE): 	3136	
+Total count (na.rm TRUE): 	4191	
 month	NA	  2
 week	NA	  1
 Irregular	NA	195
@@ -21,6 +21,7 @@ Three per Month	 40.00000000	  4
 Three per Month	 38.00000000	  1
 Three per Month	 37.50000000	  2
 Three per Month	 36.00000000	  6
+Three per Month	 36.00000000	  6
 Three per Month	 35.00000000	  1
 Three per Month	 34.00000000	  1
 Three per Month	 32.00000000	  2
@@ -28,6 +29,8 @@ Three per Month	 31.00000000	  1
 Every two Weeks	 30.00000000	  2
 Every two Weeks	 28.50000000	  1
 Every two Weeks	 26.00000000	141
+Every two Weeks	 26.00000000	141
+Every two Weeks	 24.00000000	 39
 Every two Weeks	 24.00000000	 39
 Every two Weeks	 23.00000000	  1
 Every two Weeks	 22.00000000	  4
@@ -37,11 +40,13 @@ Every three Weeks	 20.00000000	 21
 Every three Weeks	 19.50000000	  1
 Every three Weeks	 19.00000000	  2
 Every three Weeks	 18.00000000	  9
+Every three Weeks	 18.00000000	  9
 Every three Weeks	 16.00000000	  4
 Every three Weeks	 15.00000000	  5
 Monthly	 14.00000000	  4
 Monthly	 13.00000000	  4
 Monthly	 12.50000000	  1
+Monthly	 12.00000000	653
 Monthly	 12.00000000	653
 Monthly	 11.50000000	  1
 Monthly	 11.00000000	 18
@@ -57,6 +62,7 @@ Seven per Year	  7.00000000	 20
 Seven per Year	  6.66666667	  1
 Seven per Year	  6.60000000	  1
 Seven per Year	  6.50000000	  6
+Every two Months	  6.00000000	201
 Every two Months	  6.00000000	201
 Every two Months	  5.75000000	  1
 Every two Months	  5.66666667	  1
@@ -172,6 +178,7 @@ Every three Years	  0.40000000	  2
 Every three Years	  0.39682540	  1
 Every three Years	  0.36363636	  1
 Every three Years	  0.34453782	  1
+Every three Years	  0.33333333	  6
 Every three Years	  0.33333333	  6
 Every three Years	  0.32352941	  1
 Every three Years	  0.32258065	  1

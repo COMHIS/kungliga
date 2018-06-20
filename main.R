@@ -75,7 +75,6 @@ rm(data.preprocessed)
 
 data.enriched <- enrich_preprocessed_data(data.validated, df.orig)
 
-stop("HERE")
 source("enrich.kungliga.R")
 data.enriched.kungliga <- enrich_kungliga(data.enriched)
 

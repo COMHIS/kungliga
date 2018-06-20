@@ -6,7 +6,6 @@ enrich_kungliga <- function(data.enriched) {
   conversions     <- data.enriched$conversions
 
   message("Enriching Kungliga")
-
   message("Updating publication times")
 
   # Use from field; if from year not available, then use till year
@@ -23,9 +22,30 @@ enrich_kungliga <- function(data.enriched) {
   source("polish_publisher_kungliga.R")
   df.preprocessed$publisher <- polish_publisher_kungliga(df.preprocessed)
 
+  # -----------------------------------------------
+
+  # Updated geomappings. This is now based on the polished place names.
+  # TODO check if original raw data has any country information
+  geoinfo <- read.csv("geo/Kungliga.places.csv", fileEncoding = "latin1")
+  # Quick manual fixes
+  df.preprocessed$publication_place <- gsub("Żary", "Zary", df.preprocessed$publication_place)
+  df.preprocessed$publication_place <- gsub("Gdańsk", "Gdansk", df.preprocessed$publication_place)
+  df.preprocessed$publication_place <- gsub("Poznań", "Poznan", df.preprocessed$publication_place)    
+
+  # not1 <- setdiff(df.preprocessed$publication_place, geoinfo$publication_place)
+  # not2 <- setdiff(geoinfo$publication_place, df.preprocessed$publication_place)
+  inds <- match(df.preprocessed$publication_place, geoinfo$publication_place)
+  df.preprocessed$publication_country <- factor(geoinfo[inds, "country"])
+  df.preprocessed$longitude <- geoinfo[inds, "longitude"]
+  df.preprocessed$latitude <- geoinfo[inds, "latitude"]  
+  
+  # -----------------------------------------------
+
   data.enriched.kungliga <- list(df.preprocessed = df.preprocessed,
                                  update.fields = update.fields,
                                  conversions = conversions) 
-  
+
+
   return (data.enriched.kungliga)
+
 }

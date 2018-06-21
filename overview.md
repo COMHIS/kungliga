@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing overview"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2018-06-18"
+date: "2018-06-20"
 output: markdown_document
 ---
 
@@ -101,6 +101,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |author_name                  |          72.7|        280293|        27.3|      88144|
 |author                       |          72.7|        280293|        27.3|      89395|
 |852j                         |          91.3|        352283|         8.7|     133906|
+|longitude                    |          94.0|        362746|         6.0|        568|
+|latitude                     |          94.0|        362746|         6.0|        585|
 |publication_country          |          94.1|        362962|         5.9|         39|
 |publication_place            |          95.7|        369108|         4.3|       2637|
 |publication_year_from        |          96.5|        372116|         3.5|        500|
@@ -114,8 +116,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 |volcount                     |         100.0|        385762|         0.0|         43|
 |language_count               |         100.0|        385771|         0.0|          1|
 |multilingual                 |         100.0|        385771|         0.0|          1|
-|languages                    |         100.0|        385771|         0.0|        100|
-|language_primary             |         100.0|        385771|         0.0|        100|
+|languages                    |         100.0|        385771|         0.0|         99|
+|language_primary             |         100.0|        385771|         0.0|         99|
 |pagecount.multiplier         |         100.0|        385771|         0.0|          1|
 |pagecount.squarebracket      |         100.0|        385771|         0.0|        248|
 |pagecount.plate              |         100.0|        385771|         0.0|        156|
@@ -133,8 +135,8 @@ Same in exact numbers: documents with available/missing entries, and number of u
 
 ```
 ##            used  (Mb) gc trigger   (Mb)  max used   (Mb)
-## Ncells  2906427 155.3    9522772  508.6  14879332  794.7
-## Vcells 94112735 718.1  275532544 2102.2 233932427 1784.8
+## Ncells  2912678 155.6    9673041  516.6  18892660 1009.0
+## Vcells 96151564 733.6  275665025 2103.2 248141348 1893.2
 ```
 
 

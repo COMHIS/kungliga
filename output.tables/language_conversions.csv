@@ -1,97 +1,190 @@
 Name	Count
-Total count (na.rm TRUE): 	383348
-swe	318288
-ger	 14340
-eng	 10793
-und	  8080
-lat	  7351
-fre	  5967
-fin	  4434
-dan	  4358
-nor	  2143
-dut	  1155
-zxx	   903
-ita	   808
-rus	   726
-spa	   445
-mul	   367
-cze	   338
-pol	   327
-est	   313
-ice	   293
+Total count (na.rm TRUE): 	383354
+swe	210902
+0 s	104952
+ger	 12587
+und	  8009
+eng	  7570
+lat	  7208
+fre	  5321
+fin	  4421
+dan	  4305
+0 e	  3328
+nor	  2088
+0 g	  1742
+dut	  1153
+zxx	   900
+ita	   792
+rus	   708
+0 f	   649
+b0s	   641
+spa	   396
+0,s	   366
+cze	   334
+f s	   323
+pol	   306
+ice	   291
+mul	   275
 ---	   226
-lav	   211
-hun	   199
-grc	   154
-non	   138
-por	   115
+0 l	   217
+1 s	   207
+hun	   198
+est	   194
+p s	   180
+0s	   177
+grc	   145
+s	   141
+non	   137
+lav	   133
+por	   114
+0ds	    90
+d s	    88
+j s	    88
 smi	    83
-hrv	    80
-epo	    77
+0bs	    79
+hrv	    79
 bul	    69
 jpn	    68
-heb	    46
+0 u	    59
+0 n	    55
+0 d	    51
+0as	    48
+heb	    44
+b0m	    40
 tur	    37
 ara	    34
 gre	    34
-yid	    25
+0 m	    30
+epo	    27
+0 i	    24
+yid	    24
 rum	    22
+0 p	    20
+0cs	    20
+0m	    19
+b0e	    19
+0 r	    18
 slo	    18
 tir	    18
 chi	    17
+0dg	    14
 fao	    14
 tig	    14
 ukr	    14
+0u	    12
+0be	    11
 bnt	    11
 amh	    10
-ido	    10
 slv	    10
-swa	    10
+0e	     9
+f,s	     9
 kon	     9
 srp	     9
-lit	     7
+0ae	     7
 pli	     7
 afr	     6
+lit	     6
 nds	     6
 nno	     6
+1,s	     5
 arm	     5
-zul	     5
+f e	     5
+0 c	     4
+1 e	     4
 9fs	     4
+d,s	     4
 got	     4
+swa	     4
 syr	     4
-art	     3
+zul	     4
+0 h	     3
+0f	     3
+b0g	     3
 cat	     3
 fro	     3
 fry	     3
 gez	     3
+h s	     3
+ido	     3
+l	     3
+m s	     3
 nic	     3
 san	     3
-smj	     3
+u,s	     3
+0 a	     2
+0,e	     2
+0ce	     2
 9fd	     2
 alb	     2
 arc	     2
+b0f	     2
+b1s	     2
+d f	     2
 enm	     2
 fiu	     2
 frm	     2
 geo	     2
 hin	     2
+i,s	     2
 ind	     2
+jas	     2
 mlg	     2
 orm	     2
+p e	     2
+p m	     2
 per	     2
 roh	     2
 sme	     2
+smj	     2
 ssa	     2
 uig	     2
 wel	     2
+z	     2
+0	     1
+0 o	     1
+0 y	     1
+0 z	     1
+0,f	     1
+0,g	     1
+0,p	     1
+00	     1
+002	     1
+006	     1
+0bd	     1
+0d	     1
+0de	     1
+0df	     1
+1as	     1
+1ds	     1
+502	     1
+999	     1
 9ft	     1
 9mk	     1
 alg	     1
+art	     1
+b,s	     1
+b0d	     1
+b0h	     1
+b0l	     1
+b0n	     1
+b0p	     1
 ber	     1
+c s	     1
 cus	     1
+d	     1
+d l	     1
 da	     1
+e	     1
+e,s	     1
+f g	     1
+g	     1
 gmh	     1
 hil	     1
+i	     1
+i z	     1
+ins	     1
+j e	     1
+j,s	     1
 kal	     1
 kho	     1
 kin	     1
@@ -99,13 +192,16 @@ kor	     1
 kua	     1
 mac	     1
 mal	     1
-oci	     1
+mu	     1
 ori	     1
+p f	     1
+p,s	     1
 pro	     1
 rom	     1
 sma	     1
 som	     1
 sp	     1
+sw	     1
 tre	     1
 ty	     1
 wen	     1

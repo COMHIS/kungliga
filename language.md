@@ -1,18 +1,18 @@
 ---
 title: "Language summaries"
 author: "Leo Lahti"
-date: "2018-06-18"
+date: "2018-06-20"
 output: markdown_document
 ---
 
 ## Language
 
- * 99 [unique languages](output.tables/language_accepted.csv)
- * 99 [unique primary languages](output.tables/language_accepted.csv)  
+ * 98 [unique languages](output.tables/language_accepted.csv)
+ * 98 [unique primary languages](output.tables/language_accepted.csv)  
  * 385771 single-language documents (100%)
  * 0 multilingual documents (0%) 
  * [Conversions from raw to preprocessed language entries](output.tables/language_conversions.csv) 
- * 10741 documents (2.78%) with [unrecognized language](output.tables/language_discarded.csv)
+ * 124502 documents (32.27%) with [unrecognized language](output.tables/language_discarded.csv)
 
 Language codes are from [MARC](http://www.loc.gov/marc/languages/language_code.html); new custom abbreviations can be added in [this table](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/language_abbreviations.csv).
 
@@ -29,14 +29,14 @@ see [accepted languages](output.tables/language_accepted.csv).
 
 |Language     |Documents (n) |Fraction (%) |
 |:------------|:-------------|:------------|
-|Swedish      |318288        |82.5         |
-|German       |14340         |3.7          |
-|English      |10793         |2.8          |
-|Undetermined |10741         |2.8          |
-|Latin        |7351          |1.9          |
-|French       |5967          |1.5          |
-|Finnish      |4434          |1.1          |
-|Danish       |4358          |1.1          |
-|Norwegian    |2143          |0.6          |
-|Dutch        |1155          |0.3          |
+|Swedish      |210902        |54.7         |
+|Undetermined |124502        |32.3         |
+|German       |12587         |3.3          |
+|English      |7570          |2            |
+|Latin        |7208          |1.9          |
+|French       |5321          |1.4          |
+|Finnish      |4421          |1.1          |
+|Danish       |4305          |1.1          |
+|Norwegian    |2088          |0.5          |
+|Dutch        |1153          |0.3          |
 

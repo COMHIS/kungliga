@@ -1,7 +1,7 @@
 ---
 title: "Publication place preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2018-06-18"
+date: "2018-06-20"
 output: markdown_document
 ---
 
@@ -38,8 +38,8 @@ Top-20 publication places are shown together with the number of documents.
 
 ### Geocoordinates
 
- * NaN% of the documents were matched to geographic coordinates (based on [Geonames](http://download.geonames.org/export/dump/)).
- * 0 unique places (0% of all unique places and NaN% of all documents) are missing geocoordinates. See [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv).
+ * 94% of the documents were matched to geographic coordinates (based on [Geonames](http://download.geonames.org/export/dump/)).
+ * 1980 unique places (75.1% of all unique places and 5.97% of all documents) are missing geocoordinates. See [list of places missing geocoordinate information](output.tables/absentgeocoordinates.csv).
  
 
 ### Publication geography

@@ -7,6 +7,15 @@ eri paikkakunnilla ja eri aikoina samat asiasanat vai onko tässä
 suurtakin heittoa?
 
 
+### Page counts
+
+Jatkan vielä katselua, mutta tähän mennessä on tullut vastaan seuraavia syitä miksi noi kirjat ovat ehkä päätyneet tolle listalle:
+- kirjassa on monta nidettä (tää on yleinen) ja libriksessä (KB:katalogi) on itseasiass usein niin, että jokainen nide on erikseen, jolloin pagecount löytyy, mutta erikseen on sitten tietue koko teoksesta, jossa on kaikki niteet, mutta ei sivunumeroita. Tämä ei perustu kovinkaan kattavaan otokseen.
+- kirjasta puuttuu sivutieto
+- julkaisu on erillispainos tai kirjan osa
+- sivunumero on merkattu MARC tietoon muodossa "XX sidor" eikä "XX s." (en tiedä onko näitä siivottu. voi olla, että johtuu muusta)
+Toinen juttu, katselin Libriksestä noita MARC tietoja ja siellä muutamasta kirjasta on formaattitieto, vaikka tässä meillä ei ole. Ja aika monessa on formaattitieto signumissa, kentässä 852. En tiedä viittaako se siihen kirjaan, vai voiko noissa signumeissa olla jotain muuta. @hegroiva ehkä osaa sanoa mistä tämä johtuu.
+
 ### Publication time
 
 Discarded Interval Kungliga & Fennica: 1912-1913 -> Näitä tapauksia jonkun verran. En oikein hiffaa miksi täällä on näin paljon tavaraa, joka näyttää selvältä.

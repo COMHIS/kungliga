@@ -36,6 +36,11 @@ nr 1(1928)-nr. 19(2003) 1928 NA 1
 
 ### Fields to be added (?), less urgent
 
+852z = Kirjaston oma public note
+Kungliga on käyttänyt sitä aika surutta: 239k annotoitu. Arvoissa näyttää olevan ainakin sivumääriä ja gatheringseja.
+Paljon myös tietoa siitä, että kirja löytyy myös digitoituna tai on yhteissidos jonkun toisen kirjan kanssa.
+Eli hyvin sekalaista kamaa
+
 Some of these are available in the data but may not have preprocessing
 functions yet (check):
 

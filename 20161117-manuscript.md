@@ -1,7 +1,7 @@
 ---
 title: "Patterns in Knowledge Production in Sweden and Finland, 1640–1828"
 author: "Mikko Tolonen, Jani Marjanen, Hege Roivainen, Leo Lahti"
-date: date: "2018-06-20"
+date: date: "2018-06-29"
 output: markdown_document
 ---
 

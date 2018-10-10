@@ -7,7 +7,7 @@ output: markdown_document
 
 
 ```
-## Error in tbl_vars(y): object 'df.gatherings' not found
+## Error in exists(df.gatherings): object 'df.gatherings' not found
 ```
 
 

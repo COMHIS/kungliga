@@ -1,24 +1,27 @@
 ---
 title: "Pagecount preprocessing summary"
 author: "Lahti, Marjanen, Roivainen, Tolonen"
-date: "2018-06-29"
+date: "2018-10-10"
 output: markdown_document
 ---
 
 
+```
+## Error in tbl_vars(y): object 'df.gatherings' not found
+```
 
 
 ## Page counts
 
-  * Page count available for 385632 documents in total (100%), including both readily available and estimated page counts.
+  * Page count available for 0 documents in total (0%), including both readily available and estimated page counts.
 
-  * Page count readily available for 238695 documents (61.9%). 
+  * Page count readily available for 0 documents (0%). 
 
-  * Page count estimated for 146937 documents (38.1%).
+  * Page count estimated for 0 documents (0%).
 
   * Page count missing and could not be estimated for 139 documents (0%).
 
-  * Page count updated for 2360 documents in the validation phase.
+  * Page count updated for 0 documents in the validation phase.
   
   * [Conversions from raw data to final page count estimates](output.tables/pagecount_conversions.csv)
 
@@ -48,8 +51,26 @@ information is added separately for each document on top of the page
 count estimate.
 
 
+```
+## Error in `$<-.data.frame`(`*tmp*`, pagecount, value = integer(0)): replacement has 0 rows, data has 57
+```
 
-![plot of chunk size-pagecountsmulti2](figure/pagecount-size-pagecountsmulti2-1.png)
+
+```
+## Error in eval(expr, envir, enclos): object 'mean.pagecounts' not found
+```
+
+```
+## Error in `colnames<-`(`*tmp*`, value = character(0)): attempt to set 'colnames' on an object with less than two dimensions
+```
+
+```
+## Error in UseMethod("droplevels"): no applicable method for 'droplevels' applied to an object of class "NULL"
+```
+
+```
+## Error in pics[[2]]: subscript out of bounds
+```
 
 
 
@@ -59,17 +80,19 @@ count estimate.
 
 Left: Gatherings vs. overall pagecounts (original + estimated). Right: Only the estimated page counts (for the 146937 documents that have missing pagecount info in the original data):
 
+<img src="figure/pagecount-size-estimated-1.png" title="plot of chunk size-estimated" alt="plot of chunk size-estimated" width="430px" /><img src="figure/pagecount-size-estimated-2.png" title="plot of chunk size-estimated" alt="plot of chunk size-estimated" width="430px" /><img src="figure/pagecount-size-estimated-3.png" title="plot of chunk size-estimated" alt="plot of chunk size-estimated" width="430px" />
 
-```
-## Error in grouped_indices_grouped_df_impl(.data): Column `pagecount` is unknown
-```
 
-```
-## Error in FUN(X[[i]], ...): object 'documents' not found
-```
+Paper consumption histogram;
 
-<img src="figure/pagecount-size-estimated-1.png" title="plot of chunk size-estimated" alt="plot of chunk size-estimated" width="430px" />
 
+<img src="figure/pagecount-sizes-1.png" title="plot of chunk sizes" alt="plot of chunk sizes" width="280px" />
+
+<!--
+
+### Title count versus paper consumption
+
+![plot of chunk title_vs_paper](figure/pagecount-title_vs_paper-1.png)
 
 
 ## Documents with missing pages over years 
@@ -90,8 +113,6 @@ Note: there are 312220 documents that have some dimension info but sheet area in
 ![plot of chunk pagecounts-gatherings-relab](figure/pagecount-pagecounts-gatherings-relab-1.png)![plot of chunk pagecounts-gatherings-relab](figure/pagecount-pagecounts-gatherings-relab-2.png)
 
 ![plot of chunk paperconsumption2](figure/pagecount-paperconsumption2-1.png)
-
-
 
 ## Pamphlets vs. Books
 
@@ -122,4 +143,6 @@ Page counts: does it change over time? Also suggested we could calculate some ki
 Same for documents that have a sufficient number of pages:
 
 ![plot of chunk pagecounts-gatsize3](figure/pagecount-pagecounts-gatsize3-1.png)![plot of chunk pagecounts-gatsize3](figure/pagecount-pagecounts-gatsize3-2.png)![plot of chunk pagecounts-gatsize3](figure/pagecount-pagecounts-gatsize3-3.png)![plot of chunk pagecounts-gatsize3](figure/pagecount-pagecounts-gatsize3-4.png)
+
+-->
 

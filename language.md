@@ -1,18 +1,20 @@
 ---
 title: "Language summaries"
 author: "Leo Lahti"
-date: "2017-11-14"
+date: "2018-06-29"
 output: markdown_document
 ---
 
 ## Language
 
- * 97 [unique languages](output.tables/language_accepted.csv)
- * The languages may come in [combinations](output.tables/language_conversions.csv)
- * 367 multilingual documents (0.1%)  
- * 10741 docs (2.78%) with empty or [unrecognized language](output.tables/language_discarded.csv)
+ * 98 [unique languages](output.tables/language_accepted.csv)
+ * 98 [unique primary languages](output.tables/language_accepted.csv)  
+ * 385771 single-language documents (100%)
+ * 0 multilingual documents (0%) 
+ * [Conversions from raw to preprocessed language entries](output.tables/language_conversions.csv) 
+ * 124502 documents (32.27%) with [unrecognized language](output.tables/language_discarded.csv)
 
-Language codes are from [MARC](http://www.loc.gov/marc/languages/language_code.html); new custom abbreviations can be added in [this table](https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/language_abbreviations.csv).
+Language codes are from [MARC](http://www.loc.gov/marc/languages/language_code.html); new custom abbreviations can be added in [this table](https://github.com/COMHIS/bibliographica/blob/master/inst/extdata/language_abbreviations.csv).
 
 Title count per language (including multi-language documents):
 
@@ -21,16 +23,20 @@ Title count per language (including multi-language documents):
 
 ### Top languages
 
-Number of documents assigned with each language. For a complete list,
+Number of documents assigned with each language (top-10). For a complete list,
 see [accepted languages](output.tables/language_accepted.csv).
 
 
-|Language | Documents (n)| Fraction (%)|
-|:--------|-------------:|------------:|
-|Swedish  |        318288|         84.9|
-|German   |         14341|          3.8|
-|English  |         10795|          2.9|
-|Latin    |          7351|          2.0|
-|French   |          5972|          1.6|
-|Finnish  |          4434|          1.2|
+|Language     |Documents (n) |Fraction (%) |
+|:------------|:-------------|:------------|
+|Swedish      |210902        |54.7         |
+|Undetermined |124502        |32.3         |
+|German       |12587         |3.3          |
+|English      |7570          |2            |
+|Latin        |7208          |1.9          |
+|French       |5321          |1.4          |
+|Finnish      |4421          |1.1          |
+|Danish       |4305          |1.1          |
+|Norwegian    |2088          |0.5          |
+|Dutch        |1153          |0.3          |
 

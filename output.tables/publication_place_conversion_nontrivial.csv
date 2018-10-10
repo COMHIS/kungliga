@@ -1,5 +1,5 @@
 original	polished	Count
-Total count (na.rm TRUE): 	89423	
+Total count (na.rm TRUE): 	89413	
 Göteborg	Gothenburg	12581
 Helsingfors	Helsinki	 8439
 [Stockholm]	Stockholm	 6951
@@ -299,7 +299,7 @@ Stockholm, Tryckt i Kongl. Tryckeriet, 1796.	Stockholm	   23
 Stockholm, tryckt i Kongl. tryckeriet, 1792.	Stockholm	   23
 Stockholm, tryckt uti thet Kongl. tryckeriet.	Stockholm	   23
 Helsingforsiæ	Helsinki	   23
-Danzig	Gdańsk	   23
+Danzig	Gdansk	   23
 Gäfle	Gävle	   23
 Carlscrona	Karlskrona	   23
 Petersburg	St Petersburg	   23
@@ -361,7 +361,6 @@ St Petersbourg	St Petersburg	   18
 Londres	London	   18
 [Wien]	Vienna	   18
 H-fors	Fors	   18
-Poznan	Poznań	   18
 Wildpark-Potsdam	Potsdam	   18
 Stockholm, tryckt hos direct. Lars Salvius.	Stockholm	   18
 Stockholm, tryckt hos Lars Salvius.	Stockholm	   18
@@ -665,6 +664,7 @@ Upsalis	Uppsala	    8
 Stockholm ;;Upsala	Stockholm	    8
 Stockholm ;;Bern	Stockholm	    8
 Jyväskylässä	Jyväskylä	    8
+Poznań	Poznan	    8
 Jönköp.	Jönköping	    8
 Orléans	Orleans	    8
 New York ;;London	New York NY	    8
@@ -780,7 +780,7 @@ Upsaliæ Excudebant Regiæ Academiæ Typographi.	Uppsala	    6
 Upsaliæ, excudebant regiae academiae typographi.	Uppsala	    6
 [Alnarp]	Alnarp	    6
 [Sanktpeterburg]	St Petersburg	    6
-Posen	Poznań	    6
+Posen	Poznan	    6
 Upsaliae.	Uppsala	    6
 Åggelby	Helsinki	    6
 Helsinki..	Helsinki	    6
@@ -845,7 +845,7 @@ Stockholm ;;Köln	Stockholm	    6
 Charlottenburg	Berlin	    6
 Linköping :;Stockholm	Linköping	    6
 Järfsö	Järsö	    6
-Stokcholʹm	Stockholm	    6
+Stokcholʹm	Stokchol	    6
 Alsbäck, Borlänge	Borlänge	    6
 Wäxjö	Växjö	    6
 [Tranås]	Tranås	    6
@@ -1157,7 +1157,7 @@ Upsaliæ, excudebant Zeipel et Palmblad.	Uppsala	    4
 [Wexiö]	Växjö	    4
 Scaræ	Skara	    4
 Orebro	Örebro	    4
-Posnaniae	Poznań	    4
+Posnaniae	Poznan	    4
 Baden-Baden	Baden	    4
 Upsaliæ, Excudebant regiæ academiæ typographi.	Uppsala	    4
 Rudolstadt	Rudolfstadt	    4
@@ -1579,7 +1579,7 @@ Bielefeld und Leipzig	Bielefeld	    3
 Sthlm & Uppsala	Stockholm	    3
 Kiliae	Kiel	    3
 [Uppsala & Wiesbaden]	Uppsala	    3
-Dantzig	Gdańsk	    3
+Dantzig	Gdansk	    3
 københavn	Copenhagen	    3
 Rostock..	Rostock	    3
 Freiburg im Br	Freiburg im Breisgau	    3
@@ -1592,7 +1592,7 @@ Jönkjöping	Jönköping	    3
 Tryckt j Stockholm	Stockholm	    3
 Gryphiswaldi	Greifswald	    3
 Holmiæ, typis Schroderianis. Anno 1638.	Stockholm	    3
-[Danzig]	Gdańsk	    3
+[Danzig]	Gdansk	    3
 Cracoviæ	Krakow	    3
 Strengnesiæ, excudebat Zacharias Brockenivs, anno 1652.	Strängnäs	    3
 Stregnesii	Strängnäs	    3
@@ -1619,7 +1619,7 @@ Antverpiæ	Antwerp	    3
 Stokholmiæ	Stockholm	    3
 Holmiæ Svecorum	Stockholm	    3
 Amsteldam	Amsterdam	    3
-Poznán	Poznań	    3
+Poznán	Poznan	    3
 Upsalis, ex officina Werneriana.	Uppsala	    3
 Upsalis, literis Wernerianis.	Uppsala	    3
 Upsaliae, ex officina Werneriana.	Uppsala	    3
@@ -2166,7 +2166,7 @@ Frauenfeld ...	Frauenfeld	    2
 Lund, tryckt uti Berlingska Boktryckeriet, 1842.	Lund	    2
 Leijden	Leiden	    2
 Hamburg ;;Berlin	Hamburg	    2
-Poznań ;;Warszawa	Poznań	    2
+Poznań ;;Warszawa	Poznan	    2
 Stockholm : B. Wahlström	Stockholm	    2
 Berlin-Halensee	Berlin	    2
 Detroit, Mich	Detroit Mi	    2
@@ -2837,7 +2837,7 @@ Stockholm (Örebro)	Stockholm	    2
 Tranås;Tranås	Tranås	    2
 St. Gallen	St Gallen	    2
 Hämenlinna	Hämeenlinna	    2
-Poznań	Poznań	    2
+Poznań	Poznan	    2
 Tranquebar	Tharangampadi	    2
 's-Graveland	The Hague	    2
 Marburg/Lahn	Marburg	    2
@@ -3235,7 +3235,7 @@ Upsalis, excudit Henricus Keyser jun. Reg. academ. typographus.	Uppsala	    1
 Upsaliæ, excudit Henricus Keyser, s: r: m:tis et Acad. Typogr.	Uppsala	    1
 Leipzig und Weimar bey Siegmund Heinrich Hoffmann	Leipzig	    1
 Kjøbenhavn 1822. Paa udgiverens forlag. Trykt hos Schiøtz & Mandra.	Copenhagen	    1
-Dantzig, 1740.	Gdańsk	    1
+Dantzig, 1740.	Gdansk	    1
 Vpsaliæ, literis Höjerianis.	Uppsala	    1
 Leipzig ;;Berlin ;;Wien	Leipzig	    1
 Upsaliæ, litteris Johan. Fred. Edmann. reg. acad. typogr.	Uppsala	    1
@@ -3314,7 +3314,7 @@ Växterås	Västerås	    1
 Upsaliæ. Litteris Joh. Edman, reg. acad. typogr.	Uppsala	    1
 Ottawa, Ont.	Ottawa	    1
 London ; Paris ; New York ; Melbourne	London	    1
-W. Poznaniu	Poznań	    1
+W. Poznaniu	Poznan	    1
 Stockholm, Adolf Bonnier	Stockholm	    1
 Stockholm :;Dresden	Stockholm	    1
 Stockholm ;;Halmstad ;;Lund	Stockholm	    1
@@ -5793,8 +5793,8 @@ Lundæ, MDCCCXIII. Typis Berlingianis.	Lund	    1
 Stockholm : Kungsh. bokf. exp.	Stockholm	    1
 S.l. [Frankfurt am Main]	Frankfurt	    1
 Lexington, Kentucky	Lexington KY	    1
-Sorau, druckts Johann Gottlieb Rothe, 1728.	Żary	    1
-Sorau, druckts Joh. Gottlieb Rothe, 1725.	Żary	    1
+Sorau, druckts Johann Gottlieb Rothe, 1728.	Zary	    1
+Sorau, druckts Joh. Gottlieb Rothe, 1725.	Zary	    1
 Szegzárd	Szekszárd	    1
 Hafniæ apud Salomonem Sartorium ... Ao. M.D CXXVI.	Copenhagen	    1
 Lunden (Holstein)	London	    1
@@ -5970,7 +5970,7 @@ Vinslöf	Vinslöv	    1
 Upsala Palmblad & C:o 1830.	Uppsala	    1
 Madison, Wis.	Madison	    1
 [Uppsla]	Uppsala	    1
-Geʹlsingfors	Helsinki	    1
+Geʹlsingfors	Ge lsingfors	    1
 Gedruckt im Jahr 1714. Im Augusto. [Kolofon:] Stralsund, gedruckt durch seel. Michael Meders Erben.	Stralsund	    1
 Westerås. På J. G. Björnståhls förlag. [Kolofon:] Westerås, D. Torssell, 1835	Västerås	    1
 Stockholm,1840. Tryckt hos P. A. Nordstedt & Söner, Kongl. bpktryckare.	Stockholm	    1
@@ -6036,7 +6036,7 @@ A Milan. MDCCLXXI. Chez les freres Reycends libraires sous les arcades de Figini
 Londini Gothorum ex officina Berlingiana. MDCCCXXV.	London	    1
 Stockholm, hos J. A. Walldén, 1838	Stockholm	    1
 Lundæ, MDCCCXX. Literis Berlingianis.	Lund	    1
-Poznań ...	Poznań	    1
+Poznań ...	Poznan	    1
 Kjövenhavn	Copenhagen	    1
 Lebanon, Pa.	Lebanon Pa	    1
 Aboæ, impr. Joh. Kiæmpe reg. acad. typ.	Turku	    1
@@ -6178,7 +6178,7 @@ Westeråjs	Västerås	    1
 Edinburgh: printed for the author. M,DCC,LXXVI.	Edinburgh	    1
 Lund, 1793. Tryckt uti Berlingska boktryckeriet.	Lund	    1
 Jönköping ...	Jönköping	    1
-Dantisci	Gdańsk	    1
+Dantisci	Gdansk	    1
 Raykjavík	Reykjavik	    1
 Stockholm, Schultze & Comp. 1845.	Stockholm	    1
 Gryphiswaldiæ, typis Caroli Hœpfneri, reg. acad. typogr.	Greifswald	    1
@@ -6570,7 +6570,7 @@ Pittsburgh, Pa. ...	Pittsburgh Pa	    1
 [Uddevalla?]	Uddevalla	    1
 S.l. [Dat. Stettin.]	Szczecin	    1
 Nykjøbing	Nyköping	    1
-Stokgoʹm	Stockholm	    1
+Stokgoʹm	Stokgo	    1
 Växl. orter	Växjö	    1
 Greifswald, gedruckt bei J. H. Eckhardt. 1802.	Greifswald	    1
 Sortawalassa	Sortavala	    1
@@ -6862,7 +6862,7 @@ V Ljubljani	Ljubljana	    1
 Strengnäs, tryckt hos Carl Erik Ekmarck, 1830.	Strängnäs	    1
 Holmiæ Hamburgi	Stockholm	    1
 Frankfurt an der Oder	Frankfurt	    1
-[Sorau]	Żary	    1
+[Sorau]	Zary	    1
 Philadelphia ;;Chicago	Philadelphia Pa	    1
 Göteborg :;Göteborg :;Bromma :;Göteborg	Gothenburg	    1
 Lahtis	Lahti	    1
@@ -6941,7 +6941,7 @@ Topeka, Kansas	Topeka	    1
 Rostock, verlegts Johann Christian Koppe, 1765.	Rostock	    1
 Gryphiswaliæ, typis Caroli Höpfneri	Greifswald	    1
 Hafniæ anno MDCCLXXX. Sumtibus illustriss. P. Frid. Suhm. Typis Sander & Schröder.	Copenhagen	    1
-[Dantzig]	Gdańsk	    1
+[Dantzig]	Gdansk	    1
 [Tönder]	Tønder	    1
 New York,N.Y.	New York NY	    1
 Lüttich	Liège	    1
@@ -7444,7 +7444,7 @@ Berlin & Stettin, bey Friederich Nicolai, 1783.	Berlin	    1
 [Matadi]	Matadi	    1
 Aboæ, in officina typographica Societatis Biblicæ	Turku	    1
 Královské-Vinohrady	Prague	    1
-[Pozsony]	Poznań	    1
+[Pozsony]	Poznan	    1
 Košice	Kosice	    1
 [Mexiko]	Mexico City	    1
 Beograd ;;Sarajevo	Beograd	    1
@@ -7544,7 +7544,7 @@ Groningen..	Groningen	    1
 Åbo, tryckt hos direct. och kongl. boktr. i storförstend. Finland, Jacob Merckell.	Turku	    1
 Åbo, tryckt hos directueren och kongl. boktr. i stor-förstendömet Finland, Jacob Merckell.	Turku	    1
 Christiania. trykt hos Carl C. Werner & Comp. 1848.	Oslo	    1
-Sorøe, 1768. Trykt hos Jonas Lindgren, det ridderlige akademies bogtrykker.	Żary	    1
+Sorøe, 1768. Trykt hos Jonas Lindgren, det ridderlige akademies bogtrykker.	Zary	    1
 Lisbonne	Lisbon	    1
 Berlin ;;Peterburg ;;Moskva	Berlin	    1
 Kotkassa	Kotka	    1
@@ -7913,7 +7913,7 @@ Helsingfors :;Leipzig	Helsinki	    1
 Visbuae	Visby	    1
 Stockholm :;Berlin :;Paris	Stockholm	    1
 Aix-la-Chapelle	Aachen	    1
-Pozsony & Komárom	Poznań	    1
+Pozsony & Komárom	Poznan	    1
 Lvgdvni Batavorvm, apud Andream Cloucquium. M DC XXXVII. [Kolofon: Lugduni Batavorum, typis Wilhelmi Christiani. M DC XXXVII.]	Leiden	    1
 Aachen u. Leipzig	Aachen	    1
 St Gall et Berne	Bern	    1
@@ -8174,7 +8174,7 @@ Waltham, Mass	Waltham Ma	    1
 Filipstad..	Filipstad	    1
 Strassburg..	Strasbourg	    1
 Gryphiæ..	Greifswald	    1
-Poznan'	Poznań	    1
+Poznan'	Poznan	    1
 Lundæ Gothorum [Lund]	Lund	    1
 Greifswald, bei Anton Ferdinand Röse. 1782.	Greifswald	    1
 Greifswald bei Anton Ferdinand Röse. 1774.	Greifswald	    1
@@ -8218,7 +8218,7 @@ Liptovsky	Liptovský Mikuláš	    1
 Copenhagen & Lpz	Copenhagen	    1
 Gefle, imprimerie de Landin 1855.	London	    1
 [Tryckt ad Hrappsey 1782 af Magnúsi Moberg].	Hrafnsey	    1
-Danzic	Gdańsk	    1
+Danzic	Gdansk	    1
 Kiöbenhavn, 1792. Trykt hos Matthias Seest.	Copenhagen	    1
 Amsterdam ;;Leipzig	Amsterdam	    1
 [Skurup]	Skurup	    1
@@ -8313,7 +8313,7 @@ Stockholm, 1842. P. A. Norstedt & Söner, Kongl. boktryckare.	Stockholm	    1
 [Woodlake, Wis.] ;;[Freya, Wis.]	Wis	    1
 Eksjö ;;Stockholm	Eksjö	    1
 Bonnae ad Rhenum	Bonn	    1
-Stokcholʹmʺ	Stockholm	    1
+Stokcholʹmʺ	Stokchol	    1
 Stockholm :;Hälsingborg :;Stockholm	Stockholm	    1
 Stockholm :;Stockholm :;Göteborg :;Borås	Stockholm	    1
 Copenhagen und Leipzig	Copenhagen	    1
@@ -9395,7 +9395,7 @@ Tryckt i Stockholm, af Ignatio Meurer, åhr 1612.	Stockholm	    1
 Holmiæ. Typis Revsnerianis: Anno M. DC. XII.	Stockholm	    1
 Tryckt i Stockholm, ... Aff Chr, Reusnero regio typographo. Ahr M DC VIIIXX.	Stockholm	    1
 Holmiæ ex calchographia Gutterviciana. Anno M. DC. IX.	Stockholm	    1
-Dantisci, ex molybdographia viduæ Guillemothanæ, anno MDIIX.	Gdańsk	    1
+Dantisci, ex molybdographia viduæ Guillemothanæ, anno MDIIX.	Gdansk	    1
 Holmiae typis Reusnerianis, anno MDCX.	Stockholm	    1
 [Brunsberg]	Brunnsberg	    1
 Stockholmiæ ex typographia viduæ Gutterwicianæ. Anno M DC XI.	Stockholm	    1
@@ -10087,7 +10087,7 @@ Amsterodami, apud Ludouicum Elzeuirium. Ao. M DC XL.	Amsterdam	    1
 Lincopiæ, excudebat Daniel Kempe. Anno. M. DC. LVI.	Linköping	    1
 Arosia, excudebat Olaus Olai H., anno 1622.	Västerås	    1
 Douay	Douai	    1
-Gedani	Gdańsk	    1
+Gedani	Gdansk	    1
 Genvæ	Genoa	    1
 Ulyssipone	Uppsala	    1
 Landishuti	Landshut	    1
@@ -10097,7 +10097,7 @@ Gedruckt zu Cölln, in Verlag vnd Truckerey Wilhelm Friessems Buchhändlers im E
 Tot Brussel	Brussels	    1
 Cæs.Aug.	Caes	    1
 Pragæ	Prague	    1
-Posnaniæ	Poznań	    1
+Posnaniæ	Poznan	    1
 [I slutet efter Errata ] Coloniæ Agrippinæ	Cologne	    1
 Romæ, apud Stephanum Paulinum. MDCVI. Superiorum authoritate. Sumptib. Iulij Burchionij.	Rome	    1
 Götheborg, tryckt hoos Amund Grefwe, åhr 1669.	Gothenburg	    1

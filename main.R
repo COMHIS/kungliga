@@ -14,7 +14,7 @@ library(stringr)
 output.folder <- "output.tables/"
 dir.create(output.folder)
 
-fs <- list.files("data", full.names = TRUE, pattern = ".csv.gz")
+fs <- c("data/unified/kungliga_hf1.csv.gz", "data/unified/kungliga_hf2.csv.gz")
 catalog <- "kungliga"
 
 # Languages to consider in cleanup.
@@ -34,7 +34,7 @@ ignore.fields <- c()
 # ----------------------------------------------------
 
 reload.data <- FALSE
-if (!"df.raw.Rds" %in% dir()) {
+if (!"df.raw.Rds" %in% dir("data/unified/polished/")) {
   reload.data <- TRUE
 }
 
@@ -86,7 +86,7 @@ df.preprocessed <- data.validated.kungliga$df.preprocessed
 # -------------------------------------------------
 
 print("Saving preprocessed data")
-saveRDS(df.preprocessed, file = "df.Rds", compress = TRUE)
+saveRDS(df.preprocessed, file = "data/unified/polished/df.Rds", compress = TRUE)
 
 # --------------------------------------------------
 

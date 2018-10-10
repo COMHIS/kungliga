@@ -1,111 +1,207 @@
-original	polished	Count
-Total count (na.rm TRUE): 	383348	
-swe	Swedish	318288
-ger	German	 14340
-eng	English	 10793
-und	NA	  8080
-lat	Latin	  7351
-fre	French	  5967
-fin	Finnish	  4434
-dan	Danish	  4358
-nor	Norwegian	  2143
-dut	Dutch	  1155
-zxx	No linguistic content	   903
-ita	Italian	   808
-rus	Russian	   726
-spa	Spanish	   445
-mul	Multiple languages	   367
-cze	Czech	   338
-pol	Polish	   327
-est	Estonian	   313
-ice	Icelandic	   293
----	NA	   226
-lav	Latvian	   211
-hun	Hungarian	   199
-grc	Greek Ancient to 1453 	   154
-non	Old Norse	   138
-por	Portuguese	   115
-smi	Sami	    83
-hrv	Croatian	    80
-epo	Esperanto	    77
-bul	Bulgarian	    69
-jpn	Japanese	    68
-heb	Hebrew	    46
-tur	Turkish	    37
-gre	Greek Modern 1453- 	    34
-ara	Arabic	    34
-yid	Yiddish	    25
-rum	Romanian	    22
-slo	Slovak	    18
-tir	Tigrinya	    18
-chi	Chinese	    17
-tig	Tigré	    14
-fao	Faroese	    14
-ukr	Ukrainian	    14
-bnt	Bantu Other 	    11
-slv	Slovenian	    10
-amh	Amharic	    10
-ido	Ido	    10
-swa	Swahili	    10
-kon	Kongo	     9
-srp	Serbian	     9
-lit	Lithuanian	     7
-pli	Pali	     7
-nds	Low German	     6
-nno	Norwegian Nynorsk 	     6
-afr	Afrikaans	     6
-arm	Armenian	     5
-zul	Zulu	     5
-syr	Syriac Modern	     4
-9fs	NA	     4
-got	Gothic	     4
-nic	Niger-Kordofanian Other 	     3
-fry	Frisian	     3
-san	Sanskrit	     3
-cat	Catalan	     3
-fro	French Old ca. 842-1300 	     3
-gez	Ethiopic	     3
-smj	Lule Sami	     3
-art	Artificial Other 	     3
-per	Persian	     2
-sme	Northern Sami	     2
-mlg	Malagasy	     2
-wel	Welsh	     2
-ind	Indonesian	     2
-fiu	Finno-Ugrian Other 	     2
-orm	Oromo	     2
-frm	French Middle ca. 1300-1600 	     2
-enm	English Middle 1100-1500 	     2
-arc	Aramaic	     2
-ssa	Nilo-Saharan Other 	     2
-uig	Uighur	     2
-hin	Hindi	     2
-9fd	NA	     2
-geo	Georgian	     2
-roh	Raeto-Romance	     2
-alb	Albanian	     2
-9ft	NA	     1
-9mk	NA	     1
-kua	Kuanyama	     1
-ber	Berber Other 	     1
-mal	Malayalam	     1
-rom	Romani	     1
-som	Somali	     1
-hil	Hiligaynon	     1
-cus	Cushitic Other 	     1
-sma	Southern Sami	     1
-mac	Macedonian	     1
-kin	Kinyarwanda	     1
-gmh	German Middle High ca. 1050-1500 	     1
-kor	Korean	     1
-ori	Oriya	     1
-kal	Kalâtdlisut	     1
-wen	Sorbian Other 	     1
-pro	Provençal to 1500 	     1
-alg	Algonquian Other 	     1
-kho	Khotanese	     1
-oci	Occitan post-1500 	     1
-ty	NA	     1
-da	NA	     1
-tre	NA	     1
-sp	NA	     1
+Name	Count
+Total count (na.rm TRUE): 	383354
+swe	210902
+0 s	104952
+ger	 12587
+und	  8009
+eng	  7570
+lat	  7208
+fre	  5321
+fin	  4421
+dan	  4305
+0 e	  3328
+nor	  2088
+0 g	  1742
+dut	  1153
+zxx	   900
+ita	   792
+rus	   708
+0 f	   649
+b0s	   641
+spa	   396
+0,s	   366
+cze	   334
+f s	   323
+pol	   306
+ice	   291
+mul	   275
+---	   226
+0 l	   217
+1 s	   207
+hun	   198
+est	   194
+p s	   180
+0s	   177
+grc	   145
+s	   141
+non	   137
+lav	   133
+por	   114
+0ds	    90
+d s	    88
+j s	    88
+smi	    83
+0bs	    79
+hrv	    79
+bul	    69
+jpn	    68
+0 u	    59
+0 n	    55
+0 d	    51
+0as	    48
+heb	    44
+b0m	    40
+tur	    37
+ara	    34
+gre	    34
+0 m	    30
+epo	    27
+0 i	    24
+yid	    24
+rum	    22
+0 p	    20
+0cs	    20
+0m	    19
+b0e	    19
+0 r	    18
+slo	    18
+tir	    18
+chi	    17
+0dg	    14
+fao	    14
+tig	    14
+ukr	    14
+0u	    12
+0be	    11
+bnt	    11
+amh	    10
+slv	    10
+0e	     9
+f,s	     9
+kon	     9
+srp	     9
+0ae	     7
+pli	     7
+afr	     6
+lit	     6
+nds	     6
+nno	     6
+1,s	     5
+arm	     5
+f e	     5
+0 c	     4
+1 e	     4
+9fs	     4
+d,s	     4
+got	     4
+swa	     4
+syr	     4
+zul	     4
+0 h	     3
+0f	     3
+b0g	     3
+cat	     3
+fro	     3
+fry	     3
+gez	     3
+h s	     3
+ido	     3
+l	     3
+m s	     3
+nic	     3
+san	     3
+u,s	     3
+0 a	     2
+0,e	     2
+0ce	     2
+9fd	     2
+alb	     2
+arc	     2
+b0f	     2
+b1s	     2
+d f	     2
+enm	     2
+fiu	     2
+frm	     2
+geo	     2
+hin	     2
+i,s	     2
+ind	     2
+jas	     2
+mlg	     2
+orm	     2
+p e	     2
+p m	     2
+per	     2
+roh	     2
+sme	     2
+smj	     2
+ssa	     2
+uig	     2
+wel	     2
+z	     2
+0	     1
+0 o	     1
+0 y	     1
+0 z	     1
+0,f	     1
+0,g	     1
+0,p	     1
+00	     1
+002	     1
+006	     1
+0bd	     1
+0d	     1
+0de	     1
+0df	     1
+1as	     1
+1ds	     1
+502	     1
+999	     1
+9ft	     1
+9mk	     1
+alg	     1
+art	     1
+b,s	     1
+b0d	     1
+b0h	     1
+b0l	     1
+b0n	     1
+b0p	     1
+ber	     1
+c s	     1
+cus	     1
+d	     1
+d l	     1
+da	     1
+e	     1
+e,s	     1
+f g	     1
+g	     1
+gmh	     1
+hil	     1
+i	     1
+i z	     1
+ins	     1
+j e	     1
+j,s	     1
+kal	     1
+kho	     1
+kin	     1
+kor	     1
+kua	     1
+mac	     1
+mal	     1
+mu	     1
+ori	     1
+p f	     1
+p,s	     1
+pro	     1
+rom	     1
+sma	     1
+som	     1
+sp	     1
+sw	     1
+tre	     1
+ty	     1
+wen	     1

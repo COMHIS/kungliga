@@ -51,26 +51,8 @@ information is added separately for each document on top of the page
 count estimate.
 
 
-```
-## Error in `$<-.data.frame`(`*tmp*`, pagecount, value = integer(0)): replacement has 0 rows, data has 57
-```
 
-
-```
-## Error in eval(expr, envir, enclos): object 'mean.pagecounts' not found
-```
-
-```
-## Error in `colnames<-`(`*tmp*`, value = character(0)): attempt to set 'colnames' on an object with less than two dimensions
-```
-
-```
-## Error in UseMethod("droplevels"): no applicable method for 'droplevels' applied to an object of class "NULL"
-```
-
-```
-## Error in pics[[2]]: subscript out of bounds
-```
+![plot of chunk size-pagecountsmulti2](figure/pagecount-size-pagecountsmulti2-1.png)
 
 
 

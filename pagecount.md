@@ -6,22 +6,19 @@ output: markdown_document
 ---
 
 
-```
-## Error in exists(df.gatherings): object 'df.gatherings' not found
-```
 
 
 ## Page counts
 
-  * Page count available for 0 documents in total (0%), including both readily available and estimated page counts.
+  * Page count available for 385632 documents in total (100%), including both readily available and estimated page counts.
 
-  * Page count readily available for 0 documents (0%). 
+  * Page count readily available for 238695 documents (61.9%). 
 
-  * Page count estimated for 0 documents (0%).
+  * Page count estimated for 146937 documents (38.1%).
 
   * Page count missing and could not be estimated for 139 documents (0%).
 
-  * Page count updated for 0 documents in the validation phase.
+  * Page count updated for 2360 documents in the validation phase.
   
   * [Conversions from raw data to final page count estimates](output.tables/pagecount_conversions.csv)
 

@@ -1,0 +1,110 @@
+Katso mallia datan lukemiseen ja putsaukseen estc-skripteistä (brittiaineisto):
+https://github.com/rOpenGov/estc/blob/master/inst/examples/main.R
+
+Ja tuolta kansiosta erityisesti preprocessing.R jota kyseinen pääskripti kutsuu.
+
+Aloita putsaus niistä kentistä, jotka on yhteisiä estc:n kanssa (eli ne kentät joille löytyy putsauskoodi preprocessing.R-filen kautta; ainakin kirjoittaja, kirjan nimi, painovuosi, painopaikka jne). Katsotaan muita kenttiä sitten sen jälkeen kun on päästy alkuun.
+
+Nämä meidän tarkoituksiin laaditut geneeriset R-paketit kehittyy tässä vielä jatkuvasti, ja niitä pitää välillä päivitellä. Meillä on myös omat pakettinsa estc:lle ja fennicalle, mutta pyrkimys on että niissä on vain aineistospesifiä kamaa eli geneeriset putsausvälineet on pääasiassa tuolla bibliographica-paketissa. Niitäkin voidaan parantaa tässä sitä mukaan kun saadaan kokemuksia eri aineistoilla ja nähdään mikä toimii parhaiten. Eli suoraa palautettakin saa antaa jos tuntuu että jotain ratkaisuja voisi parantaa.
+
+Kungligalle voisi periaatteessa tehdä oman R-paketin, mutta jos sulla ei ole juurikaan kokemusta R-koodauksesta niin lähdetään nyt liikkeelle näitten putsausoperaatioiden skriptaamisesta, paketoimista voidaan miettiä myöhemmin jos se on tarpeen ja aikataulu sallii.
+
+Koita jo ensimmäisen 1-2 kentän kohdalla saada koodi sellaiseksi, että se lukee datan, suorittaa putsauksen, ja kirjoittaa putsatun taulukon tiedostoon. Mun on sitten helpompi itsekin ajaa ja kommentoida koodia tarvittaessa. Työn edetessä koodiin vaan tuodaan sitten mukaan putsattavia kenttiä yksi kerrallaan.
+
+Mennee hetki että pääset tässä vauhtiin, ja siinä vaiheessa kun olet ensimmäisten parin kentän putsausta päässyt testailemaan, niin voitaisiinkin varmaan sitten sopia tapaaminen syyskuun alkuun.
+
+Olen mukana auttamassa tarpeen mukaan. Loka-marraskuussa saatan olla lomailemassa, mutta Mikko osaa myös vastata moniin käytännön kysymyksiin.
+
+R-koodaukseen liittyen on olemassa myös hyviä foorumeita jossa lähinnä meidän porukkaa. Irkistä löytyy #r-project@IRCnet (R-koodailua) ja !louhos@IRCnet (avoin data & R-paketit) sekä #estc@IRCnet (tämä meidän projekti, siellä lähinnä Mikko, Niko ja minä) ja Facebookissa on ryhmä "R-kieli ja tilastollinen mallitus". Olet näihin oikein tervetullut vaikka saman tien tai myöhemmin kun ehdit. Ei me tätä mitenkään edellytetä, mutta saattaa sujuvoittaa hommia joskus.
+
+Jos on tarvetta opinnäytetöille niin voidaan halutessasi miettiä josko tästä pystyisi myöhemmin laajentamaan sellaiseen.
+
+Kun putsaus saadaan valmiiksi, niin päästään data-analyysin pariin. Siinä vaiheessa tehdään tarkempia yhteenvetoja aineistosta, pyritään integroimaan fennican ja kungligan tiedot, ja aletaan katsomaan tarkemmin julkaisusuunnitelmaa. Nämä saadaan toivon mukaan kasaan vuoden loppuun mennessä.
+
+Vaikuttaako selkeältä tämä johdanto ? Kysy jos on epäselvää.
+
+-----------------------------
+
+Käytetään kentille nimiä jotka täällä: https://github.com/rOpenGov/bibliographica/blob/master/inst/extdata/fieldnames.csv Muutoksia voi ehdottaa mutta sovitaan niistä yhdessä ja pidetään lista tuossa dokumentissa.
+
+Yleiset englanninkieliset nimet (universaali) eri kentille löytyy täällä:
+
+http://www.loc.gov/marc/bibliographic/
+
+Jos nämä eivät yleisemmin käytössä kenttien nimikuvauksena, voin alkaa käydä mahdollisesti toisin nimettyjä läpi ja yhdistää näihin tarvittaessa.
+
+Aikaisemmin kun tehtiin kenttien yhdistämisiä ESTCn liittyen esikäsittelyvaiheessa, niin jäikö näistä jälkiä siitä mitä yhdistetty? Katso alla 650xyz, jotka muistan että yhdistettiin toisiin kenttiin ainakin ESTCn kohdalla.
+
+Lisäksi, kun nyt jätetään osa kentistä pois, niin jäähän jälki mitä jätetty pois + mahdollisuus palauttaa myöhemmin jos osoittautuu ennalta-arvaamattomasta syystä että tärkeää (esim. tieto mistä kirjastoista ja muista paikoista tietty kirja löytyy)?
+
+Kunglikaan liittyen:
+
+“*” tarkoittaa että pidettäisiin mukana.
+
+“!” tarkoittaa yhdistämistä toisiin kenttiin.
+
+“–“ tarkoittaa että voi jättää pois)
+
+Kunglikan yksi erityispiirre näyttää olevan, että kirjakoko merkintä löytyy useassa tapauksessa (myös?) 852z kentästä. Eli tämä tärkeä pitää mukana ja miettiä miten yhdistää tieto muihin kirjan koko kenttiin.
+
+---------------------------------------------------------------------------------
+
+* Nyt
+
+* 110a (Corporate name or jurisdiction name as entry element) [Tämä on
+  tärkeä kenttä, nyt siis osittain ainakin eroteltuna “Yhteisö” kirjan
+  kirjoittajana. Tätä on sortattu käsin ESTCn kohdalla.]
+
+! 700a (yhdistetään auktori kenttään)
+
+! 700d (yhdistetään auktorin vuodet kenttään)
+
+* 740a (Uncontrolled related/analytical title)
+
+* 852z (Public note) [TÄSSÄ MERKITTY KIRJAKOKO! ELI SIIS 4:o, 8:o jne. Tärkeää, pitää miettiä miten yhdistää sinne kirjakoko kenttään]
+
+* 866x (Textual Holdings - Basic Bibliographic Unit)
+
+---------------
+
+* Later
+
+* 245c (Statement of responsibility) [Lisätietoja, esim. kirjan kääntäjiä nimetty tässä kentässä]
+
+- 260e (Place of manufacture)
+
+* 260f (Manufacturer)
+
+* 440a (Series Statement/Added Entry-Title) [Tämä sarja-kenttä on hyödyllinen tieto]
+
+- 440v (Volume/sequential designation)
+
+- 510c (Location within source)
+
+! 650x (tämä yhdistettiin ESTCn – ja varmaan Fennica myös – toisiin yleisiin subject fieldseihin)
+
+! 650y (tämä yhdistettiin ESTCn – ja varmaan Fennica myös – toisiin kronologisiin subject fieldseihin)
+
+! 650z (tämä yhdistettiin ESTCn – ja varmaan Fennica myös – toisiin geografisiin subject fieldseihin)
+
+- 772c (Supplement; Qualifying information)
+
+- 772d (Supplement; Place, publisher, and date of publication)
+
+- 772t (Supplement; Title)
+
+- 852j (Shelving control number)
+
+- 900a (Supplement name)
+
+- 900d (supplement dates)
+
+- 900u (Supplement name, other)
+
+- 976a (Shelving control number)
+
+! 976b (subject, various information) [voidaan yhdistää subject kenttään, tässä erilaista tietoa huomioina, näyttää hyvältä kentältä]
+
+900-merkintöjä ei löydy marc-kenttien kuvauksista. Kelasin noita läpi enkä näkisi että menetetään mitään jos jätetään pois nuo merkityt.
+
+
